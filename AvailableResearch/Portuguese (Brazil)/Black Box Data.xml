@@ -1,0 +1,22 @@
+﻿<Chapter>
+	<Handle>black box</Handle>
+	<Title>Dados da Caixa Preta</Title>
+	<Icon>&gt;Black Box Data</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Dados da Caixa Preta</Text>
+				</Title>
+				<Icon>
+					<Name>Black Box Data</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A sua armadura contém uma caixa preta que armazenou todas as leituras do sensor que levaram ao seu acidente no planeta. Pesquisar estes dados pode ajudar a determinar o que exatamente aconteceu.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

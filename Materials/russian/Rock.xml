@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Rock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Камень</Text>
+				</Title>
+				<Icon>
+					<Name>Rock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Эта каменная порода обычно находится в верхних слоях высоких вершин. Можно измельчить в Измельчителе, чтобы с некоторой вероятностью добыть полезную руду.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

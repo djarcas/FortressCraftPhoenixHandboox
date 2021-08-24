@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T2 Power</Handle>
+	<Title>Opgewaardeerd Energienet</Title>
+	<Icon>Upgraded Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Opgewaardeerd Energienet</Text>
+				</Title>
+				<Icon>
+					<Name>Upgraded Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Onze energie infrastructuur gaat de goede kant op. onze batterijtechnologie is echter vrij beperkt, dit project zal proberen een betere batterij te ontwerpen die meer energie kan opslaan en ons een grotere buffer kan bieden.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

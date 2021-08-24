@@ -1,0 +1,58 @@
+﻿<MaterialEntry>
+	<Key>StandardOreSmelter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Erzschmelze</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die Erzschmelze wird rohes Erz in Barren umwandeln, die in der Fabrik und anderswo benutzt werden können, um neue Maschinen und Gegenstände herzustellen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Zunächst müssen Sie den Schmelzofen manuell füttern. Dies kann durch Drücken der Schaltfläche \&quot;Interaktion\&quot; (Standard \&quot;E\&quot;) erfolgen, um das Schmelzgerät-Bedienfeld zu öffnen. Sie können dann Erz hinzufügen, indem Sie auf die Schaltfläche \&quot;Erz zuführen\&quot; klicken oder eine bestimmtes Erz in die Schmelze ziehen. Auf dem Bedienfeld wird angezeigt, wie viel Erz pro Barren benötigt wird, während es leer ist.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Sobald der Schmelzer genug Erz hat, wird er aufgeheizt. Dies erfordert Strom von einem angeschlossenen Energiespeicher oder Stromgenerator. Wenn die richtige Temperatur erreicht ist, wird Erz in Barren umgewandelt, die durch Klicken auf den Ausgabeschlitz am unteren Rand des Bedienfelds gesammelt werden können.</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>Automatisierung</Text>
+				</Header>
+			
+				<Paragraph>
+					<Text>Die Schmelzanlage sollte so bald wie möglich mit dem Hinzufügen von Eingabe- und Ausgabe- Lagercontainern automatisiert werden. Der Eingangscontainer sollte auf einen E / A-Status auf \&quot;Nur entfernen\&quot; eingestellt sein. Der Zufuhrcontainer muss groß genug sein, um den Mindestbedarf an Erz zu enthalten.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+					
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Verbesserungen</Text>
+				</Header>
+			
+				<Paragraph>
+					<Text>Die Geschwindigkeit (und der Energiebedarf) der Schmelzer kann durch einen \&quot;Turboaufbau\&quot;(Erzwungene Induktion) erhöht werden, die erforscht werden können. Nach der Herstellung sollten diese Upgrades auf dem Schmelzofen platziert werden.</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>Zusätzliche Schmelzer</Text>
+				</Header>
+			
+				<Paragraph>
+					<Text>Die Schmelze, mit der Sie beginnen, ist ein fortschrittliches Teil des Kits, das schwer zu replizieren ist. Es wird eine beträchtliche Menge an Forschung und einige fortschrittliche Materialien benötigt, um dies erfolgreich zu tun. Eine Basisschmelze ist ebenfalls verfügbar, um den Flaschenhals zu entlasten, jedoch ist sie langsam, ineffizient und kann nicht aufgerüstet werden.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+	
+	</Pages>
+</MaterialEntry>
+

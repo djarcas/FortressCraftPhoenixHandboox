@@ -1,0 +1,39 @@
+﻿<MaterialEntry>
+	<Key>Sign</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Sign</Text>
+				</Title>
+				<Icon>
+					<Name>Sign</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Using technology adapted from the crashed ship further improvements have been made on the Cyberdyne EZ-Sign. This new sign is able to be placed and edited. The Sign should be able to display any standard character that the player can type on an international keyboard.</Text>
+				</Paragraph>
+        <Spacer/>
+        <Header>
+          <Text>The signs can be used to modulate many machines.</Text>
+        </Header>
+        
+        <TwoColumnParagraph>
+          <Left>Machine
+Waypoint
+RoomController
+OreExtractor
+          </Left>
+          <Right>Effect
+HUD element
+Names Room
+Modifies Offline Error
+          </Right>
+        </TwoColumnParagraph>
+
+      </Paragraphs>
+ 
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

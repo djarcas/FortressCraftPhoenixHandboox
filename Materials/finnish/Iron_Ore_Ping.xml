@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>IronOrePing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rautamalmisysäys</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Ore Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Rautamalmisysäystä käytetään lisärautamalmisuonien löytämiseen kun edellinen on loppumassa tai liian pieni hyödynnettäväksi. Lisätietoa tyhjän malmisysäyksen oppaassa.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Blank Ore Ping</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

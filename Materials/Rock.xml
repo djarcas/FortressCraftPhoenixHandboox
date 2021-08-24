@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Rock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rock</Text>
+				</Title>
+				<Icon>
+					<Name>Rock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Stone type usually found as the top layer of high peaks. Can be crushed in macerator to possibly extract useful ore.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>CopperCoil</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kupfer Spule</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Eine einfache Kupferspule, hergestellt in der Wickelmaschine.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

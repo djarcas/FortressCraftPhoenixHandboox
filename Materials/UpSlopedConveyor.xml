@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>UpSlopedConveyor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Up Sloped Conveyor</Text>
+				</Title>
+				<Icon>
+					<Name>Up Sloped Conveyor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Transports items diagonal at around 1.4 times the speed of a regular conveyor. Thanks Pythagoras!</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

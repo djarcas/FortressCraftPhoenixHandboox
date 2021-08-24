@@ -1,0 +1,33 @@
+﻿<MaterialEntry>
+	<Key>ForcedInductionMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 2 ahdin</Text>
+				</Title>
+				<Icon>
+					<Name>Forced InductionT2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ahdinyksiköt ovat päivityksiä malmisulattamoon jotka lisäävät sulatusnopeutta suuresti nuosevan virrankulutuksen hinnalla. Käyttääksesi yksikköä aseta malmisulattamon päälle.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Perusmalmisulattamot eivät tue ahdinpävityksiä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Sulatusnopeus:
+					Virrankäyttö:</Left>
+					<Right>300%
+					1600%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

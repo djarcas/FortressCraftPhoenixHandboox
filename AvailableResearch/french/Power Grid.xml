@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T1 Power</Handle>
+	<Title>Réseau d\&apos;Énergie</Title>
+	<Icon>Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Réseau d\&apos;Énergie</Text>
+				</Title>
+				<Icon>
+					<Name>Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nous ne pouvons pas uniquement survivre avec l\&apos;énergie produite par notre Concentrateur d\&apos;Énergie Central durablement. Au fur et à mesure que notre base se développera, nous devrons trouver de nouvelles façons de générer de l\&apos;énergie et de la transférer vers des exploitations minières éloignées afin de ne pas avoir à les alimenter manuellement.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Key>LiftCompressor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hissikompressori</Text>
+				</Title>
+				<Icon>
+					<Name>Lift Compressor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kiinnitä mäntähissin kantaan parantaaksesi tahtia jolla kaasu uudennetaan useinkäytettyjen hissien toimintakyvyn ylläpitämiseksi. Tämä kompressori täytyy ulkoisesti virroittaa. Kaksi kompressoria tarvitaan yhden hissin maksimikorkeuden 256 metriä saavuttamiseksi.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Kaasun uudennus:
+					Virrankäyttö:
+					Virtakapasiteetti:
+					Virransiirtonopeus:</Left>
+					<Right>0.15 l/s
+					1 /s
+					150
+					5 /s</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

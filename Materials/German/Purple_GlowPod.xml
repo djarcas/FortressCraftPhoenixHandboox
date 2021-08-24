@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>PurpleGlowPod</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lila Glühschote</Text>
+				</Title>
+				<Icon>
+					<Name>Purple GlowPod</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Diese einheimische Pflanzenart strahlt aufgrund einer chemischen Reaktion direkt unterhalb der Pflanzenoberfläche ein stetiges violettes Leuchten aus.</Text>
+				</Paragraph>
+		
+				<Spacer/>
+				<Paragraph>
+					<Text>Diese Pflanze kann für Strom verbrannt werden.</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

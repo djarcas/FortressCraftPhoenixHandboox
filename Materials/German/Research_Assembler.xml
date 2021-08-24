@@ -1,0 +1,44 @@
+﻿<MaterialEntry>
+	<Key>ResearchAssembler</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Forschungsmontage</Text>
+				</Title>
+				<Icon>
+					<Name>Research Assembler</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Produziert automatisch experimentelle Forschungseinheiten aus Metallplatten und Leiterplatten. Dies sollte dann direkt mit Ihrem Labor verbunden werden, um automatisierte Forschung zu ermöglichen.
+ Es wird empfohlen, die Produktion dieser Filter aufgrund ihrer zeitraubenden Natur für eine effiziente Produktion zu automatisieren.
+ &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Herstellungszeit:
+ Benötigte Leistung (Peak):
+ Leistungskapazität:
+ Maximale Wiederaufladegeschwindigkeit:</Left>
+					<Right>15 Sekunden
+ 128 pro Sekunde
+ 100
+ 100 pro Sekunde</Right>
+				</TwoColumnParagraph>
+		
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+			
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

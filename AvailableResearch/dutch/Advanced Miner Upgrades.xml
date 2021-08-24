@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 5</Handle>
+	<Title>Geavanceerde Mijnwerkersverbeteringen</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Geavanceerde Mijnwerkersverbeteringen</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Dit project zal verdere verbeteringen van de ertsonttrekker en smeltoven onderzoeken. Daarnaast zal het nieuwe Steengroevesysteem verder onderzocht worden.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

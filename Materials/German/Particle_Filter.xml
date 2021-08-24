@@ -1,0 +1,45 @@
+﻿<MaterialEntry>
+	<Key>ParticleFilterPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Partikelfilter</Text>
+				</Title>
+				<Icon>
+					<Name>Particle Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Partikel Filter ist eine fortschrittliche Version des Partikel-Filtersystems des Anzugs. Er nutzt die primitive Technologie, die früher für das Überleben in den toxischen Kavernen verwendet wurde. Jetzt können wir bestimmte Partikel aus der partikulären dichten Luft in den verschiedenen Kavernen streichen. Der Partikelfilter ist in einer 5x3x5 Formation aufgebaut.</Text>
+				</Paragraph>
+					<Spacer/>
+				<Link>
+					<Target>
+						<Chapter>T4_Particles</Chapter>
+					</Target>
+					<Text>Particulate Filtration System</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Compressor</Material>
+					</Target>
+					<Text>Particle Compressor</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Storage</Material>
+					</Target>
+					<Text>Particle Storage</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Gas Bottler</Material>
+					</Target>
+					<Text>Gas Bottler</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

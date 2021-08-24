@@ -1,0 +1,22 @@
+﻿<Chapter>
+	<Handle>Advanced Defence</Handle>
+	<Title>Difesa Avanzata</Title>
+	<Icon>Missile Turret MK1</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Difesa Avanzata</Text>
+				</Title>
+				<Icon>
+					<Name>Missile Turret MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Dobbiamo costruire delle difese più potenti per eliminare le minacce più grandi!</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

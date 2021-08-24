@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>TinHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Оловянный Корпус</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Простой оловянный корпус, созданный из оловянных пластин.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

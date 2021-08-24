@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T4 Power</Handle>
+	<Title>Ультра-энергетическая сеть</Title>
+	<Icon>Ultra-Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ультра-энергетическая сеть</Text>
+				</Title>
+				<Icon>
+					<Name>Ultra-Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Достигнут передел плотности хранения энергии в кубометре материи. Этот проект нацелен на изучение возможности создания более вместительного оборудования для хранения энергии.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

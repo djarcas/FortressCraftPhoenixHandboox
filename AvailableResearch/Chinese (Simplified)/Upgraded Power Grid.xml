@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T2 Power</Handle>
+	<Title>升级款能量块</Title>
+	<Icon>Upgraded Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>升级款能量块</Text>
+				</Title>
+				<Icon>
+					<Name>Upgraded Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>我们的电力基础设施正在顺利运行。我们的电池技术相当有限，但这个项目将尝试设计一个更好的电池，可以存储更多的电力，为我们提供更大的能量缓冲区。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

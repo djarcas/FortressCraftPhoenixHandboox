@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>OrganicRock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Orgaaninen kivi</Text>
+				</Title>
+				<Icon>
+					<Name>Organic Rock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Orgaaninen kivi on kivimuodostelma jota paikalliset eläimet tekevät. Orgaanista kiveä voi löytää ympäriinsä yleisimmin ylimielten ja luolaverkostojen läheltä. Orgaanista kiveä voi myös saada naamiobottien jäljiltä.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

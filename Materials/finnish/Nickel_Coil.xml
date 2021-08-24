@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>NickelCoil</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Nikkelikela</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen nikkelikela on tehty nikkelilangoista kelaajassa.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

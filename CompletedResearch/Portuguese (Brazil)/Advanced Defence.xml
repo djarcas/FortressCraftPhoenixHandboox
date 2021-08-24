@@ -1,0 +1,22 @@
+﻿<Chapter>
+	<Handle>Advanced Defence</Handle>
+	<Title></Title>
+	<Icon>&gt;Missile Turret MK1</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Icon>
+					<Name>Missile Turret MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

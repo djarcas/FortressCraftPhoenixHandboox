@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Key>ZipperMerge</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Объединитель</Text>
+				</Title>
+				<Icon>
+					<Name>Zipper Merge</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Объединитель безупречно сливает потоки предметов с двух конвейеров с соотношением 1:1. Объединитель выдаёт предметы со скоростью 100 штук в минуту. Объединитель полезен для получения конвейерной линии с равномерной последовательностью двух предметов, например, для производства Низкокачественных Стальных Слитков.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Conveyor Belt</Material>
+					</Target>
+					<Text>Conveyor Belt</Text>
+				</Link>
+			
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERDapperUpgradePack</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Dapper升级包</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Dapper Upgrade Pack</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>完全升级—— Dapper完全体！使用它来节省库存中的空间。只需要一份，并且必须放入物品栏以生效。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

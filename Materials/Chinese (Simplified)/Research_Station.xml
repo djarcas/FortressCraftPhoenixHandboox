@@ -1,0 +1,82 @@
+﻿<MaterialEntry>
+	<Key>ResearchStation</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>研究站</Text>
+				</Title>
+				<Icon>
+					<Name>Research Station</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>研究站提供了解更多关于这个星球所需的设施; 其矿物，动植物群。 它允许您处理扫描工具记录的信息，并研究新技术以帮助您生存。 许多更先进的研究课题超出了研究站的能力，需要实验室的帮助。</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>要使用研究站面板，请按你的交互键（默认为\&apos;E\&apos;）。 这将打开研究终端，其中包含三个选项卡分别用于处理扫描，加工工序和项目。</Text>
+				</Paragraph>
+				<Header>
+					<Text>处理扫描</Text>
+				</Header>
+				<Paragraph>
+					<Text>您的防护服配备了扫描工具（默认为“M”），此工具的辅助操作可让您扫描未知的材料。 该工具还将自动扫描您的建造枪吸收的任何未知材料。 信息会被上传到研究站。</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>研究站的第一个标签列出了任何剩余的未知材料，并允许您处理这些扫描以了解更多信息。 处理扫描将花费能量，并提供可用于研究其他工序或项目研究的研究点。</Text>
+				</Paragraph>
+
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>研究生产工序</Text>
+				</Header>
+				<Paragraph>
+					<Text>加工扫描和完成研究项目可以解锁新的生产工艺研究项目。 这些通常是新的机器，可以帮助您在生存与升级。 每一项都消耗研究点和能量，你应该仔细地花费你的研究点，如果你用光了，你需要进一步寻找新材料。</Text>
+				</Paragraph>
+	
+				<Paragraph>
+					<Text>您研究的大部分工艺可以在制造工厂制造，有些需要专门的施工设备。 查看机器上的生存手册条目了解更多信息。</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>研究站可由CPH直接供电，然而当CPH电量低的时候传输速率会被限制。</Text>
+				</Paragraph>
+				<Header>
+					<Text>研究项目</Text>
+				</Header>
+				<Paragraph>
+					<Text>项目通常可以直接或通过研究站中的生产工艺标签来提高您在特定区域解锁新配方的技术水平。 简单的项目可以由研究站单独执行，消耗能量和科研点数。 更复杂的项目需要实验室的协助。 实验室本身就是一个必须解锁的研究项目。</Text>
+				</Paragraph>
+				<Paragraph>
+					<ResearchRequirements><Research>Advanced Research</Research>
+					</ResearchRequirements>
+					<Text>For more information on Laboratory research projects please visit the following guide_</Text>
+				</Paragraph>
+					
+				<Link>
+					<ResearchRequirements>
+						<Research>Advanced Research</Research>
+					</ResearchRequirements>
+				
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research Guide</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Chapter>unknown materials</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Unknown Materials</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>
+

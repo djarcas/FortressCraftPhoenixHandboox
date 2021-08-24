@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Key>T4EnergyTurretPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>T4 Energy Turret</Text>
+				</Title>
+				<Icon>
+					<Name>T4_Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+        <Spacer/>
+				<Paragraph>
+					<Text>These massive turrets are the highest-damaging energy-based weapon available, and are easily capable of taking down Heavy and Boss class enemies.</Text>
+				</Paragraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>These are best paired with T4 PSBs. When a target is located, the Turret will start to charge from available power sources - once full, it will discharge the full stored energy onto the target.</Text>
+        </Paragraph>
+        <Spacer/>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Damage:
+					Power Capacity:
+					Maximum Range:</Left>
+					<Right>60,000/sec
+					256,000
+					64m</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

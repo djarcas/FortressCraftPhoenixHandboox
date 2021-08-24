@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>HighEnergyCompositeFuel</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>高能复合燃料</Text>
+				</Title>
+				<Icon>
+					<Name>High Energy Composite Fuel</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>高能复合燃料可以在生物质精炼厂的反应釜中制造。 它用于为喷气涡轮机提供动力和制造导弹防御系统。 在喷气式涡轮机中使用的燃油罐可以在空掉以后循环利用。</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Refinery Controller</Material>
+					</Target>
+					<Text>Refinery Controller</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,53 @@
+﻿<MaterialEntry>
+	<Key>CargoLiftBulk</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ascenseur de Fret Volumineux</Text>
+				</Title>
+				<Icon>
+					<Name>Bulk Cargo Lift</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Le plus grand des ascenseurs de Fret disponible, cette machine Frozen Factory est idéale pour le transport en masse de matériaux tels que du Chromium et du Molybdenum jusqu\&apos;aux Cavernes Gelées. Cet ascenseur de fret possède une capacité de transport énorme et de plus est extrêmement rapide !</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>&quot;Portée Maximale:
+ Vitesse Maximale:
+ Accélération:
+ Capacité Maximale:
+ Utilisation Énergétique (en Déplacement) :
+ &quot;</Left>
+					<Right>&quot;Illimitée
+ 15 mètres/sec
+ 0.5 mètres/sec/sec
+ 3000
+ 850 EPS
+ &quot;</Right>
+				</TwoColumnParagraph>
+
+				<Icon>
+					<Name>Cargo Lift Controller</Name>
+					<Target><Material>Cargo Lift Controller</Material>
+</Target>
+				</Icon>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Cargo Lift Controller</Material>
+					</Target>
+					<Text>CargoLift Controller</Text>
+				</Link>
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

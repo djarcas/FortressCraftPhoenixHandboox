@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>AIMoverControl</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Contrôleur de Mouvement IA</Text>
+				</Title>
+				<Icon>
+					<Name>AI Mover Control</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ce robot déplacera une ressource à la fois d\&apos;une trémie à une autre, en respectant les règles de chaque Trémie de Stockage (Ajout-Seulement / Supprimer-Seulement).</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

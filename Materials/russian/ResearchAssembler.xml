@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>ResearchAssembler</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Исследовательский Сборщик</Text>
+				</Title>
+				<Icon>
+					<Name>Research Assembler</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&#34;Автоматически производит экспериментальные ячейки из металлических пластин и печатных плат. Ячейки должны постоянно подаваться в Лабораторию для непрерывности исследований. Из-за трудоемкости процесса рекомендуется автоматизировать производство с помощью Фильтров.
+ &#34;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Длительность производства:
+ Требуемая энергия (пиковая):
+ Энергоёмкость:
+ Скорость зарядки:</Left>
+					<Right>15 секунд
+ 128 Э/с
+ 100 Э
+ 100 Э/с</Right>
+				</TwoColumnParagraph>
+		
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+			
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>InfusedCoal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Насыщенный Уголь</Text>
+				</Title>
+				<Icon>
+					<Name>Infused Coal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Насыщенный Уголь - продукт Насытителя Угля. Насыщенный Уголь получается из Обогащенного угля и даёт больше энергии в единицу времени при сжигании.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Crystal Coal Infuser</Material>
+					</Target>
+					<Text>Crystal Coal Infuser</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>RuinedFacetedEye</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ruiniertes facettiertes Auge</Text>
+				</Title>
+				<Icon>
+					<Name>WaspEyeRuined</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die Augen der lokalen fliegenden Lebensformen bilden eine hervorragende optische Komponente. Dieser ist zu stark beschädigt, um nützlich zu sein.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

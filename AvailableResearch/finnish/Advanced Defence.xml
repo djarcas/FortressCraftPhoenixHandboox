@@ -1,0 +1,22 @@
+﻿<Chapter>
+	<Handle>Advanced Defence</Handle>
+	<Title>Kehittynyt puolustus</Title>
+	<Icon>Missile Turret MK1</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kehittynyt puolustus</Text>
+				</Title>
+				<Icon>
+					<Name>Missile Turret MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tarvitsemme tehokkaampia tykkitorneja kukistaaksemme suurimmat uhat!</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

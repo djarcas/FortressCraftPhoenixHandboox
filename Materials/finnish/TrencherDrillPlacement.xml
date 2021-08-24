@@ -1,0 +1,28 @@
+<MaterialEntry>
+	<Key>TrencherDrillPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kaivinpora</Text>
+				</Title>
+				<Icon>
+					<Name>Trencher Drill component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Näitä valtavia monipalikkaisia porakoneita käytetään kaikkien tunnettujen materiaalien hyvin nopeaan keruuseen. Rakentaaksesi sellaisen poraterä pitää rakentaa 3x3x3 asetelmaan ja sen perään 3x3x3 asetelmaan moottori. Kaivinporan suunta määrittyy tästä; moottori menee aina taakse. Voit käyttää tätä kääntääksesi kaivinporan mitenpäin vain, jopa suoraan ylös!</Text>
+				</Paragraph>
+	
+				<Spacer/>
+			
+				<Paragraph>
+					<Text>Ole tietoinen että nämä uudet porat ovat hyvin virtasyöppöjä ja voivat tuottaa satoja malmeja minuutissa. Sinun tarvitsee ajatella suuresti liikuttaessasi näitä ylös kylmäluoliin sulatettaviksi - rahtihissit ja kaivosvaunut ovat päivän tilaus!</Text>
+				</Paragraph>
+				
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

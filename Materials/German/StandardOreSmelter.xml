@@ -1,0 +1,58 @@
+<MaterialEntry>
+	<Key>StandardOreSmelter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Erzschmelze</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>Automatisierung</Text>
+				</Header>
+			
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+					
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text></Text>
+				</Header>
+			
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				
+				<Header>
+					<Text></Text>
+				</Header>
+			
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+	
+	</Pages>
+</MaterialEntry>
+

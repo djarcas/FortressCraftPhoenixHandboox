@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Sign</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kyltti</Text>
+				</Title>
+				<Icon>
+					<Name>Sign</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Käyttämällä törmänneen aluksen teknologiaa olemme tehneet Cyberdyne EZ-kyltin. Tämä kyltti voidaan asettaa ja muokata. Kyltin pitäisi pystyä näyttämään mikä tahansa perusmerkki joka kansainvälisestä näppäimstöstä löytyy.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

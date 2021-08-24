@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>NickelPlate</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Nikkelilaatta</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen nikkelilaatta on tehty nikkeliharkoista leimasimessa.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

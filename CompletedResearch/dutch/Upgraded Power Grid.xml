@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>T2 Power</Handle>
+	<Title>Opgewaardeerd Energienet</Title>
+	<Icon>Upgraded Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Opgewaardeerd Energienet</Text>
+				</Title>
+				<Icon>
+					<Name>Upgraded Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>We hebben een nieuwe batterij ontwikkeld die een veel grotere lading kan dragen. We hebben ook ontwerpen voor een krachtigere Laser Energiezender, maar dit vereist materialen met meer geavanceerde eigenschappen dan die in de buurt van het oppervlak.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Het is waarschijnlijk dat we onze energieopslag en -transmissie verder kunnen verbeteren, maar we zullen onderzoek moeten doen naar meer geavanceerde materialen voordat we dit kunnen doen.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

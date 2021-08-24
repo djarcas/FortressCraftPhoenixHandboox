@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>RedCanvas</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rote Leinwand</Text>
+				</Title>
+				<Icon>
+					<Name>Red Canvas</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Voller roter Verschönerungsblock.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

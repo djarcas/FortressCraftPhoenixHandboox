@@ -1,0 +1,32 @@
+﻿<MaterialEntry>
+	<Key>MiniHopper</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pienhypytin</Text>
+				</Title>
+				<Icon>
+					<Name>MiniHopper</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Pienhypytin on halvempi versio perusvarastohypyttimestä joka voi varastoida 10 esinettä ja jolla kestää 30 sekunttia käsitellä jokaista esinettä. Pienhypytin on sopiva päävirtakeskukselle, polttovoimalle tai muun pitkän käsittelyajan koneelle syöttimeksi. Niiden päivittämistä tulisi tutkia jos ne muodostuvat pullonkaulaksi.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Lisäinformaatiota varastohypyttimistä niiden oppaassa.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Page>0</Page>
+						<Material>StorageHopper</Material>
+					</Target>
+					<Text>Storage Hopper</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

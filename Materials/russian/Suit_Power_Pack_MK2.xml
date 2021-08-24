@@ -1,0 +1,29 @@
+﻿<MaterialEntry>
+	<Key>SuitPowerPackMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Энергетический комплект костюма МК2</Text>
+				</Title>
+				<Icon>
+					<Name>Suit Power Pack MK2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Энергетический Комплект Костюма МК2 – это улучшение энергобатарей костюма, увеличивающее энергоёмкость костюма с 512 единиц до 1024 единиц энергии. 
+Проблема охлаждения была решена, но на горизонте показалась следующая. Невозможно ещё больше увеличить энергоёмкость, не создав надёжную электромагнитную защиту.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Suit Power Pack MK1</Material>
+					</Target>
+					<Text>Suit Power Pack MK1</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

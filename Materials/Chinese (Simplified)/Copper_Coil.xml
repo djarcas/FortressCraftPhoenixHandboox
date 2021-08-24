@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>CopperCoil</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>铜线</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>由铜线制成的简单铜线圈产自绕线机。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

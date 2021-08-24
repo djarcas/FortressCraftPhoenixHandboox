@@ -1,0 +1,41 @@
+﻿<Chapter>
+	<Handle>T1 Power</Handle>
+	<Title>Энергетическая сеть</Title>
+	<Icon>Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Энергетическая сеть</Text>
+				</Title>
+				<Icon>
+					<Name>Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Теперь у нас появился новый способ генерации и передачи энергии. Этот проект также разработал новые обновления для ARTHER и Переносчик Материи, способный телепортировать материалы из одного Бункера в другой.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Пиротермический Генератор</Text>
+</Header>
+				<Icon>
+					<Name>Pyrothermic Generator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Это оборудование преобразует горючие ресурсы из подсоединенного Бункера в энергию. Для этого нужно много свежего воздуха, поэтому с увеличением глубины расположения генератор теряет эффективность.</Text>
+				</Paragraph>
+				<Header><Text>Лазерный ЭнергоПередатчик</Text>
+</Header>
+				<Icon>
+					<Name>Laser Energy Transmitter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Разместите рядом с генератором или батареей для передачи энергии на расстояния до 64 метров. Приёмником могут быть: оборудование, потребляющее энергию, другой Лазерный ЭнергоПередатчик или Энергохранилище. Это применимо для отправки энергии на более глубокие площадки по добыче ископаемых.</Text>
+				</Paragraph>
+					
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

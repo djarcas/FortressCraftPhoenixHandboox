@@ -1,0 +1,26 @@
+﻿<Chapter>
+	<Handle>T2 assist machines</Handle>
+	<Title>Geavanceerde Logistiek</Title>
+	<Icon>mk1 robot arm</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Geavanceerde Logistiek</Text>
+				</Title>
+				<Icon>
+					<Name>mk1 robot arm</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Het optimaliseren van onze mijnbouw vereist een scalpel, geen hamer. (Hamers zijn uiteraard als afzonderlijke upgrade beschikbaar).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Dit onderzoeksproject zal zich richten op verbeteringen in opslag, sortering en aanvullende hulpmiddelen voor de basisconstructie.</Text>
+				</Paragraph>
+			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

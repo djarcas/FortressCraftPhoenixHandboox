@@ -1,0 +1,49 @@
+<MaterialEntry>
+	<Key>T4_Grinder_Placement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Дробилка Твердой Породы</Text>
+				</Title>
+				<Icon>
+					<Name>T4_Grinder</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Нам нужен рывок в добыче сырья! Для этого у нас есть одноразовая Дробилка – несколько таких машин должно дать нам достаточно руды, чтобы построить намного более крупную, более мощную буровую машину.</Text>
+				</Paragraph>
+	
+				<Spacer/>
+			
+				<Paragraph>
+					<Text>Всё довольно просто. Найдите или сделайте горизонтальную площадку 3х3 на нужной рудной жиле (Хром или Молибден), разместите Дробилку, дайте ей поработать, дождитесь завершения и подсоедините Накопительные Бункеры, куда она сбросит руду.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Если вы никак не найдёте горизонтальную площадку 3x3, то Нано-дезинтегратор или Взрывчатка выручат вас!</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Эти машины ужасно неэффективны, дороги и требуют большого количества Очищенной Смолы от окружающих нас Разумов Роя. Мы должны как можно скорее выйти на следующий уровень добычи ресурсов.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>NanoDisintegrator</Material>
+					</Target>
+					<Text>NanoDisintegrator</Text>
+				</Link>
+
+				<Icon>
+					<Name>Trencher Drill component</Name>
+					<Target><Material>TrencherDrillPlacement</Material>
+</Target>
+				</Icon>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

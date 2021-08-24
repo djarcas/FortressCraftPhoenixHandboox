@@ -1,0 +1,58 @@
+﻿<MaterialEntry>
+	<Key>MagmaBorePlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Magma Bohrer Konstruktion</Text>
+				</Title>
+				<Icon>
+					<Name>MagmaBore Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Schneidet eine enorme Bohrung zu den Magmahöhlen hinab, um die kalten Höhlen mit Hitze zu überfluten. Baue in einer 33wx3hx33d-Konfiguration (3276 insgesamt)</Text>
+				</Paragraph>
+	
+				<Spacer/>
+			
+				<Paragraph>
+					<Text>Der Magma Bohrer wird uns einen Schacht bis zu den Magma Höhlen schaffen; Sobald dies abgeschlossen ist, sollten wir in der Lage sein, das Magma zu komprimieren und es zu nutzen, um den CryoPlasm Spawner endgültig zu töten.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Die Basis des Magma Bohrers ist in einer 33 Meter quadratischen Form, 3 Meter hoch zu bauen. Sobald dies erledigt ist, wird die Basisbrücke versuchen, sich selbst aufzurichten. Dies erfordert eine Freigabe von weiteren 12 Metern. Der zu räumende Bereich wird mit einem roten Kästchen markiert. Entfernen Sie die störenden Blöcke in diesem Bereich, um zum Hauptteil zu gelangen.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Der Hauptteil des Magma Bohrers benötigt weitere 64 Meter Freiraum für eine Gesamtgröße von 33x80x33. Entferne erneut alle Blöcke in der markierten Box, um in die Endphase zu gelangen. Wir werden epische Mengen an Kraft benötigen, um diesen unbesiegbaren Bohrer buchstäblich aus reiner Energie zu erschaffen.</Text>
+				</Paragraph>
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			
+			<Paragraphs>
+			<Title>
+				<Text>Magma Bohrer Verwendung</Text>
+				</Title>
+				<Icon>
+					<Name>MagmaBore Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ist der Bohrer vollständig freigelegt, kann das Bohren beginnen. Wir schätzen mindestens 100k Leistung pro Sekunde, um das langsam zu machen - vielleicht viel mehr! Je mehr Energie verfügbar ist, desto schneller wird unser Fortschritt sein. Nachdem wir die Magmahöhlen getroffen haben, können wir damit beginnen, das Magma hoch zu pumpen und zu benutzen!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Magma sollte über eine Standard-Flüssigkeitsleitung zu einer Magma-Lagereinheit gepumpt werden. Dieser kann bis zu 256 Meter vom Magma Bohrer entfernt sein. Der Magma-Speicher kann dann in einer Entfernung von maximal 512m mit einer aktiven Cryo-Inferno-Kanone verbunden werden. Das wiederum kann die CryoSpawner-Bedrohung töten.</Text>
+				</Paragraph>
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

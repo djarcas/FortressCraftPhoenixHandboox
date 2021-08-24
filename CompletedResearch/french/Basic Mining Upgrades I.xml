@@ -1,0 +1,57 @@
+﻿<Chapter>
+	<Handle>mining upgrade 1</Handle>
+	<Title>Amélioration de Minage Basique I</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Amélioration de Minage Basique I</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nous avons réussi à rechercher plusieurs améliorations pour améliorer notre capacité de collecte de ressources.</Text>
+				</Paragraph>
+				<Header><Text>Fonderie Basique</Text>
+</Header>
+				<Icon>
+					<Name>Basic Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nous pouvons maintenant construire une fonderie de minerai de base. Cela ne prend pas en charge les mises à niveau et est plus lent et moins efficace que la fonderie régulière fournie avec l\&apos;avant-poste, mais cela devrait aider à éliminer ce goulet d\&apos;étranglement pour l\&apos;instant.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>La plupart des ressources que nous avons trouvées près de la surface ne conviennent pas bien pour la construction de fonderies de minerai, mais les analyses ont montré des petites formations rocheuses qui peuvent avoir les propriétés requises.</Text>
+				</Paragraph>
+				<Header><Text>Induction Forcée</Text>
+</Header>
+				<Icon>
+					<Name>Forced Induction</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Les modules d\&apos;induction forcés peuvent être placés au-dessus des fonderies régulières pour améliorer le taux de fusion au prix de plus de d\&apos;énergie. La fonderie de base ne les supporte pas.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header><Text>Moteurs de Foreuse</Text>
+</Header>
+				<Icon>
+					<Name>Basic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Les Moteurs de Foreuses peuvent être insérés dans un extracteur de minerai pour améliorer leur vitesse d\&apos;extraction au prix d\&apos;une consommation d\&apos;énergie accrue.</Text>
+				</Paragraph>
+					
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

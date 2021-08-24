@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>NickelOrePing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Nikkelimalmisysäys</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Ore Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nikkelimalmisysäystä käytetään lisänikkelimalmisuonien löytämiseen jos edellinen on loppumassa tai liian pieni käytettäväksi. Lisäinformaatiota tyhjän malmisysäysksen apusivulla.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Blank Ore Ping</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

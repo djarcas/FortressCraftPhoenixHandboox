@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>CrystalDepositPing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Deposit Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Blank Ore Ping</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

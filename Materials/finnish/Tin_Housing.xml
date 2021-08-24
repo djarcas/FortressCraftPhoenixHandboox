@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>TinHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tinakotelo</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen tinakotelo on tehty tinalaatoista.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

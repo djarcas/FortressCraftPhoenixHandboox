@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>ServoMotor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Servomoottori</Text>
+				</Title>
+				<Icon>
+					<Name>Servo Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tarkka ja nopea moottori.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,32 @@
+﻿<MaterialEntry>
+	<Key>LogisticsHopper</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Logistikcontainer</Text>
+				</Title>
+				<Icon>
+					<Name>LogisticsHopper</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Logistikcontainer stellt die billigere Version des standard Lagercontainers dar. Daher kann er lediglich 2 Gegenstände aufnehmen und benötigt jeweils 10 Sekunden um einen Gegenstand zu verarbeiten. Damit ist der Logistikcontainer schnell genug um zusammen mit einem nicht verbesserten Erzförderer betrieben zu werden. Achte jedoch darauf Logistikcontainer durch leistungsfähigere Modelle zu ersetzen, sobald sie zu einem Engpass werden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Für weitere Informationen zu den Lagercontainern, nutze die Hilfe zu dem Standard Lagercontainer.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Page>0</Page>
+						<Material>StorageHopper</Material>
+					</Target>
+					<Text>Storage Hopper</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

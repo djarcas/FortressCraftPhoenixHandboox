@@ -1,0 +1,42 @@
+﻿<MaterialEntry>
+	<Key>PyrothermicGenerator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>热能发电机</Text>
+				</Title>
+				<Icon>
+					<Name>Pyrothermic Generator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>热能发电机是CPH供能不足后最早的发电方式。 它将寻找一个包含可燃材料的附加储存料斗，并将其燃烧以发电。 该设备本身能够存储多达1000个电力，它将把能量传递给连接到它的任何机器或能量块。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>&quot;热能发电机需要大量的氧气供应来运行，地下通风不足会迅速降低发电机的效率。 您应考虑使用激光功率送电器将电力从地面发送到深层采矿作业。 &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>电源（丰富）：
+  电源（稀缺）：
+  能源容量：
+  最大传输功率：
+  燃烧时间：
+  燃料：</Left>
+					<Right>9.7 /s (煤)
+ 3.9 /s (煤)
+ 1000
+ 32 /s
+ 180 /s
+ 木头/煤.</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>BuildGunV2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fusil de Construction V2</Text>
+				</Title>
+				<Icon>
+					<Name>Build Gun V2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Le Fusil de construction V2 est une version améliorée du fusil de construction plus adaptée à l\&apos;utilisation en milieu étranger. L\&apos;amélioration permet de creuser des matériaux plus résistants et de récupérer des machines avancées. Malgré cette amélioration le refroidissement du système de grappin n\&apos;est toujours pas adéquat, pour l\&apos;utilisation dans les cavernes froides et autres zones avec un air de mauvaises qualité un meilleur conducteur de chaleur sera nécessaire. Une seule de ces améliorations est nécessaire pour améliorer les fonctionnalités de l\&apos;outil de base, des améliorations supplémentaires de Fusil de Construction V2 ont montré n\&apos;apporter aucun bénéfice sans pertes extrêmes. &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V1</Material>
+					</Target>
+					<Text>Build Gun V1</Text>
+				</Link>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V3</Material>
+					</Target>
+					<Text>Build Gun V3</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

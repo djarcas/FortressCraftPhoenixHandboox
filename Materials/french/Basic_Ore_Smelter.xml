@@ -1,0 +1,37 @@
+﻿<MaterialEntry>
+	<Key>BasicOreSmelter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fonderie de Minerais Basique</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>La Fonderie convertira les minerais brut en lingots qui peuvent être utilisés dans l\&apos;usine de fabrication ou ailleurs pour fabriquer de nouvelles machines et objets. La Fonderie de Minerais Basique est à moitié moins efficace et moitié moins rapide qu\&apos;une fonderie normale et ne peut pas être améliorée avec des modules d\&apos;induction forcée.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Initialement il vous faudra approvisionner manuellement la fonderie, ce qui peut être fait en appuyant sur la touche \&apos;Interagir\&apos; (défaut \&apos;E\&apos;) pour ouvrir le panneau de contrôle de la fonderie. Vous pouvez alors ajouter du minerai en appuyant sur le bouton \&apos;Ajouter minerai\&apos;, ou en déplaçant un type spécifique de minerai dans la fonderie. Le panneau de contrôle indiquera combien de minerai est nécessaire par lingot tant qu\&apos;elle est vide.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Une fois que la fonderie a assez de minerai elle commencera à chauffer, ce qui requiert de l\&apos;énergie fournie par un bloc de stockage d\&apos;énergie ou d\&apos;un générateur d\&apos;énergie. Quand elle atteindra la température correcte elle commencera à fondre le minerai en lingots qui peuvent être ramassés sur l\&apos;emplacement de sortie en bas du panneau de contrôle.</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>Automatisation</Text>
+				</Header>
+			
+				<Paragraph>
+					<Text>La fonderie devrait être automatisée dès que possible avec l\&apos;ajout de trémies d\&apos;entrée et de sortie. La trémie d\&apos;entrée devrait être configurée en \&apos;Enlever seulement\&apos;. La trémie d\&apos;entrée doit être assez grande pour contenir le minimum de minerai requis.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+					
+	</Pages>
+</MaterialEntry>
+

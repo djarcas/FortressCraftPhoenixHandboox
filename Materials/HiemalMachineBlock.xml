@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>HiemalMachineBlock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hiemal Machine Block</Text>
+				</Title>
+				<Icon>
+					<Name>HiemalMachineBlock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A high level machine used for many cold caverns machines.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

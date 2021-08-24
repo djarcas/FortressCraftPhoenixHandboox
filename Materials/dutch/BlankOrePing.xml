@@ -1,0 +1,34 @@
+<MaterialEntry>
+	<Key>BlankOrePing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Icon>
+					<Name>Blank Ore Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text></Text>
+</Header>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

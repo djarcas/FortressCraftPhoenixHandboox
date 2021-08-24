@@ -1,0 +1,64 @@
+﻿<MaterialEntry>
+	<Name>SpiderBot Base Component</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Док-станция ПаукоБота</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot Core Charger</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Док-станция ПаукоБота - это средство взаимодействия с вашим защитным роботом, известным по прозвищу «ПаукоБот», «ПаукоБро» или «Генриетта», в зависимости от того, какой пол вы выбрали.
+
+  Энергия и улучшения на Док-станцию ПаукоБота можно поставлять через Логистические Бункеры. Каждый такой Бункер способен доставлять по 1 предмету в 1,2 секунды. Используйте пространство по бокам для максимальной пропускной способности.
+  Энергоёмкость самого ПаукоБота – 150 000 Э. Заряжается он через Зарядник ПаукоБота, создающий Силовое Ядро ПаукоБота. Они помещаются в прикрепленные Логистические Бункеры.
+
+  ПаукоБот имеет 3 уровня обновления оружия. Каждое из них должно быть создано вручную и помещено в прикрепленный Логистический Бункер. ПаукоБот автоматически вернется на док и заберет и установит обновление.
+  Требуется только одна копия предмета обновления оружия; Дубликаты будут проигнорированы.
+ &quot;</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Доступные устанавливаемые улучшения</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SpiderBot Core Charger</Material>
+					</Target>
+					<Text>SpiderBot Core Charger</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>SpiderBot Blaster</Material>
+					</Target>
+					<Text>SpiderBot Blaster</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>SpiderBot Cannon</Material>
+					</Target>
+					<Text>SpiderBot Cannon</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>SpiderBot Particle Rifle</Material>
+					</Target>
+					<Text>SpiderBot Particle Rifle</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

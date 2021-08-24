@@ -1,0 +1,40 @@
+﻿<MaterialEntry>
+	<Key>ThreatAgitator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Bedrohungssteigerer</Text>
+				</Title>
+				<Icon>
+					<Name>Threat Agitator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Mit einer ähnlichen Technologie wie der Bedrohungsreduzierer fügt jeder Bedrohungssteigerer 10% der Basisbedrohung hinzu und zieht 5 weitere Insektoide an. Der 10% ige Anstieg der Bedrohung stapelt sich nicht exponentiell. Der Bedrohungssteigerer nutzt die vierfache Kraft des Bedrohung-Calmers für insgesamt 20 Power-Einheiten pro Sekunde. &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Threat Reducer</Material>
+					</Target>
+					<Text>Threat Reducer</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Threat Scanner</Material>
+					</Target>
+					<Text>Threat Scanner</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Benötigt energie:</Left>
+					<Right>Ja</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

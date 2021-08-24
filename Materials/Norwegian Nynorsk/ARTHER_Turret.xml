@@ -1,0 +1,41 @@
+﻿<MaterialEntry>
+	<Key>ARTHERTurret</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>spesifikasjoner</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>rekkevidde,
+skade (per skudd),
+maksimum strøm kapasitet,
+omladnings tid,
+mannskap,</Left>
+					<Right>64 meter
+33
+5
+150
+10 sekunder
+1 (ARTHER)</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

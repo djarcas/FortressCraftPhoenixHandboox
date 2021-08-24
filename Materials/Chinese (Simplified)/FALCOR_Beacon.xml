@@ -1,0 +1,45 @@
+﻿<MaterialEntry>
+	<Key>FALCORBeacon</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>FALCOR信标</Text>
+				</Title>
+		
+						
+				<Icon>
+					<Name>FALCOR Beacon</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+				<Paragraph>
+					<Text>&quot;全自动收集自组织机器人（Fully-Automated Loot Collector Organisational Robots或简称为FALCOR）信标可以以两种不同的模式使用。
+
+  如果将信标放在地板上，那么它将在各个方向的16米范围内收集物品，直到MK1 FALCOR有空来收取。
+
+  如果信标被放置在储存料斗的顶部，那么它将从该存储料斗收集物品，直到物流FALCOR有空来收取。
+
+  FALCOR基地不需要电力，但是信标要。
+ &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Icon>
+					<Name>FALCOR MK1</Name>
+					<Target><Material>FALCOR MK1</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>FALCOR MK1</Material>
+					</Target>
+					<Text>FALCOR</Text>
+				</Link>
+	
+				 
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

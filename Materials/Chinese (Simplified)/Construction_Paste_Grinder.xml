@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Key>ConstructionPasteGrinder</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>建筑磨糊机</Text>
+				</Title>
+				<Icon>
+					<Name>ConstructionPasteGrinder</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>建筑磨糊机利用原始版本的无机重组装置，把无用的材料（如在这个新星球上发现的各种岩石和土壤类型）制成建筑糊。 机器本身能够通过表层土中发现的矿物进行装配。 制造这种机器的低成本和其不存在的功率要求使得并行运行数台成为可能。 在你常常经过的走廊设置垃圾小偷是在游戏早期获得大量建筑糊的好方法。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Construction Paste</Material>
+					</Target>
+					<Text>Construction Paste</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

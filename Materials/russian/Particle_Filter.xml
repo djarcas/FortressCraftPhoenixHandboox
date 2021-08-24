@@ -1,0 +1,45 @@
+﻿<MaterialEntry>
+	<Key>ParticleFilterPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Фильтр Примесей</Text>
+				</Title>
+				<Icon>
+					<Name>Particle Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Фильтр Примесей – усовершенствованный и увеличенный вариант системы фильтрации вашего костюма. Теперь возможно выделить из воздуха определенные примеси, в тех областях пещер, где их концентрация особенно заметна. Фильтр Примесей строится в конфигурации 5х5х3.</Text>
+				</Paragraph>
+					<Spacer/>
+				<Link>
+					<Target>
+						<Chapter>T4_Particles</Chapter>
+					</Target>
+					<Text>Particulate Filtration System</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Compressor</Material>
+					</Target>
+					<Text>Particle Compressor</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Storage</Material>
+					</Target>
+					<Text>Particle Storage</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Gas Bottler</Material>
+					</Target>
+					<Text>Gas Bottler</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

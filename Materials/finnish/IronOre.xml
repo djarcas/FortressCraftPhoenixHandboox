@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Key>IronOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rautamalmi</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Pinnan alta 65 metrin tai yli syvyydestä löytyvä rautamalmi voidaan sulattaa rautaharkoiksi. Rautaharkkoja käytetään useissa koneissa.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Rautamalmia voidaan louhia malmiluohimella.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

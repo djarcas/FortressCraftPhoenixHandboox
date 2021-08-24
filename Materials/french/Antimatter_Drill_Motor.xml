@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>AntimatterDrillMotor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Moteur de Foret à Antimatière</Text>
+				</Title>
+				<Icon>
+					<Name>Antimatter Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Améliore la vitesse à laquelle un extracteur de minerai récolte au prix d\&apos;une consommation d\&apos;énergie plus élevée.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Vitesse d\&apos;Extraction :</Left>
+					<Right>3200%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

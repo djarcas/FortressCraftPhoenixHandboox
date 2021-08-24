@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>LightweightMachineHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>轻型机械外壳</Text>
+				</Title>
+				<Icon>
+					<Name>Lightweight Machine Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>一个小金属盒，用于轻量级物体，由锡板制成。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

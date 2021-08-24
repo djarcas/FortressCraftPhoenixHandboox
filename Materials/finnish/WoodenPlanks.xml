@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>WoodenPlanks</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Puulankut</Text>
+				</Title>
+				<Icon>
+					<Name>Wooden Planks</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Perusrakennusmateriaali jota voi tuottaa kaikialla ilman valmistusaseman palveluja. Avaa itsevalmistuskäyttöliittymä (oletus\&#39;C\&#39;) valmistaaksesi näitä.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>FALCORMk4</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>SpiderCor</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderCcor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Automatically collects marked loot from FALCOR Beacons mounted on SpiderBot. Requires attached Storage Hopper. Ideal for Wasp drops! You can mount 2 Beacons on the SpiderBot, and the ideal number of SpiderCORs is 4.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

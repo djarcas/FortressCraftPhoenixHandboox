@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Name>Organic Coal Enricher</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Organischer Kohleanreicherer</Text>
+				</Title>
+				<Icon>
+					<Name>Organic Coal Enricher</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der organische Kohle Anreicherer verwendet eine kleine Menge an Energie, um die von Kohle erzeugte Energie in einem Pyrothermischen Generator zu erhöhen. Der organische Kohleanreicherer verwendet 0.1 pps über die Spannweite von 15 Sekunden, um normale Kohle zu angereicherte Kohle zu verarbeiten.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

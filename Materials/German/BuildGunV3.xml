@@ -1,0 +1,35 @@
+<MaterialEntry>
+	<Key>BuildGunV3</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Konstruktor V3</Text>
+				</Title>
+				<Icon>
+					<Name>Build Gun V3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Konstruktor V3 ist eine verbesserte Version des zweiten Konstruktors. Dieses Upgrade bietet eine geeignete Kühlung, um eine schnelle, kontinuierliche Aktivierung der Enterhaken zu ermöglichen. Neben der Erhöhung der Kühlleistung ermöglicht der Konstruktor V3 die Zerstörung von härteren Materialien und die Demontage von fortschrittlicheren Maschinen. Nur eine dieser Verbesserungen ist notwendig, um die Funktionalität des Konstruktors zu verbessern. Zu diesem Zeitpunkt sind keine weiteren Verbesserungen ohne größte Anstrengungen möglich.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V1</Material>
+					</Target>
+					<Text>Build Gun V1</Text>
+				</Link>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V2</Material>
+					</Target>
+					<Text>Build Gun V2</Text>
+				</Link>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

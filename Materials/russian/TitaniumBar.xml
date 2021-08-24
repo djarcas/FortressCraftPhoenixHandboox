@@ -1,0 +1,25 @@
+<MaterialEntry>
+	<Key>TitaniumBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Титановый Слиток</Text>
+				</Title>
+				<Icon>
+					<Name>Titanium Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Titanium Ore</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Титановые Слитки в основном используются в продвинутых машинах с повышенными требованиями к прочности и лёгкости конструкции. Эти Слитки льются из Титановой Руды, которую можно найти на глубинах ниже 350 метров.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

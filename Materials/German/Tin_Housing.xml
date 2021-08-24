@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>TinHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Zinn Gehäuse</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein einfaches Blechgehäuse aus Zinnplatten.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

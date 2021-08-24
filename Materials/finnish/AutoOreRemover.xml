@@ -1,0 +1,37 @@
+<MaterialEntry>
+	<Key>AutoOreRemover</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Cyberdyne malmivaras 3000 (tm)</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Thief</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Uusin apukoneemme on malmivaras 3000! (patentti haussa). Vain 9 kupariharkolla myös sinä voit välttää turhauttavan ja tylsän malmin asettamisen varastohypyttimiin ja antaa sen sijaan meidän tehdä kova työ puolestasi.
+
+ 100 yksikön valtavalla sisäisellä varastolla malmivaras 3000 voi täyttää viereiset varastohypyttimet jopa 3300 esineen minuuttivauhdilla!
+
+ Yksinkertaisesti rakenna upouusi malmivaras 3000 (tm) 3x3 asetelmaan ja syötä sille pelkästään 5 virtaa malmia kohti. Sitten vain seiso siinä ja anna MEIDÄN tehdä kova työ puolestasi!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Malminkeruunopeus:
+					Sisäinen varasto:
+					Virrankäyttö:
+					</Left>
+					<Right>jopa 3 300 minuutissa!
+					100 yksikköä malmia!
+					Vain 5 virtaa malmia kohden!
+					</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

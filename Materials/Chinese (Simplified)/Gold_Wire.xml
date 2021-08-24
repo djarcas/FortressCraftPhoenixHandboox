@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>GoldWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>金线</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Wire</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>由挤压机中的金条制成的简单金线。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

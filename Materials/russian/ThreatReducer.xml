@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>ThreatReducer</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Успокоитель</Text>
+				</Title>
+				<Icon>
+					<Name>Threat Reducer</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Threat Scanner</Material>
+					</Target>
+					<Text>Threat Scanner</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Threat Agitator</Material>
+					</Target>
+					<Text>Threat Agitator</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Потребление энергии:</Left>
+					<Right>5 Э/с</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

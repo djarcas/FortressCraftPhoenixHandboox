@@ -1,0 +1,27 @@
+﻿<Chapter>
+	<Handle>Base Defence</Handle>
+	<Title>Basisverdediging</Title>
+	<Icon>&gt;ARTHER Turret</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Basisverdediging</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>We kunnen nu VRIJHEID brengen op deze planeet!</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Ons basisverdediging onderzoek is succesvol geweest, we hebben nu drie verdedigingswerken beschikbaar voor fabricage. Het ARTHER-kanon is efficiënt in energieverbruik en heeft een groot bereik, maar moet door ARTHER bediend worden, we moeten het dus zorgvuldig positioneren om onze grondstoffeninfrastructuur te beschermen terwijl we de benodigde materialen verzamelen om de losstaande kanonnen te bouwen en van energie te voorzien.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

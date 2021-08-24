@@ -1,0 +1,38 @@
+﻿<MaterialEntry>
+	<Key>BasicMissileAssembler</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>基础导弹装配机</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Missile Assembler</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>基础导弹装配机 是一款用于自动生产基本导弹的制造机。</Text>
+				</Paragraph>
+				<Header>
+					<Text>用法</Text>
+				</Header>
+				<Paragraph>
+					<Text>与所有独立生产机器一样，您应该为每个成分附加一个储存料斗，标记为“仅取出”，另外还有一个储存料斗接收被标记为“仅添加”来收集成品。 这将确保不会由于缺少任何一种成分而导致生产中断。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>每枚导弹将需要1单位铜管，1单位金线和1高能复合燃料。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>该机器还需要能够从附接的发电机获取电力，或通过能量块或激光发射器间接供电。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>除了侧面之外，电源和存储料斗可以放置在机器的上方和下方。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

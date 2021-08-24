@@ -1,0 +1,26 @@
+﻿<Chapter>
+	<Handle>T2 assist machines</Handle>
+	<Title>Kehittynyt logistiikka</Title>
+	<Icon>mk1 robot arm</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kehittynyt logistiikka</Text>
+				</Title>
+				<Icon>
+					<Name>mk1 robot arm</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Louhintaoperaatiomme optimointi vaatii leikkausveistä, ei vasaraa. (Vasarat tietenkin saatavilla erillisenä päivityksenä).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Tämä kehitysprojekti keskittyy parannuksiin varastoinnissa, lajittelussa ja lisärakentamistyökaluissa.</Text>
+				</Paragraph>
+			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

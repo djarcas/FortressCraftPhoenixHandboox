@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ZipperMerge3n1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>3'n1 Zipper Merge</Text>
+				</Title>
+				<Icon>
+					<Name>Zipper Merge 3n1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Rapidly combines 2 lines into 1 in the order L RRR. Use this to make Research Pod assembly a doddle!</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

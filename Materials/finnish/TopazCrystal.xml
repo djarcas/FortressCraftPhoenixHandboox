@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>TopazCrystal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Topaasikide</Text>
+				</Title>
+				<Icon>
+					<Name>Topaz Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Topaasikide on harvinainen materiaali jota käytetään päivityksien pohja-aineena. Niitä voi löytää luolista syvyyksien -300 ja -375 välistä.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

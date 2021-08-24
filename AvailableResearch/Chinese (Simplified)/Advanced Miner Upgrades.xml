@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 5</Handle>
+	<Title>高级矿工升级</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>高级矿工升级</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>该项目将研究矿物分离器和熔炼炉的进一步改进。此外，该研究项目将继续研究新的采矿系统。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

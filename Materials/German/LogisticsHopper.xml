@@ -1,0 +1,32 @@
+<MaterialEntry>
+	<Key>LogisticsHopper</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Logistikcontainer</Text>
+				</Title>
+				<Icon>
+					<Name>LogisticsHopper</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Page>0</Page>
+						<Material>StorageHopper</Material>
+					</Target>
+					<Text>Storage Hopper</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

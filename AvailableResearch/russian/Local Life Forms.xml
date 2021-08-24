@@ -1,0 +1,22 @@
+﻿<Chapter>
+	<Handle>Local Life Forms</Handle>
+	<Title>Местные формы жизни</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Местные формы жизни</Text>
+				</Title>
+				<Icon>
+					<Name>Local Life Forms</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Здесь есть жизнь! Результаты говорят от наличии флоры и фауны. Этот проект посвящен изучению присутствующей жизни и определению уровня угрозы.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Sign</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>标准</Text>
+				</Title>
+				<Icon>
+					<Name>Sign</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>使用从坠毁船改编的技术，Cyberdyne EZ-Sign做了进一步的改进。 这个新标志可以被放置和编辑。 该标志应该能够显示任何可以在国际键盘上键入的标准字符。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

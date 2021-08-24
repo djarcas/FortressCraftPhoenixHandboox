@@ -1,0 +1,32 @@
+﻿<MaterialEntry>
+	<Key>ARTHERChargingStation</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>AVUTIN-latausasema</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Charging Station</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Lataa AVUTIN:n nopeasti tukikohtasi voimaverkosta. Paras yhdistettynä AVUTIN-akkupäivitykseen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>AVUTIN latausnopeus:
+ Aseman virtakapasitetti:
+ Aseman latausnopeus:</Left>
+					<Right>25 sekunnissa
+					1500
+					10 sekunnisa</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

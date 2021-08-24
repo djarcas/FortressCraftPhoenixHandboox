@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>LightweightMachinePlates</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Icon>
+					<Name>Lightweight Machine Plates</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

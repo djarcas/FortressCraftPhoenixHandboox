@@ -1,0 +1,53 @@
+﻿<MaterialEntry>
+	<Key>CargoLiftBulk</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Вместительный Грузовой Лифт</Text>
+				</Title>
+				<Icon>
+					<Name>Bulk Cargo Lift</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Самый большой из доступных Грузовых Лифтов. Это оборудование Морозной Фабрики идеально подходит для массовой поставки таких материалов, как Хром, Молибден в Холодные Пещеры. Этот лифт невероятно вместителен и крайне быстр!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>&quot;Макс. расстояние:
+Макс. скорость:
+Ускорение:
+Вместимость:
+Потребление (в движении):
+ &quot;</Left>
+					<Right>&quot;Неограниченно
+15 м/с
+0,5 м/с²
+3000
+850 Э/c
+ &quot;</Right>
+				</TwoColumnParagraph>
+
+				<Icon>
+					<Name>Cargo Lift Controller</Name>
+					<Target><Material>Cargo Lift Controller</Material>
+</Target>
+				</Icon>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Cargo Lift Controller</Material>
+					</Target>
+					<Text>CargoLift Controller</Text>
+				</Link>
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

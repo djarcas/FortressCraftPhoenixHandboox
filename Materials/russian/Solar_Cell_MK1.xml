@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SolarCellMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Солнечная Батарея МК1</Text>
+				</Title>
+				<Icon>
+					<Name>Solar Cell MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Одно из первых улучшений для вашего костюма, которое надо исследовать, создать и установить. Солнечная Батарея МК1 даёт существенный приток энергии костюму, пока вы на поверхности.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

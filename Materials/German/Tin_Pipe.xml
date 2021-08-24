@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>TinPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Zinnrohr</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein einfaches Zinnrohr, das von den Zinnbarren in einer Rohr-Extrudier-Anlage hergestellt wird.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>RoomLight_7</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>RoomLight #7</Text>
+				</Title>
+				<Icon>
+					<Name>RoomLight #7</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A large ,thick and somewhat directional light that takes up half of the 3 blocks it covers. Fits well in spots where it touches 2 blocks. Paintable and rotatable.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

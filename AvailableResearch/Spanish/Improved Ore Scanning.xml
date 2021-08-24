@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>ore pings</Handle>
+	<Title>Escáner de Mineral Mejorado</Title>
+	<Icon>Improved Ore Scanning</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Escáner de Mineral Mejorado</Text>
+				</Title>
+				<Icon>
+					<Name>Improved Ore Scanning</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>¡Hemos encontrado un problema en nuestra búsqueda de recursos para expandir nuestra base!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Nuestro escáner de mineral está configurado para localizar materiales desconocidos para la investigación y clasificación. Su capacidad para encontrar nuevas fuentes de materiales específicos conocidos es limitada. Debe ser posible utilizar una pequeña cantidad de mineral de reserva para actuar como un filtro avanzado que nos permite localizar sólo los recursos que necesitamos.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

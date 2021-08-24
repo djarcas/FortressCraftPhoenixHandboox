@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Key>ForcedInductionMK6</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Дуговая Надстройка Плавильни</Text>
+				</Title>
+				<Icon>
+					<Name>Forced InductionT6</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Базовая Плавильня не поддерживает установку Усиливающего Индуктора.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&#34;Скорость литья:
+  Потребление энергии:&#34;</Left>
+					<Right>50%
+ 12800%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

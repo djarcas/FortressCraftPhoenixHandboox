@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>TinOrePing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>锌矿扫描脉冲</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Ore Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>如果以前发现的锌矿脉快要耗尽或太小而无开采价值，则可以使用锌矿石扫描脉冲找到新的的矿脉。 更多信息，请参阅空白矿石扫描脉冲的帮助指南。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Blank Ore Ping</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

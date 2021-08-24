@@ -1,0 +1,66 @@
+﻿<MaterialEntry>
+	<Key>BasicConveyorBelt</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Einfaches Förderband</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Conveyor Belt</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Förderbänder sind ein einfaches und billiges Mittel, um Ressourcen herumzubewegen. Der erste Verwendungszweck dafür ist Kohle zum Zentralen Energie Verteiler zu bewegen und Erze an die Oberfläche bzw. zu einem Schmelzofen, wenn sie an einen Lagercontainer angeschlossen sind.</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>Verwendung</Text>
+				</Header>
+				<Paragraph>
+					<Text>Förderbänder werden automatisch Ressourcen von angrenzenden Lagercontainern nehmen, wenn sie von diesem weg zeigen. Die Ressourcen werden stets in Laufrichtung des Förderbandes transportiert. Du kannst die Richtung der Förderbänder durch Rotieren ändern. Möchtest du Ressourcen an die Oberfläche transportieren so kannst du auch Förderbänder an der Wand verlegen. Lagercontainer sind nur erforderlich, um mit benachbarten Maschinen am Ende der Linie zu interagieren.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Einschränkungen</Text>
+				</Header>
+				<Paragraph>
+					<Text>Förderbänder sind billig und benötigen keine Energie. Aber sie haben eine Reihe von Nachteilen. Sie sind empfindlich gegen kalte und toxische Umgebungen und die Ressourcen sind gegen Diebstahl ungeschützt. Alternative Transportmöglichkeiten sollten sobald als möglich erforscht werden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Das einfache Förderband ist billiger als das normale Förderband, aber ist VIEL langsamer. Einsatz nur bei früher Automatisierung sinnvoll.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Header><Text>Filtern</Text>
+</Header>
+				<Icon>
+					<Name>Conveyor Belt Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Die Verwendung des Förderband-Filters ermöglicht uns eine exaktere Verteilung unserer Ressourcen. Diese Art von Filter wird genutzt um zu bestimmen welche Ressourcen aus einem Container entfernt werden. Du kannst den Filter auf folgende Einstellungen setzen: MÜLL, ORGANISCHES, EDELSTEINE, KOHLE, BIOMASSE, SCHMELZBARES, BRENNBARES, HERGESTELLTES sowie KRISTALLE und BARREN. &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Max. Transportrate (schnell):
+ Max. Transportrate (langsam):
+ Energiebedarf:
+ Reichweite:</Left>
+					<Right>18 Items pro Minute
+9 Items pro Minute
+keine
+1 Meter</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+					
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>DapperFrame</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Щегольский Каркас</Text>
+				</Title>
+				<Icon>
+					<Name>DapperFrame</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Декоративный блок из DLC DAPPER Indie Support\&apos;s Pack. Спасибо за вашу поддержку разработки FortressCraft!</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

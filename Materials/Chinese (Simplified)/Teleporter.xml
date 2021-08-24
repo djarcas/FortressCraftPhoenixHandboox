@@ -1,0 +1,53 @@
+﻿<MaterialEntry>
+	<Key>Teleporter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>传送仪</Text>
+				</Title>
+				<Icon>
+					<Name>Teleporter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>传送仪允许用户立即传送到指定位置。 
+用法：为传送仪提供足够的电力，站上去，然后按跳跃键（默认为“空格”）。 能耗取决于传送的距离。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>位置标记器</Text>
+</Header>
+				<Icon>
+					<Name>Location Marker</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+	
+				<Paragraph>
+					<Text>传送仪需要引用目的地的位置标记。 按交互键（默认为\&apos;E\&apos;）将位置标记插入传送仪。 有关位置标记的更多信息，请点击下面的链接。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Location Marker</Material>
+					</Target>
+					<Text>Location Marker</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>最大传送距离：
+能量要求：
+能量容量：
+最大充能速率：</Left>
+					<Right>无限制：
+40/m
+传送消耗的两倍
+无限制</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

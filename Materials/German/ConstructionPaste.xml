@@ -1,0 +1,28 @@
+<MaterialEntry>
+	<Key>ConstructionPaste</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Konstruktionspaste</Text>
+				</Title>
+				<Icon>
+					<Name>Construction Paste</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Konstruktionspaste ist ein Material das dazu genutzt werden kann, eine Vielzahl an nützlichen Blöcken herzustellen, wie etwa Warnstreifen. Der anorganische Re-Assembler deines Anzuges dient eigentlich dazu, im Vakuum des Raums kleinste Verletzungen zu reparieren um die Dichtheit des Raumanzuges zu gewährleisten. Diese Technik kann mit Mikroben dieses Planeten kombiniert werden . Mit der Konstruktionspastenmühle kannst du die Konstruktionspaste aus nutzlosen Blöcken herstellen wie etwa Grundgestein, Erde und was dir sonst noch nutzlos erscheint. Ein weiterer Vorteil von Beton ist, das er im Inventar so gut wie keinen Platz benötigt.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Construction Paste Grinder</Material>
+					</Target>
+					<Text>Construction Paste Grinder</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

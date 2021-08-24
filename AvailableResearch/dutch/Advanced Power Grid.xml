@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T3 Power</Handle>
+	<Title>Geavanceerd Energienet</Title>
+	<Icon>Advanced Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Geavanceerd Energienet</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>De geavanceerde materialen die we onlangs hebben ontdekt, zouden ons in staat moeten stellen verdere verbeteringen aan te brengen in onze energie-infrastructuur.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,22 @@
+﻿<Chapter>
+	<Handle>Local Life Forms</Handle>
+	<Title>Forme di Vita Locali</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Forme di Vita Locali</Text>
+				</Title>
+				<Icon>
+					<Name>Local Life Forms</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Questo pianeta non è disabitato! Gli scanner rilevano sia piante che forme di vita animale. Questo progetto investigherà queste le forme di vita per stabilire se costituiscono una minaccia.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

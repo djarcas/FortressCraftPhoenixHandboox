@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>CopperPlate</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kupferplatte</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Eine einfache Kupferplatte, hergestellt in der Stanze.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERDapperUpgradePack</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Щегольское Усовершенствование АРЧЕРа</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Dapper Upgrade Pack</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Совершенный Щеголь - полностью обновленный! Экономит место в инвентаре. Достаточно одного такого предмета в инвентаре.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,26 @@
+﻿<Chapter>
+	<Handle>T2 assist machines</Handle>
+	<Title>Fortgeschrittene Logistik</Title>
+	<Icon>mk1 robot arm</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fortgeschrittene Logistik</Text>
+				</Title>
+				<Icon>
+					<Name>mk1 robot arm</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Um unsere Ressourcenförderung zu optimieren benötigten wir ein Skalpell, keinen Hammer (Hammer sind ein eigenständiges Upgrade, versteht sich).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Das Ziel dieses Forschungprojektes ist die Verbesserungen von Lagerung und Sortierung von Gegenständen sowie die Entwicklung neuer Werkzeuge zur Basiserweiterung.</Text>
+				</Paragraph>
+			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

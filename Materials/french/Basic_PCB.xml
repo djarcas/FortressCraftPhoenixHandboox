@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>BasicPCB</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>PCB Basique</Text>
+				</Title>
+				<Icon>
+					<Name>Basic PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Un PCB à base de Cuivre fabriqué à partir de Bobines de Cuivre dans une Usine d\&apos;Assemblage de PCB.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

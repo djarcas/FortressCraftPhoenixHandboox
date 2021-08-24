@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T5 Power</Handle>
+	<Title>Совершенная энергетическая сеть</Title>
+	<Icon>Ultimate Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Совершенная энергетическая сеть</Text>
+				</Title>
+				<Icon>
+					<Name>Ultimate Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Вслед за успешной разработкой системы хранения энергии МК4, можно разработать совершенное устройство хранения энергии.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

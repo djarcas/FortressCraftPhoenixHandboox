@@ -1,0 +1,32 @@
+<MaterialEntry>
+	<Key>MiniHopper</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Мини-Бункер</Text>
+				</Title>
+				<Icon>
+					<Name>MiniHopper</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Мини-Бункер - это уменьшенная версия обычного Накопительного Бункера, подходит как для загрузки в машины, так и для извлечения из них, имеет хранилище на 10 ячеек. Скорость выгрузки ресурсов (на конвейер или механизм) - 1 предмет в 30 секунд. Подходит для загрузки ресурсов в ЦЭК, Пиротермический генератор или в другую машину с длительной обработкой. Если этого будет не достаточно, позаботьтесь о замене на более быстрый вариант Бункеров.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>За подробностями по Бункерам, пожалуйста, обратитесь к справке по Накопительным Бункерам.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Page>0</Page>
+						<Material>StorageHopper</Material>
+					</Target>
+					<Text>Storage Hopper</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

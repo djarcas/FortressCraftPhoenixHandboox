@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>ChargedPCB</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>带电PCB</Text>
+				</Title>
+				<Icon>
+					<Name>Charged PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>产自PCB组装厂的一款锂线圈卷的锂基PCB。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

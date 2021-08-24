@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SolarCellMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Solarzelle MK1</Text>
+				</Title>
+				<Icon>
+					<Name>Solar Cell MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die MK1 Solarzelle ist eine der ersten Upgrades, die Sie erforschen, herstellen und anpassen sollten. Sie bietet deutlich mehr Stromerzeugung für den Gefahrenanzug auf der Planetenoberfläche.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

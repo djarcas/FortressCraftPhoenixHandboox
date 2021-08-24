@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ARTHERSolarPanel</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Солнечная Батарея АРЧЕРа</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Solar Panel</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Увеличивает скорость, с которой АРЧЕР восстанавливает энергию на солнечном свету. Вам нужен только один элемент, и он должен храниться в вашем инвентаре.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

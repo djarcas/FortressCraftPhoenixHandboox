@@ -1,0 +1,42 @@
+﻿<MaterialEntry>
+	<Key>SolarPanelMk1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Solarpaneele</Text>
+				</Title>
+				<Icon>
+					<Name>Solar Panel</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Solarmodule sind eine wartungsarme Quelle für erneuerbare Energie. Sie müssen mit direktem Zugang zum Himmel über ihnen platziert werden und werden nur während des Tages Energie erzeugen. Sie werden diese Energie an jede benachbarte Maschine, Energiespeicher oder Laserenergietransmitter verteilen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Solarmodule haben eine geringe interne Leistungskapazität und sollten daher durch eine geeignete Anzahl von Energiespeicher gesichert werden, um jederzeit eine zuverlässige Energieversorgung zu gewährleisten.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Höchstleistung (reichlich):
+ Spitzenleistung (knapp):
+ Leistungskapazität:
+ Maximale Leistungsübertragungsrate:
+ Brenndauer:
+ Treibstoff:</Left>
+					<Right>22,5 pro Sekunde
+ 9 pro Sekunde
+ 64
+ 32 pro Sekunde
+ n / a
+ Sonnenlicht</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

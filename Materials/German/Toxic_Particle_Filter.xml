@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ToxicParticleFilter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Toxischer Partikelfilter</Text>
+				</Title>
+				<Icon>
+					<Name>Toxic Particle Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Erweiterte Filter, die an den Gefahrenanzug angepasst sind, ermöglichen es, giftige Substanzen aus der Luft zu entfernen. Du brauchst nur einen davon und er muss in deinem Inventar aufbewahrt werden, damit er funktioniert.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

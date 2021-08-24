@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>Snowman</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Snowman</Text>
+				</Title>
+				<Icon>
+					<Name>Snowman</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A jolly snowman to spruce up your base.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

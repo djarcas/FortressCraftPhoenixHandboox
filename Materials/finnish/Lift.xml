@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>Lift</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hissi alamännällä</Text>
+				</Title>
+				<Icon>
+					<Name>T1 Lift</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Hissi männällä joka nostaa ja laskee tason. Pukusi langaton yhteys mahdollistaa hissin nostamisen ja laskemisen automattisesti paikkaasi kun lähestyt hissikuilua. Tätä voi parantaa käsiohjausyksiköllä tarkan siirtymisen mahdollistamiseksi. Hissi voi liikkua paljon nopeammin kun pelaajan paino ei hidasta sitä ja tekee niin jos pelaaja huomataan hissikuilun lähellä korkeudessa johon hissi pääsee.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Vuorovaikuta (oletus \&#39;E\&#39;) hissin kanssa säätääksesi maksimikantamaa. Hienosäädä vaihtoehtoisvuorovaikutuksella (oletus \&#39;Shift+E\&#39;). Päivitä hissi virroitetulla puristimella palauttaaksesi kaasut nopeammin toimintakyvyn ylläpitämiseksi usein käytetyille hisseille. Virroitettu puristin tarvitaan hissin laajentamiseksi yli 64m (32m pienimmällä yksityiskohtaasetuksella).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Maksiminopeus (kaasulla):
+					Maksiminopeus (ei kaasua):
+					Maksimikantama:
+					Kaasukapasiteetti:
+					Kaasun palautus:
+					Kaasun käyttö:
+					Taukoajastin:</Left>
+					<Right>12 m/s
+					3 m/s
+					256m (64m moninpelaajille)
+					24 litraa
+					0.025 l/s
+					1 l/s
+					5 sekunttia</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

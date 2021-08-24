@@ -1,0 +1,45 @@
+﻿<MaterialEntry>
+	<Key>AutoExcavator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>自动挖掘机</Text>
+				</Title>
+				<Icon>
+					<Name>Auto Excavator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>自动挖掘机是从下向上挖掘大型垂直竖井的机器，挖掉的材料将落到地面， 对矿脉无效。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>用法</Text>
+				</Header>
+				<Paragraph>
+					<Text>挖一个小隧道前往你要建立竖井的地方然后放置该设备。用激光输电器或其他能量源给它供应能量。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>竖井尺寸：
+最大竖井高度：
+能量需求：
+能量容量：
+最大充电速率：
+最大挖掘速率：</Left>
+					<Right>3m x 3m
+ 512m
+ 20/1m
+ 160
+ 无
+ 40 块/秒</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

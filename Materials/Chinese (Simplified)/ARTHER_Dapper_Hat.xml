@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERDapperHat</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER 礼帽</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Dapper Hat</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>让ARTHER 看起来短小精悍, 衣冠楚楚！只有你拥有了Dapper Indie Supporter DLC。只需一份，放入物品栏以生效。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

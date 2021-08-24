@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>NickelWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Никелевый Провод</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Wire</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Простой никелевый провод, изготовляемый из никелевых слитков в Экструдере.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

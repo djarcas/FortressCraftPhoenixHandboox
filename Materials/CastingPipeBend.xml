@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>CastingPipeBend</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Casting Pipe (Bend)</Text>
+				</Title>
+				<Icon>
+					<Name>Bent Casting Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Allows molten metal to flow from Blast Furnace to Continuous Casting Basin</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>LithiumHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lithiumgehäuse</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein Lithiumgehäuse, hergestellt aus einzelnen Lithiumplatten.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERDapperUpgradePack</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pack Amélioration Élégant ARTHER</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Dapper Upgrade Pack</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Entièrement amélioré - Élégance Totale ! Utilisez le pour économiser de la place dans votre inventaire en combinant toutes les mises à jour précédentes d\&apos;Élégance en un seul élément. Il doit être conservé dans votre inventaire. Vous n\&apos;en n\&apos;avez besoin que d\&apos;un seul et il doit être conservé dans votre inventaire pour fonctionner.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

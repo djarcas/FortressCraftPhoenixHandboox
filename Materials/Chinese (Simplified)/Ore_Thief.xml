@@ -1,0 +1,37 @@
+﻿<MaterialEntry>
+	<Key>AutoOreRemover</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>赛博坦矿石小偷 3000（tm）</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Thief</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>最新的机器，以帮助您的采矿作业是“Ore Thief 3000”！ （专利申请中）。 您也可以免除将矿石放入储料斗中的苦难和乏味，而让我们为您辛勤工作！
+
+  拥有大规模的100个内部存储单元，Ore Thief 3000可以以每分钟3,300的速度卸载到任何相邻的存储料斗！
+
+  只要以3x3的布局构建全新的Ore Thief 3000（tm），并提供每个矿石5单位能量，然后站上去，让我们干脏活累活！</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;矿石收集速度：
+  内部存储器：
+  能源使用：
+ &quot;</Left>
+					<Right>&quot;高达3,300 /分钟！
+  100单位矿石！
+  每单位矿石只消耗5单位能量！
+ &quot;</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

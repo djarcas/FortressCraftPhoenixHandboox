@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>MassStorageInputPortMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Входной Порт Склада</Text>
+				</Title>
+				<Icon>
+					<Name>Mass Storage Input Port</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Поместите этот блок рядом с блоком Склада для загрузки предметов на Склад. На вход Порта можно подавать предметы прямо с конвейера. Различные типы предметов загружаются одним и тем же портом по 1 предмету за один раз.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Осторожно!</Text>
+				</Header>
+				<Paragraph><Text>Не имеет отношения к обычным Ящикам!</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

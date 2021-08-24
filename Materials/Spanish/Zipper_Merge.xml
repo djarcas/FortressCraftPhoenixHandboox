@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Key>ZipperMerge</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Icon>
+					<Name>Zipper Merge</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Conveyor Belt</Material>
+					</Target>
+					<Text>Conveyor Belt</Text>
+				</Link>
+			
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

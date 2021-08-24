@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>IronPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Железная Труба</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Простая железная труба, изготовляемая из железных слитков в Экструдере Труб.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

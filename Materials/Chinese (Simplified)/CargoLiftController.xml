@@ -1,0 +1,110 @@
+﻿<MaterialEntry>
+	<Key>CargoLiftControllerPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>货梯控制器</Text>
+				</Title>
+				<Spacer/>
+				<Icon>
+					<Name>Cargo Lift Controller</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>
+ 用于垂直散装运输。
+  3x1x3的规格建造。
+  这是Minecarts的理想配套机器，是从世界深处搬运大量物品的首选方法。
+  一旦建成，您将需要在其下方手动挖出一根竖井。 当然最好使用机器为您做这个繁琐的工作。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Icon>
+					<Name>Auto Excavator</Name>
+					<Target><Material>AutoExcavator</Material>
+</Target>
+				</Icon>
+	
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>竖井配置</Text>
+				</Title>
+				<Spacer/>
+				<Paragraph>
+					<Text>一旦您将竖井挖掘到所需的深度，您将需要将机架轨道（RackRails）安装到其边缘。 幸运的是，使用现代施工技术，这些不需要任何额外支持。
+
+  只需将存储料斗连接到货梯控制器，它将自动布置。
+
+  距离无限制，但请注意，距离和速度不可兼得。
+
+  400-600米是理想的，但它们可以在任何距离上使用。
+
+  建议最小距离约15米。
+
+  对于较短的距离，请尝试物质传送器或传送带。</Text>
+				</Paragraph>
+				<Icon>
+					<Name>3D Printer</Name>
+					<Target><Material>RackRailer</Material>
+</Target>
+				</Icon>
+				<Spacer/>
+
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>配置</Text>
+				</Title>
+				<Paragraph>
+					<Text>&quot;一旦您的货梯控制器在轨道部署上读取了适当的距离，那么您可将准备好的货梯配给它。
+  只需打开货梯控制器UI（默认键为\&apos;E\&apos;），然后将相应的货梯拖入插槽。
+  您可以卸下并升级货梯，但首先货梯必须是空的。
+ &quot;</Text>
+				</Paragraph>
+
+				<Icon>
+					<Name>Basic Cargo Lift</Name>
+					<Target><Material>CargoLiftBasic</Material>
+</Target>
+				</Icon>
+			 
+				<Spacer/>
+				<Icon>
+					<Name>Improved Cargo Lift</Name>
+					<Target><Material>CargoLiftImproved</Material>
+</Target>
+				</Icon>
+				 
+				<Spacer/>
+				<Icon>
+					<Name>Bulk Cargo Lift</Name>
+					<Target><Material>CargoLiftBulk</Material>
+</Target>
+				</Icon>
+				 
+				<Spacer/>
+
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>用法</Text>
+				</Title>
+				<Paragraph>
+					<Text>&quot;如果给予足够的电力，您的货物升降机将自动上下运行，并根据命令收集和卸载资源。 要更改命令，只需打开货梯控制器用户界面（默认键为\&apos;E\&apos;）并选择合适的选项。
+
+  一旦在竖井的上限或下限，货物提升将尝试通过任何相邻的存储料斗加载和卸载。 只需将他们接触停放的货梯。
+ &quot;</Text>
+				</Paragraph>
+			</Paragraphs>
+			</Page>
+	</Pages>
+</MaterialEntry>

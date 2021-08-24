@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>TheItano</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>伊塔诺/板野友美/Itano</Text>
+				</Title>
+				<Icon>
+					<Name>The Itano</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>朝着较大的目标发射导弹。 导弹应存放在相邻的储物斗中。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品参数</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>最小范围：
+  最大范围：
+  伤害（每导弹）：
+  齐射数量：
+  重装时间：</Left>
+					<Right>64m
+ 512m
+ 50,000 (基本导弹)
+ 16
+ 15 s</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

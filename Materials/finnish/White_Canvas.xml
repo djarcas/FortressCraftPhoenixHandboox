@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>WhiteCanvas</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Valkoinen kangas</Text>
+				</Title>
+				<Icon>
+					<Name>White Canvas</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Täysin valkoinen kaunistuspalikka.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,44 @@
+﻿<Chapter>
+	<Handle>findingSurvival</Handle>
+	<Title>Kuinka pelata sinnittelymuotoa</Title>
+	<Icon>Unknown</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kuinka pelata sinnittelymuotoa</Text>
+				</Title>
+				<Paragraph>
+					<Text>Tämä on luovan muodon peli. Aloittaksesi sinnitelymaailman:</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Mene takaisin päävalikkoon. Mene maailmanvalintahouneeseen ja valitse tyhjä paikka (oikea nuoli tai klikkaa pöytiä). Pelimuotoilmaisimen vieressä on nuolia joita voit klikata vaihtaaksesi pelimuodon sinnittelyksi. Paina &apos;Luo maailma&apos; aloittaaksesi pelaamisen</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Spacer/>
+				<Header>
+					<Text>En voi valita pelimuotoa?</Text>
+				</Header>
+				<Paragraph>
+					<Text>Et voi vaihtaa olemassaolevan maailman pelimuotoa. Valitse tyhjä paikka.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Kaikki maailmapaikkani ovat täynnä!</Text>
+				</Header>
+				<Paragraph>
+					<Text>Voit nollata maailman maailmanvalintahouneesta. Kaikki tähän maailmaan liittyvät tiedot poistetaan. Jos haluat varmuuskopioida maailmasi, Windowsin uusimmalla versiolla, ne löydetään seuravasta kansiosta: %AppData%.ocalLowrojectorGamesortressCraftorlds.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Se ei toimi!</Text>
+				</Header>
+				<Paragraph>
+					<Text>Jos sinulla on silti hankaluuksia aloittaa sinnittelymuoto, ole hyvä ja kirjoita viesti Steamin keskustelupalstalle.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

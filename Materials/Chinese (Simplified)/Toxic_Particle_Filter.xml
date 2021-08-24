@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ToxicParticleFilter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>有毒微粒过滤器</Text>
+				</Title>
+				<Icon>
+					<Name>Toxic Particle Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>防护服的高级过滤器可以从空气中滤除有毒物质。只需一份，放入物品栏以生效。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

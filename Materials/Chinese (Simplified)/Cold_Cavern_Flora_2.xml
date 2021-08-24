@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>ColdCavernFlora2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>冰窟植物2型</Text>
+				</Title>
+				<Icon>
+					<Name>Cold Cavern Flora 2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>令人难以置信的植物，可以在极度寒冷的洞穴生存下来。</Text>
+				</Paragraph>
+		
+				<Spacer/>
+				<Paragraph>
+					<Text>这种植物可以用来当柴烧。</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

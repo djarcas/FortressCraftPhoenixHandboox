@@ -1,0 +1,82 @@
+﻿<Chapter>
+	<Handle>experimental pods</Handle>
+	<Title>实验舱</Title>
+	<Icon>ResearchPod_Basic</Icon>
+	<ResearchRequirements>
+		<Research>Advanced Research</Research>
+	</ResearchRequirements>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>实验舱</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Basic</Name>
+				</Icon>
+				<Paragraph>
+					<Text>实验舱用于实验室进行实验和完成研究项目。有关实验室研究的更多信息，请访问以下指南。</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+						
+				<Header>
+					<Text>什么是实验舱（Experimental Pods）？</Text>
+				</Header>
+				<Paragraph>
+					<Text>实验舱是实验室用来进行实验的资源。 每个容器是一种能够容纳和监测各种物质的智能储存装置。 实验室负责管理这些，您只需要提供空的容器。</Text>
+				</Paragraph>
+				<Header>
+					<Text>制造实验舱</Text>
+				</Header>
+				<Paragraph>
+					<Text>实验舱与实验室同时解锁，只有最基本的种类可以在制造工厂制造。 其余的需要专门的制造机械。 每种类型的容器需要不同的原料，但都使用相同的机器来生产它们。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>每个容器由金属板和印刷电路板（PCB）制成。有关详细信息请查看所需的特定容器的帮助条目。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>生产金属板</Text>
+				</Header>
+				<Icon>
+					<Name>Stamper Plant</Name>
+				</Icon>
+				<Paragraph>
+					<Text>金属板在冲压机中生产。这是一种特殊类型的传送带，其上附有冲压机，可以在制造厂中制造。所需的原材料是金属锭。</Text>
+				</Paragraph>
+				<Header>
+					<Text>生产PCB</Text>
+				</Header>
+				<Icon>
+					<Name>PCB Assembling Plant</Name>
+				</Icon>
+				<Paragraph>
+					<Text>生产PCB需要多个阶段，需要使用三台机器。 首先使用“挤压设备”将金属条转换成电线。 接下来是一个将电线转换成线圈的“绕线机”，最后是一个“PCB装配工厂”，以将线圈转换成PCB。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>制造Pod</Text>
+				</Header>
+				<Icon>
+					<Name>Research Assembler</Name>
+				</Icon>
+				<Paragraph>
+					<Text>最后使用汇编器将板和PCB组合成实验舱。 这不是一台基于传送带的机器，它需要电力和输入和输出存储料斗。 我们建议使用两个输入料斗来确保板和PCB的可用性。 完成的容器可以交付给实验室。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

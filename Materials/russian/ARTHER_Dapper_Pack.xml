@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERDapperPack</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Щегольский набор АРЧЕРа</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Dapper Pack</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Настоящий Щеголь! Экономит место в инвентаре, совмещая в себе все предыдущие отдельные Щёгольские улучшения. Достаточно одного такого предмета в инвентаре.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

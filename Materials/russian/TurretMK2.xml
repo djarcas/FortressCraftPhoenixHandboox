@@ -1,0 +1,35 @@
+<MaterialEntry>
+	<Key>TurretMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Турель МК2</Text>
+				</Title>
+				<Icon>
+					<Name>Pop Up Turret MK2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Эта Турель - основной элемент обороны с потреблением энергии. Должна питаться от соседнего генератора, Энергохранилища или от передатчика энергии.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&#34;Дальность:
+  Урон (за выстрел):
+  Потребление Энергии (за выстрел):
+  Энергоёмкость:
+  Время перезарядки:&#34;</Left>
+					<Right>20 м
+ 96
+ 32 Э
+ 192 Э
+ 0,4 секунды</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

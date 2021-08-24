@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ConveyorBeltFilter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Конвейерный Фильтр</Text>
+				</Title>
+				<Icon>
+					<Name>Conveyor Belt Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&#34;Использование Конвейерного Фильтра позволяет вам более точно контролировать распределение ресурсов. Этот тип фильтра используется для управления содержимым выгружаемым из Бункеров на конвейер. Вы можете установить фильтр для удаления МУСОРА, РУДЫ, ОРГАНИКИ, САМОЦВЕТОВ, УГЛЯ, БИОМАССЫ, ВЫПЛАВЛЯЕМОГО, СЖИГАЕМОГО, СОЗДАННЫХ ПРЕДМЕТОВ, КРИСТАЛЛОВ и СЛИТКОВ. &#34;</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

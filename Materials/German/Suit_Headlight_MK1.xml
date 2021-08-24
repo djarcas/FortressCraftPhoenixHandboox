@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SuitHeadlightMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Anzugscheinwerfer MK1</Text>
+				</Title>
+				<Icon>
+					<Name>Suit Headlight MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Halogen-Technologie ermöglicht es Ihnen, den Scheinwerfer mit voller Energie mit einer effizienteren Nutzung von Energie zu betreiben. Du brauchst nur einen davon und er muss in deinem Inventar aufbewahrt werden, damit er funktioniert.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

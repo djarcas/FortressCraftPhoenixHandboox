@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>OrganicRock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Organischer Stein</Text>
+				</Title>
+				<Icon>
+					<Name>Organic Rock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Organisches Gestein ist eine steinartige Formation, die natürlich von der lokalen Fauna geschaffen wird. Organisches Gestein kann in der ganzen Welt verstreut gefunden werden und wird häufiger in Overminds und in Höhlensystemen gefunden. Organischers Gestein kann auch als Tropfen von Camobots erhalten werden.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

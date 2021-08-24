@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>ForcedInductionMK6</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Arc Schmelzer Upgrade</Text>
+				</Title>
+				<Icon>
+					<Name>Forced InductionT6</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Mit diesem Hochleistungskit können Sie einen einzelnen Erzschmelzer aufrüsten, um mit Chrom und Molybdän fertig zu werden.
+
+ Dies sollte durch ein geeignetes System ersetzt werden, das in der Lage ist, diese Materialien so schnell wie möglich zu behandeln, da das Arc Schmelzer Upgrade äußerst ineffizient ist.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Basis Erzschmelzer unterstützen keine erzwungenen Induktion Upgrades.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Schmelzgeschwindigkeit:
+ Energiebedarf:</Left>
+					<Right>50%
+ 12800%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

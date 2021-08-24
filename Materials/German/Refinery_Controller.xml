@@ -1,0 +1,54 @@
+﻿<MaterialEntry>
+	<Key>RefineryController</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Raffinerie-Controller</Text>
+				</Title>
+				<Icon>
+					<Name>Refinery Controller</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Die Raffinerie ermöglicht es Ihnen, Kohlenhydrate, die auf dem fremden Planeten gefunden werden, zu nützlichen Materialien zu verarbeiten. Für den Betrieb benötigt es zwei Teile: den Raffinerie-Controller und einen Raffinerie-Reaktor-Behälter. &quot;</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Refinery Reactor Vat Component</Material>
+					</Target>
+					<Text>Refinery Reactor Vat Component</Text>
+				</Link>
+				<Paragraph>
+					<Text>Der Rafinerie Controller ist die Maschine, die die präzisen chemischen Bilanzen aufrechterhält, die für die Herstellung der gewünschten Produkte erforderlich sind. Um zu funktionieren, muss das Rohprodukt der Steuerung zugeführt werden, und es muss genügend Leistung vorhanden sein. Container, die mit der Steuerung verbunden sind, können das Ausgangsprodukt empfangen.
+
+Das Anschließen eines Controllers an einen Bottich ist so einfach, wie den Controller irgendwo direkt an den Bottich zu platzieren. Wenn es verbunden ist, wird das Popup-Fenster dies anzeigen, und der Controller wird sich auf die Wanne ausrichten und die Rohre verlängern, um sich damit zu verbinden.
+
+Eine Raffinerie kann nur ein Produkt gleichzeitig verarbeiten: Sie können die verschiedenen Rezepte durchlaufen, indem Sie bei Auswahl des Reglers \&apos;e\&apos; drücken. Es kann nur ein neues Ergebnis produzieren, bis der interne Speicher es aufnehmen kann; Wenn noch ein anderes Produkt vorhanden ist, kann die Produktion nicht fortgesetzt werden.
+
+Sie können Produkte von der Steuerung abrufen, indem Sie \&quot;q\&quot; drücken oder einen Speicherbehälter anschließen.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Herstellungszeit:
+ Benötigte Leistung:
+ Leistungskapazität:
+ Maximale Wiederaufladegeschwindigkeit:</Left>
+					<Right>10 Sekunden (pro Bottich)
+ 100 pro Sekunde (pro Bottich)
+ 3000 (pro Bottich)
+ 100 pro Sekunde (pro Bottich)</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

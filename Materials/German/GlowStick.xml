@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>GlowStick</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Leuchtstab</Text>
+				</Title>
+				<Icon>
+					<Name>Glow Stick</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

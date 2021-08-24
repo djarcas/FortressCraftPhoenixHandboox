@@ -1,0 +1,48 @@
+<MaterialEntry>
+	<Key>T4CreepMelter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>CryoPlasm Melter</Text>
+				</Title>
+				<Icon>
+					<Name>CryoPlasm Melter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Melts CryoPlasm at a medium range. Useful only when paired with other types of defence.
+					Melting the CryoPlasm causes it to turn into a liquid that falls from the air and off sides of blocks.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Range:
+					Removal Time:
+					Power Required:
+					Max. Power Capacity:
+					Max. Power Recharge Rate:</Left>
+					<Right>13m
+					0.4 seconds
+					500 per second
+					10000
+					Unlimited</Right>
+				</TwoColumnParagraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>Freezon Injecting a Melter will double its range and melt-rate.</Text>
+        </Paragraph>
+        <Icon>
+          <Name>Freezon Injector</Name>
+          <Target>
+            <Material>FreezonInjector</Material>
+          </Target>
+        </Icon>
+        <Spacer/>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>LithiumOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>锂矿</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>可在约120m深度附近发现，锂矿可以使用熔炼炉炼成锂锭。 锂锭通常用于各种用于存储或传输电力的机器。</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>可以采用矿物分离器开采锂矿。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

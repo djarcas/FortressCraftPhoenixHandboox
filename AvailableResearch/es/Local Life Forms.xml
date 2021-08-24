@@ -1,0 +1,22 @@
+<Chapter>
+	<Handle>Local Life Forms</Handle>
+	<Title></Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Icon>
+					<Name>Local Life Forms</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,44 @@
+﻿<MaterialEntry>
+	<Key>ResearchAssembler</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tutkimuskokoaja</Text>
+				</Title>
+				<Icon>
+					<Name>Research Assembler</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Automaattisesti tuottaa koekapseleita metallilaatoista ja piirilevyistä. Tämä pitäisi sitten yhdistää suoraan laboratorioon automatisoidun tutkimuksen tekemiseksi.
+ Näiden tuottamisen automatisoinnista suodattimin suositellaan niiden aikaavievän luonteen vuoksi.
+ &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Tuotantoaika:
+					Virtavaatimus(huippu):
+					Virtakapasiteetti:
+					Maksimilatausnopeus:</Left>
+					<Right>15 sekunttia
+					128 sekunnissa
+					100
+					100 sekunnissa</Right>
+				</TwoColumnParagraph>
+		
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+			
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

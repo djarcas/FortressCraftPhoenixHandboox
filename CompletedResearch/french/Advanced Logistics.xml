@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T2 assist machines</Handle>
+	<Title>Logistique Avancée</Title>
+	<Icon>mk1 robot arm</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Logistique Avancée</Text>
+				</Title>
+				<Icon>
+					<Name>mk1 robot arm</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nous avons maintenant un stockage de masse et un mécanisme de tri pour déplacer les minerais entre les convoyeurs.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

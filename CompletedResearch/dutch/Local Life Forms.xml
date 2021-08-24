@@ -1,0 +1,27 @@
+﻿<Chapter>
+	<Handle>Local Life Forms</Handle>
+	<Title>Lokale Levensvormen</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lokale Levensvormen</Text>
+				</Title>
+				<Icon>
+					<Name>Local Life Forms</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Deze planeet lijkt een verscheidenheid aan planten- en dierenleven te bevatten, niet alles vriendelijk.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Scanners detecteren een aantal vliegende levensvormen in de buurt die een potentieel risico vormen. Ontwerpen voor een Bedreigingsscanner zijn beschikbaar om hun voortgang te controleren. We moeten ook investeren naar het opzetten van enkele basisafweer. Potentieel meer met betrekking tot het feit dat we een aantal grote organische structuren ondergronds hebben gedetecteerd die zou kunnen interfereren met onze inspanningen om een betrouwbare levering van grondstoffen te verzekeren.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

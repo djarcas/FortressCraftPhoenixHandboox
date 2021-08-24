@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 4</Handle>
+	<Title>Tussenliggende Mijnbouwverbeteringen II</Title>
+	<Icon>Enhanced Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tussenliggende Mijnbouwverbeteringen II</Text>
+				</Title>
+				<Icon>
+					<Name>Enhanced Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Het zou mogelijk moeten zijn om de capaciteit van de ertsonttrekker verder te verbeteren. Dit project zal ook alternatieve methoden onderzoeken voor het verzamelen van ertsen.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

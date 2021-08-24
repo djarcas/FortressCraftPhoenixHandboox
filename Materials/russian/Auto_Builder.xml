@@ -1,0 +1,34 @@
+﻿<MaterialEntry>
+	<Key>AutoBuilder</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Авто-строитель</Text>
+				</Title>
+				<Icon>
+					<Name>Auto Builder</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Строит конвейерные линии в любом основном направлении при подаче блоков Конвейера.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Советы и хитрости!</Text>
+				</Header>
+				<Paragraph><Text>- Этому оборудованию нужна энергия, чтобы работать на полной скорости!</Text>
+</Paragraph>
+				<Paragraph><Text>- Для подачи конвейерных блоков необходим Бункер.</Text>
+</Paragraph>
+				<Paragraph><Text>- Не используйте другие блоки! Авто-строитель не сможет разместить другие блоки!</Text>
+</Paragraph>
+				<Header>
+					<Text>Внимание!</Text>
+				</Header>
+				<Paragraph><Text>-_-</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

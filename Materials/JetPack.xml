@@ -1,0 +1,25 @@
+<MaterialEntry>
+	<Key>JetPack</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Jet Pack</Text>
+				</Title>
+				<Icon>
+					<Name>Jet Pack</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>You&#39;ve discovered a way to make short duration flights. You have a feeling it will use a lot of power.\n Use &#39;Shift&#39; + &#39;Space&#39; to toggle Hover-Mode on and off</Text>
+				</Paragraph>
+			
+				<Paragraph>
+					<Text>Activate by pressing &#39;J&#39;. You only need one of these and it must be kept in your inventory to function.</Text>
+				</Paragraph>
+			
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>RubyFocusingLens</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rubiininen tarkennuslinssi</Text>
+				</Title>
+				<Icon>
+					<Name>Ruby Focusing Lens</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Aseta laaserenergialähettimeen parantaaksesi energiansiirtonopeutta.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Virransiirtonopeus:</Left>
+					<Right>150%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

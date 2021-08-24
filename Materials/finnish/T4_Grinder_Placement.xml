@@ -1,0 +1,49 @@
+<MaterialEntry>
+	<Key>T4_Grinder_Placement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kovakiviraavin</Text>
+				</Title>
+				<Icon>
+					<Name>T4_Grinder</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Meidän täytyy saada uuden teknologian koneet jaloilleen. Tähän meillä on kertakäyttöraavin. Pari näitä pitäisi olla juuri tarpeeksi antaakseen malmia paljon isompaan järeämpään kaivinkoneeseen.</Text>
+				</Paragraph>
+	
+				<Spacer/>
+			
+				<Paragraph>
+					<Text>Käytön pitäisi olla melko suoraviivaista. Etsi tai tee 3x3 vaakasuuntainen tasainen alue malmiini jota haluat (kromi or molybdeeni), aseta raavin, anna sille virtaa, odota kunnes se on valmis ja anna sille paljon varastohypyttimiä valmiin materiaalin lähettämiseksi.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Jos 3x3 vaakasuoran alueen löytäminen on hankalaa käytä nanohajottimia tai ladattuja räjähteitä!</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Nämä koneet ovat kamalan tehottomia ja kalliita vaatien suuren määrän jalostettua hartsia ympäröivistä pesämielistä. Meidän pitäisi siirtyä parempiin louhimiin heti kun mahdollista.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>NanoDisintegrator</Material>
+					</Target>
+					<Text>NanoDisintegrator</Text>
+				</Link>
+
+				<Icon>
+					<Name>Trencher Drill component</Name>
+					<Target><Material>TrencherDrillPlacement</Material>
+</Target>
+				</Icon>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

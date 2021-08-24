@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Key>BlueGlowPod</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Sininen hohtopalko</Text>
+				</Title>
+				<Icon>
+					<Name>Blue GlowPod</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tämä paikallinen kasvilaji lähettää tasaista sinistä hehkua kasvin pinnan alla tapahtuvan kemikaalisen reaktion takia.</Text>
+				</Paragraph>
+		
+				<Spacer/>
+				<Paragraph>
+					<Text>Tämä kasvi voidaan polttaa virran tuottamiseksi.</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

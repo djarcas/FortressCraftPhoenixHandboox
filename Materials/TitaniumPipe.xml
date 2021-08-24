@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>TitaniumPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Titanium Pipe</Text>
+				</Title>
+				<Icon>
+					<Name>Titanium Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A simple titanium pipe created from titanium bars in a Pipe Extrusion Plant.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

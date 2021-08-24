@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>EmeraldCrystal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>翡翠晶体</Text>
+				</Title>
+				<Icon>
+					<Name>Emerald Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>翡翠晶体是用作各类升级的基础成分的一种稀有材料。 它可以在-75到-150深度之间的洞穴中找到。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

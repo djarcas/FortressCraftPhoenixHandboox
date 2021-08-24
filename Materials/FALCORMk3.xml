@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>FALCORMk3</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>HerbiCor</Text>
+				</Title>
+				<Icon>
+					<Name>HerbiCor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The HerbiCOR Collects nearby outdoor unharvested Plants and returns them. This is a destructive process, but scans show that a single HerbiCOR should be able to reach between 7 and 10 thousand plants. It may take many hours to clear the area, but this should be more than enough organics for all our needs. Needs attached storage hopper.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

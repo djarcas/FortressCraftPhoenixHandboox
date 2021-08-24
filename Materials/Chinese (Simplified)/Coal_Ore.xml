@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>CoalOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>煤</Text>
+				</Title>
+				<Icon>
+					<Name>Coal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>在中央电力枢纽和热能发电机中可燃的高能量密度材料。</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>可以采用矿物分离器开采煤炭。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

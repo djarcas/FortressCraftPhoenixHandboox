@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>TinWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>锌线</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Wire</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>由挤压机中的锌锭制成的简单锌线。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

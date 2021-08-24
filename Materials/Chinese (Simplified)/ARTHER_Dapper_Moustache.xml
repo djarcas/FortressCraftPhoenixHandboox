@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERDapperMoustache</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER 八字胡</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Dapper Moustache</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>在这里插入“moustache ride”笑话。 仅当你拥有Dapper独立支持者DLC（Dapper Indie Supporter DLC）时才有效。 只需一份，放入物品栏以生效。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

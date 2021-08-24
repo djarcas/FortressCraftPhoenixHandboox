@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T4 Power</Handle>
+	<Title>Réseau d\&apos;Énergie-Ultra</Title>
+	<Icon>Ultra-Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Réseau d\&apos;Énergie-Ultra</Text>
+				</Title>
+				<Icon>
+					<Name>Ultra-Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nous avons terminé le design pour une batterie massive capable de stocker une très grande quantité d\&apos;énergie.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

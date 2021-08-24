@@ -1,0 +1,22 @@
+﻿<Chapter>
+	<Handle>Local Life Forms</Handle>
+	<Title>Lokala Livsformer</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lokala Livsformer</Text>
+				</Title>
+				<Icon>
+					<Name>Local Life Forms</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Denna planet är inte död! Skannrar upptäcker både växt- och djurlivsformer. Detta projekt kommer att undersöka livsformer och avgöra om de utgör ett hot.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

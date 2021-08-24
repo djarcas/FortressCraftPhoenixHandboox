@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Key>LaboratoryPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Компонент Лаборатории</Text>
+				</Title>
+				<Icon>
+					<Name>Laboratory Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>В Лаборатории исследуются сложные проекты, которые помогают поднять существующий уровень технологии, разблокируя новые проекты и рецепты. Для строительства нужно 27 Компонентов Лаборатории, размещаемых по схеме 3х3х3.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>За подробностями по использованию Лаборатории обратитесь к справке:</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research Guide</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

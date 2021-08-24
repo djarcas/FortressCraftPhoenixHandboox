@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>IronWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Eisendraht</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Wire</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

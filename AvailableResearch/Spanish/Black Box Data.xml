@@ -1,0 +1,22 @@
+﻿<Chapter>
+	<Handle>black box</Handle>
+	<Title>Datos de caja negra</Title>
+	<Icon>&gt;Black Box Data</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Datos de la caja negra</Text>
+				</Title>
+				<Icon>
+					<Name>Black Box Data</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Su traje contiene una caja negra que almacenó todas las lecturas del sensor que provocó su accidente en el planeta. Investigar estos datos podría ayudarte a determinar qué sucedió exactamente.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

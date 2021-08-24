@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ConveyorBeltFilter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kuljetinhihnasuodatin</Text>
+				</Title>
+				<Icon>
+					<Name>Conveyor Belt Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Käytä kuljetinhihnasuodatinta saadaksesi tarkemman otteen resurssien jakaumasta kuljetinverkossasi. Tällä suodattimella voi ohjata mitä materiaalia poistetaan hypyttimestä kuljetinverkkoon. Voit asettaa suodattimen poistamaan ROSKAA, MALMIA, ORGAANISTA, JALOKIVIÄ, HIILTÄ, BIOMASSAA, SULATETTAVAA, SYTTYVÄÄ, TUOTETTUJA ESINEITÄ, KRISTALLIA tai VAIN HARKKOJA. &quot;</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

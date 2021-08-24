@@ -1,0 +1,25 @@
+﻿<MaterialEntry>
+	<Key>GoldBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>金条</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Gold Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>金条通常用在先进的机器中，特别是那些需要高质量电接触的机器。 黄金也可用于制造装饰品。 它们是由金矿制成的，可以在地表以下至少250米处找到。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

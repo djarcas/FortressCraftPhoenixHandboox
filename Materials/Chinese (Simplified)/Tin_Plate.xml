@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>TinPlate</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>锌板</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>由锌锭在冲压机制造的一个简单的锌质板材。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

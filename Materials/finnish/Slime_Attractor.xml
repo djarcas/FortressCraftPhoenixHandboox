@@ -1,0 +1,60 @@
+﻿<MaterialEntry>
+	<Key>SlimeAttractor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Limahoukutin</Text>
+				</Title>
+				<Icon>
+					<Name>Slime Attractor </Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot; Limahoukutin on ensimmäinen askel vihamielisen ympäristön uhkien kukistamisessa. Käyttämällä toveriensa hajoavia jäänteitä limojen houkuttelu on nyt mahdollista. &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>&quot; Vaikka tykkien teknologia ei pysty huomaamaan tätä uhkaa limojen toistuvat kuolemat painovoiman kourissa osoittavat että ne eivät ole immuuneja luonnollisemmille tuhoamistavoille.&quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Spoiled Organic Remains</Material>
+					</Target>
+					<Text>Spoiled Organic Remains</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Virtavaatimus:
+					Vaatii:</Left>
+					<Right>Ei
+					Pilaantunut orgaaninen jäänne</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ongelmanratkonta</Text>
+				</Title>
+				<Spacer/>
+				<Spacer/>
+				<Spacer/>
+				<Paragraph>
+					<Text>* Limat jäävät joskus loukkuun ansalle vievän huonon reitin takia tai huonoon kutemispaikkaan. Hyvin toimivan ansan pitäisi tappaa limoja säännöllisesti. Jos näin ei ole kävele ympäriinsä ja etsi ongelmapaikkoja johon limat kerääntyvät ryhmiin.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>* Kuten pelaajat limat voivat matkustaa 1m palikan ylös automaattisesti. Siksi etsi mäkiä ja kukkuloita joihin limat voisivat jäädä kiinni koska korkeuserot eivät ole tarpeeksi sulavia. Jos löydät tälläisiä yritä suoristaa niitä. Jos se on suuri vuori usein yksinkertaisen tunnelin kaivaminen voi luoda toimivan reitin. Lisäksi limat voivat jäädä jumiin 1m korkeisiin tiloihin. Kuten pelaajat ne tarvitsevat 2m korkean vapaan tilan kulkeakseen joten joko täytä pienet kolot tai kaiva ne 2m tiloiksi.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>&quot;* Yritä rakentaa limahoukuttimesi kauas tukikohdastasi. Maanalaiset lattiat jotka on louhittu kuten myös Spiderbotin maastovahinko voivat luoda yllättäviä maastovaikeuksia limoille. &quot;</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

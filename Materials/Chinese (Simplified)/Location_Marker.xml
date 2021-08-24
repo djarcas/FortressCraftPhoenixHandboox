@@ -1,0 +1,31 @@
+﻿<MaterialEntry>
+	<Key>LocationMarker</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>位置标记仪</Text>
+				</Title>
+				<Icon>
+					<Name>Location Marker</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>位置标记仪可以用于存储一组坐标，然后可用于任何需要坐标的机器，例如传送器。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>用法</Text>
+</Header>
+				<Paragraph>
+					<Text>创建位置标记后，将其放在您的快捷栏中，选中，并将建造枪指向所需的位置。 然后按（默认为“LMB”）。 如果成功了，您的头部显示将在选中位置标记时在目标点上显示一列光。</Text>
+				</Paragraph>
+				<Spacer/>
+					<Paragraph>
+					<Text>请注意，您的防护服不支持同时与多个位置标记交互，因此我们建议您在物品栏中携带一个位置标记，以避免混淆。</Text>
+				</Paragraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Bedrock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Коренная Порода</Text>
+				</Title>
+				<Icon>
+					<Name>Bedrock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Один из основных типов пород. Может быть измельчен в Измельчителе для извлечения полезной руды. Можно использовать в строительстве.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

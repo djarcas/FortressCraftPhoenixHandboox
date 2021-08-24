@@ -1,0 +1,44 @@
+﻿<MaterialEntry>
+	<Key>GasBottlerPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>气体装瓶机</Text>
+				</Title>
+				<Icon>
+					<Name>T4_Gas_Bottler</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>气体装瓶机是微粒精炼过程中的最后一步，能够将上述粒子输出到单一容器中。 以3x3x9的形式建造。</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>T4_Particles</Chapter>
+					</Target>
+					<Text>Particulate Filtration System</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Filter</Material>
+					</Target>
+					<Text>Particle Filter</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Compressor</Material>
+					</Target>
+					<Text>Particle Compressor</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Storage</Material>
+					</Target>
+					<Text>Particle Storage</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

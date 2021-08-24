@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>StorageCrate</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Massenlager</Text>
+				</Title>
+				<Icon>
+					<Name>StorageCrate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Lesen Sie \&quot;Brust\&quot;. Platzieren von Massenlagern nebeneinander erstellt einen größeren kombinierten Speicher. Jede Kiste kann 2 Gegenstände aufnehmen.</Text>
+				</Paragraph>
+        </Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,22 @@
+﻿<Chapter>
+	<Handle>Local Life Forms</Handle>
+	<Title>本地生命形态</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>本地生命形态</Text>
+				</Title>
+				<Icon>
+					<Name>Local Life Forms</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>这个星球并非一片死寂！ 扫描仪正在检测动植物的生命形态。 该项目将调查各种生命形态并确定它们是否存在威胁。</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,29 @@
+﻿<MaterialEntry>
+	<Key>StamperPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Stanze</Text>
+				</Title>
+				<Icon>
+					<Name>Stamper Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die Stanze ist eine reguläre Förderanlage, die Barren zu Platten presst.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Verwendung</Text>
+				</Header>
+				<Paragraph>
+					<Text>Führen Sie Metallbarren von einem Förderband, einer Förderbandbasierten Maschine oder einem Förderband-Drehtisch in die Stanze ein. Die Stanze wandelt die Barren in Platten um, die in zusätzlichen Rezepten verwendet werden können.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Die Stanze ist essentiell für die Automatisierung der Laborforschung.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

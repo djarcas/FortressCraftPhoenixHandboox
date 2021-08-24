@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>StorageCrate</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>储物箱</Text>
+				</Title>
+				<Icon>
+					<Name>StorageCrate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>读作\&apos;chest\&apos;。 将存储箱放在一起，将创建一个更大的组合存储。 每个箱子有2个项目槽位。</Text>
+				</Paragraph>
+        </Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

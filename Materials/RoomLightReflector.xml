@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>SpaceColumn</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Room Light Reflector</Text>
+				</Title>
+				<Icon>
+					<Name>Space Column</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Reinforced wall, specifically designed for Rooms.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

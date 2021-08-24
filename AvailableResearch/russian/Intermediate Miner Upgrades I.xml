@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 3</Handle>
+	<Title>Промежуточные улучшения добычи I</Title>
+	<Icon>Ore Smelter</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Промежуточные улучшения добычи I</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Базовые плавильни слишком медлительны и тратят драгоценные ресурсы. Настало время начать исследование расширения возможностей Плавильни, поставляемой вместе с Центральным энергетическим концентратором.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

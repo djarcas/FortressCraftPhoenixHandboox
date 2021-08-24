@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>AutoOrganicRemoverPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Auto Organic Thief</Text>
+				</Title>
+				<Icon>
+					<Name>Auto Organic Thief</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Automatically removed ruined parts from your inventory.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

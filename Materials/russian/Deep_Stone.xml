@@ -1,0 +1,22 @@
+﻿<MaterialEntry>
+	<Key>DeepStone</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Глубинный Камень</Text>
+				</Title>
+				<Icon>
+					<Name>Deep Stone</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Основной тип породы ниже 65 метров за исключением Холодных и Токсичных пещер. Можно пустить в Измельчитель для возможного получения полезной руды. 
+Размещаемый тип блока.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

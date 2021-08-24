@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Key>ArmourPiercingWarheadFitter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Armour Piercing Warhead Fitter</Text>
+				</Title>
+				<Icon>
+					<Name>Warhead Fitter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Improves Plasma-Imbued Missiles by using Pristine Stingers to sharpen the warhead and harden the missile. Increases damage 6 fold. </Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>This machine requires hoppers holding at least 1 Plasma-Imbued Missile and Pristine Stinger to start the fitting process.</Text>
+				</Paragraph>
+
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Manufacturing Time:
+					Power Required:
+					Power Capacity:
+					Max. Power Recharge Rate:</Left>
+					<Right>15 seconds
+					8 per second
+					128
+					100 per second</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

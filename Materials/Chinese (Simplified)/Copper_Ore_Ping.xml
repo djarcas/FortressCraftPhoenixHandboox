@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>CopperOrePing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>铜矿扫描脉冲</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Ore Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>如果以前发现的铜矿脉快要耗尽或太小而无开采价值，则可以使用铜矿石扫描脉冲找到新的的铜矿脉。 有关更多信息，请参阅空白矿石扫描脉冲的帮助指南。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Blank Ore Ping</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

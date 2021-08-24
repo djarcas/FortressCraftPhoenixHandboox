@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Leaves</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Листья</Text>
+				</Title>
+				<Icon>
+					<Name>Leaves</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Может собирать с деревьев, потом построить из них что-нибудь или измельчить.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

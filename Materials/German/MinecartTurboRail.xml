@@ -1,0 +1,128 @@
+﻿<MaterialEntry>
+	<Key>MinecartTurboRail</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Einfache Lore</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Minecarts sind für Massentransfer von Gegenständen mit einer mittleren Rate.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;Höchstgeschwindigkeit:
+ Max Speicher:
+ Beschleunigung:
+ &quot;</Left>
+					<Right>1m/s
+ 25
+ 0.5m/s/s
+ 16
+ 15 Sekunden</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Der Einsatz von Minecarts ist geradlinig und erweitert einfach das bisherige Lagercontainer -&gt; Förderband-/Transportröhren-transportieren. Minikarren werden über ein Minenkartdepot in Ihr Minenkartellnetzwerk geladen.</Text>
+&gt;
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Minecart Depot</Material>
+					</Target>
+					<Text>Minecart Depot</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Einfache Lore</Text>
+				</Title>
+				<Paragraph>
+					<Text>Sobald Sie in Ihr Minenkarren-Netzwerk eingetreten sind, werden Minenkarts an den Stationen zum Laden und Entladen anhalten und ihre transportierten Ressourcen einsammeln und abgeben.</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Minecart Load</Name>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Load Station</Material>
+					</Target>
+					<Text>Minecart Load</Text>
+				</Link>
+				<Icon>
+					<Name>Minecart Unload</Name>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Unload Station</Material>
+					</Target>
+					<Text>Minecart Unload</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+			<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Erweiterte Minecart-Steuerung</Text>
+				</Title>
+				<Paragraph>
+					<Text>Für eine feinere Kontrolle über die Bewegung und den Erztransport Ihrer Minencarts stehen Ihnen eine Reihe von Werkzeugen zur Verfügung, um Verhalten und Entscheidungen zu ändern.</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Minecart Turbo Rail</Name>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Turbo Rail</Material>
+					</Target>
+					<Text>Minecart Turbo Rail</Text>
+				</Link>
+				<Spacer/>
+				<Icon><Name>MinecartBufferFull</Name>
+</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Full Gate</Material>
+					</Target>
+					<Text>Minecart Full Gate</Text>
+				</Link>
+				<Spacer/>
+				<Icon><Name>MinecartBufferEmpty</Name>
+</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Empty Gate</Material>
+					</Target>
+					<Text>Minecart Empty Gate</Text>
+				</Link>
+				<Spacer/>
+
+		
+			</Paragraphs>
+		</Page>
+		<Page>
+		<Paragraphs>
+				<Icon>
+			     <Name>Minecart</Name>
+			     <Link>
+			      <Target>
+			       <Text>Minecart Turbo Rail</Text>
+			      </Target>
+			     </Link>
+			    </Icon>
+
+		</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

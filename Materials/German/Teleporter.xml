@@ -1,0 +1,52 @@
+﻿<MaterialEntry>
+	<Key>Teleporter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Personenteleporter</Text>
+				</Title>
+				<Icon>
+					<Name>Teleporter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Teleporter ermöglicht es einem Benutzer, sich sofort an einen vorher festgelegten Ort zu teleportieren. Benutzen; Den Teleporter mit ausreichend Strom versorgt, draufstellen und die Sprungtaste drücken (Standard \&quot;Leertaste\&quot;). Die benötigte Energie hängt von der teleportierten Entfernung ab.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Standortmarker</Text>
+</Header>
+				<Icon>
+					<Name>Location Marker</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+	
+				<Paragraph>
+					<Text>Der Teleporter benötigt eine Standortsmarkierung, die auf das Ziel verweist. Fügen Sie den Standortmarker in den Teleporter ein, indem Sie die Interaktions-Taste drücken (Standard \&apos;E\&apos;). Für weitere Informationen über Standortmarkierungen folgen Sie bitte dem unten stehenden Link.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Location Marker</Material>
+					</Target>
+					<Text>Location Marker</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Maximale Teleportentfernung:
+ Benötigte Leistung:
+ Leistungskapazität:
+ Maximale Ladekapazität:</Left>
+					<Right>Unbegrenzt
+ 40 pro Meter
+ Doppelte Teleport-Gesamtkosten
+ Unbegrenzt</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>Seed_UnderGrump</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>UnderGrump Seed</Text>
+				</Title>
+				<Icon>
+					<Name>UnderGrump</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Used to plant UnderGrumps or for use in the Ampule Crafter</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

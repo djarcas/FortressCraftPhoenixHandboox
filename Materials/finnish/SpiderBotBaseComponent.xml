@@ -1,0 +1,66 @@
+﻿<MaterialEntry>
+	<Name>SpiderBot Base Component</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Robohäkkitukikohta</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot Core Charger</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;SpiderBot-tukikohta on ensisijainen tapa vuorovaikuttaa liikkuvan tukikohdanpuolustusrobottisi kanssa. Tuttavallisemmin tunnetaan myös SpiderBro:na tai Henriettana riippuen kumman sukupuolen olet valinnut.
+
+ Kaikki Spiderbot virta ja päivitykset toimitetaan Spiderbot-tukikohtaan logistisilla hypyttimillä. Jokainen liitetty hypytin pystyy toimittamaan 1 esineen joka 1,2 sekuntti. Käytä paljon sivun tilaa maksiminopeuden saavuttamiseksi.
+
+ SpiderBot itse pystyy pitämään 150 000 virtaa. Virta toimitetaan Spiderbot-tukikohdanlaturilla joka tekee Spidetbot-ytimiä. Nämä asetetaan logistisiin hypyttimiin.
+
+ SpiderBot:lla on 3 tason asepäivityksiä. Jokainen näistä tarvitsee tehdä käsin ja asettaa liitettyihin logistisiin hypyttimiin. SpiderBot palaa sitten automattisesti telakoitumaan ja asentaa esineen. 
+
+ Vain yksi jokaista asepäivitystä tarvitaan; kopiot jätetään huomiotta.
+ &quot;</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Saatavilla olevat asennettavat päivitykset</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SpiderBot Core Charger</Material>
+					</Target>
+					<Text>SpiderBot Core Charger</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>SpiderBot Blaster</Material>
+					</Target>
+					<Text>SpiderBot Blaster</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>SpiderBot Cannon</Material>
+					</Target>
+					<Text>SpiderBot Cannon</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>SpiderBot Particle Rifle</Material>
+					</Target>
+					<Text>SpiderBot Particle Rifle</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Key>ZipperMerge</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>拉链合并</Text>
+				</Title>
+				<Icon>
+					<Name>Zipper Merge</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>拉链合并器完美地合并了两条传送带，比例为1：1。 拉链合并能够每分钟输出100个单位。 拉链合并对于自动化生产需要两种物品（如低等级钢合金）的项目最为有效。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Conveyor Belt</Material>
+					</Target>
+					<Text>Conveyor Belt</Text>
+				</Link>
+			
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

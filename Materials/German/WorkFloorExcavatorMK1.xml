@@ -1,0 +1,33 @@
+﻿<MaterialEntry>
+	<Key>WorkFloorExcavator_MK1_Key</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Bagger MK1</Text>
+				</Title>
+				<Icon>
+					<Name>&gt;Workfloor Excavator MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Das Erstellen eines einfachen Raumes ist mühsam, wenn es von Hand gemacht wird. Diese Maschine wird einen 3 m hohen Tunnel in einer Entfernung von 32 m freiräumen. Es hat keinen Einfluss auf die Erze, was bedeutet, dass du es neben deinem Erzbohrer verwenden kannst, um herumzuräumen. Weit offene Arbeitsräume sind förderlich für organisierte Basen!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Alignment>Center</Alignment>
+					<Left>&quot;Reichweite:
+Energie pro Block:
+Zerstört Erze:
+ &quot;</Left>
+					<Right>32m
+64
+Nein</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

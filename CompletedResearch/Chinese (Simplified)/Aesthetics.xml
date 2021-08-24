@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>aesthetics</Handle>
+	<Title>美化</Title>
+	<Icon>Hello_Kitty1</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>美化</Text>
+				</Title>
+				<Icon>
+					<Name>Hello_Kitty1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>在我们不太可能拥有的一些闲暇时光里，我们可以用各种彩色的储物箱和帆布来美化我们的基地。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

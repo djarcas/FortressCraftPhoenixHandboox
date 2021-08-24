@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>EmeraldCrystal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Smaragdikide</Text>
+				</Title>
+				<Icon>
+					<Name>Emerald Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Smaragdikide on harvinainen materiaali jota käytetään päivityksien pohja-aineena. Löytyy syvyyksien -75 ja -150 välisistä luolista.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

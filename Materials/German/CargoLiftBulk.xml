@@ -1,0 +1,53 @@
+<MaterialEntry>
+	<Key>CargoLiftBulk</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Riesiger Warenlift</Text>
+				</Title>
+				<Icon>
+					<Name>Bulk Cargo Lift</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Größte aller Warenlifte (Frozen Factory). Dieser Aufzug ist Ideal zum Transportieren von Chrom und Molybdän zu den Frosthöhlen. Dieser Warenlifte hat eine enorme Kapazität und ist extrem schnell!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>&#34;Reichweite:
+ Maximalgeschwindigkeit:
+ Beschleunigung:
+ Maximalkapazität:
+ Energieverbrauch (in Fahrt):
+ &#34;</Left>
+					<Right>&#34;unbegrenzt
+ 15 Meter/s
+ 0.5 Meter/s
+ 3000
+ 850 EPS
+ &#34;</Right>
+				</TwoColumnParagraph>
+
+				<Icon>
+					<Name>Cargo Lift Controller</Name>
+					<Target><Material>Cargo Lift Controller</Material>
+</Target>
+				</Icon>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Cargo Lift Controller</Material>
+					</Target>
+					<Text>CargoLift Controller</Text>
+				</Link>
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

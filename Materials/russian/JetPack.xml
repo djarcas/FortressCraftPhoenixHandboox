@@ -1,0 +1,25 @@
+<MaterialEntry>
+	<Key>JetPack</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Реактивный Ранец</Text>
+				</Title>
+				<Icon>
+					<Name>Jet Pack</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Вы открыли способ совершать непродолжительные полёты. У вас есть ощущение, что это потребует много энергии...</Text>
+				</Paragraph>
+			
+				<Paragraph>
+					<Text>Активировать, нажимая «J» (по-умолчанию). Вам достаточно только одного такого предмета в инвентаре.</Text>
+				</Paragraph>
+			
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

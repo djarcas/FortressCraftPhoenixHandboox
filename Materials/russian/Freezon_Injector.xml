@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>FreezonInjector</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Инжектор Морозона</Text>
+				</Title>
+				<Icon>
+					<Name>Freezon Injector</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Морозоновый Инжектор использует Канистры с Морозоном для заметного повышения производительности соответствующего оборудования.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Эффекты</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;Геотермальный генератор
+Криоплазменное Копьё
+Аблятор Смолы
+Разжижитель Смолы
+ &quot;</Left>
+					<Right>10x генерация энергии
+28x скорость очистки
+54x Ускорение
+54x Ускорение</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

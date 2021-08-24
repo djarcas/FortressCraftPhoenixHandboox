@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>ore pings</Handle>
+	<Title>Parannettu malminluotaus</Title>
+	<Icon>Improved Ore Scanning</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Parannettu malminluotaus</Text>
+				</Title>
+				<Icon>
+					<Name>Improved Ore Scanning</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Etsiessämme resursseja tukikohdan laajentamiseen törmäsimme ongelmaan!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Malmiluotaimemme on säädetty tuntemattomien materiaalien paikantamiseen ja luokitteluun. Sen kyky löytää uusia lähteitä tunnetuille materiaaleille on rajallinen. Pitäisi olla mahdollista käyttää pieniä määriä malmeja suodattimena, jolloin löydäisimme juuri tarvitsemamme resurssit.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

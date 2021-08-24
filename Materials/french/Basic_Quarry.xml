@@ -1,0 +1,42 @@
+﻿<MaterialEntry>
+	<Key>BasicQuarry</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Carrière Basique</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Quarry</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>La carrière creuse la terre sous elle est récolte toutes les ressources trouvées. Doit être construite au dessus de -25m. Les ressources seront placées dans les trémies attachées.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Taille de la Carrière:
+ Profondeur de la Carrière:
+ Énergie Requise:
+ Capacité Énergétique:
+ Taux maximal de Recharge d’Énergie:
+ Durabilité Maximale Creusée:
+ Vitesse Maximale d\&apos;Extraction:
+ Efficacité d\&apos;Extraction :</Left>
+					<Right>9m x 9m
+ 3950
+ 150 par 1m cube
+ 4096
+ 1024 par seconde
+ 250
+ 5 mètres cube par seconde
+ 10%</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

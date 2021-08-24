@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Key>TrencherDrillPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Icon>
+					<Name>Trencher Drill component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+	
+				<Spacer/>
+			
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

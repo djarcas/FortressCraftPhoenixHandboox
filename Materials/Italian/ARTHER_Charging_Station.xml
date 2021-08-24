@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Key>ARTHERChargingStation</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Charging Station</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text></Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left></Left>
+					<Right></Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

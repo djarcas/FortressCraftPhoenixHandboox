@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Key>MassStorageBlock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Блок Склада</Text>
+				</Title>
+				<Icon>
+					<Name>Bound Metal Crate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Это основной блок для автоматизированного Склада. Доступ к нему невозможен вручную. Каждый блок может хранить стопку из 25 предметов. Размещение рядом друг с другом этих Блоков создает более крупный Склад.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Внимание!</Text>
+				</Header>
+				<Paragraph><Text>Не путать с Ящиками!</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

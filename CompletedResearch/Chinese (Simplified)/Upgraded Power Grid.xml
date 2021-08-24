@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>T2 Power</Handle>
+	<Title>升级款能量块</Title>
+	<Icon>Upgraded Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>升级款能量块</Text>
+				</Title>
+				<Icon>
+					<Name>Upgraded Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>我们开发了一种能够承受更大电量的新电池。我们还有为更大功率的激光输电器的设计，但这需要比地表附近发现的更先进的材料。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>进一步改进我们的储能和传输是可能的，但是在我们能够做到这一点之前，我们将需要对更先进的材料进行研究。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

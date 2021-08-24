@@ -1,0 +1,43 @@
+﻿<MaterialEntry>
+	<Key>PowerBoosterMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Power Boosters MK1</Text>
+				</Title>
+				<Icon>
+					<Name>MK1 Power Booster</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					<Text>使用将立即恢复ARTHER的电源。做好计划，您可以延长地下行程并为机器充能。这些是由Power Boosters充能设备自动制造的。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>容量：</Left>
+<Right>100</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK2</Material>
+					</Target>
+					<Text>ARTHER Power Booster MK2</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>MK1PowerBoosterCharger</Material>
+					</Target>
+					<Text>Crafted by MK1 Power Booster Charger</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

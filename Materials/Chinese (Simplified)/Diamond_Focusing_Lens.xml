@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>DiamondFocusingLens</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>钻石聚焦镜头</Text>
+				</Title>
+				<Icon>
+					<Name>Diamond Focusing Lens</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>插入激光发射器以提高其传输功率。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>传输功率：</Left>
+					<Right>115%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,33 @@
+﻿<MaterialEntry>
+	<Key>ForcedInductionMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Усиливающий Индуктор МК2</Text>
+				</Title>
+				<Icon>
+					<Name>Forced InductionT2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Усиливающие Индукторы являются модулями, увеличивающими скорость плавки руда за счет значительного увеличения потребления энергии. Чтобы использовать модуль, поместите его поверх Плавильни.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Базовая Плавильня не поддерживает установку Усиливающего Индуктора.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Скорость литья:
+Потребление Э/с:</Left>
+					<Right>300%
+1600%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

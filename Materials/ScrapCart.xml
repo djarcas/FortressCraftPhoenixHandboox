@@ -1,0 +1,42 @@
+<MaterialEntry>
+	<Name>Scrap Freight Cart</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Scrap Freight Cart</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Slow intelligent resource transport.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Max Speed:
+					Max Storage:
+					Acceleration:
+					</Left>
+					<Right>0.25m/s
+					5
+					0.5m/s/s</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Slow moving cart capable of intelligent distribution of goods between stations.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Freight Cart Depot</Material>
+					</Target>
+					<Text>Freight Cart Depot</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,26 @@
+﻿<Chapter>
+	<Handle>Mynocks</Handle>
+	<Title>Mynocktartunta</Title>
+	<Icon>Local Life Forms</Icon>
+	<Hidden>true</Hidden>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mynocktartunta</Text>
+				</Title>
+				<Icon>
+					<Name>Local Life Forms</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Tämä kuljetinhihna on saanut muukalaistartunnan. Muukalainen näyttää varastavan resursseja hihnalta mutta resurssit eivät näytä jäävän sen kehon sisään. Sen sijaan ne näyttävät suuntautuvan juuristoon maassa. Luotaimemme näyttävät näiden juurien johtavan kohti keskusydintä. Meidän pitäisi tutkia tämä asia kiirellisenä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Riippumatta siitä mihin nämä varastetut resurssit menevät haluamme lopettaa sen. Muukalaisten rakenne näyttää olevan heikko energia-aseille. Meidän tulisi tutkia niiden heikkouksia lisää minkä pitäisi mahdollistaa automatisoidun puolustuksen rakentamisen niitä vastaan. Pitkällä tähtäimellä meidän tulisi tutkia resurssikuljetusmenetelmiä jotka eivät ole yhtä avoimia hyökkäyksille. Nyt voimme tappaa ne sädepyssyllä (V) mutta ne luultavasti tulevat takaisin nopeasti.</Text>
+				</Paragraph>
+			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

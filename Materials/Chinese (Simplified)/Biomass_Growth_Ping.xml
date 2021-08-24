@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>BiomassGrowthPing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>生物质扫描脉冲（Biomass Growth Ping）</Text>
+				</Title>
+				<Icon>
+					<Name>Biomass Growth Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>当通过未知材料扫描脉冲得到的位置不足时，生物质扫描脉冲用于寻找额外的生物质。 有关更多信息，请参阅空白矿石扫描脉冲的帮助指导。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Blank Ore Ping</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

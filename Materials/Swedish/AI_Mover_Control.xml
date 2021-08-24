@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>AIMoverControl</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>AI Resurs Kontroller</Text>
+				</Title>
+				<Icon>
+					<Name>AI Mover Control</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Denna robot kommer att förflytta en sak åt gången från en hopper till en annan. Respektive på dem lokala hoppers tillstånd.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,29 @@
+<MaterialEntry>
+	<Key>PCBAssemblingPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>PCB Assembling Plant</Text>
+				</Title>
+				<Icon>
+					<Name>PCB Assembling Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The PCB Assembling Plant is a regular conveyor fitted with a machine for manufacturing printed circuit boards from Coils of wire, and behaves like a Conveyor in all circumstances.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Usage</Text>
+				</Header>
+				<Paragraph>
+					<Text>Feed coils into the PCB Assembling Plant, ideally directly from aa Coiler Plant. The PCB Assembling Plant will convert the coils into PCBs which can be used in additional recipies.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>The PCB Assembling Plant is essential for the automation of Laboratory Research.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

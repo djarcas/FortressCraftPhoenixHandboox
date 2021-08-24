@@ -1,0 +1,33 @@
+﻿<MaterialEntry>
+	<Key>HeatConductingPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Wärmeleitendes Rohr</Text>
+				</Title>
+				<Icon>
+					<Name>Heat Conducting Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Wärmeleitende Rohre vereinen die Fähigkeiten von flüssigkeiten transportierenden Kupferrohren und Druckresistenten Kristallfibergeweben. Diese Neuerung ermöglicht das effiziente Einsetzen von Geothermalgeneratoren, was diese zu einer idealen Lösung unserer immer wachsenden Energieprobleme macht.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Pipe Coater</Material>
+					</Target>
+					<Text>Pipe Coater</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Geothermal Generator comp_</Material>
+					</Target>
+					<Text>Geothermal Generator comp_</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

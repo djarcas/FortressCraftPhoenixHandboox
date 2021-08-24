@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>CrystalFiberMesh</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Кристалловолоконная Сеть</Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Fiber Mesh</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;С использованием современных технологий Кристаллическое Отложение может быть рекомбинировано на молекулярном уровне. Эта сеть способна противостоять сильному нагреву и давлению. Она создана в Сетеплёте и является основным материалом специальных труб, делающих возможным использование геотермальной энергии. &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Mesh Weaver</Material>
+					</Target>
+					<Text>Crystal Mesh Weaver</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

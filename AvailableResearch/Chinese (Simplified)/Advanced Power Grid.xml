@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T3 Power</Handle>
+	<Title>高级能量网络</Title>
+	<Icon>Advanced Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>高级能量网络</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>我们最近发现的材料应该能使我们的电力设施得到进一步的提升。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ZipperMergeFast</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rapid Zipper Merge</Text>
+				</Title>
+				<Icon>
+					<Name>Zipper Merge Fast</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Rapidly combines 2 lines into 1 with a guaranteed 50:50 ratio.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

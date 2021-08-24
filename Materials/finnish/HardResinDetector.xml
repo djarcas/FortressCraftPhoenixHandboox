@@ -1,0 +1,22 @@
+﻿<MaterialEntry>
+	<Key>HardResinDetector</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kovahartsi-ilmaisin</Text>
+				</Title>
+				<Icon>
+					<Name>Hard Resin Detector</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tämä perusvaroitusjärjestelmä havainnoi kovaa hartsia. Olemme huomanneet näiden kasvustoja ympäri planeetan nukuksissa. Lämpö ja värinät tukikohdastamme näyttää houkuttelevan niitä ja on vaarana että koneistomme hukkuu kasvustoon. Näiden ilmaisimien pitäisi paikallistaa suunta josta ne tulevat sallien meidän tutkia ja jos tarpellista hoidella ne.</Text>
+				</Paragraph>
+				<Spacer/>
+
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

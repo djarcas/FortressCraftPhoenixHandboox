@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>LowGradeSteelBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>低级钢锭</Text>
+				</Title>
+				<Icon>
+					<Name>Steel Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>低级钢锭是由铁和镍在制造工厂组合而成，是许多高端制造工序的重要组成部分。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,35 @@
+<MaterialEntry>
+	<Key>HiveAgitator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hive Agitator</Text>
+				</Title>
+				<Icon>
+					<Name>Hivemind Agitator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The link between the Mynocks and the Hiveminds has been deciphered, and it seems we can reproduce the telepathic signals, meaning that we should be able to make a specific Hivemind grow, in order to farm the useful Resin.</Text>
+				</Paragraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>The growth rate can be modulated by feeding the Agitator more or less power. Approximately 25 power is needed to cause a single growth on the Hivemind. There is no particular limit on how many Agitators can be used on any number of Hiveminds. Consider this a warning.</Text>
+        </Paragraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>The centre of the Hive will need to be within 32 metres of the Agitator.</Text>
+        </Paragraph>
+        <Icon>
+          <Name>Brain Matter</Name>
+          <Target>
+            <Material>HiveCore</Material>
+          </Target>
+        </Icon>
+        <Spacer/>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

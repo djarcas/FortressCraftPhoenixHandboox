@@ -1,0 +1,28 @@
+<MaterialEntry>
+	<Key>ServoMotorMaker</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ServoMotor Maker</Text>
+				</Title>
+				<Icon>
+					<Name>ServoMotor Maker</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Turns a Copper Wire into a Servo Motor.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Manufacturing Time:</Left>
+					<Right>5 seconds</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,46 @@
+﻿<MaterialEntry>
+	<Key>RackRailer</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>机架轨道布置器</Text>
+				</Title>
+				<Spacer/>
+				<Icon>
+					<Name>Pipe Extrusion Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>机架轨布置器是一款适于把一对铁锭变成一个有用的货梯导轨的机械。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Rack Rail</Material>
+					</Target>
+					<Text>Rack Rail</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>能量需求：</Left>
+					<Right>100 pps</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Paragraph>
+					<Text>有关详细信息，请参阅货梯控制器部分。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target><Material>Cargo Lift Controller</Material>
+</Target>
+					<Text>Cargo Lift Controller</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,42 @@
+<MaterialEntry>
+	<Name>Fast Ore Freighter</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fast Ore Freighter</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart_T2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Fast, high capacity freight transit for ores.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Max Speed:
+					Max Storage:
+					Acceleration:
+					</Left>
+					<Right>1m/s
+					500
+					0.5m/s/s</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Ore freighters are high capacity freight carts.  Unlike their conventional variants they can only carry one item type at a time and it must be a type of harvestable ore.</Text>>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Freight Cart Depot</Material>
+					</Target>
+					<Text>Freight Cart Depot</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

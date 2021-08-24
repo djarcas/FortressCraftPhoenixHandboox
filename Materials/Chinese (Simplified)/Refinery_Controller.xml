@@ -1,0 +1,54 @@
+﻿<MaterialEntry>
+	<Key>RefineryController</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>精炼控制器</Text>
+				</Title>
+				<Icon>
+					<Name>Refinery Controller</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;精炼厂允许您将外星球上发现的碳水化合物重新组合成有用的材料。 它需要两部分：精炼厂控制器和精炼厂反应釜。 &quot;</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Refinery Reactor Vat Component</Material>
+					</Target>
+					<Text>Refinery Reactor Vat Component</Text>
+				</Link>
+				<Paragraph>
+					<Text>精炼控制器是保持创建所需产品所需的精确化学平衡的机器。 为了发挥作用，需要向控制器提供原始产品以及足够的功率。 连接到控制器的存储料斗可以接收输出产品。
+
+将控制器连接到反应釜。 如果已连接，弹出窗口将显示，控制器将朝向反应釜，并延伸管道以连接到它。
+
+精炼厂一次只能处理一种产品：您可以在选择控制器的同时按“e”循环浏览不同的配方。 只有在内部存储可以容纳它之前，才能开始产生新的产品; 如果仍有不同的产品在那里，生产就无法继续。
+
+您可以通过按“q”，或连接储物斗来从控制器获取产品。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>制造时间：
+  需要能量 ：
+  能量容量：
+  最大充电率：</Left>
+					<Right>&quot;10 s/桶
+ 100 /s/桶
+ 3000 /桶
+ 100  /s/桶&quot;</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

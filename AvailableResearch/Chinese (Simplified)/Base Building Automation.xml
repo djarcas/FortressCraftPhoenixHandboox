@@ -1,0 +1,29 @@
+﻿<Chapter>
+	<Handle>T1 assist machines</Handle>
+	<Title>基础自动化建筑</Title>
+	<Icon>Base Building Automation</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>基础自动化建筑</Text>
+				</Title>
+				<Icon>
+					<Name>Base Building Automation</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>像大型采矿作业这种重体力活还是交给机器来做吧，我们先休息一下！</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>这个项目将设计一种自动挖掘的机器，还可以使你横穿你的基地。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>除了自动挖掘机器外，该项目还将设法产生一种爆炸物，可以用来清除大面积物体的爆炸物。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

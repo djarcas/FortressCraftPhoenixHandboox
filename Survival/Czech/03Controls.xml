@@ -1,0 +1,190 @@
+﻿<Chapter>
+	<Handle>controls</Handle>
+	<Title>Ovládání</Title>
+	<Icon>Build Gun V2</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ovládání</Text>
+				</Title>
+				<Paragraph>
+					<Text>Toto nápověda obsahuje kompletní seznam ovládání, které je k dispozici ve hře FortressCraft Evolved. Pokud se vám zdá že toho je nějak mnoho, nemusíte mít obavy, není to tak hrozné. Pro začátek se podíváme na základní ovládání.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Některé ovládací prvky jsou k dispozici až po dokončení tutoriálu.</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>Základní ovládání</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;W, A, S &amp; D: Pohyb
+  Mezera: Skok 
+  H: Tato příručka nápovědy
+  Escape: Hlavní nabídka
+ 
+  X: Přepnout na Konstruktor 
+  LMB: Položit blok
+  RMB: Odstranit blok
+ 
+  M: Skener
+  LMB: Vyhledávání materiálu 
+  RMB: Skenování bloku
+ &quot;</Left>
+					<Right>&quot;I: Otevřete inventář
+  C: Otevřete Ruční výrobu
+  F: Vystřelí Vrhací kotvu
+  G: Odhodí Světelnou tyč 
+ 
+  E: Interakce se strojem
+  Q: Vyjmout materiál 
+  R: Otočit stroj 
+ 
+  V: Přepněte na Plazmovou Pušku
+  LMB: Vystřelit 
+  RMB: Nabíjecí výstřel
+ &quot;</Right>
+				</TwoColumnParagraph>
+				<Paragraph>
+					<Text>(LMB = levé tlačítko myši, RMB = pravé tlačítko myši)</Text>
+				</Paragraph>
+				<Header>
+					<Text>Přizpůsobení ovládání</Text>
+				</Header>
+				
+				<Paragraph>
+					<Text>Většinu ovládacích kláves si můžete přizpůsobit před spuštěním hry. V nápovědě ve hře se ale tyto změny neprojeví.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Pohyb a rozhlížení</Text>
+				</Header>
+		
+				<TwoColumnParagraph>
+					<Left>W: Pohyb dopředu
+  S: Pohyb vzad 
+  A: Úkrok vlevo
+  D: Úkrok vpravo</Left>
+					<Right>Mezera: Skok 
+  Myš: Rozhlížení 
+  U: Nastoupit do vozíku 
+  Z: Přiblížit pohled</Right>
+				</TwoColumnParagraph>
+				
+				<Header>
+					<Text>Zbraně a Nástroje</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>X: Přepnout na Konstruktor 
+  V: Přepněte na Plazmovou Pušku
+  B: Přepněte na Stabilní Pohled</Left>
+					<Right>N: Přepněte na Malířskou Pistoli
+  M: Přepněte na Skener 
+  Shift + Kolečko myši: přepínání nástrojů</Right>
+				</TwoColumnParagraph>
+					
+				<Header>
+					<Text>Inventář a Rychlé menu</Text>
+				</Header>
+	
+				<TwoColumnParagraph>
+					<Left>&quot;I: Otevřete inventář
+ F1-F7: Vyberte záložku Rychlého menu
+ 1-9 &amp; 0: Vyberte položku Rychlého menu
+ Q: Odloží zvýrazněný předmět
+ &quot;</Left>
+					<Right>&quot;Shift + Přetáhnout (LMB): Rozděllit množství
+  Control + Kolečko: Přepínání záložek
+  Kolečko myši: Přepínání pozic
+  -
+ &quot;</Right>
+				</TwoColumnParagraph>
+					
+				<Header>
+					<Text>Funkce Skafandru</Text>
+				</Header>
+	
+				<TwoColumnParagraph>
+					<Left>&quot;C: Otevřete Ruční Výrobu
+  L: Přepíná Světlomet
+  J: Přepíná Jetpack (je potřeba nejprve vyrobit)
+  F: Vystřelí Vrhací Kotvu&quot;</Left>
+					<Right>&quot;G: Odhodí Světelnou tyč
+  K: přepnout na Holografickou základnu
+  U: Přepnout režim Holografické základny
+  Mezera: Uvolnit Vrhací Kotvu&quot;</Right>
+				</TwoColumnParagraph>
+		
+				<Header>
+					<Text>Stroje</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;E: Interakce se Strojem
+  T: Uložit do Stroje
+  R: Otočí stroj ve směru hodinových ručiček
+  ]: Otočí stroj ve směru hodinových ručiček&quot;</Left>
+					<Right>&quot;O: Výjmout ze stroje
+  Shift-T: Vložit 10 položek
+  Shift-E: Vakuový režim zásobníku
+  [: Otáčí stroj proti směru hodinových ručiček&quot;</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Hra více hráčů</Text>
+				</Header>
+	
+				<Paragraph>
+					<Text>&quot;Enter: Zobrazit okno chatu
+  Pravý Shift: Zobrazit informace o serveru
+  Pravý Shift + F1, F2 nebo F3: Nastavte síťovou rychlost&quot;</Text>
+				</Paragraph>
+				<Header>
+					<Text>Konstruktor</Text>
+				</Header>
+	
+				<TwoColumnParagraph>
+					<Left>&quot;LMB: Položit blok
+  RMB: Odstranit blok
+  MMB: Výběr aktuálního bloku&quot;</Left>
+					<Right>Ctrl + LMB: Postavit až ke mě
+ Ctrl + podržet RMB: Super Težba</Right>
+				</TwoColumnParagraph>
+				
+				<Header>
+					<Text>Skener</Text>
+				</Header>
+	
+				<Paragraph>
+					<Text>&quot;Levé tlačítko myši: Průzkum Okolí
+  Pravé tlačítko myši: Skenování bloku
+  Kolečko myši: Změna módu Skeneru&quot;</Text>
+				</Paragraph>
+				<Header>
+					<Text>Plazmová Puška</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>LMB: Vystřelí Jednu Ránu</Left>
+					<Right>Držet RMB: Nabíjecí Výstřel</Right>
+				</TwoColumnParagraph>
+	
+				<Header>
+					<Text>Ostatní</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;Escape: Hlavní nabídka
+  Ctrl-M: Přepínání hudby&quot;</Left>
+					<Right>Tab: Změnit vzdálenost ARTHERU</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

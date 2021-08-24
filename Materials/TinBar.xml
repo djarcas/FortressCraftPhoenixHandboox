@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>TinBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tin Bar</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tin Bars are generally used in basic machines requiring a lightweight construction. They are crafted from Tin Ore, which can be found near the surface.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,50 @@
+﻿<Chapter>
+	<Handle>T4_start</Handle>
+	<Title>Jäinen tehdas!</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Jäinen tehdas</Text>
+				</Title>
+				<Icon>
+					<Name>MagmaBore Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nyt tämä tutkmus on valmis ja voimme lähteä rakentamaan kylmäluolailmastonhallintakeskusta (KLIHK). Meidän täytyy rakentaa tämä kylmäluolaan, syöttää sille virtaa ja sitten sen pitäisi yksinkertaisesi, hitaasti, muuttaa luola mahtavaksi palmuiseksi alueeksi, mihin voimme asettua kunnolla ja odottaa pelastusta.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Tämä uusi kone on huomattavasti kehittyneempi (ja herkempi!) kuin vanha PVK - pitäisi olla mahdollista kehittää, tutkia ja rakentaa paljon suurempia, nopeampia ja monimutkaisempia louhinta- ja resurssikoneita. Ensinnäkin tarvitsemme kehittyineitä materiaaleja ja tähän tarvitsemme erikoiskoneen superkovien malmien käsittelyyn.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Jos rakennamme kovakiviraapijan sopivalle 3x3 palalle kromia ja molybdeeniä, meidän pitäisi pystyä rakentamaan uudentyppinen pora. Nanohajottimet ovat ihanteellisia tekemään tasaisia pintoja tarvittaessa.</Text>
+  
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Hard Rock Grinder</Material>
+					</Target>
+					<Text>Hard Rock Grinder</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>NanoDisintegrator</Material>
+					</Target>
+					<Text>NanoDisintegrator</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>CCCCC_Placement</Material>
+					</Target>
+					<Text>Cold Cavern Climate Control Centre</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

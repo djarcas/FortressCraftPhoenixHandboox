@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Rubble</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Щебень</Text>
+				</Title>
+				<Icon>
+					<Name>Rubble</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Получается в качестве побочного продукта при добыче руды вручную. Можно измельчить в Измельчителе, чтобы с некоторой вероятностью извлечь полезную руду. Блок можно разместить.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

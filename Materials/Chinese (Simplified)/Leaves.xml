@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Leaves</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>树叶</Text>
+				</Title>
+				<Icon>
+					<Name>Leaves</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>可以从树上采集并放置或浸没。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

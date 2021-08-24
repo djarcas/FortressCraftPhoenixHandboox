@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>SugaliteFocusingLens</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>紫水晶聚焦透镜</Text>
+				</Title>
+				<Icon>
+					<Name>Sugalite Focusing Lens</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>插入一台激光输电器以提升传输功率。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>能量传输速率：</Left>
+					<Right>300%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

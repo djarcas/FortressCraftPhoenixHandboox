@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>TreeTrunk</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>树干</Text>
+				</Title>
+				<Icon>
+					<Name>Tree Trunk</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>木板的基本成分。你可以通过砍伐树木来得到它们。可以放置。不需要制造工厂来制造。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

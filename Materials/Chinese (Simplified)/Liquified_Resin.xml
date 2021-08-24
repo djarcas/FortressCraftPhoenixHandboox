@@ -1,0 +1,64 @@
+﻿<MaterialEntry>
+	<Key>RefinedLiquidResin</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>液化树脂</Text>
+				</Title>
+				<Icon>
+					<Name>Hardened Resin</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Partially Ablated Resin</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Ablated Resin</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Liquified Resin</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>硬化树脂可以使用几种不同的机器进行转化和精炼，以得到最终的材料。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+			
+		<Page>
+			<Paragraphs>
+			<Title>
+				<Text>硬化树脂精炼</Text>
+				</Title>
+				<Spacer/>
+				<Paragraph>
+					<Text>使用这些机器，放置在活动中的或者已经的母巢大脑附近，以提取和细化此材料。</Text>
+				</Paragraph>
+		
+				<Link>
+					<Target>
+						<Material>Laser Resin Liquifier</Material>
+					</Target>
+					<Text>Laser Resin Liquifier</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Laser Resin Ablator</Material>
+					</Target>
+					<Text>Laser Resin Ablator</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Liquid Resin Refiner</Material>
+					</Target>
+					<Text>Liquid Resin Refiner</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	
+	</Pages>
+</MaterialEntry>

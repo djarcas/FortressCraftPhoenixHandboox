@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>MassiveFacetedEye</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>巨型复眼</Text>
+				</Title>
+				<Icon>
+					<Name>WaspEyeMassive</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>来自当地飞行生物的眼睛是出色的光学元件。 这一个是遇到的最大的标本，足够用来利用了。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

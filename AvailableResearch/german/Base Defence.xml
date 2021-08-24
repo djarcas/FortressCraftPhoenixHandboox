@@ -1,0 +1,27 @@
+﻿<Chapter>
+	<Handle>Base Defence</Handle>
+	<Title>Basisverteidigung</Title>
+	<Icon>&gt;ARTHER Turret</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Basisverteidigung</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Aus deinen Forschungsergebnissen zu lokalen Lebensformen ist dir klar geworden, dass die Verteidigung der Basis eine hohe Priorität haben muss.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Es ist an der Zeit diesem Planten Freiheit™ zu bringen!</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

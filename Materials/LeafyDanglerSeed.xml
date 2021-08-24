@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>Seed_LeafyDangler</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>LeafyDangler Seed</Text>
+				</Title>
+				<Icon>
+					<Name>LeafyDangler</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Used to plant LeafyDanglers or for use in the Ampule Crafter</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

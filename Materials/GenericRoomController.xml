@@ -1,0 +1,80 @@
+<MaterialEntry>
+	<Key>RoomController_CD</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Generic Room Controller</Text>
+				</Title>
+				<Icon>
+					<Name>RoomController</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This machine allows you to designate areas of your base for various behaviours. This has a number of advantages.</Text>
+				</Paragraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>Generic Rooms offer a large performance boost, both when inside and outside of the room. Every room requires an Internal Airlock and an External Airlock. Placing a Room Controller will then prompt you through any issues found, and should be relatively straightforward.</Text>
+        </Paragraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>Greenhouses will allow Hydroponic Bays to work much faster. They also put a very cool gaseous effect on the floor that can be used for effect.</Text>
+        </Paragraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>Heated rooms confer 2 bonuses. Firstly, any cold effects on your suit are negated. Secondly, any machines suffering environmental Cold effects will work as normally, like Conveyors.</Text>
+        </Paragraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>Filtered Rooms offer complete protection from any dangerous airborne particulates.</Text>
+        </Paragraph>
+        <Spacer/>
+      
+        
+        
+			</Paragraphs>
+		</Page>
+    <Page>
+      <Title>
+        <Text>Generic Room Controller</Text>
+      </Title>
+      <Icon>
+        <Name>RoomController</Name>
+        <Alignment>Center</Alignment>
+      </Icon>
+      <Paragraphs>
+      <Paragraph>
+        <Text>A number of machines require the specific control only rooms can offer.</Text>
+      </Paragraph>
+
+        <TwoColumnParagraph>
+          <Left>
+            Base Scanner
+            Robot Arms
+            Hydroponics
+          </Left>
+          <Right>
+            Required
+            4x speed boost
+            Greenhouse
+          </Right>
+        </TwoColumnParagraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>Rooms can be made out of virtually any opaque material.</Text>
+        </Paragraph>
+        <Paragraph>
+          <Text>To transfer items through the walls, use a Logistics Grommet. To transfer power through the walls, use a Power Grommet. Machines cannot be walls, with the exception of Minecart Track.</Text>
+        </Paragraph>
+        <Paragraph>
+          <Text>Induction Plates are valid in both the Ceiling and Floor, to allow broad power transfer.</Text>
+        </Paragraph>
+        
+      </Paragraphs>
+
+    </Page>
+				
+	</Pages>
+</MaterialEntry>
+

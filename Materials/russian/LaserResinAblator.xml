@@ -1,0 +1,49 @@
+<MaterialEntry>
+	<Key>LaserResinAblator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Лазерный Аблятор Смолы</Text>
+				</Title>
+				<Icon>
+					<Name>Laser Resin Ablator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+				<Paragraph>
+					<Text>Эта машина - первый этап трёх-ступенчатого метода, включающего в себя использование и удаление Твёрдой Смолы, которую выделяют Разумы Роя.
+Мощным лазерным излучением Лазерный Аблятор Смолы удаляет твердый поверхностный слой смолы.
+
+После этого Разжижителем можно расплавить и добыть ставшую текучей внутреннюю часть Смолы.
+
+Вы можете использовать Очиститель Текучей Смолы, чтобы превратить её в Очищенную Жидкую Смолу.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>&#34;Абляция.(n) Процесс уноса поверхностного слоя материала под воздействием излучения или газового потока. &#34;</Text>
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<Material>Laser Resin Liquifier</Material>
+					</Target>
+					<Text>Laser Resin Liquifier</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Liquid Resin Refiner</Material>
+					</Target>
+					<Text>Liquid Resin Refiner</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>Refined Liquid Resin</Material>
+					</Target>
+					<Text>Refined Liquid Resin</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

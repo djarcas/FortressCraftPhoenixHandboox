@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Leaves</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lehtiä</Text>
+				</Title>
+				<Icon>
+					<Name>Leaves</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Voidaan kerätä puista ja asettaa tai murskata.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

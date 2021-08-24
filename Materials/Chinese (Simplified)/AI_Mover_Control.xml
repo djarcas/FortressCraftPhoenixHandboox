@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>AIMoverControl</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>AI移动控制</Text>
+				</Title>
+				<Icon>
+					<Name>AI Mover Control</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>该机器人将每次从附近的储物料斗搬运一单位资源到另一个，遵照储物料斗的本地添加/移除权限。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

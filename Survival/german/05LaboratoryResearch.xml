@@ -1,0 +1,79 @@
+﻿<Chapter>
+	<Handle>laboratory research</Handle>
+	<Title>Laborforschung</Title>
+	<Icon>Laboratory Component</Icon>
+	<ResearchRequirements>
+		<Research>Advanced Research</Research>
+	</ResearchRequirements>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Laborforschung</Text>
+				</Title>
+				<Icon>
+					<Name>Laboratory Component</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Dieser Leitfaden ist für Forschungsprojekte, die den Einsatz des Labors erfordern. Für weitere Informationen über die Forschung im Allgemeinen besuchen Sie bitte die Forschungsstation-Hilfe-Eintrag.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Page>0</Page>
+						<Material>Research Station</Material>
+					</Target>
+					<Text>Research Station</Text>
+				</Link>
+				
+				<Header>
+					<Text>Baue ein Labor</Text>
+				</Header>
+				<Paragraph>
+					<Text>&quot;Das Forschungslabor muss zunächst durch die Durchführung der entsprechenden Projekte an der Forschungsstation freigeschaltet werden. Sie müssen dann 27 Laborkomponenten in der Fertigungsstätte herstellen und in eine 3 mal 3 mal 3-Konfiguration bauen.
+ &quot;</Text>
+				</Paragraph>
+				<Header>
+					<Text>Versorge das Labor mit Energie</Text>
+				</Header>
+				<Paragraph>
+					<Text>Das Labor ist so konzipiert, dass man so viel Energie einsetzt, wie man es liefern kann. Mehr Energie bedeutet, schneller Forschung! Zumindest sollten Sie die Verwendung mehrerer Energie-Generatoren beachten, aber es besteht keine Notwendigkeit, dass Labor vollständig zu betreiben.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+			<Header>
+					<Text>Starte Projekte</Text>
+				</Header>
+				<Paragraph>
+					<Text>&quot;Öffnen Sie das Labor-Bedienfeld, indem Sie mit der Maschine interagieren (Standard \&apos;E\&apos;) und stellen Sie sicher, dass Sie sich im Modus \&apos;Experimente\&apos; befinden. Das ausgewählte Projekt wird zuerst aufgeführt, gefolgt von seinen Anforderungen und allen förderungswürdigen Projekten darunter. Um ein neues Projekt auszuwählen, klicken Sie darauf und seine Anforderungen werden angezeigt. Klicken Sie auf \&quot;Projekt starten\&quot;, um die Forschung zu beginnen.
+ &quot;</Text>
+
+				</Paragraph>
+				<Header>
+					<Text>Bereitstellung von Projektanforderungen</Text>
+				</Header>
+				<Icon>
+					<Name>ResearchPod_Basic</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Projekte erfordern in der Regel eine oder mehrere Arten von Experimentier-Pods. Die genauen Anforderungen werden mit dem Projekt aufgelistet. Diese sollten in einen Container gestellt werden, der an einen Seite des Labors befestigt ist. Wenn Sie die Lieferung von Pods automatisieren möchten, dann sollten Sie einen separaten Container für jeden Typ verwenden, um die Verfügbarkeit eines Pod-Typs zu gewährleisten.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Für weitere Informationen zum Erstellen von Experimentier-Pods lesen Sie bitte die folgende Anleitung.</Text>
+				</Paragraph>
+				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Experimental Pods</Text>
+				</Link>
+			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

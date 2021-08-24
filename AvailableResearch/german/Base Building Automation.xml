@@ -1,0 +1,29 @@
+﻿<Chapter>
+	<Handle>T1 assist machines</Handle>
+	<Title>Automatischer Basenausbau</Title>
+	<Icon>Base Building Automation</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Automatischer Basenausbau</Text>
+				</Title>
+				<Icon>
+					<Name>Base Building Automation</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Aufbau großer Bergbauoperationen ist die Aufgabe von Maschinen, nicht von Menschen!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Dieses weitreichende Projekt wird Maschinen entwickeln, die Schächte graben, automatisch bauen und außerdem die bereits vorhandenen Möglichkeiten die Basis zu durchqueren verbessern.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Des Weiteren wird dieses Projekt versuchen einen Sprengstoff zu entwickeln, mit dessen Hilfe große Bereiche freigesprengt werden können.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

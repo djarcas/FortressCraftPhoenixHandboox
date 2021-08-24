@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>Torch</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Факел</Text>
+				</Title>
+				<Icon>
+					<Name>Torch</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Факел необходим для повышения шансов на выживание на первом этапе, обеспечивая свет и тепло. Свет автоматически отключается днём, но излучение тепла не прекращается.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Осторожно! Можно обжечься! Ваш защитный костюм не защитит вас, если вы будете длительное время касаться факела.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

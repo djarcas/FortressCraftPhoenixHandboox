@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>Torch</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Soihtu</Text>
+				</Title>
+				<Icon>
+					<Name>Torch</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Soihtu on oleellinen alun planeetalla selvitymisessä sekä valon että lämmön takaamiseksi. Valo suljetaan automaattisesti päivällä mutta lämpö toimiii silti.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Varoitus! Tuli on kuumaa! Turvapukua ei ole suunniteltu suojaamaan käyttäjää pitkäaikaisessa soihdun läheisyydessä olemisessa.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

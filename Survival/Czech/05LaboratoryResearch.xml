@@ -1,0 +1,79 @@
+﻿<Chapter>
+	<Handle>laboratory research</Handle>
+	<Title>Laboratorní výzkum</Title>
+	<Icon>Laboratory Component</Icon>
+	<ResearchRequirements>
+		<Research>Advanced Research</Research>
+	</ResearchRequirements>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Laboratorní výzkum</Text>
+				</Title>
+				<Icon>
+					<Name>Laboratory Component</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Tato příručka je určena pro výzkumné projekty, které vyžadují použití laboratoře. Více informací o výzkumu obecně naleznete v nápovědě u Výzkumné Stanice.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Page>0</Page>
+						<Material>Research Station</Material>
+					</Target>
+					<Text>Research Station</Text>
+				</Link>
+				
+				<Header>
+					<Text>Výstavba laboratoře</Text>
+				</Header>
+				<Paragraph>
+					<Text>&quot;Výzkumná laboratoř musí být nejprve odemčena dokončením příslušných projektů na výzkumné stanici. Poté je nutné vyrobit 27 výrobních dílů ve Výrobně a umístit je do konfigurace 3 x 3 x 3.
+ &quot;</Text>
+				</Paragraph>
+				<Header>
+					<Text>Napájení laboratoře</Text>
+				</Header>
+				<Paragraph>
+					<Text>Laboratoř je navržena tak, aby využila tolik energie, kolik můžete dodat. Více energie znamená rychlejší výzkum! Minimálně byste měli zvážit použití několika Pyrothermických generátorů, ale není třeba se pokoušet o úplné napájení laboratoře.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+			<Header>
+					<Text>Zahájení projektů</Text>
+				</Header>
+				<Paragraph>
+					<Text>&quot;Otevřete ovládací panel Laboratoře interakcí se strojem (výchozí \&quot;E\&quot;) a ujistěte se, že jste v režimu \&quot;Experiment\&quot;. Vybraný projekt bude uveden nejprve na základě jeho požadavků a jakýchkoli způsobilých projektů pod ním. Chcete-li vybrat nový projekt, klikněte na něj a jeho požadavky se zobrazí. Klepnutím na tlačítko Spustit projekt spustíte výzkum.
+ &quot;</Text>
+
+				</Paragraph>
+				<Header>
+					<Text>Zajištění materiálu pro Projekt</Text>
+				</Header>
+				<Icon>
+					<Name>ResearchPod_Basic</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Projekty obvykle vyžadují jeden nebo více typů experimentálních modulů. Přesné požadavky jsou uvedeny v projektu. Ty by měly být umístěny do Zásobníku připojeného k jakékoli straně laboratoře. Chcete-li automatizovat dodávku modulů, měli by jste zvážit použití samostatného Zásobníku pro každý typ, abyste zajistili dostupnost jakéhokoliv potřebného modulu.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Více informací o vytváření Experimentálních Modulů naleznete v následující příručce.</Text>
+				</Paragraph>
+				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Experimental Pods</Text>
+				</Link>
+			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,25 @@
+﻿<MaterialEntry>
+	<Key>JetPack</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>喷气背包</Text>
+				</Title>
+				<Icon>
+					<Name>Jet Pack</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>你发现了一种短途飞行的方法。 你有感觉它会超级费电.....</Text>
+				</Paragraph>
+			
+				<Paragraph>
+					<Text>按“J”键激活。只需一份，放入物品栏以生效。</Text>
+				</Paragraph>
+			
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

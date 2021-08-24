@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>RuinedLightChitin</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ruiniertes Licht Chitin</Text>
+				</Title>
+				<Icon>
+					<Name>WaspLightChitinRuined</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ausgesprochenes KY-Zinn, Chitin ist ein langkettiges Polymer, das Kohlenstoff, Wasserstoff, Sauerstoff und Stickstoff enthält. Es scheint ein grundlegender Bestandteil vieler lokaler Lebensformen zu sein.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

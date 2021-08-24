@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T2 assist machines</Handle>
+	<Title>高級物流</Title>
+	<Icon>mk1 robot arm</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>高級物流</Text>
+				</Title>
+				<Icon>
+					<Name>mk1 robot arm</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>我們現在有一個新的大容量存儲系統和一個分選機構，用於在輸送帶之間移動礦石。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

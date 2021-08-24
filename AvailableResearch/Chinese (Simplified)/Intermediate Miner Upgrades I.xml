@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 3</Handle>
+	<Title>中级矿工升级 I</Title>
+	<Icon>Ore Smelter</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>中级矿工升级 I</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>现在是开始研究如何复制中央电力中心提供的矿石熔炼炉的先进功能的时候了。 我们能够建设的基本熔炼炉太慢而且浪费宝贵的资源。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>NickelWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Nikkelilanka</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Wire</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen nikkelilanka on tehty nikkeli harkoista venytysasemalla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

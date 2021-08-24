@@ -1,0 +1,34 @@
+<MaterialEntry>
+	<Key>JetTurbineGeneratorHousingPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Icon>
+					<Name>Space Panel</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text></Text>
+</Header>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text></Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left></Left>
+					<Right></Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

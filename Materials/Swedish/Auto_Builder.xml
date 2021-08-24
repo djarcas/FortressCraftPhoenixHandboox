@@ -1,0 +1,34 @@
+﻿<MaterialEntry>
+	<Key>AutoBuilder</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Autobyggare</Text>
+				</Title>
+				<Icon>
+					<Name>Auto Builder</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Header>
+					<Text>Tips och Tricks!</Text>
+				</Header>
+				<Paragraph><Text></Text>
+</Paragraph>
+				<Paragraph><Text></Text>
+</Paragraph>
+				<Paragraph><Text></Text>
+</Paragraph>
+				<Header>
+					<Text>Varning!</Text>
+				</Header>
+				<Paragraph><Text></Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

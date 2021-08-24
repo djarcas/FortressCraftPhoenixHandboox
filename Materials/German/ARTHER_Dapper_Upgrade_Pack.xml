@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERDapperUpgradePack</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Elegantes Upgrade Paket</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Dapper Upgrade Pack</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Voll aufgewertet! - Voll Elegant! Verwende dies um Platz in deinem Inventar einzusparen. Muss im Inventar aufbewahrt werden.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

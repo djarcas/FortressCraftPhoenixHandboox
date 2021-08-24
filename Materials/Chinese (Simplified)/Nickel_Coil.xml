@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>NickelCoil</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>镍线圈</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>一个简单的镍线圈，由镍线在绕线机制造。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

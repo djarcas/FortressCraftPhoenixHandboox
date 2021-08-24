@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ChevronSign</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Väkämerkki</Text>
+				</Title>
+				<Icon>
+					<Name>Chevron Sign</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Punainen ja musta nuolimerkitty palikka jota voi tuottaa kaikkialla vaatimatta valmistusaseman palveluja. Avaa itsevalmistuskäyttöliittymä (oletus \&apos;C\&apos;) valmistaaksesi näitä.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

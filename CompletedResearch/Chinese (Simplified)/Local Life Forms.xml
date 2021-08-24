@@ -1,0 +1,27 @@
+﻿<Chapter>
+	<Handle>Local Life Forms</Handle>
+	<Title>本地生物形态</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>本地生物形态</Text>
+				</Title>
+				<Icon>
+					<Name>Local Life Forms</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>这个星球似乎有各式各样的动植物生命体，并非全部都很友好。</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>扫描仪正在检测附近的一些具有潜在风险的飞行生命形态。 威胁扫描仪的设计可用于监控它们。我们还应该调查并建立一些基地防御。 我们发现了一些大型地下有机结构，会干扰我们努力确保的资源的可靠供应。</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

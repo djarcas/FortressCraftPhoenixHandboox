@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>BlueCanvas</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>蓝色帆布</Text>
+				</Title>
+				<Icon>
+					<Name>Blue Canvas</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>全蓝色美化用块。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

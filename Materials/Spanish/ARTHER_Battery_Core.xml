@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERBatteryCore</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Núcleo de la batería</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Battery Core</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Permite a ARTHER retener 8 veces más carga que puede transferirte cuando te quedes sin carga. Construya esto tan pronto como sea posible! Sólo necesita uno de estos y debe mantenerse en su inventario para funcionar.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,29 @@
+﻿<MaterialEntry>
+	<Key>ExtrusionPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Экструдер</Text>
+				</Title>
+				<Icon>
+					<Name>Extrusion Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Экструдер - обычный конвейер, совмещенный с оборудованием экструдирующим Провода из Слитков.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Использование</Text>
+				</Header>
+				<Paragraph>
+					<Text>Загружайте Слитки в Экструдер с конвейера, конвейерного оборудования или Поворотного Стола. Экструдер изготавливает Трубы из Слитков. Провода потом используются в производстве других предметов.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Экструдер необходим для автоматизации исследований в Лаборатории.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

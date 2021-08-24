@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>LightweightPCB</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>轻型电路板</Text>
+				</Title>
+				<Icon>
+					<Name>Lightweight PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>在PCB组装厂中由钛线圈制成的钛基PCB。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

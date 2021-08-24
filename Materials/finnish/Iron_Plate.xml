@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>IronPlate</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rautalaatta</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen rautalaatta tehdään rautakarkoista leimausasemalla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

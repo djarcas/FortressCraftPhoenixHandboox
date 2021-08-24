@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 5</Handle>
+	<Title>Продвинутое бурение</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Продвинутое бурение</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Доступны улучшения экстрактора руды и плавильни. В дополнение к этому разработана система «Карьер». Используйте геологическую разведку, чтобы найти подходящее место, а затем разместите Карьер и начните добычу.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

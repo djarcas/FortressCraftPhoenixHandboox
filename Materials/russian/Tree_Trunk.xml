@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>TreeTrunk</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Бревно</Text>
+				</Title>
+				<Icon>
+					<Name>Tree Trunk</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ингредиент для изготовления Деревянных Досок. Добывается из деревьев или светящихся трубок. Блок можно размещать. Завод не нужен, чтобы из Бревен сделать Доски.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

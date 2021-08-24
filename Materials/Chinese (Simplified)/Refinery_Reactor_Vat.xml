@@ -1,0 +1,34 @@
+﻿<MaterialEntry>
+	<Key>RefineryReactorVatPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>精炼反应釜</Text>
+				</Title>
+				<Icon>
+					<Name>Metal Siding 1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;精炼厂允许您将外星球上发现的碳水化合物重新组合成有用的材料。 它需要两部分：精炼厂控制器和精炼厂反应釜。 &quot;</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Refinery Controller</Material>
+					</Target>
+					<Text>Refinery Controller</Text>
+				</Link>
+				<Paragraph>
+					<Text>精炼反应釜是由反应釜组件块构建的大型结构。当3×3×3时，将显示为大型机器。
+
+反应釜包含重组碳水化合物所需的化学过程。为了起作用，它必须连接到控制器。可以在连接到控制器的每个顶部上堆叠反应釜，以便允许控制器同时在多个容器上操作。这将为您带来生产速率，产出产品的存储和电力成本的线性增长，每个罐在它腾出地方来生产之前可以存储10个已完成的产品。在一个控制器上使用更多的容器的好处是避免制造多个昂贵的控制器。
+
+每个反应釜包含许多电气管道以及许多输送管道。因此，控制器的用电不需单独布置。精炼厂的最大储存能量取决于连接的大桶数量。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

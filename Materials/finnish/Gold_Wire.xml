@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>GoldWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kultalanka</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Wire</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen kultalanka on tehty kultaharkoista venytysasemalla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

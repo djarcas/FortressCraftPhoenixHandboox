@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Key>ColdCavernFlora7</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Растение холодных пещер 7</Text>
+				</Title>
+				<Icon>
+					<Name>Cold Cavern Flora 7</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Это невероятное растение может выжить в экстремальных условиях холодных пещер.</Text>
+				</Paragraph>
+		
+				<Spacer/>
+				<Paragraph>
+					<Text>Это растение можно сжечь для выработки энергии.</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>BaubleBerry</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Helymarja</Text>
+				</Title>
+				<Icon>
+					<Name>BaubleBerry</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tavanomainen planeetan pinnalta ja luolista löydettävä kasvi.</Text>
+				</Paragraph>
+		
+				<Spacer/>
+				<Paragraph>
+					<Text>Tämän kasvin voi poltaa virran aikaansaamiseksi.</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

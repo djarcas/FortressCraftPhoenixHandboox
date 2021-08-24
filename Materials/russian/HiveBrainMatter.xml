@@ -1,0 +1,29 @@
+<MaterialEntry>
+	<Key>HiveBrainMatter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Мозговое Вещество Роя</Text>
+				</Title>
+				<Icon>
+					<Name>Brain Matter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Большинство Разумов Роя погибли в энергетическим взрыве. Часть мозгового вещества сохранилась в состоянии годном для исследований. Ваша Лаборатория сможет проанализировать это вещество, что даст дополнительные направления исследования.</Text>
+				</Paragraph>
+				<Spacer/>
+rte
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

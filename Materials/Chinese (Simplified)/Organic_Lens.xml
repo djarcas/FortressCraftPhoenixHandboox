@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>OrganicLens</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>有机透镜</Text>
+				</Title>
+				<Icon>
+					<Name>Organic Lens</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>插入激光输电器以提高其功率传输速率。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>能量传输速率：</Left>
+					<Right>200%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

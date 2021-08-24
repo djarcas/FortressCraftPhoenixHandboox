@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>RubyCrystal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rubiinikide</Text>
+				</Title>
+				<Icon>
+					<Name>Ruby Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Rubiinikide in harvinainen materiaali jota käytetään päivityksien pohja-aineena. Sitä voi löytää luolista syvyyksien -150 ja -225 välistä.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>RuinedPhosphorescentGland</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ruinierte phosphoreszierende Drüse</Text>
+				</Title>
+				<Icon>
+					<Name>WaspGlandRuined</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Diese Drüsen der lokalen fliegenden Lebensformen scheinen Eigenschaften aufzuweisen, die sie für die Energiespeicherung geeignet machen. Dieser ist zu stark beschädigt, um nützlich zu sein.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

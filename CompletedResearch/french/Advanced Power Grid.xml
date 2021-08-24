@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>T3 Power</Handle>
+	<Title>Réseau d\&apos;Énergie Avancé</Title>
+	<Icon>Advanced Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Réseau d\&apos;Énergie Avancé</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nous avons apporté d\&apos;autres améliorations à notre infrastructure électrique, y compris un nouveau bloc de stockage de puissance et un Laser Transmetteur d\&apos;Énergie.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Nous avons également des conceptions provisoires pour un nouveau type de générateur d\&apos;énergie, mais pour compléter cette recherche, nous devrons également trouver une source d\&apos;énergie plus dense que le charbon sur lequel nous nous sommes appuyés jusqu\&apos;à présent.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

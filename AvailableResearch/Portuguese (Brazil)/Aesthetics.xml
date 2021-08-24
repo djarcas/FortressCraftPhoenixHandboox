@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>aesthetics</Handle>
+	<Title>Estética</Title>
+	<Icon>Hello_Kitty1</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Estética</Text>
+				</Title>
+				<Icon>
+					<Name>Hello_Kitty1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>No caso improvável de temos um tempo livre, podemos embelezar nossa base com uma variedade de caixas coloridas ou blocos de tela.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

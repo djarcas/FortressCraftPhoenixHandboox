@@ -1,0 +1,44 @@
+﻿<MaterialEntry>
+	<Key>FALCOR</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>全自动战利品收集自组织机器人（Fully-Automated Loot Collector Organisational Robots简称FALCOR）</Text>
+				</Title>
+		
+						
+				<Icon>
+					<Name>FALCOR MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+				<Paragraph>
+					<Text>&quot;全自动战利品收集自组织机器人有两种类型（或简称FALCOR！！）
+
+  MK1 FALCOR将在128米区域内搜索带有收集物品的信标。 如果找到，FALCOR将飞过去，取回物品然后返回。 然后将返回的物品放入附加的存储料斗中。
+
+  物流FALCORs工作原理类似，但只会服务放置在存储料斗之上的信标。
+
+  即将推出！ 高级FALCOR，允许过滤所选项目！ FALCOR基地不需要电力，但是，信标要。
+ &quot;</Text>
+				</Paragraph>
+				<Icon>
+					<Name>FALCOR Beacon</Name>
+					<Target><Material>FALCOR Beacon</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>FALCOR Beacon</Material>
+					</Target>
+					<Text>FALCOR Beacon</Text>
+				</Link>
+	
+				 
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,106 @@
+<MaterialEntry>
+	<Name>Freight Cart Station</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Freight Cart Station</Text>
+				</Title>
+				<Icon>
+					<Name>Freight Cart Station</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Freight carts and stations provide intelligent resource distribution within your fortress.</Text>
+				</Paragraph>
+				<Paragraph>
+				<Text>Freight cart stations can interface directly with mass storage and hoppers.  Carts that come to the station will collect resources from storage to transport to other destinations. Designated resources must be configured at each freight cart station.
+				
+				Freight carts will only collect resources from a freight cart station if the resources are required by another station on the network. The requirements of a station are defined by the stocking limits of the registered freight. See the following pages for defining the network and configuring the registered freight for a station.
+				
+				Hold CTRL, SHIFT, or ALT when adjusting the stock limits to change their values by 1, 10, or 1000 per click, respectively. Right clicking an empty registry enables registering an item by name.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+				<Text>Freight Networks</Text>
+				</Title>
+				<Paragraph>
+				<Text>Freight Cart Stations are divided up by their Freight Networks. The network is a name that indicates what other stations can connect to this one for supplying and receiving freight. It is your responsibility to ensure the carts can actually get to each station on the network! Failure to do so may result in carts stuck with undeliverable goods. Carts will light red and indicate an error when they cannot find their destination.
+				
+				On opening the station panel (E) for the first time you will be asked to assign the Freight Cart Station to a network. You can reassign a station to a new network at any time, however carts' goods previously collected from the station will be reserved for the previous network until delivered.
+				
+				It is left up to you to decide how to best organize your networks whether it be by the type of goods distributed, locations served, or another scheme. Experiment to find what works best for you!
+				
+				HINT! Choose a descriptive network name so you remember the purpose of the network or what goods it distributes. For example, "T1 Components", "Research Pods", or "Fuel".</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+				<Text>Configuration</Text>
+				</Title>
+				<Paragraph>
+				<Text>Pressing (E) to interact with the Freight Cart Station will open the interface for configuring the station. Press the Set Freight button to configure goods for delivery.
+				
+				Registering an item as designated freight consists of two parts. The first is the item itself which can be dragged from an inventory slot to the empty slot at the end of the list or by right clicking the slot to search for it by name. The second is to define the target stock setpoint.
+				
+				The Target Stock setpoint is the amount of goods carts will attempt to maintain at the station. If there are fewer items in inventory than the target carts will attempt to deliver items to the station. If the inventory is greater than the target carts will collect these and deliever them if another station needs them to reach its target stock.
+				
+				Intentionally setting the stock to a low value or 0 makes most or all of the items available to transport to other stations.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+				<Text>Track Networks</Text>
+				</Title>
+				<Paragraph>
+				<Text>Carts must be assigned to a station for a depot to release a cart on the track.
+				
+				Once assigned, freight carts prioritize their designated station for pickup.  When a freight cart delivers goods to any other station it will only collect goods from this station that are required for its assigned station.  In this way the cart will rapidly return to its assigned station to prioritize serving it.
+				
+				A cart assigned to a receive-only station will seek out stations offering goods that can satisfy the station's requests.  As the cart prioritizes returning to the assigned station you can ensure highly demanded goods will get to this station.
+				
+				Make sure each mass storage has plenty of room to hold the request amounts plus a bit to spare for excess that gets returned to the station.  A station's name will appear in red in the system monitor if a cart was unable to deposit at the station in the last minute.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+				<Text>Network Design</Text>
+				</Title>
+				<Paragraph>
+				<Text>Junctions provide the ability to branch off paths for carts so that they don't need to path through every station on a long loop - instead they take the shortest route directly to the one they they are traveling to.
+				
+				A station can support up to 180 items per minute of throughput. Even a large mass storage only needs a few stations to service all of the carts. Remember also that all stations with the same network ID on a mass storage will share freight goods so there is no need to duplicate entries.
+				
+				If you need stations on a storage to have different freight goods use a different network ID. This allows you to separate out goods with a different target stock level.  Useful for setting distribution priorities!</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+				<Text>Tips!</Text>
+				</Title>
+				<Paragraph>
+				<Text>Carts navigate directly between destinations. This allows open ended track connections or stations with only one track connection. Carts will not attempt to leave a station unless they have a safe route to their destination. Be mindful of collisions though.
+				
+				Assigning carts to both supply-side and requesting stations can help distribute carts more evenly when many stations will exchange items. 
+				
+				Carts automatically distribute themselves among similar stations attached to mass storage.  If a particular station is very crowded, adding more stations will alleviate congestion.
+				
+				When using the Right Click search function type in "component", "placement", or "multi" (Without quotes) to get a list of the multi-block components. 
+				
+				Booster rails at junctions quickly accelerate carts that had to wait for a clear path.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

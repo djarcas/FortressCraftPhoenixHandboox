@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>StorageCrate</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Varastolaatikko</Text>
+				</Title>
+				<Icon>
+					<Name>StorageCrate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Lue &#39;arkku&#39;. Varastolaatikkojen asettaminen vierekkäin luo laajemman yhdistetyn varaston. Jokaisessa laatikossa on 2 esinekoloa.</Text>
+				</Paragraph>
+        </Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

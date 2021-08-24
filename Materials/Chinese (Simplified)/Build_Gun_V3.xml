@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>BuildGunV3</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>建造枪 V3</Text>
+				</Title>
+				<Icon>
+					<Name>Build Gun V3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>建造枪 V3是已经升级的建造枪的进一步升级版本。 该升级提供适当的冷却以促进抓斗功能的快速连续激活。 随着冷却能力的增加，建造枪 V3可以破坏更坚固的材料和拆卸更先进的机械。 需要一份来改进基本工具的功能，additional Build Gun V3 upgrades have shown to provide no additional benefits at this time without extreme loss.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V1</Material>
+					</Target>
+					<Text>Build Gun V1</Text>
+				</Link>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V2</Material>
+					</Target>
+					<Text>Build Gun V2</Text>
+				</Link>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

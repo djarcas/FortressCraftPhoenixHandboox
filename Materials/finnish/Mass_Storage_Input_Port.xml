@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>MassStorageInputPortMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Varastoija</Text>
+				</Title>
+				<Icon>
+					<Name>Mass Storage Input Port</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Aseta tämä palikka tukkuvarastolohkon viereen syöttääksesi esineitä tukkuvarastoon. Varastoijaa voi syöttää suoraan liukuhihnalta yksikerrallaan. Erilaiset esinetyypit voidaan syöttää saman syöttimen kautta yksi kerrallaan.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Varoitus!</Text>
+				</Header>
+				<Paragraph><Text>Tällä ei ole mitään tekemistä varastohypyttimen kanssa!</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,25 @@
+﻿<MaterialEntry>
+	<Key>NickelBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Nickelbarren</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Nickel Ore</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nickelbarren werden im Allgemeinen in fortgeschrittenen Maschinen verwendet. Sie werden aus Nickel-Erz hergestellt, das sich mindestens 400 m unter der Oberfläche befindet.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

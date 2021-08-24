@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 3</Handle>
+	<Title>Keskitason louhintapäivitykset I</Title>
+	<Icon>Ore Smelter</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Keskitason louhintapäivitykset I</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Olemme onnistuneesti suunnitelleet uuden malmisulattamon. Tämä vaatii joitakin kehittyneitä materiaaleja joita ei löydy pinnalta.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

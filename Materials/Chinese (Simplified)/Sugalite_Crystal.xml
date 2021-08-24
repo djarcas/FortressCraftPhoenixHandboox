@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>SugaliteCrystal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>紫水晶</Text>
+				</Title>
+				<Icon>
+					<Name>Sugalite Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>紫水晶是用作升级的基础材料的稀有材料。 它可以在深度-375至-2500+之间的洞穴中找到。</Text>
+				</Paragraph>
+				<Header>
+					<Text>提示与技巧。</Text>
+				</Header>
+				<Paragraph><Text>您可能会在所有深层洞穴中遇到紫色晶体。 这是极为罕见。 在极端深处，洞穴极度稀少。</Text>
+</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,22 @@
+﻿<Chapter>
+	<Handle>Advanced Defence</Handle>
+	<Title>Pokročilá Obrana</Title>
+	<Icon>&gt;Missile Turret MK1</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pokročilá Obrana</Text>
+				</Title>
+				<Icon>
+					<Name>Missile Turret MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Úspěšně jsme sestrojily design raketové věže a pokračujeme v vylepšeních energetické věže. Budeme potřebovat výrobu raket a to bude vyžadovat zdroj paliva!</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

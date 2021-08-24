@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>TinCoil</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Оловянная Катушка</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Обычная Оловянная Катушка, изготовленная из Оловянных Проводов в Намотчике.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

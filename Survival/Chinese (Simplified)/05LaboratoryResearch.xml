@@ -1,0 +1,79 @@
+﻿<Chapter>
+	<Handle>laboratory research</Handle>
+	<Title>实验室研究</Title>
+	<Icon>Laboratory Component</Icon>
+	<ResearchRequirements>
+		<Research>Advanced Research</Research>
+	</ResearchRequirements>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>实验室研究</Text>
+				</Title>
+				<Icon>
+					<Name>Laboratory Component</Name>
+				</Icon>
+				<Paragraph>
+					<Text>本指南用于需要使用实验室的研究项目。有关研究的更多信息，请访问研究站帮助条目。</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Page>0</Page>
+						<Material>Research Station</Material>
+					</Target>
+					<Text>Research Station</Text>
+				</Link>
+				
+				<Header>
+					<Text>建设实验室</Text>
+				</Header>
+				<Paragraph>
+					<Text>&quot;研究实验室必须首先通过在研究站完成相应的项目来解锁。然后，您需要在制造工厂制造27个实验室组件，并将其按照3×3×3布局放置。
+ &quot;</Text>
+				</Paragraph>
+				<Header>
+					<Text>为实验室供电</Text>
+				</Header>
+				<Paragraph>
+					<Text>实验室被设计使用尽可能多的能源。更大功率意味着更快地研究！你应该考虑至少使用几台热能发电机，但是没有必要试图给实验室完全供电。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+			<Header>
+					<Text>初始项目</Text>
+				</Header>
+				<Paragraph>
+					<Text>&quot;通过与机器进行交互（默认为“E”）打开实验室控制面板，确保您处于“实验”模式。 选中的项目将首先列出，其后为它的研究需求和其他可选项目。 要选择一个新项目，单击它将显示相关需求。 点击“开始项目”开始研究。
+ &quot;</Text>
+
+				</Paragraph>
+				<Header>
+					<Text>项目供应需求</Text>
+				</Header>
+				<Icon>
+					<Name>ResearchPod_Basic</Name>
+				</Icon>
+				<Paragraph>
+					<Text>项目通常需要一种或多种类型的实验舱（pod）。 具体要求列在项目中。 这些实验舱应放在实验室任何一边附着的储料斗中。 如果您希望自动交付pod，那么您应该考虑为每种类型使用单独的料斗，以确保任何pod类型的可用性。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>有关制造实验舱的更多信息，请阅读以下指南。</Text>
+				</Paragraph>
+				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Experimental Pods</Text>
+				</Link>
+			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

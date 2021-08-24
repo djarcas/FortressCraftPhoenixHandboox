@@ -1,0 +1,35 @@
+<MaterialEntry>
+	<Key>BuildGunV3</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Строительная Пушка В3</Text>
+				</Title>
+				<Icon>
+					<Name>Build Gun V3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Строительная Пушка В3 - это дальнейший шаг по улучшению оригинальной Пушки. Теперь охлаждение Пушки позволяет непрерывно пользоваться Крюком. Кроме того, Пушка может разрушать ещё более твердые материалы и разбирать более продвинутое оборудование.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V1</Material>
+					</Target>
+					<Text>Build Gun V1</Text>
+				</Link>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V2</Material>
+					</Target>
+					<Text>Build Gun V2</Text>
+				</Link>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

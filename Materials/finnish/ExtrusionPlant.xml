@@ -1,0 +1,29 @@
+<MaterialEntry>
+	<Key>ExtrusionPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Venytysasema</Text>
+				</Title>
+				<Icon>
+					<Name>Extrusion Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Venytysasema on tavallinen kuljetin varustettuna koneella joka venyttää harkot langoiksi.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Käyttö</Text>
+				</Header>
+				<Paragraph>
+					<Text>Syötä metalliharkot venytinasemaan toisesta kuljettimesta, kuljetinkoneesta tai kuljetinkääntölavasta. Venytin muuntaa harkot langoiksi joita voidaan käyttää muissa resepteissä.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Venytysasema on oleellinen laboratoriotutkimuksen automatisoinnissa.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

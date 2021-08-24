@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>FALCORBeacon</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ФАЛКОР-Маяки</Text>
+				</Title>
+		
+						
+				<Icon>
+					<Name>FALCOR Beacon</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+				<Paragraph>
+					<Text>&#34;Феноменально Автономный Летающий КОллекторский Робот (сокращённо ФАЛКОР) ориентируется на ФАЛКОР-Маяки в двух режимах.
+Если маяк расположен на земле, то он будет засасывать предметы в радиусе 16 метров и удерживать их до сбора ФАЛКОРом МК1.
+Если маяк расположен на Накопительном Бункере, то он будет забирать предметы из Бункера и удерживать их до сбора Логистическим ФАЛКОРом.
+
+Базы ФАЛКОРов не требуют энергии, а вот Маякам она нужна.
+ &#34;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Icon>
+					<Name>FALCOR MK1</Name>
+					<Target><Material>FALCOR MK1</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>FALCOR MK1</Material>
+					</Target>
+					<Text>FALCOR</Text>
+				</Link>
+	
+				 
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,53 @@
+<MaterialEntry>
+	<Key>CryoHopper</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Cryo Hopper</Text>
+				</Title>
+				<Icon>
+					<Name>CryoHopper</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The cryo hopper is a more expensive version of the standard storage hopper which can store 50 items and takes can process items very quickly. The cryo hopper main use is to stop ruined bug parts from spoiling, this the machine uses a decent amount of power to cool itself down. As the hopper gets closer to optimal temperature the power required lowers. You should place these in the cold caverns to save on power.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Power Usage (1000 Temp):
+					Power Usage (0 Temp):
+					Power Usage (-1000 Temp):
+					Cold Caverns Boost:
+					Power Capacity:
+					Max. Power Transfer Rate:
+					Preservation Temp:
+					Fuel:</Left>
+					<Right>1300 per second
+					300 per second
+					700 per second
+					1/2 power usage
+					500
+					500 per second
+					lower than -250
+					</Right>
+				</TwoColumnParagraph>
+				<Paragraph>
+					<Text>For more information on storage hoppers please refer to the standard storage hopper guide.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Page>0</Page>
+						<Material>StorageHopper</Material>
+					</Target>
+					<Text>Storage Hopper</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>RuinedLightChitin</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Испорченный Лёгкий Хитин</Text>
+				</Title>
+				<Icon>
+					<Name>WaspLightChitinRuined</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Тяжелый хитин – композитный биополимерный материал, состоящий из длинно-цепочечных полимеров. Это главный компонент прочных экзоскелетов и панцирей местных форм жизни. Этот кусок хитина испорчен и малопригоден для чего-либо толкового.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

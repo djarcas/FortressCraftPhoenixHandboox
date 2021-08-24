@@ -1,0 +1,34 @@
+<MaterialEntry>
+	<Key>Base_Scanner</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Base Scanner</Text>
+				</Title>
+				<Icon>
+					<Name>Base Scanner</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Base Scanner allows you to look at many different aspects of the current and past performance of your base. Placing it in a room will give you an unfiltered view of all of the base data. This is generally not very useful, however.</Text>
+				</Paragraph>
+        <Paragraph>
+          <Text>Placing a Storage Hopper into the Holo area will allow you to filter the graph. The rules are straightforward; if you want to see something, put something related in the Storage Hopper.</Text>
+        </Paragraph>
+        
+        <Paragraph>
+          <Text>  - Any PSB will filter out total Base Power.
+  - Any Ore or Bar will filter out only that type of resource.
+  - A Refined Liquid Resin will allow you to monitor your Resin Handling and Farming setups.
+  - BioMass, Crystal and Coal will also filter the appropriate types.</Text>
+        </Paragraph>
+        <Paragraph>
+          <Text>The Base Efficiency refers to the ratio of Ores to Bars created; if it's greater than 100%, you're not collecting enough Ore; if it's less than 100%, you're not Smelting enough bars.</Text>
+        </Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SuitPowerPackMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 1 puvun virtapaketti</Text>
+				</Title>
+				<Icon>
+					<Name>Suit Power Pack MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Mallin 1 puvun virtapaketti on lisä-akku joka lisää puvun sisäänrakennettua sisäistä varaajaa 256 enegiayksiköllä. Tämä päivitys on primitiivinen eikä pysty laajenemaan. Lisäparannukset päivitykseen ovat mahdottomia kunnes paremmat lämpöjohtoiset materiaalit löydetään tarpeellisen jäähdytysteknologiaan jotta akun harhalämpö ei riko puvun elintoimintojärjestelmiä.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

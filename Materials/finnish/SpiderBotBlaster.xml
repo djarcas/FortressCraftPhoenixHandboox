@@ -1,0 +1,31 @@
+﻿<MaterialEntry>
+	<Key>SpiderBotBlaster</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Robohäkkipyssy</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot Defences 3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tämä alta-ammuttava ase tähtää yhteen viholliseen ja antaa pienen määrän sarjatulipuolustusta nopeasti liikkuvia pieniä kohteita vastaan. Ole tietoinen että tämän asentaminen voi aiheuttaa suurta vahinkoa pintakerrokselle. Ole varautunut sota-alueeseen ennen kuin asennat tämän tuhotoosan!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Vain yhden asentaminen on tarpeellista!</Text>
+				</Header>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SpiderBot Base Component</Material>
+					</Target>
+					<Text>More information regarding SpiderBot!</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

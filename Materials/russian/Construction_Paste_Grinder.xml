@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Key>ConstructionPasteGrinder</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Пастомешалка</Text>
+				</Title>
+				<Icon>
+					<Name>ConstructionPasteGrinder</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Пастомешалка использует тот же процесс, что и Рекомбинатор Органики, чтобы производить Строительную Пасту из ненужных материалов, существующих на этой планете, наподобие камней и почвы. Низкая стоимость изготовления этого оборудования и низкое потребление энергии делают возможным параллельное подключение оборудования. Установка Мусорокрада в часто посещаемом коридоре, подключенного к данному оборудованию, позволяет легко получать большое количество Строительной Пасты на ранних этапах развития.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Construction Paste</Material>
+					</Target>
+					<Text>Construction Paste</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

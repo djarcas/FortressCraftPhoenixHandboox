@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T1 Power</Handle>
+	<Title>Energienet</Title>
+	<Icon>Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Energienet</Text>
+				</Title>
+				<Icon>
+					<Name>Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>We kunnen niet lang overleven met alleen de energie geproduceerd door onze \&apos;Central Power Hub\&apos;. Naarmate onze basis groeit, zullen we nieuwe manieren moeten vinden om energie te genereren en deze over te brengen aan verre mijnbouwactiviteiten zodat we niet heen en weer hoeven te rennen om ze handmatig van energie te voorzien.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

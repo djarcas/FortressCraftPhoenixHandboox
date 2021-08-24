@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Dirt</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Multa</Text>
+				</Title>
+				<Icon>
+					<Name>Dirt</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Palikkatyyppi joka yleensä löytyy heti pinnan alta. Voidaan murskata murkaimessa malmin löytymisen toivossa.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

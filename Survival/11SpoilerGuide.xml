@@ -1,0 +1,272 @@
+<Chapter>
+	<Handle>spoilerguide</Handle>
+	<Title>FortressCraft Guide - Spoilers!</Title>
+	<Icon>Improved Ore Scanning</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Spoilers Ahead</Text>
+				</Title>
+				<Icon>
+					<Name>Build Gun V2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+				<Paragraph>
+          <Text>Not everyone wants to be surprised as they go along. If you're one of those people, and 'spoilers' aren't something you care about, then hit Next down below.
+        
+        Note that this in NOT an 'in-game' guide, but rather me talking through the major beats of the game, what I planned, and a rough outline of what you should expect.
+        </Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Survive and Build</Text>
+				</Title>
+        <Icon>
+					<Name>Central Power Hub</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Initially, you're surrounded by the unknown. As long as you place torches down regularly, keep an eye on your power and retreat back to the CPH to top off, you shouldn't die much, or at all.
+          
+          Getting machines to continually work whilst you're exploring is key - it's far more important to ensure machines work constantly, as opposed to bursts of fast work, followed by idling. Connecting your Copper and Tin up to your Smelters (including Basic Smelters!), and ensuring they have plenty of storage is key. 
+          
+          As soon as you're able, convert approximately 75% of your Copper Bars into Copper Wire, and 75% of your Tin Bars into Tin Plates - the rest should be automatically crafted into Basic and Primary PCBs. You'll need those for research. You can trivially arrange ratios by the amount of storage available for each.
+            
+          </Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+			<Title>
+					<Text>Defend and Research</Text>
+				</Title>
+        <Icon>
+					<Name>Laboratory Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>As you progress towards Iron and Lithium, you'll need to setup your initial Research system. As indicated previously, you should tap off approximately 25% of all your resources directly into Research Pods - a 10 capacity MiniHopper means that the entire assembly line will backed up and resources will flow in the other direction. 
+          
+          It's recommended you progress towards 1 Smelter and a complete set of Assembly Line Machines for each line; that's 3 Stampers, and then an Extruder, Coiler and PCB Maker in a line, feeding into a Research Assembler.
+          
+          Running your research is almost guaranteed to get you attacked. As a rule of thumb, attacks are simple to deal with. 2 things to bear in mind; generally your issue will be running out of power, not lacking in number of turrets. Secondly, multiple defensive fronts work far better than clusters of turrets; this allows the outer ring to recharge whilst the inner ring deals with the stragglers. Remember that the more bugs you kill, the more loot drops you'll receive!
+          </Text>
+				</Paragraph>
+			 
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Progressing deeper</Text>
+				</Title>
+        <Icon>
+          <Name>Enriched Coal</Name>
+          <Alignment>Center</Alignment>
+        </Icon>
+				<Paragraph>
+					<Text>It's highly recommended to investigate into Enriching or Infusing your Coal, and delivering it to PTGs, and to have as much Power Storage as you can afford for your defences. Definitely look into using Logistics FALCORs to deliver the Coal to where it's needed.
+          
+          Remember that all of your underground base will need defending. Do not skimp on running plenty of power deep underground - ensure Lenses are fitted to all critical LETS, and upgrade them as soon as you can. Building plenty of underground power storage will also get you through power outages.
+          
+          It's best to simply take the obvious approach to underground defense - build overlapping turrets covering all of your Conveyors, PSBs and Ore Extractors.
+          
+          Once you find Iron, you can either schlep the Ore or build a deep Conveyor line - as you need Iron for Rack Rails for your first Cargo Lift. It's highly recommended that you build a Cargo Lift for anything deeper than Iron.
+          
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>The Cold Cavern</Text>
+				</Title>
+        <Icon>
+          <Name>Suit Heater MK1</Name>
+          <Alignment>Center</Alignment>
+        </Icon>
+				<Paragraph>
+					<Text>The Cold Cavern is the first of the major survival hurdles for you to overcome. It's straightforward enough - make a dozen Charged Lithium Coils and craft a Suit Heater. You'll discover Crystal deposits, but those are for you to come back to once you've got access to Steel.
+          
+          Be aware that the Conveyors won't work in the cold - you'll either need to make a Heated Room or move onto the much faster Transport Pipes. A Heated Room also has the advantage of negating the power usage from the cold.
+					
+					At this point there isn't much to doin the Cold Cavern, other than pick up a ton of easy Research Points from the Crystal, find a nice hole, and move on to finding your T2 materials.
+					
+					It's always a good idea to setup a bunch of PSBs at this point, meaning you don't need to returh to the surface if you're low on power when exploring. You can also then use this power down at your T2 level to drive the Workfloor Excavator.
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+    	<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Recap</Text>
+				</Title>
+        <Icon>
+          <Name>RackRailer</Name>
+          <Alignment>Center</Alignment>
+        </Icon>
+				<Paragraph>
+					<Text>By this point, you should hopefully be on top of everything introduced so far; you should be generally winning most of the attacks, you should have FALCORs setup and plenty of beacons to collect the drops, potentially with a Mass Storage or sorting system. This will allow you to quickly grab the relevant Eyes for your new Turrets and Lenses.
+					
+          You should also have a LOT of Rack Rails automated and stored - you're going to need them. You'll want to move towards one Cargo Lift per Ore, with a seperated line for Smelting (At least 3 upgraded Smelters per Ore should be your target, without ever mixing the Ore).
+          
+          You'll want to make sure your base is working - the Mission Report will pinpoint any issues in your base, as well as give you any hints it thinks are relevant. You can also look at your Base Scanner setup and ensure that all your Bars are more-or-less on an even keel, and use the Holobase to check for any major blockages. As mentioned earlier - it's much more important to have your base working constantly, than huge peaks and then nothing.
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tier 2</Text>
+				</Title>
+        <Icon>
+          <Name>Titanium Bar</Name>
+          <Alignment>Center</Alignment>
+        </Icon>
+				<Paragraph>
+					<Text>T2 materials should be locatable using the same method as you located T1 materials; but after you've found everything you need, you should use a Workfloor Excavator and clear things out, to make your life much easier. 
+          
+          Again, all of your bars should be converted into the appropriate Secondary material; Titanium Housings, Gold Wires and Secondary (Nickel) Upgrade Modules, tapping off about 25% towards your Research. As soon as you can, research Alloys, and get Steel Cutter heads into all your Extractors - it will make veins last twice as long!
+          
+          There is no pressure to move into T2 - ensure that your T1 setup is efficient, working nicely and upgraded as far as possible. That said - T2 is full of lots of cool new toys.
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>More power</Text>
+				</Title>
+        <Icon>
+          <Name>Refinery Reactor Vat Component</Name>
+          <Alignment>Center</Alignment>
+        </Icon>
+        <Paragraph>
+					<Text>As you grow your base, ensure you upgrade everything - you should be on a lot of Solar power by now, with Infused coal everywhere, and a huge amount of defense and battery power.
+					
+          Your next step is to move into your 3rd type of power; Biomass. Which is a fancy name for oil. You'll want to bring up Biomass from the Toxic Caverns, using a Cargo Lift (and yup, a lot of Rack Rails!), refine it, and then deliver it to Jet Turbines, returning the empty Canisters to your Refineries in a closed loop.
+          
+          Be aware that you can also use Resin in a closed-loop for a profit in power on Rapid mode.
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Alien Menace</Text>
+				</Title>
+        <Icon>
+          <Name>Hivemind Agitator</Name>
+          <Alignment>Center</Alignment>
+        </Icon>
+        <Paragraph>
+					<Text>At this point, if you haven't already, you'll need to be dealing with the Hard Resin growing from the Hiveminds all over the surface. If you've followed the advice and adequately defended your underground operations with large power backing, you shouldn't be panicking. If you haven't, well... the following advice applies either way.
+          
+          The Hiveminds will grow Hard Resin as long as you're Agitating, Farming or allowing resources to be eaten by Mynocks. This is bad as it can encroach on your base. This is good, because Resin is super-duper useful, and you are going to want a LOT of it. Most players build specific undefended loops of Conveyors, deep underground, fed by an Ore Extractor with a T0 LET, so it works slowly. If you have The Adventures Pack, you can also build an Agitator.
+          
+          Be aware that it's virtually impossible to LOSE to the Hiveminds, no matter how much you overdo it. It's just a huge pain to clear it up!
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fighting Back</Text>
+				</Title>
+        <Icon>
+          <Name>Armour Piercing Missile</Name>
+          <Alignment>Center</Alignment>
+        </Icon>
+        <Paragraph>
+					<Text>As you've expanded your Resource collection, processing and storage, hopefully you haven't neglected your defence and research. You should aim to move towards fully-automated missile production and firing - they're massively more power-efficient than even the MK3 turrets, and also allow you to knock down Heavies and Bosses at a further distance.
+          
+          If for some reason you've avoided it, SpiderBot is an invaluable resource in your defence. When fully-upgraded, he can deal with attacks at about 7,000 Base Rating. The SpiderCORs and Beacons can also collect any drops that end up in the wild.
+          
+          Once you can hold off 20,000 threat indefinitely, you're ready to build and charge your Orbital Energy Transmitter.
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+
+		<Page>
+		<Paragraphs>
+				<Title>
+					<Text>Winning</Text>
+				</Title>
+        <Icon>
+          <Name>Orbital Power Transmission</Name>
+          <Alignment>Center</Alignment>
+        </Icon>
+        <Paragraph>
+					<Text>The final stage of the base game is straightforward, very satisfying, and relies on your base having hit a certain level of generational throughput. You'll need to be able to hold off attacks permenantly, without running out of power or missiles - ensure your veins are going to last before starting! 
+          
+          In a nutshell tho - charge your OET to  100 million power without losing a wave to your CPH. Once done, place an Orbital Strike Controller vaguely in the vicinity, trigger it and enjoy the fireworks display. You can then utilise any defences dedicated that quadrant to strengthen the other quadrants.
+          
+          IT IS NOT RECOMMENDED TO MOVE ON TO THE FROZEN FACTORY UNTIL ALL FOUR OVERMINDS ARE DESTROYED. You will not need major surface defenses, 
+          
+          Once you've done this, you will unlock Flatland for successive playthroughs.
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+  
+    <Page>
+		<Paragraphs>
+				<Title>
+					<Text>Frozen Factory</Text>
+				</Title>
+        <Icon>
+          <Name>CryoPlasm Melter</Name>
+          <Alignment>Center</Alignment>
+        </Icon>
+        <Paragraph>
+					<Text>Go to the Cold Caverns and build the CCCCC to Terraform it. You'll then get attacked by Cryo and need to defend against it. Build Geothermal Plants, Blast Furnaces and work towards the MagmaBore. Built the Bore, connect it to the MagmaStorage, then burn each of the CryoSpawners down until there's none left.
+          
+          If you achieve the previous sentence in under 60 hours, give yourself a pat on the back!
+          
+          Access to this requires Frozen Factory Expansion Pack.
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+    
+	  <Page>
+		  <Paragraphs>
+				<Title>
+					<Text>The Railgun</Text>
+				</Title>
+        <Icon>
+          <Name>OrbitalRailGunController</Name>
+          <Alignment>Center</Alignment>
+        </Icon>
+        <Paragraph>
+					<Text>Once you've defeated all 8 CryoSpawners and all 4 Overminds, you can build the Railgun. The Railgun has two main purposes.
+          
+          Firstly, it is an enormous logistical challenge with no limits. Your performance is tracked, averaged and listed for you to compare off against other people's bases. From current testing, getting your average down under an hour should be considered excellent. The theoretical minimum is about 7 minutes. Please please put pictures of your Railgun stats on the forum, so other people can see quite how amazing your base is.
+          
+          Secondly, on first firing, the GPS system will be unlocked, for this playthrough and all successive playthroughs. This unlock requires you to have mods disabled.
+          
+          Access to this requires The Adventures Pack DLC.
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+
+	
+	</Pages>
+</Chapter>
+
+		

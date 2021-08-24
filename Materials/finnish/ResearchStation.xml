@@ -1,0 +1,83 @@
+<MaterialEntry>
+	<Key>ResearchStation</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tutkimusasema</Text>
+				</Title>
+				<Icon>
+					<Name>Research Station</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tutkimusasema antaa puitteet tämän planeetan ymmärtämiseen, sen mineraaleista, kasveihin ja eläimiiin. Se mahdollistaa luotaustyökalun tallentamien tietojen käsittelyn kuin myös uusien teknologioiden kehittämisen. Monet kehittyneemmät tutkimusprojektit ovat tutkimusaseman kykyjen ulottumattomissa ja vaativat laboratorion apua.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Käyttääksesi tutkimusasemaa käänny sen puoleen ja paina vuorovaikutus nappia (oletus \&#39;E\&#39;). Tämä avaa tutkimuspäätteen joka sisältää kolme välilehteä: luotausten käsittelyyn, reseptit ja projektit.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Luotausten käsittely</Text>
+				</Header>
+				<Paragraph>
+					<Text>Puvussasi on luotaustyökalu (oletus \&#39;M\&#39;). Sen toissijainen toiminto mahdollistaa tuntemattomien materiaalien luotauksen maailmassa. Työkalu myös automaatisesti luotaa tuntemattomat materiaalit joita kaivamistyökalusi imee. Nämä tiedot ladataaan tutkimusasemalle.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Ensimmäinen välilehti tutkimusasemassa listaa kaikki jäljellä olevat tuntemattomat materiaalit ja mahdollistaa niiden luotausten käsittelyn niiden oppimiseksi. Luotausten käsittely maksaa virtaa ja antaa näytetyn määrän tutkimuspisteitä joita voi käyttää lisäresepteihin tai projekteihin.</Text>
+				</Paragraph>
+
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Reseptien kehittely</Text>
+				</Header>
+				<Paragraph>
+					<Text>Luotausten käsittelyllä ja kehitysprojekteilla voi avata uusia reseptejä kehiteltäväksi. Nämä ovat yleensä uusia koneita jotka auttavat sinnittelyssä ja avittavat matkaasi. Jokaisella on tutkimuspiste- ja virtahinta. Tutkimuspisteitä tulisi käyttää varoen, jos ne loppuvat joudut seikkailemaan kauas uusien luodattavien materiaalien etsinnässä.</Text>
+				</Paragraph>
+	
+				<Paragraph>
+					<Text>Useimmat kehitettävät reseptit voidaan ottaa käyttöön valmistusasemalla, jotkin vaativat erikoistuneen rakennuslaitoksen. Tarkista koneen käsikirjalistaus saadaksesi lisätietoja.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Tutkimusasemaa voi virroittaa suoraan päävirtakeskuksesta, virransiirtonopeus on kuitenkin rajallinen kun päävirtakeskuksen virta on vähäinen.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Projektien kehitteleminen</Text>
+				</Header>
+				<Paragraph>
+					<Text>Projektit tyypillisesti parantavat teknologiatasoasi tietyllä saralla avaamalla uusia reseptejä joko suoraan tai reseptivälilehden avulla. Yksinkertaiset projektit voi suorittaa yksin tutkimusasemalla virta- ja tutkimuspistehinnalla. Monimutkaisempiin projekteihin vaaditaan laboratorion avustusta. Laboratorio on itsessään tutkimusprojekti joka täytyy avata.</Text>
+				</Paragraph>
+				<Paragraph>
+					<ResearchRequirements>
+						<Research>Advanced Research</Research>
+					</ResearchRequirements>
+					<Text>For more information on Laboratory research projects please visit the following guide.</Text>
+				</Paragraph>
+					
+				<Link>
+					<ResearchRequirements>
+						<Research>Advanced Research</Research>
+					</ResearchRequirements>
+				
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research Guide</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Chapter>unknown materials</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Unknown Materials</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>
+

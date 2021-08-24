@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>BiomassGrowthPing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ping Pousse de Biomasse</Text>
+				</Title>
+				<Icon>
+					<Name>Biomass Growth Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Le Ping Pousse de Biomasse est utilisé plus de biomasse quand celle trouvée par le ping de matériaux inconnus est presque épuisée ou insuffisante. Pour plus d\&apos;informations consulter le guide d\&apos;aide à propos des Pings de Minerai Vierge.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Blank Ore Ping</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

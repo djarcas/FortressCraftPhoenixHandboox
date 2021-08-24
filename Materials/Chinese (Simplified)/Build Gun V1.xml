@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Name>Build Gun V1</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>建造枪 V1</Text>
+				</Title>
+				<Icon>
+					<Name>Build Gun V1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>建造枪是从坠毁的船只的部件再利用制成的工具。 该枪允许在环境中快速构建和破坏材料。 基本款式还没有为新环境做相应的适配，因此功能上有极大的限制。 由于建造枪对抓斗功能的初步冷却，空气压力或空气质量的下降可能导致短暂的冷却时间，其中在抓握之后可能一段时间内无法激活。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V2</Material>
+					</Target>
+					<Text>Build Gun V2</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

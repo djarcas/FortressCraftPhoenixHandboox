@@ -1,0 +1,41 @@
+<MaterialEntry>
+	<Key>PlasmaHeadCharger</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Plasma Head Charger</Text>
+				</Title>
+				<Icon>
+					<Name>Compressor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This charger uses a large amount of power to greatly enhance the mining rate of a steel drill head along with maximizing its efficiency.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>This machine requires a hopper holding at least 1 Steel Drill Head to start the charging process.</Text>
+				</Paragraph>
+
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Manufacturing Time:
+					Power Required:
+					Power Capacity:
+					Max. Power Recharge Rate:</Left>
+					<Right>60 seconds
+					840 per second
+					8400
+					1000 per second</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+				
+
+				
+	</Pages>
+</MaterialEntry>
+

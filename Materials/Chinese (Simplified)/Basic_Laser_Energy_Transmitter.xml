@@ -1,0 +1,44 @@
+﻿<MaterialEntry>
+	<Key>BasicLaserEnergyTransmitter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>基本款激光输电器（Basic Laser Energy Transmitter）</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Laser Energy Transmitter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>作为最便宜和最基本的电力传输设备，此发射机不适合任何任务，除非它是唯一选项。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>基础激光输电器只够支持两台未升级的矿物分离器运行。由于其传输速度非常低，一旦条件允许，建议升级到更先进的传输方式。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>要打开LET的控制面板，请按“交互”键（默认为“E”）。 这允许您升级镜片，这将提高功率传输。 您也可以切换发射模式，以使电量充满后再发出能量。 LET具有较小的内部电池容量，可用能量块与之互补，以确保供需不一致状态下供电的可靠性。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>能量分组尺寸：
+最大分组速率：
+最大传输速率：
+能源容量：
+最大范围：</Left>
+					<Right>0.9
+ 1.0 组/秒
+ 0.9 /秒
+ 18
+ 32m</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

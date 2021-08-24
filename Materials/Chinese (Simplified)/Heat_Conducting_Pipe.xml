@@ -1,0 +1,33 @@
+﻿<MaterialEntry>
+	<Key>HeatConductingPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>导热管</Text>
+				</Title>
+				<Icon>
+					<Name>Heat Conducting Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>导热管结合了铜管的流体传输功率和水晶纤维网的耐热耐压性。 在地热发电中，采用了这种新型的管道技术，现在已成为新机器不断增长的电力需求的可行解决方案。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Pipe Coater</Material>
+					</Target>
+					<Text>Pipe Coater</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Geothermal Generator comp_</Material>
+					</Target>
+					<Text>Geothermal Generator comp_</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

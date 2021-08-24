@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ReinforcedRock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Vahvistettu kivi</Text>
+				</Title>
+				<Icon>
+					<Name>Reinforced Rock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Perusrakennusmateriaali jonka voi tehdä kaikkialla ilman valmistusaseman palveluja. Avaa itsevalmistuskäyttöliittymä (oletus \&#39;C\&#39;) tuottaksesi näitä.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

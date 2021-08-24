@@ -1,0 +1,35 @@
+<MaterialEntry>
+	<Key>EmptyFuelCanister</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Пустая канистра</Text>
+				</Title>
+				<Icon>
+					<Name>EmptyCanister</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>УДАЛИИИИ МЕНЯЯЯ</Text>
+					<Text>REMOVEEEE MEEEEE</Text>
+					<Text>REMOVEEEE MEEEEE</Text>
+					<Text>REMOVEEEE MEEEEE</Text>
+					<Text>REMOVEEEE MEEEEE</Text>
+					<Text>REMOVEEEE MEEEEE</Text>
+					<Text>REMOVEEEE MEEEEE</Text>
+					<Text>REMOVEEEE MEEEEE</Text>
+					<Text>REMOVEEEE MEEEEE</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Refinery Controller</Material>
+					</Target>
+					<Text>Refinery Controller</Text>
+				</Link>
+		
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

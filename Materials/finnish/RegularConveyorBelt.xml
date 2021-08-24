@@ -1,0 +1,49 @@
+<MaterialEntry>
+	<Key>RegularConveyorBelt</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kuljetinhihna</Text>
+				</Title>
+				<Icon>
+					<Name>Conveyor Belt</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kuljetinhihnat ovat kohtuullisen halpa ja helppo tapa kuljettaa resursseja ympäriinsä. Ensimmmäinen käyttösi niille on luultavasti materiaalin kuljettaminen malmi- tai hiililouhimeen liitetystä tavarahypyttimestä sulattamoon tai voimalaan kuten päävirtakeskus tai polttovoimala.</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>Käyttö</Text>
+				</Header>
+				<Paragraph>
+					<Text>Kuljetinhihnat ottavat resursseja automaattisesti viereisistä varastohypyttimistä jos ne osoittavat mihin tahansa poisuuntaan siitä ja kuljettavat ne eteenpäin asettamalla ne eteenpäin seuraavalle kuljettimelle tai varastohypyttimeen kunhan siellä on tilaa. Voit vaihtaa kuljetinhihnojen suuntaa pyörittämällä kuljetinta tai asettamalla sen seinälle pystysuoraan kuljetukseen. Varastohypyttimiä tarvitaan vain linjojen päissä.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Rajoitukset</Text>
+				</Header>
+				<Paragraph>
+					<Text>Kuljettimet ovat halpoja ja eivät vaadi ulkoista virtaa. Niillä on kuitenkin useita haittapuolia. Ne ovat alttiita äärimmäisille ympäristöille ja niiden avoimuus tekee niistä erityisen herkän hyökkäysille. Vaihtoehtoisia kuljetustapoja tulisi tutkia.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Header><Text>Suodatus</Text>
+</Header>
+				<Icon>
+					<Name>Conveyor Belt Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&#34;Käytä kuljetinhihnasuodatinta ottaaksesi tarkemman otteen resurrsienjakelusta. Tälläistä suodatinta käytetään ohjaamaan millaista materiaalia hypyttimestä siirretään kuljetinverkkoon. Voit asettaa suodattimen ottamaan ROSKAA, MALMIA, ORGAANISTA, JALOKIVIÄ, HIILTÄ, BIOMASSAA, SULATETTAVAA, SYTTYVÄÄ, TUOTETTUJA ESINEITÄ, KRISTALLIA tai VAIN HARKKOJA. &#34;</Text>
+				</Paragraph>
+	
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+					
+	</Pages>
+</MaterialEntry>

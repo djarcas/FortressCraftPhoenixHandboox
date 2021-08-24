@@ -1,0 +1,50 @@
+﻿<Chapter>
+	<Handle>T4_start</Handle>
+	<Title>De Bevroren Fabriek!</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>De Bevroren Fabriek</Text>
+				</Title>
+				<Icon>
+					<Name>MagmaBore Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nu dit onderzoek is afgerond, kunnen we doorgaan met het bouwen van het Klimaatcontrolecentrum voor de Koude Grotten (KCCKG of kortweg KCC). We zullen deze machine in de Koude Grotten moeten bouwen, energie moeten leveren, en dan zou het gewoon, langzaam, de grot moeten veranderen in een prachtig zwoel gebied, waar we ons goed kunnen opzetten en wachten op redding.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Deze nieuwe machine is aanzienlijk geavanceerder (en fragieler!) Dan de oude ?HKC? - we zouden veel grotere, snellere en meer gecompliceerde mijnbouw- en grondstof-machines moeten kunnen ontwerpen, onderzoeken en bouwen. Allereerst zullen we wat geavanceerdere materialen nodig hebben, en daarvoor hebben we een speciale machine nodig om met de supergeharde ertsen om te gaan.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Als we de Harde-Steenslijpmachine op een geschikt 3x3 stuk Chromium en Molybdeen bouwen, moeten we in staat zijn om een nieuw type boor te maken. Nano-desintegratoren zullen ideaal zijn om het benodigde platte oppervlak te maken.</Text>
+  
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Hard Rock Grinder</Material>
+					</Target>
+					<Text>Hard Rock Grinder</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>NanoDisintegrator</Material>
+					</Target>
+					<Text>NanoDisintegrator</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>CCCCC_Placement</Material>
+					</Target>
+					<Text>Cold Cavern Climate Control Centre</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

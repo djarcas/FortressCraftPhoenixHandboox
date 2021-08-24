@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>CoalOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Уголь</Text>
+				</Title>
+				<Icon>
+					<Name>Coal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Энергонасыщенный материал, который можно сжечь в Центральном Энергетическом Концентраторе или Пиротермическом Генераторе.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Уголь можно добыть с помощью Экстрактора Руды.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

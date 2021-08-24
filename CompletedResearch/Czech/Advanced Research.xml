@@ -1,0 +1,37 @@
+﻿<Chapter>
+	<Handle>advanced research</Handle>
+	<Title>Pokročilý Výskum</Title>
+	<Icon>Laboratory Component</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pokročilý Výskum</Text>
+				</Title>
+				<Icon>
+					<Name>Laboratory Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nyní máme návrh pro výzkumnou laboratoř a montážní stroje potřebné k tomu, abychom je zásobovali experimentálními kapslemi.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Laboratoř je potřebná pro zkoumání pokročilých projektů, které zlepšují vaši technologickou úroveň a odhalují nové projekty a recepty. Je potřeba celkem 27 laboratorních komponent (vyrobeno ve 3 vrstvách po 9 součástech) a musí být postaveno v konfiguraci 3x3x3.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Pro více informací o použití laboratoře prosíme obraťte se na tento následující návod:</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research Guide</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

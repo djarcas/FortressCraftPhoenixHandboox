@@ -1,0 +1,37 @@
+﻿<MaterialEntry>
+	<Key>TransportPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>传输管道</Text>
+				</Title>
+				<Icon>
+					<Name>Transport Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>比普通传送带昂贵得多, 但是它们的速度快得多, 对极端寒冷免疫, 而且由于其封闭的性质, 对攻击的敏感程度更低。和传送带一样, 它们也不需要外部动力。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>使用运输管道升级您的运输网络应该被认为是一个长期项目。 早期请关注瓶颈区域。</Text>
+				</Paragraph>
+				<Header>
+					<Text>用法</Text>
+				</Header>
+				<Paragraph>
+					<Text>运输管道遵循与常规传送带相同的规则。</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Conveyor Belt</Material>
+					</Target>
+					<Text>Conveyor Belt</Text>
+				</Link>
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

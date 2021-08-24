@@ -1,0 +1,26 @@
+﻿<Chapter>
+	<Handle>T2 assist machines</Handle>
+	<Title>Avancerad Logistik</Title>
+	<Icon>mk1 robot arm</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Avancerad Logistik</Text>
+				</Title>
+				<Icon>
+					<Name>mk1 robot arm</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Optimering av vår gruvdrift kräver en skalpell, inte en hammare. (Hammare finns som en separat uppgradering, självklart).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Detta forskningsprojekt kommer att fokusera på förbättringar i lagring, sortering och kompletterande bas byggverktyg.</Text>
+				</Paragraph>
+			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

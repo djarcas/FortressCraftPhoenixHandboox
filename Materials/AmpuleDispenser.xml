@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Key>Ampule_Dispenser</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ampule Dispenser</Text>
+				</Title>
+				<Icon>
+					<Name>Ampule Dispenser</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This must be placed above an Ampule Crafter, within a room. Ampules will then be automatically loaded and upgraded from the Ampule Crafter. </Text>
+				</Paragraph>
+        <Spacer/>
+        <Icon>
+          <Name>Ampule Crafter</Name>
+          <Target>
+            <Material>Ampule_Crafter</Material>
+          </Target>
+        </Icon>
+        <Paragraph>
+          <Text>The Ampule Crafter must be placed inside a room.</Text>
+        </Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

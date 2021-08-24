@@ -1,0 +1,34 @@
+﻿<MaterialEntry>
+	<Key>RefineryReactorVatPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Raffinerie Reaktor Vat</Text>
+				</Title>
+				<Icon>
+					<Name>Metal Siding 1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Die Raffinerie ermöglicht es Ihnen, Kohlenhydrate, die auf dem fremden Planeten gefunden werden, zu nützlichen Materialien zu verarbeiten. Für den Betrieb benötigt es zwei Teile: den Raffinerie-Controller und einen Raffinerie-Reaktor-Behälter. &quot;</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Refinery Controller</Material>
+					</Target>
+					<Text>Refinery Controller</Text>
+				</Link>
+				<Paragraph>
+					<Text>Eine Raffinerie-Reaktorwanne ist eine große Struktur, die aus Reactor Vat Component-Blöcken aufgebaut ist. Wenn sie in einer festen 3 mal 3 mal 3 Konfiguration platziert wird, wird der Bottich als eine große Maschine angezeigt.
+
+Der Reaktorbehälter enthält die chemischen Prozesse, die zur Rekombination von Kohlenhydraten erforderlich sind. Um zu funktionieren, muss es mit einer Steuerung verbunden sein. Es ist möglich, Bottiche über jedem mit dem Controller verbundenen zu stapeln, um dem Controller zu ermöglichen, auf mehreren Bottichen gleichzeitig zu arbeiten. Dies führt zu einem linearen Anstieg der Produktions- und Energiekosten sowie der Lagerung des Endprodukts: In jedem Tank können 10 fertiggestellte Produkte gelagert werden, bevor kein Platz mehr für die Verarbeitung vorhanden ist. Der Vorteil bei der Verwendung von mehr Tanks auf einem Controller ist, dass Sie nicht mehrere teure Raffinerie-Controller machen müssen.
+
+Jeder Bottich enthält viele elektrische Leitungen sowie viele Transportrohre. Aus diesem Grund wird die den Bottichen zugeführte Energie auch an die angeschlossene Steuerung geliefert. Der maximale Energiespeicher der Raffinerie hängt von der Anzahl der angeschlossenen Bottiche ab.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,32 @@
+﻿<Chapter>
+	<Handle>black box</Handle>
+	<Title>Boite Noire de Données</Title>
+	<Icon>Black Box Data</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Boite Noire de Données</Text>
+				</Title>
+				<Icon>
+					<Name>Black Box Data</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>																																																																	  			
+					<Text>Une analyse approfondie des données de la boîte noire enregistrée par votre combinaison est maintenant terminée. Il confirme votre analyse visuelle selon laquelle un objet étranger, considéré comme un météore, a frappé la station alors que vous prépariez à apponter. L\&apos;explosion qui en a résulté a endommagé les propulseurs de manœuvre de votre vaisseau provoquant un atterrissage sur cette plante étrangère. Aucun autre survivant n\&apos;a été détecté actuellement.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>On ne sait pas pourquoi le météore n\&apos;a pas été détecté par les scanners à longue portée des stations, les causes possibles incluent une panne ou un sabotage du système.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>&quot;Dans un tour de hasard heureux, une nacelle de construction avancée a survécu à l\&apos;explosion et est restée bloquée sur le signal de détresse de votre navire. Elle  a atterri à côté du site du crash. Il s\&apos;agit d\&apos;une Nacelle Vortox X103 MK V standard contenant un Concentrateur d\&apos;Énergie Central entouré d\&apos;une Fonderie de Minerais, d\&apos;une Usine de Fabrication et d\&apos;une Station de Recherche. Elle a également été équipée d\&apos;un système de défense robotique autonome qui devrait nous aider à survivre à toute attaque précoce si nous trouvons une vie hostile sur cette planète.&quot;</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

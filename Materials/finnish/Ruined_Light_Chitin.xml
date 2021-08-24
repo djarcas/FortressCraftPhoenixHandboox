@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>RuinedLightChitin</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pilattu kevyt kitiini</Text>
+				</Title>
+				<Icon>
+					<Name>WaspLightChitinRuined</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kitiini on pitkäketjuinen polymeeri jossa on hiiltä, vetyä, happea ja typpeä. Se näyttää olevan monen paikallisen eliön perusosa.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

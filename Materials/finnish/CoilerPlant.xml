@@ -1,0 +1,29 @@
+<MaterialEntry>
+	<Key>CoilerPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kelaaja</Text>
+				</Title>
+				<Icon>
+					<Name>Coiler Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kelaaja on tavallinen kuljetin varustettuna koneella joka pyörittää venytettyt langat keloiksi.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Käyttö</Text>
+				</Header>
+				<Paragraph>
+					<Text>Syötä metallilangat kelaajaan toisesta kuljettimesta kuljetinkoneesta tai kuljetinkääntölavasta. Kelaaja muuntaa langat keloiksi joita voidaan käyttää muissa resepteissä.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Kelaaja on oleellinen laboratoriotutkimuksen automatisoinnissa.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

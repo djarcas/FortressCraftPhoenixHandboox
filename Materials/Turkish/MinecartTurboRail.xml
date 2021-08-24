@@ -1,0 +1,121 @@
+﻿<MaterialEntry>
+	<Key>MinecartTurboRail</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Icon>
+					<Name>Minecart</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text></Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left></Left>
+					<Right></Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Paragraph>
+					<Text></Text>
+&gt;
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Minecart Depot</Material>
+					</Target>
+					<Text>Minecart Depot</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Icon>
+					<Name>Minecart Load</Name>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Load Station</Material>
+					</Target>
+					<Text>Minecart Load</Text>
+				</Link>
+				<Icon>
+					<Name>Minecart Unload</Name>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Unload Station</Material>
+					</Target>
+					<Text>Minecart Unload</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+			<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Icon>
+					<Name>Minecart Turbo Rail</Name>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Turbo Rail</Material>
+					</Target>
+					<Text>Minecart Turbo Rail</Text>
+				</Link>
+				<Spacer/>
+				<Icon><Name>MinecartBufferFull</Name>
+</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Full Gate</Material>
+					</Target>
+					<Text>Minecart Full Gate</Text>
+				</Link>
+				<Spacer/>
+				<Icon><Name>MinecartBufferEmpty</Name>
+</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Empty Gate</Material>
+					</Target>
+					<Text>Minecart Empty Gate</Text>
+				</Link>
+				<Spacer/>
+
+		
+			</Paragraphs>
+		</Page>
+		<Page>
+		<Paragraphs>
+				<Icon>
+			     <Name>Minecart</Name>
+			     <Link>
+			      <Target>
+			       <Text>Minecart Turbo Rail</Text>
+			      </Target>
+			     </Link>
+			    </Icon>
+
+		</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

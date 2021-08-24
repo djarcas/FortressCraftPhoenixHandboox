@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>PristinePhosphorescentGland</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Фосфоресцентная Железа</Text>
+				</Title>
+				<Icon>
+					<Name>WaspGlandPristine</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Эти Железы, похоже, обладают свойствами, пригодными для хранения энергии. Эта железа сохранилась достаточно хорошо для применения в производстве. Если бы мы нашли способ поставить на поток ловлю и уничтожение Слизней, то можно было бы добывать эти железы в промышленных масштабах.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

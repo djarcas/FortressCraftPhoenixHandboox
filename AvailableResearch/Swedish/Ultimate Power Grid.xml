@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T5 Power</Handle>
+	<Title>Ultimata Elnät</Title>
+	<Icon>Ultimate Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ultimata Elnät</Text>
+				</Title>
+				<Icon>
+					<Name>Ultimate Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Som en fortsättning på vår framgång med MK4 energilagringssystemet borde vi kunna designa den ultimata energilagringsenheten.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

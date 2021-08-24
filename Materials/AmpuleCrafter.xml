@@ -1,0 +1,40 @@
+<MaterialEntry>
+	<Key>Ampule_Crafter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ampule Crafter</Text>
+				</Title>
+				<Icon>
+					<Name>Ampule Crafter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Requires 8 of a plant type to craft into a Health Ampule. Place below an Ampule Dispenser, attached to a Storage Hopper of plants.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Manufacturing Time:</Left>
+					<Right>20 seconds</Right>
+				</TwoColumnParagraph>
+
+        <Spacer/>
+        <Icon>
+          <Name>Ampule Dispenser</Name>
+          <Target>
+            <Material>Ampule_Dispenser</Material>
+          </Target>
+        </Icon>
+        <Paragraph>
+          <Text>The Ampule Dispenser must be placed inside a room.</Text>
+        </Paragraph>
+        
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

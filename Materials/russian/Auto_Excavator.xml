@@ -1,0 +1,45 @@
+﻿<MaterialEntry>
+	<Key>AutoExcavator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Авто-экскаватор</Text>
+				</Title>
+				<Icon>
+					<Name>Auto Excavator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Автоматически роет вертикальные шахты снизу-вверх. Выкопанный материал падает вниз. Не может копать руду.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Применение</Text>
+				</Header>
+				<Paragraph>
+					<Text>Выройте небольшой тоннель к основанию предполагаемой шахты и разместите авто-экскаватор, после чего подведите к нему энергию.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Параметры шахты:
+Макс. высота шахты:
+Требуемая энергия:
+Энергоёмкость:
+Скорость перезарядки:
+Скорость копания:</Left>
+					<Right>3 м x 3 м
+512 м
+20 на 1 кубометр
+160
+-
+40 блоков в секунду</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,39 @@
+<MaterialEntry>
+	<Key>TinOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tin Ore</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Found near the surface, Tin Ore can be smelted into Tin Bars using the smelter. Tin Bars are generally used in basic machines requiring a lightweight construction.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Short Facts</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Occurrence:
+					Ping Color:
+					1st Stage of Extraction:
+					2nd Stage of Extraction:
+					
+					1st Stage of Smelting:
+					2nd Stage of Smelting:</Left>
+					<Right>-5 to -850m
+					Grey with Blue
+					Build Gun MK1
+					Ore Extractor
+					
+					Ore Smelter
+					Blast Furnace setup</Right>
+				</TwoColumnParagraph>			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

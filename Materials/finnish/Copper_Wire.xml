@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>CopperWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kuparilanka</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Wiring</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertaista kuparilankaa käytetään elektronisten osien koneissa. Tehdään venytysasemalla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

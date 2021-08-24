@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 2</Handle>
+	<Title>Базовые улучшения добычи II</Title>
+	<Icon>Enhanced Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Базовые улучшения добычи II</Text>
+				</Title>
+				<Icon>
+					<Name>Enhanced Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Основываясь на предыдущих исследованиях улучшения добычи руды можно ещё больше повысить эффективность Буровых Приводов и Усиливающих Индукторов.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Key>ClockMaker</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Crystal Clock Maker</Text>
+				</Title>
+				<Icon>
+					<Name>Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Creates and fits components made of Crystal Deposits to make Crystal Clocks that tick at a set speed.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>This machine requires hoppers holding at least 5 Crystal Deposits to start the crafting process.</Text>
+				</Paragraph>
+        <Spacer/>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Manufacturing Time:
+					Power Required:
+					Power Capacity:
+					Max. Power Recharge Rate:</Left>
+					<Right>5 seconds
+					1 per second
+					128
+					100 per second</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

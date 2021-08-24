@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>NickelCoil</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Nickelspule</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Eine einfache Nickelspule aus Nickeldrähten in einer Coiler-Anlage.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

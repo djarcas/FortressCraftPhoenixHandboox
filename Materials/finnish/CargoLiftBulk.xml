@@ -1,0 +1,53 @@
+<MaterialEntry>
+	<Key>CargoLiftBulk</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tukkurahtihissi</Text>
+				</Title>
+				<Icon>
+					<Name>Bulk Cargo Lift</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Suurin saatavilla olevista rahtihisseistä. Tämä jäisen tehtaan kone on ideaalinen massakuljetuksille materiaaleille kuten kromi ja molybdeeni kylmäluolista. Tällä hissillä on valtava kapasiteetti ja on myös erittäin nopea!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>&#34;Maksimi kantama:
+ Maksiminopeus:
+ Kiihdytys:
+ Maksimikapasiteetti:
+ Virrankulutus (liikkuessa):
+ &#34;</Left>
+					<Right>&#34;Rajoittamaton
+ 15 metriä sekunnissa
+ 0.5 metriä neliösekunnissa
+ 3000
+ 850 e/s
+ &#34;</Right>
+				</TwoColumnParagraph>
+
+				<Icon>
+					<Name>Cargo Lift Controller</Name>
+					<Target><Material>Cargo Lift Controller</Material>
+</Target>
+				</Icon>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Cargo Lift Controller</Material>
+					</Target>
+					<Text>CargoLift Controller</Text>
+				</Link>
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

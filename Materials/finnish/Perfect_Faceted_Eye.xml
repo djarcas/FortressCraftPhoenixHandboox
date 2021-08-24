@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>PerfectFacetedEye</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Täydellinen verkkosilmä</Text>
+				</Title>
+				<Icon>
+					<Name>WaspEyePerfect</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Paikallisen lentävän eliön silmästä saa erinomaisen optisen osan. Tämä on tullut isommasta lajista ja on hyvässä kunnossa käytettäväksi.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

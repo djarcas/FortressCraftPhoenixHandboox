@@ -1,0 +1,27 @@
+﻿<Chapter>
+	<Handle>Base Defence</Handle>
+	<Title>Défense de la Base</Title>
+	<Icon>&gt;ARTHER Turret</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Défense de la Base</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>À la suite de votre recherche sur les formes de vie locale, il est clair que les systèmes défensifs doivent être d\&apos;une priorité élevée.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Nous devrons amener la LIBERTÉ sur cette planète !</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

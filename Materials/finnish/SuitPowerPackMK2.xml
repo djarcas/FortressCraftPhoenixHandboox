@@ -1,0 +1,28 @@
+<MaterialEntry>
+	<Key>SuitPowerPackMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 2 puvun virtapakkaus</Text>
+				</Title>
+				<Icon>
+					<Name>Suit Power Pack MK2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Mallin 2 puvun virtapakkaus on lisä-akku joka laajentaa sen edeltäjää lisäämällä puvun sisäistä varaajaa. Tämä päivitys tuplaa taas sisäisen varaajan 512 energiasta 1024 energiayksikköön. Vaikka jäähdytysongelmat on nyt ratkaistu muut ongelmat ovat nousseet esille. Lisäpäivitys on mahdoton ennen kuin uusi materiaali kehittyneempään elektromagneettiseen suojaukseen on löytynyt.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Suit Power Pack MK1</Material>
+					</Target>
+					<Text>Suit Power Pack MK1</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

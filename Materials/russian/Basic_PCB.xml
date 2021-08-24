@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>BasicPCB</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Базовая ПП</Text>
+				</Title>
+				<Icon>
+					<Name>Basic PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Медная ПП, созданная из Медных Катушек на Сборщике Печатных Плат (ПП).</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

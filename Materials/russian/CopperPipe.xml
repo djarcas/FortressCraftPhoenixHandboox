@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>CopperPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Медная Труба</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Простая медная труба, изготовляемая из медных слитков в Экструдере Труб. Применяется в изготовлении Базовых Ракет.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

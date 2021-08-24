@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>SpaceWarzHatch2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Room Extractor Fan</Text>
+				</Title>
+				<Icon>
+					<Name>Space Warz Hatch2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A Extractor Fan improves the Clean rating of your room, required to hit Clean Room designation.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

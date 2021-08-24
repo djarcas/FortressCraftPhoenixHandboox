@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 1</Handle>
+	<Title>Grundläggande Gruv Uppgraderingar I</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Grundläggande Gruv Uppgraderingar I</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Vi behöver förbättra den takt som vi kan samla och smälta malm. Detta projekt kommer att fokusera på att förbättra prestandan hos malm grävarna och smältugnarna.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

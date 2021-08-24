@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Key>DeOrbitContainerContennts</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Forschungsteile</Text>
+				</Title>
+				<Icon>
+					<Name>Lightweight PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die abgestürzte Frachtkapsel scheint eine Reihe von fortschrittlichen Schaltkreisen zu haben, die wir auf der Oberfläche nicht reproduzieren können. Wenn Sie dies in Ihr Labor bringen und den Analyze-Modus verwenden, wenn es sich in einem angeschlossenen Lagercontainer befindet, sollten Sie einige nützliche Nachforschungen anstellen!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>HighEnergyCompositeFuel</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hochenergetischer Verbundtreibstoff</Text>
+				</Title>
+				<Icon>
+					<Name>High Energy Composite Fuel</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Hochenergetischer Verbundtreibstoff wird in Raffinerien aus Biomasse hergestellt. Es eignet sich hervorragend als Treibstoff für Generatorturbinen. Zudem wird es bei der Herstellung von Abwehrraketen benötigt.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Refinery Controller</Material>
+					</Target>
+					<Text>Refinery Controller</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>RubyCrystal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rubinkristall</Text>
+				</Title>
+				<Icon>
+					<Name>Ruby Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein Rubinkristall ist ein seltenes Material, das als Basiszutat für Upgrades verwendet wird. Es kann in Höhlen zwischen Tiefe -150 bis -225 gefunden werden.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

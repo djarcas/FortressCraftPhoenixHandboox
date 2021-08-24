@@ -1,0 +1,110 @@
+﻿<MaterialEntry>
+	<Key>CargoLiftControllerPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rahtihissiohjain</Text>
+				</Title>
+				<Spacer/>
+				<Icon>
+					<Name>Cargo Lift Controller</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>
+ Käytetään pystysuoraan tukkusiirtoon 
+ Rakennetaan 3x1x3 asetelmaan. 
+ Tämä on ihanteellinen kumppanikone kaivosvaunuille ja on suositeltu tapa siirtää suuria määriä esineitä syvältä maailmastasi.
+ Rakentamisen jälkeen tarvitsee käsin kaivetun kuilun sen alle. Vaihtoehtoisesti käytä konetta tekemään tämä tylsä tehtävä puolestasi.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Icon>
+					<Name>Auto Excavator</Name>
+					<Target><Material>AutoExcavator</Material>
+</Target>
+				</Icon>
+	
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kuilun asetteleminen</Text>
+				</Title>
+				<Spacer/>
+				<Paragraph>
+					<Text>Kun olet raivannut kuilusi haluttuun syvyyteen tarvitset hyllykiskoja sen reunoille. Onneksi moderneilla rakennustavoilla nämä eivät tarvitse tukia. 
+
+ Yksinkertaisesti liitä varastohypytin rahtihissiohjaimeen ja se asettaa ne automaattisesti. 
+
+ Etäisyydelle EI ole rajoja mutta huomioi että etäisyydellä ja nopeudella on vaihtokauppa. 
+
+ 400-600 metriä on ideaali mutta, niitä voidaan käyttää millä etäisyydellä tahansa. 
+
+ Minimietäisyys noin 15 metriä suositellaan. 
+
+ Lyhyemmille matkoille kokeile ainesiirtimiä tai kuljetinhihnoja.</Text>
+				</Paragraph>
+				<Icon>
+					<Name>3D Printer</Name>
+					<Target><Material>RackRailer</Material>
+</Target>
+				</Icon>
+				<Spacer/>
+
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Käyttöönotto</Text>
+				</Title>
+				<Paragraph>
+					<Text>&quot;Kun rahtihissiohjain on päässyt sopivaan etäisyyteen kiskojen asettamisessa, olet valmis asettamaan rahtihissin siihen.
+ Yksinkertaisesti avaa rahtihissiohjainkäyttöliittymä (oletusnäppäin on \&apos;E\&apos;) ja raahaa sopiva rahtihissi koloon.
+ Voit poistaa ja päivittää rahtihissin mutta rahtihissin TÄYTYY olla tyhjä ennen kuin näin voi tehdä.
+ &quot;</Text>
+				</Paragraph>
+
+				<Icon>
+					<Name>Basic Cargo Lift</Name>
+					<Target><Material>CargoLiftBasic</Material>
+</Target>
+				</Icon>
+			 
+				<Spacer/>
+				<Icon>
+					<Name>Improved Cargo Lift</Name>
+					<Target><Material>CargoLiftImproved</Material>
+</Target>
+				</Icon>
+				 
+				<Spacer/>
+				<Icon>
+					<Name>Bulk Cargo Lift</Name>
+					<Target><Material>CargoLiftBulk</Material>
+</Target>
+				</Icon>
+				 
+				<Spacer/>
+
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Käyttö</Text>
+				</Title>
+				<Paragraph>
+					<Text>&quot;Rahtihissisi matkustaa automaattisesti ylös ja alas kuilua jos sille annetaan tarpeeksi virtaa ja kerää ja purkaa resursseja riippuen annetuista määräyksistä. Vaihtaaksesi määräyksiä yksinkertaisesti avaa rahtihissiohjaimenkäyttöliittymä (oletusnappi on \&apos;E\&apos;) ja valitse ne asianmukaisiksi.
+
+ Kuilusi ylä- tai alapäässä rahtihissi yrittää lastata tai jättää resursseja liittyneisiin varastohypyttimiin. Yksinkertaisesti aseta ne koskemaan pysäköityä hissiä.
+ &quot;</Text>
+				</Paragraph>
+			</Paragraphs>
+			</Page>
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Bedrock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Grundgestein</Text>
+				</Title>
+				<Icon>
+					<Name>Bedrock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Eines der herkömmlichen Gesteine. Kann im Zerkleinerer zerkleinert werden, um möglicherweise nützliches Erz zu gewinnen. Dieser Block kann platziert werden.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

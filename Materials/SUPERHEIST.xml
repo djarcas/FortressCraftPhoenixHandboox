@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>Super_ItemInjector</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>SUPER H.E.I.S.T.</Text>
+				</Title>
+				<Icon>
+					<Name>SUPER HEIST</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Like the H.E.I.S.T. only 16 times faster. This item requires the Dapper DLC to work</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

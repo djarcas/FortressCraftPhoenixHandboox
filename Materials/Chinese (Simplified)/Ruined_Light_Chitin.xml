@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>RuinedLightChitin</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>破碎的轻质甲壳</Text>
+				</Title>
+				<Icon>
+					<Name>WaspLightChitinRuined</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>发音为KY-tin，几丁质是一种含有碳，氢，氧和氮的长链聚合物。 它似乎是许多本地生物的基本组成部分。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

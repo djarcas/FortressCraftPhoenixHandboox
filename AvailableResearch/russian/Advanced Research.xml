@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>advanced research</Handle>
+	<Title>Продвинутые исследования</Title>
+	<Icon>Laboratory Component</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Продвинутые исследования</Text>
+				</Title>
+				<Icon>
+					<Name>Laboratory Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Прогресс в исследованиях ограничен возможностями Исследовательской станции. Необходимо разработать Лабораторию для реализации более продвинутых проектов!</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

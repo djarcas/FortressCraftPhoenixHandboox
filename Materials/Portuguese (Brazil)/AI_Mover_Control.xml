@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>AIMoverControl</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Controle de Movimento de IA</Text>
+				</Title>
+				<Icon>
+					<Name>AI Mover Control</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Este robô moverá um recurso por vez de um depósito próximo para outro, respeitando os depósitos locais com permissões de adicionar e remover.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

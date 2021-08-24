@@ -1,0 +1,75 @@
+﻿<MaterialEntry>
+	<Key>MissileTurretMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>导弹炮塔 MK1</Text>
+				</Title>
+				<Icon>
+					<Name>Missile Turret MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					
+					<Text>向大型目标发射单一用途的导弹。备用弹药应该贮存在相连的存储料斗中。导弹炮塔需要面向目标的直线视野，应使开火区域最大化。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>最小范围：
+  最大范围：
+  伤害（每导弹）：
+  每次齐射数目：
+  装填时间：</Left>
+					<Right>64m
+ 512m
+ 75k - 750k (基于导弹)
+ 1
+ 15 s</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Empty Missile Assembler</Material>
+					</Target>
+					<Text>Empty Missile Assembler</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Missile Fueller</Material>
+					</Target>
+					<Text>Missile Fueller</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Armour Piercing Warhead Fitter</Material>
+					</Target>
+					<Text>Armour Piercing Warhead Fitter</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Warhead Imbuer</Material>
+					</Target>
+					<Text>Warhead Imbuer</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>CryoChilled Missile Assembler</Material>
+					</Target>
+					<Text>CryoChilled Missile Assembler</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Mephitic Missile Assembler</Material>
+					</Target>
+					<Text>Mephitic Missile Assembler</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

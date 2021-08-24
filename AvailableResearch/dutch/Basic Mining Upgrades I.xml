@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 1</Handle>
+	<Title>Eenvoudige Mijnbouwverbeteringen I</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Eenvoudige Mijnbouwverbeteringen I</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>We moeten de snelheid verbeteren waarmee we erts kunnen verzamelen en smelten. Dit project zal zich richten op het verbeteren van de prestaties van ertsonttrekkers en smeltovens.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

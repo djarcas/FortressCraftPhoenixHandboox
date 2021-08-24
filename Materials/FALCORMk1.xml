@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>FALCORMk1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>FALCOR MK1</Text>
+				</Title>
+				<Icon>
+					<Name>FALCOR MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Collects Dropped Loot from FALCOR Beacons and returns it. Needs attached storage hopper.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

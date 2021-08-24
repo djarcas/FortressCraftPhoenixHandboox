@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Key>MassStorageBlock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Massenspeicherkiste</Text>
+				</Title>
+				<Icon>
+					<Name>Bound Metal Crate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Header>
+					<Text>Vorsicht!</Text>
+				</Header>
+				<Paragraph><Text>Hat nichts mit dem Lagercontainer zu tun!</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

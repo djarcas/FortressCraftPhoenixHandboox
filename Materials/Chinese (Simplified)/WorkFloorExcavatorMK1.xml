@@ -1,0 +1,34 @@
+﻿<MaterialEntry>
+	<Key>WorkFloorExcavator_MK1_Key</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>工作区挖掘器 MK1</Text>
+				</Title>
+				<Icon>
+					<Name>&gt;Workfloor Excavator MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>手动创建一个基本的采掘工作面是一个很繁琐的过程。这台机器将清除出一个3米高的隧道, 在32m 范围内。它不会影响矿石, 这意味着你可以用这个放在你的矿石分离器旁边来清场。开阔的工作空间使得基地更加有序!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Alignment>Center</Alignment>
+					<Left>&quot;范围：
+能量/块：
+消除矿石：
+ &quot;</Left>
+					<Right>&quot;32m
+ 64
+ 否
+ &quot;</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

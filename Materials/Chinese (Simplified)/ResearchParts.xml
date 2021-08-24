@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Key>DeOrbitContainerContennts</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>研究部件</Text>
+				</Title>
+				<Icon>
+					<Name>Lightweight PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>坠毁的货舱似乎有一些我们无法生产的先进的电路。 将其带到您的实验室并使用分析模式，当它放入一个已连接的存储料斗应该会产生一些有用的研究！</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

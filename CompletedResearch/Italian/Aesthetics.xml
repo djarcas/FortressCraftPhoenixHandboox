@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>aesthetics</Handle>
+	<Title></Title>
+	<Icon>Hello_Kitty1</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Icon>
+					<Name>Hello_Kitty1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>ForcedInductionMK5</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>增压进气系统 T5</Text>
+				</Title>
+				<Icon>
+					<Name>Forced InductionT5</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>增压进气模块用于矿石熔炼炉的升级，增加了冶炼速度，同时大大增加了电力使用成本。 使用该模块将其放在矿石熔炼炉的顶部。
+
+  T5 增压进气系统也使得储存料斗收集矿石的速度提高四倍。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>基础熔炼炉不支持增压进气升级。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>熔炼速率：
+能量使用：</Left>
+					<Right>400%
+ 3200%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>RoughHewnRock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Грубый Камень</Text>
+				</Title>
+				<Icon>
+					<Name>Rough Hewn Rock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Порода, находящаяся прямо под поверхностью. Можно обработать в Измельчителе, чтобы с некоторой вероятностью извлечь полезную руду.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

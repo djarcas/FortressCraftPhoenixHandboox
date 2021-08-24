@@ -1,0 +1,140 @@
+﻿<MaterialEntry>
+	<Key>BulkMinecart</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Вместительная Вагонетка</Text>
+				</Title>
+				<Icon>
+					<Name>Bulk Minecart</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Вагонетки предназначены для быстрой массовой перевозки предметов.
+
+  Эта вагонетка представляет собой предмет из DLC Frozen Factory.
+ &quot;</Text>
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<URL>https://www.patreon.com/Fortresscraft</URL>
+<!-- Full screen, auto-playing URL-->
+					</Target>
+					<Text>Click here for details on becoming a Patreon for early access to all future expansion packs.</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;Скорость:
+Вместимость:
+Ускорение:
+ &quot;</Left>
+					<Right>&quot;2 м/с
+50
+1,0 м/с²
+ &quot;</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Применение Вагонеток очевидно – это расширение привычной схемы транспортировки грузов «Бункер &lt;-&gt; Конвейер». Вагонетки запускаются в транспортную вагонеточную сеть через Депо Вагонеток.</Text>
+&gt;
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Minecart Depot</Material>
+					</Target>
+					<Text>Minecart Depot</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Перемещение Ресурсов с помощью Вагонеток</Text>
+				</Title>
+
+				<Paragraph>
+					<Text>Как только Вагонетка вошла в транспортную сеть, она будет останавливаться на Станциях Загрузки и Станциях Разгрузки, чтобы, соответственно, забирать или отдавать перевозимые ресурсы.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Icon>
+					<Name>Minecart Load</Name>
+					<Target><Material>MinecartLoadStation</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>MinecartLoadStation</Material>
+					</Target>
+					<Text>Minecart Load</Text>
+				</Link>
+				<Icon>
+					<Name>Minecart Unload</Name>
+					<Target><Material>MinecartUnloadStation</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>MinecartUnloadStation</Material>
+					</Target>
+					<Text>Minecart Unload</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+			<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Продвинутое управление вагонеткой</Text>
+				</Title>
+				<Spacer/>
+				<Paragraph>
+					<Text>Для более точного управления передвижением вагонеток и перемещением руды у вас есть множество доступных инструментов для изменения поведения и логики сети вагонеток.</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Minecart Turbo Rail</Name>
+					<Target><Material>Minecart Turbo Rail</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Turbo Rail</Material>
+					</Target>
+					<Text>Minecart Turbo Rail</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>MinecartBufferFull</Name>
+					<Target><Material>MinecartBufferFull</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Full Gate</Material>
+					</Target>
+					<Text>Minecart Full Gate</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>MinecartBufferEmpty</Name>
+					<Target><Material>MinecartBufferEmpty</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Empty Gate</Material>
+					</Target>
+					<Text>Minecart Empty Gate</Text>
+				</Link>
+				<Spacer/>
+
+		
+			</Paragraphs>
+		</Page>
+	
+	</Pages>
+</MaterialEntry>

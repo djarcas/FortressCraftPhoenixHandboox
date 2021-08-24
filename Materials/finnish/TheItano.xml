@@ -1,0 +1,35 @@
+<MaterialEntry>
+	<Key>TheItano</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Itano</Text>
+				</Title>
+				<Icon>
+					<Name>The Itano</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ampuu kertakäyttöohjuksia suuriin kohteisiin. Ohjukset tulisi säilöä liitetysssä varastohypyttimessä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Minimikantama:
+ Maksimikantama:
+ Vahinko (ohjusta kohti):
+ Ohjuksia latingissa:
+ Latausaika:</Left>
+					<Right>64m
+					512m
+					50 000 (perusohjus)
+					16
+					15 sekunttia</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

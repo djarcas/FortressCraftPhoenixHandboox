@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>DapperVIP</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Щегольский VIP-блок</Text>
+				</Title>
+				<Icon>
+					<Name>DapperVIP</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Декоративный блок из DLC DAPPER Indie Support\&apos;s Pack. Спасибо за вашу поддержку разработки FortressCraft!</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

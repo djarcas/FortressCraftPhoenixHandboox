@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Key>PowerStorageMK3</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 3 virtavarastolohko</Text>
+				</Title>
+				<Icon>
+					<Name>PowerStorageBlockT3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Mallin 3 virtavarastolohko voi varata 5000 energiaa. Se ottaa energiaa liitetyistä voimaloista ja antaa sitä kiinnitetyille koneille tai voimasiirtimille. Monet virtavarastolohkot jakavat energiaa keskenään mutta tämä ei ole tehokas tapa siirtää energiaa muutamaa palikkaa pidemmälle. Tähän tulisi käyttää laserenergialähettimiä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Energiaa voi ottaa virtavarastolohkosta painamalla &#39;ota&#39; nappia (oletus &#39;Q&#39;) ja lisätä käyttämällä &#39;vuorovaikuta&#39; nappia (oletus &#39;E&#39;).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Virtakapasiteetti:
+					Maksimivirransiirtonopeus:</Left>
+					<Right>5000
+					rajaton</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

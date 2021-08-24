@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>NickelHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Nikkelikotelo</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen nikkelikotelo on tehty nikkelilaatoista.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

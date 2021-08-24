@@ -1,0 +1,32 @@
+﻿<MaterialEntry>
+	<Key>MiniHopper</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Minicontainer</Text>
+				</Title>
+				<Icon>
+					<Name>MiniHopper</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Mini-Container ist eine günstigere Version des Lagercontainers, der 10 Artikel speichern kann und 30 Sekunden für die Bearbeitung jedes Artikels benötigt. Der Mini-Container eignet sich als Container für den Zentralen Energie Verteiler, den Pyrothermic Generator oder andere Maschinen mit langer Verarbeitungszeit. Sie sollten versuchen, Mini-Container zu aktualisieren, wenn sie zu einem Engpass werden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Weitere Informationen zu Containern finden Sie in der Containerhandbuch.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Page>0</Page>
+						<Material>StorageHopper</Material>
+					</Target>
+					<Text>Storage Hopper</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

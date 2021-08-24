@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>AntimatterDrillMotor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Antimateriaporamoottori</Text>
+				</Title>
+				<Icon>
+					<Name>Antimatter Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Parantaa nopeutta jolla malmiluohija luohii malmeja lisääntyneen virrankulutuksen hinnalla.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Louhintanopeus:</Left>
+					<Right>3200%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

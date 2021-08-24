@@ -1,0 +1,29 @@
+﻿<MaterialEntry>
+	<Key>PCBAssemblingPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>PCB Montageanlage</Text>
+				</Title>
+				<Icon>
+					<Name>PCB Assembling Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die PCB Montageanlage ist ein regelmäßiger Förderer mit einer Maschine zur Herstellung von Leiterplatten aus Drahtspulen.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Verwendung</Text>
+				</Header>
+				<Paragraph>
+					<Text>Förderspulen von einem anderen Förderer, einer Förderbandmaschine oder einem Förderdrehtisch in die PCB-Montageanlage. Die PCB Montageanlage wird die Spulen in PCBs umwandeln, die in zusätzlichen Rezepten verwendet werden können.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Die PCB Montageamlage ist essentiell für die Automatisierung der Laborforschung.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

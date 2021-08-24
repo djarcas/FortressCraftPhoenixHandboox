@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>PristineStinger</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Unberührter Stinger</Text>
+				</Title>
+				<Icon>
+					<Name>WaspStingerPristine</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Dieser Stinger ist außergewöhnlich scharf, aber relativ zerbrechlich. Es kann nützliche Anwendungen auf dem Gebiet der Erzgewinnung haben.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,32 @@
+﻿<MaterialEntry>
+	<Key>MeshWeaver</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kristallgewebemaschine</Text>
+				</Title>
+				<Icon>
+					<Name>Mesh Weaver</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die Kristallgewebemaschine verarbeitet Kristall auf molekularer Ebene, um Kristallgewebe zu erzeugen. Diese Maschine verwendet 50 Energie in 8 Sekunden, um 32 Kristall in Kristallgewebe zu verarbeiten.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Crystal Fiber Mesh</Material>
+					</Target>
+					<Text>Crystal Fiber Mesh</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Pipe Coater</Material>
+					</Target>
+					<Text>Pipe Coater</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

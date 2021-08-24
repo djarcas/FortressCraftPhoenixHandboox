@@ -1,0 +1,41 @@
+﻿<Chapter>
+	<Handle>T1 Power</Handle>
+	<Title>Réseau d\&apos;Alimentation</Title>
+	<Icon>Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Réseau d\&apos;Alimentation</Text>
+				</Title>
+				<Icon>
+					<Name>Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nous avons maintenant une nouvelle méthode de génération et de transport d\&apos;énergie. Ce projet a également conçu de nouvelles mises à jour pour ARTHER et une nouvelle machine, le Transmetteur de Matière, capable de téléporter des matériaux d\&apos;un Module de Stockage à un autre.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Générateur Pyrothermique</Text>
+</Header>
+				<Icon>
+					<Name>Pyrothermic Generator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Cette machine convertira les ressources combustibles d\&apos;un module de stockage attachée en énergie. Il nécessite beaucoup d\&apos;air frais, donc perd de l\&apos;efficacité en profondeur.</Text>
+				</Paragraph>
+				<Header><Text>Laser Transmetteur d\&apos;Énergie</Text>
+</Header>
+				<Icon>
+					<Name>Laser Energy Transmitter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Placer à côté d\&apos;un générateur ou d\&apos;une batterie pour transmettre de l\&apos;énergie jusqu\&apos;à 64 m à une batterie, à un consommateur ou à un autre Laser Transmetteur d\&apos;Énergie. Nous pouvons comme cela envoyer de l\&apos;énergie à nos activités minières en profondeur.</Text>
+				</Paragraph>
+					
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

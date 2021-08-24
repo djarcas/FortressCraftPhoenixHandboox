@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 4</Handle>
+	<Title>Промежуточные улучшения добычи II</Title>
+	<Icon>Enhanced Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Промежуточные улучшения добычи II</Text>
+				</Title>
+				<Icon>
+					<Name>Enhanced Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Стала доступна дальнейшая модернизация Экстрактора Руды. Также разработано оборудование геологический разведки для определения мест, богатых рудными месторождениями. Разведайте расположение ресурсов, пока продолжаются исследования системы Карьера.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

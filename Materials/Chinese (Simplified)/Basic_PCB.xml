@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>BasicPCB</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>基本款PCB（印刷电路板）</Text>
+				</Title>
+				<Icon>
+					<Name>Basic PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>铜质PCB，产自PCB组装厂，原料铜线卷。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

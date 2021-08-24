@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>RoomLight_1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>RoomLight #1</Text>
+				</Title>
+				<Icon>
+					<Name>RoomLight #1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A flat light with a rim of metal around it that is connected to the wall by 2 metal bars. Paintable and rotatable.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

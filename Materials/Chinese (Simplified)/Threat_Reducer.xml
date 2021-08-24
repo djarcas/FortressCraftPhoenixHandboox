@@ -1,0 +1,43 @@
+﻿<MaterialEntry>
+	<Key>ThreatReducer</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>威胁降低设备</Text>
+				</Title>
+				<Icon>
+					<Name>Threat Reducer</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;当地野生生物似乎对通过工业行动分散到空气中的副产品产生负面影响。 为了减轻与当地野生生物的当前与将来的冲突，已淘汰数款设备，以尽量减少机械造成的影响。 威胁降低设备能够消除由电力生产产生的电磁波，并洗刷附近的大气污染物。 该设备每秒使用5单位能量来完成目标。 &quot;</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>为了进一步了解本土动植物对工业化的反应，已经创建了一种基于 研究生物体对化学与电磁污染的敏感度 来衡量我们造成的影响的新系统。 该系统在“威胁单位”中衡量这些因素，并可在威胁扫描仪中看到。 每个激活的威胁减少器可以将威胁降低到大约50个威胁单位。 有了充足的设备，无论在这个星球如何扩张，所产生的威胁都可以被完全最小化。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Threat Scanner</Material>
+					</Target>
+					<Text>Threat Scanner</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Threat Agitator</Material>
+					</Target>
+					<Text>Threat Agitator</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>需要能量：</Left>
+					<Right>是</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

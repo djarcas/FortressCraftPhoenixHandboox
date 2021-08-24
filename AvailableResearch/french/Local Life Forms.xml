@@ -1,0 +1,22 @@
+﻿<Chapter>
+	<Handle>Local Life Forms</Handle>
+	<Title>Formes de Vie Locale</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Formes de Vie Locale</Text>
+				</Title>
+				<Icon>
+					<Name>Local Life Forms</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Cette planète n\&apos;est pas morte ! Les scanners détectent des formes de vie végétale et animale. Ce projet étudiera les formes de vie et déterminera si elles représentent une menace.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

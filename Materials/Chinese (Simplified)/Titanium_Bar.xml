@@ -1,0 +1,25 @@
+﻿<MaterialEntry>
+	<Key>TitaniumBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>钛锭</Text>
+				</Title>
+				<Icon>
+					<Name>Titanium Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Titanium Ore</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>钛锭通常用于要求强度的轻质结构先进机器中。 它们由钛矿石制成，可以在地表以下至少350米处找到。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

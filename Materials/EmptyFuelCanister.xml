@@ -1,0 +1,29 @@
+<MaterialEntry>
+	<Key>EmptyFuelCanister</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Empty Fuel Canister</Text>
+				</Title>
+				<Icon>
+					<Name>EmptyCanister</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>
+						A canister for holding High Energy Composite Fuel.
+					</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Refinery Controller</Material>
+					</Target>
+					<Text>Refinery Controller</Text>
+				</Link>
+		
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

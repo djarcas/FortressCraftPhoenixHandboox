@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>T2 Power</Handle>
+	<Title>Päivitetty voimaverkko</Title>
+	<Icon>Upgraded Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Päivitetty voimaverkko</Text>
+				</Title>
+				<Icon>
+					<Name>Upgraded Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Olemme kehitelleet uuden akun johon mahtuu paljon enemmän latausta. Olemme suunnitelleet myös suuremman laaserenergialähetttimen. Se kuitenkin vaatii materiaaleja, joilla on kehittyneempiä ominaisuuksia kuin pinnalta löytyvillä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>On todennäköistä, että pystymme tekemään lisäparannuksia energiavarastointiin ja -siirtoon, mutta tarvitsemme kehittyneempien materiaalien tutkimusta ennen kuin voimme tehdä näin.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

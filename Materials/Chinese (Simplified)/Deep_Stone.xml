@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>DeepStone</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>深色石</Text>
+				</Title>
+				<Icon>
+					<Name>Deep Stone</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>在-65 ish以下的主要方块类型。 低温和有毒的洞穴除外。 可在粉碎机中粉碎，以提取有用的矿石。 可以放置。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

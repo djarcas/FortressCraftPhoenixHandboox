@@ -1,0 +1,25 @@
+﻿<MaterialEntry>
+	<Key>IronBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Железный Слиток</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Iron Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Железные Слитки в основном используются в прочном оборудование. Эти Слитки льются из Железной Руды, которую можно найти на глубинах ниже 65 метров.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

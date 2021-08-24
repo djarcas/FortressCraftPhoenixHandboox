@@ -1,0 +1,48 @@
+﻿<Chapter>
+	<Handle>CommunityLinks</Handle>
+	<Title>Yhteisölinkkejä!</Title>
+	<Icon>ARTHER Dapper Monocle</Icon>
+	<Hidden>false</Hidden>
+<!-- ?? -->
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Yhteisölinkkejä</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Dapper Pack</Name>
+				</Icon>
+				<Link>
+					<Target>
+						<URL>https://twitter.com/Fortress_Craft</URL>
+					</Target>
+					<Text>Twitter!</Text>
+				</Link>
+				<Link>
+					<Target>
+						<URL>https://discord.gg/advmf8S</URL>
+					</Target>
+					<Text>Discord!</Text>
+				</Link>
+				<Link>
+					<Target>
+						<URL>http://fortresscrafte.wikia.com/wiki/FortressCraft_Evolved_Wiki</URL>
+					</Target>
+					<Text>Wiki!</Text>
+				</Link>
+				<Link>
+					<Target>
+						<URL>http://steamcommunity.com/app/254200/workshop/</URL>
+					</Target>
+					<Text>Steam Workshop!</Text>
+				</Link>
+				<Spacer/>
+				<Paragraph>
+					<Text>Muista että voit aina puhua minulle twitterissä @fortress_craft tai Steam foorumeilla! - Dj</Text>
+				</Paragraph>
+			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

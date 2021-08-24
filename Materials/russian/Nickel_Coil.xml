@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>NickelCoil</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Никелевая Катушка</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Обычная Никелевая Катушка, изготовленная из Никелевых Проводов в Намотчике.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

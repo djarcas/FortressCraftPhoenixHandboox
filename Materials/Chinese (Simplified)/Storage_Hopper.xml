@@ -1,0 +1,65 @@
+﻿<MaterialEntry>
+	<Key>StorageHopper</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>储物料斗</Text>
+				</Title>
+				<Icon>
+					<Name>StorageHopper</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>储物料斗是自动化您的基地最重要的机器之一。 它具有100个物品的存储容量，可以快速处理物品。 有更便宜的替代品，更小的容量和更长的处理时间，并且可以在新建基地的时候很有用。</Text>
+				</Paragraph>
+				<Header>
+					<Text>I/O状态</Text>
+				</Header>
+				<Paragraph>
+					<Text>存储料斗可以设置为四种输入/输出状态之一。 这些是：添加/删除，仅删除，仅添加和仅锁定。 按“互动”键（默认为“E”）可循环显示状态。 这些状态仅适用于独立机器，如熔炼炉或装配厂。 它们不适用于传送带或传送带组装机，唯一的例外是锁定的料斗不会输送到传送带上。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>如果将机器设置为“添加/删除”或“仅删除”，机器将仅从料斗中提取，如果设置为“添加/删除”或“仅添加”，则仅将料品放回料斗。 对于同时具有输入和输出的机器，建议使用两个料斗，一个设置为仅包含原材料，另一个设置为添加制造的零部件的添加。 这将确保系统不会陷入死锁。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>传送带</Text>
+				</Header>
+				<Icon>
+					<Name>Conveyor Belt</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>I / O状态不适用于传送带，您可以使用它们将原材料插入标记为“仅移除”的机器输入料斗，反之亦然。 直接面向料斗的任何传送带将材料送入该料斗。 料斗将输出到任何其他传送带的上方，下方或其一侧，除非料斗被锁定。</Text>
+				</Paragraph>
+				<Header>
+					<Text>手动存储项目</Text>
+				</Header>
+				<Paragraph>
+					<Text>当料斗用于自动化时，可以通过按下“存储”键（默认为“T”）手动存储物品。 如果有空间，快捷栏中的所选项目或堆栈将存储在料斗中。 您也可以通过按Shift + T存储10个项目。 要存储确切的数目，您可以在物品栏中拖曳（按住Shift并拖动）。 每按一次T将在您的物品栏中插入上一个匹配的堆栈。</Text>
+				</Paragraph>
+				<Header>
+					<Text>手动提取物品</Text>
+				</Header>
+				<Paragraph>
+					<Text>可以通过按“提取”键（默认为“Q”）来删除料斗中的所有物品。</Text>
+				</Paragraph>
+				<Header>
+					<Text>开关真空模式</Text>
+				</Header>
+				<Paragraph>
+					<Text>使用可以修改的交互（默认为“Shift + E”）来切换真空模式。 当真空模式打开时，只要剩余足够的存储空间，料斗将吸入附近任何的物体。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>
+

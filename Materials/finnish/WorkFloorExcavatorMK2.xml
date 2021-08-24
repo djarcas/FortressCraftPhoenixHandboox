@@ -1,0 +1,33 @@
+﻿<MaterialEntry>
+	<Key>WorkFloorExcavatorMK2_Key</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 2 työkerroskaiverrin</Text>
+				</Title>
+				<Icon>
+					<Name>&gt;Workfloor Excavator MK2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Peruslouhinta-aseman tekeminne on vaivolloista jos se tehdään käsin. Tämä kone raivaa 3 metriä korkean tunnelin 32 metrin säteeltä. Tämä malli TUHOAA malmeja tarkoittaen että voit käyttää sitä alueilla joihin tarvitset isoja koneita. Laajat työskentelytilat ovat suotuisia organisoiduille tukikohdille!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;Kantama:
+ Virtaa palikkaa kohden:
+ Tuhoaa malmeja:
+ &quot;</Left>
+					<Right>32m
+					128
+					Kyllä
+					</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

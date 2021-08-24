@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Key>TrackSlope</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Minecart Track Slope</Text>
+				</Title>
+				<Icon>
+					<Name>Track Slope</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Allows Minecarts to travel around up slopes.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

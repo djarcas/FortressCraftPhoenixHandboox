@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SuitCoolerMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Охладитель Костюма МК1</Text>
+				</Title>
+				<Icon>
+					<Name>Suit Cooler MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Более мощное температурное ядро позволяет Охладителю Костюма обеспечивать вашу безопасность при температурах выше кипения. Потребление энергии увеличивается. Достаточно одного Охладителя Костюма. Держите его в инвентаре, чтобы он функционировал.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

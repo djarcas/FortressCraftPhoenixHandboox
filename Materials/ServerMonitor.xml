@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ServerMonitor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Server Monitor</Text>
+				</Title>
+				<Icon>
+					<Name>test arm</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Gives you read-time readouts of your server status. Not a 'game' item.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

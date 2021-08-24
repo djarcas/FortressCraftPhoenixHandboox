@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>LowGradeSteelBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Takorautaharkko</Text>
+				</Title>
+				<Icon>
+					<Name>Steel Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Takorautaharkko luodaan yhdistämällä rauta ja nikkeli erityisessä sulattamossa ja on oleellinen komponentti useissa korkean tason resepteissä.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

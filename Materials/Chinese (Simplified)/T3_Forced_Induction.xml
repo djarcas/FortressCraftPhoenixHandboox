@@ -1,0 +1,33 @@
+﻿<MaterialEntry>
+	<Key>ForcedInductionMK3</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>增压进气设备 T3</Text>
+				</Title>
+				<Icon>
+					<Name>Forced InductionT3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>增压进气机可以放在一般熔炼炉的顶部来提高熔融速率，代价是更高的能耗。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>基础矿石熔炼炉不支持增压进气升级。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>熔融速率：
+能量使用：</Left>
+					<Right>400%
+ 3200%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

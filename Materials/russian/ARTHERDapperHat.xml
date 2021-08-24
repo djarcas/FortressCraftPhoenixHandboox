@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ARTHERDapperHat</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Щегольская шляпа АРЧЕРа</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Dapper Hat</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Пусть АРЧЕР станет Щеголем, да ещё и с защитой от дождя! Возможно только в том случае, если у вас есть Dapper Indie Supporter DLC. Вам нужен только один элемент, и он должен храниться в вашем инвентаре.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

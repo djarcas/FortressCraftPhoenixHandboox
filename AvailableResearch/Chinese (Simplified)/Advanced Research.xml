@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>advanced research</Handle>
+	<Title>高级研究</Title>
+	<Icon>Laboratory Component</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>高级研究</Text>
+				</Title>
+				<Icon>
+					<Name>Laboratory Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>由于研究站的技术限制，我们的研究进展受到限制。所以我们需要设计一个新的实验室来继续进行更先进的项目！</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

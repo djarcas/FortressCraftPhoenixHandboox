@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>CrystalFiberMesh</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>水晶纤维网</Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Fiber Mesh</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;通过使用先进的加工技术，水晶矿现在可以在分子水平上重组。 这种新的网格能够承受极端的温度和压力。 这种材料是在水晶网编织机(Crystal Mesh Weaver)中创建的，是地热发电所需管道的一个必备条件。 &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Mesh Weaver</Material>
+					</Target>
+					<Text>Crystal Mesh Weaver</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

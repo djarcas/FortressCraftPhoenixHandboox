@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SuitHeadlightMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>防护服头灯MK1</Text>
+				</Title>
+				<Icon>
+					<Name>Suit Headlight MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>卤素科技允许您以更高能效全功率运行大灯。只需一份，放入物品栏以生效。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

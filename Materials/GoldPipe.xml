@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>GoldPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Gold Pipe</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A simple gold pipe created from gold bars in a Pipe Extrusion Plant.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

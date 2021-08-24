@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>Cloning_Vat_Placement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Cloning Vat</Text>
+				</Title>
+				<Icon>
+					<Name>Cloning_Vat</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Your CPH is equipped with a default cloning fail-safe. If for some reason you should, you know... die... then your CPH is capable of reconstructing your body and (Depending on difficulty) some or all of your inventory.</Text>
+				</Paragraph>
+         <Paragraph>
+					<Text>After building your Cloning Vat in a stack, 3 blocks high, simply provide it with enough power to grow a new clone, then select it and press Interact (E). From then on if, or indeed when, you die, you'll spawn back at the same location. 
+          
+This location is also used as the default spawn location for new players on multiplayer servers.</Text>
+				</Paragraph>
+        <Paragraph>
+					<Text>Clones will spawn with low health, so to this end, you may wish to spawn next to the Medical Bay.</Text>
+				</Paragraph>
+       
+	      <Link>
+					<Target>
+						<Material>MedBay_T1</Material>
+					</Target>
+					<Text>MedBay</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

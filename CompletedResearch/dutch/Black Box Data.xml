@@ -1,0 +1,33 @@
+﻿<Chapter>
+	<Handle>black box</Handle>
+	<Title>Black Box-gegevens</Title>
+	<Icon>Black Box Data</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Black Box-gegevens</Text>
+				</Title>
+				<Icon>
+					<Name>Black Box Data</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>																																																																	  			
+					<Text>Een grondige analyse van de black box-gegevens die door uw pak is opgenomen, is nu voltooid. Het bevestigd uw visuele analyse dat een vreemd voorwerp, men gelooft dat dit een meteoriet was, op het station is ingeslagen terwijl u aan het voorbereiden was on te landen. De daaruit voortvloeiende explosie beschadigde de raketmotoren voor het manoeuvreren van uw schip, waardoor een noodlanding op deze buitenaardse planeet werd veroorzaakt. Er zijn op dit moment geen andere overlevenden ontdekt.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Het is niet bekend waarom de meteoriet onopgemerkt bleef door de langeafstandsscanners van het ruimtestation, mogelijke oorzaken omvatten een systeemfout of sabotage.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>In een gelukkige ommekeer van de gebeurtenissen overleefde een buitenpost bouwmodule de explosie en sloot aan op het noodsignaal van uw schip. Het is geland naast de \&apos;crash site\&apos;. Het is een standaard Vortox X103 MK V module die een \&apos;Central Power Hub\&apos; omringd door een Ertssmeltoven, Fabricage-Installatie en een Onderzoeksstation.
+Het is ook uitgerust met een Autonoom Robotafweersysteem dat ons zou moeten helpen om eventuele vroege aanvallen te overleven indien we vijandig leven vinden op deze planeet.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

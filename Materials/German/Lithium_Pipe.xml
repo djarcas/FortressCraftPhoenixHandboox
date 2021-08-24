@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>LithiumPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lithiumrohr</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Eine gewöhnliches Lithiumrohr, hergestellt aus Lithiumbarren die in einer Rohrextrusionsmaschine weiterverarbeiteten wurden.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

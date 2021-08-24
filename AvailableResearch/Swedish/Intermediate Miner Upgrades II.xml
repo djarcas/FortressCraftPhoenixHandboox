@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 4</Handle>
+	<Title>Mellanliggande Gruv Uppgraderingar II</Title>
+	<Icon>Enhanced Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mellanliggande Gruv Uppgraderingar II</Text>
+				</Title>
+				<Icon>
+					<Name>Enhanced Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Det bör vara möjligt att ytterligare förbättra funktionerna hos malm grävare. Detta projekt kommer också att undersöka alternativa metoder för att samla malm.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

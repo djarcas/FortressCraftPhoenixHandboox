@@ -1,0 +1,54 @@
+<MaterialEntry>
+	<Key>MassStorageBlock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mass Storage Block</Text>
+				</Title>
+				<Icon>
+					<Name>Bound Metal Crate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This is the base block for automated mass storage. It cannot be accessed manually. Each block can hold a stack of 25 items. Placing mass storage blocks side by side creates a larger combined storage.</Text>
+				</Paragraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>Despite the name, it's rarely useful to store huge quantities of items. The Mass Storage excels as an intemediary and final buffer area for crafted goods, and allows you to filter, sort and transfer crafted items to where they're needed, and ensure that things are ready ahead of time.</Text>
+        </Paragraph>
+				<Header>
+					<Text>Caution!</Text>
+				</Header>
+				<Paragraph><Text>It's generally better to keep each individual Mass Storage area assigned to a particular task, as opposed to one monolithic storage for literally everything. Whilst the game does support this, the performance will drop massively.</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+    <Page>
+      <Paragraphs>
+        <Title>
+          <Text>Usage</Text>
+        </Title>
+        <Icon>
+          <Name>Mass Storage Output Port</Name>
+          <Alignment>Center</Alignment>
+        </Icon>
+        <Paragraph>
+          <Text>Mass Storage is fairly simple to setup, and can be configured in many ways. Essentially it always works in the same way; you use a Stocking Port next to a Mass Storage Block to put items into the system, then a Mass Storage Output Port to remove specified items from the Mass Storage. Feed the Stocking Port via a Conveyor, and collect items from the Output Port via a Conveyor.</Text>
+        </Paragraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>The Stocking Ports allow you to determine the maximum number of a certain item in the Mass Storage, allowng you stop it getting clogged with less-used items. Stocking Ports can carry 5, 12 or 25 items - however, if they are carrying item type A and an item type B comes in, the Drone will drop off Item A first. This means that pre-sorting your input can be as much as 25x faster!</Text>
+        </Paragraph>
+        <Header>
+          <Text>Caution!</Text>
+        </Header>
+        <Paragraph>
+          <Text>Has nothing to do with the Storage Crate!</Text>
+        </Paragraph>
+      </Paragraphs>
+    </Page>    
+				
+	</Pages>
+</MaterialEntry>
+

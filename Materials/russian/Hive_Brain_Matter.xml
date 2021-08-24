@@ -1,0 +1,29 @@
+﻿<MaterialEntry>
+	<Key>HiveBrainMatter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Мозг Разума Роя</Text>
+				</Title>
+				<Icon>
+					<Name>Brain Matter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Энергетический взрыв уничтожил Разума Роя почти целиком, но часть мозгового вещества сохранилась в состоянии пригодном для исследований. Ваша Лаборатория сможет проанализировать это вещество, что может открыть дополнительные направления исследований.</Text>
+				</Paragraph>
+				<Spacer/>
+rte
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

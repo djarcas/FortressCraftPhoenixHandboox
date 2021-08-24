@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>GenericPipeStraight</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fluid Pipe (Straight)</Text>
+				</Title>
+				<Icon>
+					<Name>Straight Fluid Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Allows connection of appropriate machines. Can also carry gases.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

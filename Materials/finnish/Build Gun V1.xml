@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Name>Build Gun V1</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 1 rakennuspyssy</Text>
+				</Title>
+				<Icon>
+					<Name>Build Gun V1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Rakennuspyssy on työkalu joka on tehty haaksirikkoutuneen aluksen uudelleenkäytetyistä osista. Rakennuspyssy mahdollistaa nopean rakentamisen ja materiaalien tuhoamisen ympäristössä. Perusrakennuspyssyä ei ole rakennettu uuteen muukalaisympäristöön ja siksi sillä on äärimmäisiä rajoituksia toiminnallisuudessaan. Rakennuspyssyn yksinkertaisen jäähdytysjärjestelmän takia kaikki ilmanpaineen vaihtelut tai laatumuutokset voivat aiheuttaa tauon tartuntakoukun toiminnassa.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V2</Material>
+					</Target>
+					<Text>Build Gun V2</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

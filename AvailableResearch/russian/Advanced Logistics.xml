@@ -1,0 +1,26 @@
+﻿<Chapter>
+	<Handle>T2 assist machines</Handle>
+	<Title>Продвинутая логистика</Title>
+	<Icon>mk1 robot arm</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Продвинутая логистика</Text>
+				</Title>
+				<Icon>
+					<Name>mk1 robot arm</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Оптимизация системы добычи и хранения ресурсов требует скальпеля, а не молотка. (Молотки-то, конечно, доступны, но как дополнительная опция).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Этот исследовательский проект сконцентрирован на улучшении хранения, сортировки и дополнительных инструментах строительства базы.</Text>
+				</Paragraph>
+			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

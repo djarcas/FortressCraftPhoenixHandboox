@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>Seed_BaubleBerry</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>BaubleBerry Seed</Text>
+				</Title>
+				<Icon>
+					<Name>BaubleBerry</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Used to plant BaubleBerries or for use in the Ampule Crafter</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

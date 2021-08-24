@@ -1,0 +1,111 @@
+﻿<MaterialEntry>
+	<Key>CargoLiftControllerPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Contrôleur d\&apos;Ascenseur de Fret</Text>
+				</Title>
+				<Spacer/>
+				<Icon>
+					<Name>Cargo Lift Controller</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>
+ Utilisé pour le transport vertical en masse. 
+ Est construit en une configuration 3x1x3. 
+ Est un compagnon machine idéal pour les Wagons, et est la méthode préférée pour déplacer un grand d\&apos;objets depuis les profondeurs de votre monde.
+ Une fois construit, vous devrez manuellement creuser un puits en dessous. Si vous préférez, utilisez une machine pour effectuer cette tache ennuyeuse pour vous.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Icon>
+					<Name>Auto Excavator</Name>
+					<Target><Material>AutoExcavator</Material>
+</Target>
+				</Icon>
+	
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Configuration du puits</Text>
+				</Title>
+				<Spacer/>
+				<Paragraph>
+					<Text>Une fois votre puits préparé jusqu\&apos;à la profondeur désirée, il vous faudra placer des Rails d\&apos;Ascenseur de Fret le long de ses parois. Heureusement, grâce aux techniques de construction modernes, ceux-ci n\&apos;ont pas besoin de support.
+
+ Attachez simplement une trémie au Contrôleur d\&apos;Ascenseur de Fret avec les rails et il les placera automatiquement.
+
+ Il n\&apos;y a PAS de limite de distance ou les rails peuvent être placés, mais prenez note du compromis entre distance et vitesse.
+
+ 400-600 mètres est idéal, mais ils peuvent être utilisés sur n\&apos;importe quelle distance.
+
+ Une distance minimale de 15 mètres environ est recommandée.
+
+ Pour les distances plus courtes, essayez les Transmetteurs de Matière ou les Convoyeurs.</Text>
+				</Paragraph>
+				<Icon>
+					<Name>3D Printer</Name>
+					<Target><Material>RackRailer</Material>
+</Target>
+				</Icon>
+				<Spacer/>
+
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Installation</Text>
+				</Title>
+				<Paragraph>
+					<Text>&quot;Une fois que le Contrôleur d\&apos;Ascenseur de Fret détecte la distance adaptée une fois les rails installés, vous êtes alors prêt a un installer un ascenseur de Fret.
+ Ouvrez simplement l\&apos;interface du Contrôleur d\&apos;Ascenseur de Fret (touche par défaut \&apos;E\&apos;) et déplacez dans l\&apos;emplacement l\&apos;Ascenseur de Fret approprié.
+ Vous pouvez retirer et améliorer les Ascenseurs de Fret, mais ils doivent être VIDE avant de pouvoir le faire.
+ &quot;</Text>
+				</Paragraph>
+
+				<Icon>
+					<Name>Basic Cargo Lift</Name>
+					<Target><Material>CargoLiftBasic</Material>
+</Target>
+				</Icon>
+			 
+				<Spacer/>
+				<Icon>
+					<Name>Improved Cargo Lift</Name>
+					<Target><Material>CargoLiftImproved</Material>
+</Target>
+				</Icon>
+				 
+				<Spacer/>
+				<Icon>
+					<Name>Bulk Cargo Lift</Name>
+					<Target><Material>CargoLiftBulk</Material>
+</Target>
+				</Icon>
+				 
+				<Spacer/>
+
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Utilisation</Text>
+				</Title>
+				<Paragraph>
+					<Text>&quot;Votre Ascenseur de Fret se déplacera automatiquement le long du puits s\&apos;il a assez d\&apos;énergie, et collectera et livrera les ressources en fonction des ordres donnés. Pour changer les ordres, ouvrez simplement l\&apos;interface du Contrôleur (touche par défaut \&apos;E\&apos;) et sélectionnez les.
+
+ Une fois à l’extrémité supérieure ou inférieure du puits, l\&apos;Ascenseur de Fret tentera de Charger ou Décharger via les trémies attachées.
+Placez les simplement de façon à toucher l\&apos;ascenseur à l’arrêt.
+ &quot;</Text>
+				</Paragraph>
+			</Paragraphs>
+			</Page>
+	</Pages>
+</MaterialEntry>

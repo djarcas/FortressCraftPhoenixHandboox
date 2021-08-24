@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Dirt</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Грязь</Text>
+				</Title>
+				<Icon>
+					<Name>Dirt</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Тип породы обычно располагающийся под самым верхнем слоем. Можно пустить в Измельчитель для вероятного получения руды.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

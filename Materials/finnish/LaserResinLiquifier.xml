@@ -1,0 +1,45 @@
+<MaterialEntry>
+	<Key>LaserResinLiquifier</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Laaserhartsinesteytin</Text>
+				</Title>
+				<Icon>
+					<Name>Laser Resin Liquifier</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+				<Paragraph>
+					<Text>Tämä on toinen osa komivaiheisessa tavassa hyödyntää ja raivata kovettunutta hartsia jota pesämielet erittävät ympärilleen. 
+
+					Nesteytin käyttää lämmitettyä plasmavirtaa nesteyttääkseen ja poistaaksen nestemäisen hartsin pehmeästä sisuksesta. 
+
+					Voit sitten käyttää nestehartsijalostinta muuttaaksesi tämän jalostetuksi nestehartsiksi. 
+
+					Muuttaaksesi kovan hartsin kulutetuksi hartsiksi käytä laaserhartsikuluttajaa.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Laser Resin Ablator</Material>
+					</Target>
+					<Text>Laser Resin Ablator</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Liquid Resin Refiner</Material>
+					</Target>
+					<Text>Liquid Resin Refiner</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>Refined Liquid Resin</Material>
+					</Target>
+					<Text>Refined Liquid Resin</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

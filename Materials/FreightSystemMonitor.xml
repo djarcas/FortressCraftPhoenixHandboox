@@ -1,0 +1,59 @@
+<MaterialEntry>
+	<Name>Freight System Monitor</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Freight System Monitor</Text>
+				</Title>
+				<Icon>
+					<Name>Freight System Monitor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Freight System Monitor provides useful information about your freight networks to better track your resource supply and demand. Press E to access the panel's display. You can cycle through each freight network one at a time with the provided buttons or bring up a list to select the specific network of interest.
+					
+					You can also view your global inventory. This will display a listing of all contents of all storage that is connected to your freight system.
+					
+					For additional information on freight system terminology see the following page. For more information on configuring your freight networks and freight items see the Freight Cart Station entry.</Text>			
+					</Paragraph>
+				<Icon>
+					<Name>Freight Cart Station</Name>
+					<Target><Material>Freight Cart Station</Material></Target>
+				</Icon>
+			</Paragraphs>
+		</Page>				
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Freight System Terminology</Text>
+				</Title>
+				<Paragraph>
+					<Text>Each freight network consists of an array of freight items that are player defined for transport within the system. Each of these freight items has four key properties associated with it: Inventory, Deficit, Surplus, and Transit Quantity.
+					
+					The inventory is the total quantity of the freight item that exists within storage that is connected to the network.
+					
+					Deficit is the sum of each stations shortage of a good from their target inventory. It is a measure of how much need there is for an item.
+					
+					Surplus is the excess of items that stations have available to offer to other stations on the network. It is a measure of how many items are available as spare goods ready to transport around by carts.
+					
+					Transit Quantity is the total number of items currently carried by freight carts on the network. Freight carts will only collect items from a station if the transit quantity is less than the network deficit. Once the quantity is reached the carts will be able to satisfy the deficit so no additional items are required.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Transport Grid</Text>
+				</Title>
+				<Paragraph>
+					<Text>The monitor includes a display of connected track grids in your world. Click the "Transport Grid" button to access this information.
+					
+					Each row represents a connected array of junctions, stations, and depots (locations) making up a complete track grid. Carts can only navigate among locations within their grid. This page helps to identify if a station or depot may have become inadvertently disconnected from other stations.
+					
+					Click the junction icon to expand the display for that grid to view a list of stations and depots within it. Clicking the freight cart station and depot icons will expand the display to show more information about each as well. Finally, carts assigned to stations can be clicked to expand the display for more detail including routing, error, and inventory status.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

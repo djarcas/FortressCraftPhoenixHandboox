@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>PerfectFacetedEye</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Perfektes facettiertes Auge</Text>
+				</Title>
+				<Icon>
+					<Name>WaspEyePerfect</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die Augen aus den lokalen fliegenden Lebensformen machen eine hervorragende optische Komponente. Dieser ist von einem der größeren Exemplaren gekommen und ist gut genug, um benutzt zu werden.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

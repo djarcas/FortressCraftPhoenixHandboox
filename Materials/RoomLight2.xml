@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>RoomLight_2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>RoomLight #2</Text>
+				</Title>
+				<Icon>
+					<Name>RoomLight #2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A small directed light. Paintable and rotatable.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

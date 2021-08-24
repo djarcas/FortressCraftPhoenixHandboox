@@ -1,0 +1,22 @@
+<MaterialEntry>
+	<Key>ColdCreepSpawner</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>CryoPlasm Spawner</Text>
+				</Title>
+				<Icon>
+					<Name>Neon Core</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Sends out waves of cold CryoPlasm once awakened.
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

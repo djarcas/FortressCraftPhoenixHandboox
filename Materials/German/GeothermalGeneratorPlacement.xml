@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>GeothermalGeneratorPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Geothermal Generatorkomponente</Text>
+				</Title>
+				<Icon>
+					<Name>Geothermal Generator Comp.</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Heat Conducting Pipe</Material>
+					</Target>
+					<Text>Heat Conducting Pipe</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

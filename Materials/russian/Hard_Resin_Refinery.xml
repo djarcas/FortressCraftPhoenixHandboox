@@ -1,0 +1,50 @@
+﻿<MaterialEntry>
+	<Key>LiquidResinRefiner</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Очиститель Текучей Смолы</Text>
+				</Title>
+				<Icon>
+					<Name>Liquid Resin Refiner</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+				<Paragraph>
+					<Text>&quot;Эта машина - завершающий этап трёх-ступенчатого метода, включающего в себя использование и удаление Твёрдой Смолы, которую выделяют Разумы Роя.
+ &quot;</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>&quot;Разжижитель использует поток ионизированной плазмы, чтобы расплавить и добыть ставшую текучей внутреннюю массу - Текучую Смолу. Затем используйте Очиститель Текучей Смолы, чтобы превратить её в Очищенную Жидкую Смолу.
+ &quot;</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>&quot;Для превращения блоков Твёрдой Смолы в блоки Аблированной Смолы используйте Лазерный Аблятор.
+ &quot;</Text>
+				</Paragraph>
+ 
+ 				<Link>
+					<Target>
+						<Material>Laser Resin Ablator</Material>
+					</Target>
+					<Text>Laser Resin Ablator</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Laser Resin Liquifier</Material>
+					</Target>
+					<Text>Laser Resin Liquifier</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>Refined Liquid Resin</Material>
+					</Target>
+					<Text>Refined Liquid Resin</Text>
+				</Link>
+
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

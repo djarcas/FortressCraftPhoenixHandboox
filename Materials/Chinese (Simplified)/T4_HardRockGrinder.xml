@@ -1,0 +1,49 @@
+﻿<MaterialEntry>
+	<Key>T4_Grinder_Placement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>硬质岩研磨机</Text>
+				</Title>
+				<Icon>
+					<Name>T4_Grinder</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>我们需要增强我们的机器。 为此，我们使用了一次性研磨机 - 用掉几个应该可以给我们带来足够的矿石以构造一个更大，更坚韧的钻孔机。</Text>
+				</Paragraph>
+	
+				<Spacer/>
+			
+				<Paragraph>
+					<Text>用法应该很简单。 找到或制造您想要的矿石（铬或钼）的3x3水平平坦区域，将研磨机放下，给点电，等待并给予大量储存料斗以将最终材料卸载。</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>如果您遇到找到3x3水平区域遇到问题，那么纳米崩解机或充能炸药是您的好朋友！</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>这些机器是非常低效和昂贵的，并且需要大量来自Hiveminds的精制树脂。 我们应该尽快转向更好的挖掘设备。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>NanoDisintegrator</Material>
+					</Target>
+					<Text>NanoDisintegrator</Text>
+				</Link>
+
+				<Icon>
+					<Name>Trencher Drill component</Name>
+					<Target><Material>TrencherDrillPlacement</Material>
+</Target>
+				</Icon>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

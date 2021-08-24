@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>IronCoil</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Железная Катушка</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Обычная Железная Катушка, изготовленная из Железных Проводов в Намотчике.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,44 @@
+﻿<MaterialEntry>
+	<Key>GasBottlerPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Газовый Заправщик</Text>
+				</Title>
+				<Icon>
+					<Name>T4_Gas_Bottler</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Газовый Заправщик - последний этап процесса очистки примесей. Набирая сжиженный газ из Хранилища Примесей, он заправляет этим газом одноразовые контейнеры. Заправщик строится в конфигурации 3х9х3.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>T4_Particles</Chapter>
+					</Target>
+					<Text>Particulate Filtration System</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Filter</Material>
+					</Target>
+					<Text>Particle Filter</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Compressor</Material>
+					</Target>
+					<Text>Particle Compressor</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Storage</Material>
+					</Target>
+					<Text>Particle Storage</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>LithiumPlate</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Литиевая Пластина</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Простая литиевая пластина, изготовленная в Штампе из литиевых слитков.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

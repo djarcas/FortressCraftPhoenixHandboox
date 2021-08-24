@@ -1,0 +1,43 @@
+﻿<MaterialEntry>
+	<Key>MissileTurretMK4</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Raketenturm MK4</Text>
+				</Title>
+				<Icon>
+					<Name>Missile Turret MK4</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				<Paragraph>
+					<Text>Feuert Einwegraketen auf größere Ziele ab. Raketen sollten in einem benachbarten Container gelagert werden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Mindestbereich:
+ Maximale Reichweite:
+ Schaden (pro Rakete):
+ Raketen pro Salve:
+ Nachladezeit:</Left>
+					<Right>64m
+ 512m
+ 50.000 (Grundrakete)
+ 4
+ 15 Sekunden</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

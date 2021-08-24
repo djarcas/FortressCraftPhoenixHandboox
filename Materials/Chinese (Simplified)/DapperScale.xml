@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>DapperScale</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Dapper Scale</Text>
+				</Title>
+				<Icon>
+					<Name>DapperScale</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>来自DAPPER Indie Support Pack的美化方块。 感谢支持FortressCraft！</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

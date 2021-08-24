@@ -1,0 +1,44 @@
+﻿<MaterialEntry>
+	<Key>JetTurbineGeneratorIntakePlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Turbineneinlass</Text>
+				</Title>
+				<Icon>
+					<Name>Drain Grate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Turbinengenerator ist eine fortgeschrittene Variante fossile Kraftstoffe zu verbrennen. Es benötigt zum laufen hochenergetischen Verbundtreibstoff.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Aufbau</Text>
+</Header>
+				<Paragraph>
+					<Text>Um eine Turbine zu errichten müssen 36 Turbinen-Gehäuse 3 Meter hoch auf einem 4m x 3m Plateau platziert werden. Zu guter letzt noch die 9 Einlässe vor eine der beiden 3x3 Seiten platzieren und fertig ist die Turbine.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Spitzenleistung (massenhaft):
+Spitzenleistung (Knapp):
+Kapazität:
+Transferrate:
+Brenndauer:
+Brennstoff:</Left>
+					<Right>450 pro Sekunde
+182 pro Sekunde
+3000
+320 pro Sekunde
+480 Sekunden
+Hochenergetischer Verbundtreibstoff</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>HydroponicsBay</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hydroponics Bay</Text>
+				</Title>
+				<Icon>
+					<Name>HydroponicsBay</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Can grow automated plants. Must be built indoors or will lose the plants being grown.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

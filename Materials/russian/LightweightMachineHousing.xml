@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>LightweightMachineHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Лёгкий Машинный Корпус</Text>
+				</Title>
+				<Icon>
+					<Name>Lightweight Machine Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Небольшой металлический короб, используемый в легких конструкциях. Изготавливается из Оловянных пластин.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

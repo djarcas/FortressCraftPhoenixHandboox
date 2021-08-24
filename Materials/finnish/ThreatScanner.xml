@@ -1,0 +1,40 @@
+<MaterialEntry>
+	<Key>ThreatScanner</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Uhkaluotain</Text>
+				</Title>
+				<Icon>
+					<Name>Threat Scanner</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Uhkaluotaimella on kaksi tilaa luotaustila ja konfliktitila. Luotaustilassa luotain näyttää tukikohdan muodostaman uhan ja arvioidun ajan seuraavaan hyökkäykseen. Konfliktitila käynnistyy hyökkäyksen alkaessa. Se näyttää hyökkäysjoukon koostumuksen ja arvioidun ajan seuraavan aallon lähtöön. Uhkaa voi muuttaa uhkalaannuttimilla ja uhkayllyttimillä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Threat Reducer</Material>
+					</Target>
+					<Text>Threat Reducer</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Threat Agitator</Material>
+					</Target>
+					<Text>Threat Agitator</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Vaatii virtaa:</Left>
+					<Right>Kyllä</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T3 Power</Handle>
+	<Title>Rede Elétrica Avançada</Title>
+	<Icon>Advanced Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rede Elétrica Avançada</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Os materiais avançados que descobrimos recentemente devem permitir melhorias na nossa infraestrutura de energia.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

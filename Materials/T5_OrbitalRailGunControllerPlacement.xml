@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>T5_OrbitalRailGunControllerPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>T5_OrbitalRailGunControllerPlacement</Text>
+				</Title>
+				<Icon>
+					<Name>OrbitalRailGunController</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Orbital Railgun is your final goal in conquering this planet</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>DeOrbitContainer</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Crashed parts container</Text>
+				</Title>
+				<Icon>
+					<Name>Crashed parts container</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Contains technical components we can use for research.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

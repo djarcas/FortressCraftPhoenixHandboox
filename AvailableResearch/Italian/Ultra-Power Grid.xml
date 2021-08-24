@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T4 Power</Handle>
+	<Title>Ultra-Rete elettrica</Title>
+	<Icon>Ultra-Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ultra-Rete elettrica</Text>
+				</Title>
+				<Icon>
+					<Name>Ultra-Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Abbiamo raggiunto i limiti di elettricità che possiamo immagazzinare in un singolo metro cubo. Questo progetto indagherà la fattibilità di una struttura di stoccaggio dell\&apos;elettricità più grande.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

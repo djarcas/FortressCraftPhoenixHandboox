@@ -1,0 +1,25 @@
+﻿<MaterialEntry>
+	<Key>CopperBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>铜锭</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Copper Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>铜锭通常用于具有电气部件的各种机器中。 它们由铜矿制成，可在地表附近找到。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

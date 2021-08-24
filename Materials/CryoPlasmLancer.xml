@@ -1,0 +1,53 @@
+<MaterialEntry>
+	<Key>T4CreepLancer</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>CryoPlasm Lancer</Text>
+				</Title>
+				<Icon>
+					<Name>CryoPlasm Lancer</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Short-range, fast, CryoPlasm defence.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Range:
+					Removal Time:
+					Power Required:
+					Max. Power Capacity:
+					Max. Power Recharge Rate:
+					Reload Time:</Left>
+					<Right>9m
+					3 seconds
+					500 per second
+					10000
+					Unlimited
+					1 second</Right>
+				</TwoColumnParagraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>If linked to a Freezon Injector, then you will gain an approximate 28x boost in CryoPlasm cleared per minute, as well as a doubling of range.
+          </Text>
+        </Paragraph>
+
+        
+
+        <Icon>
+          <Name>Freezon Injector</Name>
+          <Target>
+            <Material>FreezonInjector</Material>
+          </Target>
+        </Icon>
+        <Spacer/>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

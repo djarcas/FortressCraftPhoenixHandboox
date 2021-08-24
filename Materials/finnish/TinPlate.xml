@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>TinPlate</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tinalaatta</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen tinalaatta tehdään tinaharkoista leimausasemalla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

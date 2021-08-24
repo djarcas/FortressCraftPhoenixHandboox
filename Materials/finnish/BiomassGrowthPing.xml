@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>BiomassGrowthPing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Biomassakasvustosysäys</Text>
+				</Title>
+				<Icon>
+					<Name>Biomass Growth Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Biomassakasvustosysäystä käytetään lisäbiomassan löytämiseen kun tuntematon malmi -sysäyksellä löydetty on melkein loppu tai riittämätön. Lisätietoja tyhjän malmisysäyksen ohjesivulla.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Blank Ore Ping</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

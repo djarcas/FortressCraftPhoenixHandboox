@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>CopperPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kupferrohr</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein einfaches Kupferrohr hergestellt aus einem Barren Kupfer in einem Rohrextruder. Wird zum Herstellen von Raketen benötigt.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

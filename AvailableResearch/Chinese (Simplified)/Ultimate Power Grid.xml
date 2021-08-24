@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T5 Power</Handle>
+	<Title>顶级能量块</Title>
+	<Icon>Ultimate Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>顶级能量块</Text>
+				</Title>
+				<Icon>
+					<Name>Ultimate Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>继MK4电源存储系统的成功之后，我们能够设计出终极的能量存储设备。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

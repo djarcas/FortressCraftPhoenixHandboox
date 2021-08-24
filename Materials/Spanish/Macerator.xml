@@ -1,0 +1,33 @@
+﻿<MaterialEntry>
+	<Key>Macerator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Icon>
+					<Name>Macerator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left></Left>
+					<Right></Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Paragraph><Text></Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

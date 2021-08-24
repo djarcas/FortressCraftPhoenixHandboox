@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Snow</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Snow</Text>
+				</Title>
+				<Icon>
+					<Name>Snow</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A mixture of dirt and snow which apears to be ubiquitous on this world.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

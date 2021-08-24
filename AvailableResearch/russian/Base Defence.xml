@@ -1,0 +1,27 @@
+﻿<Chapter>
+	<Handle>Base Defence</Handle>
+	<Title>Оборона базы</Title>
+	<Icon>&gt;ARTHER Turret</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Оборона базы</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>После исследования местных форм жизни становится ясно, что необходимо отдавать высокий приоритет системам защиты.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Мы должны ОСВОБОДИТЬ эту планету!</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

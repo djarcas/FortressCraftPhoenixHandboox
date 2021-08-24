@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SuitCoolerMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>防护服冷却器 MK1</Text>
+				</Title>
+				<Icon>
+					<Name>Suit Cooler MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>更强悍的热能核心可以让升级后的加热器在远高于沸点的温度下保护使用者的安全。 电力使用量也有所增加。 只需一份，放入物品栏以生效。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,52 @@
+﻿<MaterialEntry>
+	<Key>CentralPowerHub</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Concentrateur d\&apos;Énergie Central</Text>
+				</Title>
+				<Icon>
+					<Name>Central Power Hub</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Le Concentrateur d\&apos;Énergie Central (CEC) est la machine la plus importante de votre base. Elle est trop avancée pour être répliquée et vous ne pouvez pas survivre sur ce monde sans elle alors vous devez la protéger à tout pris.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Production d’Énergie</Text>
+				</Header>
+			
+				<Paragraph>
+					<Text>Le Concentrateur d\&apos;Énergie Central contient une grande batterie capable de stocker de l\&apos;énergie produite par ses panneaux solaires et son petit générateur à carburants fossiles. Il n\&apos;y a la place que pour une seule unité de carburant à la fois alors devriez automatiser la livraison de carburant en utilisant une trémie ou une mini trémie dès que possible.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Le Concentrateur d\&apos;Énergie Central fournira automatiquement en énergie les machines adjacentes qui en ont besoin. Vous pouvez aussi directement insérer ou extraire de l\&apos;énergie en interagissant avec (défaut \&apos;E\&apos;). Ce panneau de contrôle permet aussi d’insérer du carburant dans le générateur.</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text></Text>
+				</Header>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+
+			</Paragraphs>
+		</Page>
+	
+		<Page>
+			<Paragraphs>	
+			<Header>
+					<Text></Text>
+				</Header>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+	
+			</Paragraphs>
+		</Page>
+	
+	</Pages>
+</MaterialEntry>
+

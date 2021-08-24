@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>HardenedMachineBlock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hardened Machine Block</Text>
+				</Title>
+				<Icon>
+					<Name>HardenedMachineBlock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A machine used for some other high tier machines.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

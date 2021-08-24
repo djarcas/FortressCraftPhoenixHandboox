@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ChevronSign2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>人字形标志2</Text>
+				</Title>
+				<Icon>
+					<Name>Chevron Sign 2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>红黄相间的危险方块，可以在任何地方进行加工，无需制造工厂。 打开手工制作界面（默认\&apos;C\&apos;）制造。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

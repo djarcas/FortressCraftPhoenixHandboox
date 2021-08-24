@@ -1,0 +1,60 @@
+﻿<MaterialEntry>
+	<Key>SlimeAttractor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>史莱姆吸引器</Text>
+				</Title>
+				<Icon>
+					<Name>Slime Attractor </Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot; 史莱姆吸引器是消除这个恶劣环境威胁的第一步。 用腐烂的同类遗体使吸引史莱姆成为可能。 &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>&quot; 尽管炮塔技术无法侦测到这种具体的威胁，频频死于炮塔之手的史莱姆表面，它们并不能抵抗更”自然“的破坏手段。&quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Spoiled Organic Remains</Material>
+					</Target>
+					<Text>Spoiled Organic Remains</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>能量需求：
+需要：</Left>
+					<Right>无
+有机遗体</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>&quot;故障排除 &quot;</Text>
+				</Title>
+				<Spacer/>
+				<Spacer/>
+				<Spacer/>
+				<Paragraph>
+					<Text>*史莱姆偶尔会被困在陷阱里，或者是一个不佳的产卵地点。一个运行良好的陷阱应该是有规律的。如果不是这样，那就四处走走，看看那些史莱姆扎堆的问题点。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>*像玩家一样，Slimes可以向上爬1m的高度。 因此，寻找山峰和山谷，Slimes可能被卡在后面，因为高处没有平稳的过渡。 如果你发现任何一个尝试为他们平滑地形。 如果是一座大山，通常一条简单的隧道可以提供合适的路径。 此外，史莱姆可能会被困在1米高的空间。 像玩家一样，他们需要2米高的空间来移动，所以要么填补1米高的空位（先用枪杀死史莱姆），要么挖出一个2米的空间。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>&quot;试着在远离你的基地的地方建立你的史莱姆吸引器。挖掉的地面和SpiderBot带来的地形损坏都可以对史莱姆造成意想不到的地形并发症。 &quot;</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

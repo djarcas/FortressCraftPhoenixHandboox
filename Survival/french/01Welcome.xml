@@ -1,0 +1,248 @@
+﻿<Chapter>
+	<Handle>welcome</Handle>
+	<Title>Guide de Départ</Title>
+	<Icon>Solar Panel-old</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Bienvenu à FortressCraft Evolved</Text>
+				</Title>
+				<Header>
+					<Text>Mode de survie</Text>
+				</Header>
+				<Paragraph>
+					<Text>Vous venez de vous échapper de la station orbitale sur une navette d\&apos;évacuation endommagée. Elle n\&apos;a pas survécu à la réintégration, mais par chance, vous avez réussi à vous éjecter en toute sécurité. Maintenant, vous devrez survivre sur cette terrible planète extraterrestre !</Text>
+				</Paragraph>
+				<Header>
+					<Text>Démarrer</Text>
+				</Header>
+				<Paragraph>
+					<Text>Votre combinaison de pointe vous permet de rester en sécurité dans le froid, mais elle réclame plus d\&apos;énergie pour le faire. Le site du crash du vaisseau peut vous donner les ressources nécessaires pour survivre à court terme, alors vous devriez vous y diriger dès que possible.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Contrôles</Text>
+				</Header>
+				<Paragraph>
+					<Text>Les contrôles de jeu sont répertoriés dans un guide séparé ci-dessous.</Text>
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<Chapter>controls</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Controls Guide</Text>
+				</Link>
+
+				<Link>
+					<Target>
+						<URL>www.youtube.com/tv#/watch?v=KT_eI01IKDE</URL>
+<!-- Full screen, auto-playing URL-->
+					</Target>
+					<Text>Prefer a video? Click here for the FortressCraft Tutorial</Text>
+				</Link>
+				<Link>
+					<Target>
+						<URL>www.youtube.com/tv#/watch?v=1MLHgXDFczo</URL>
+<!-- Full screen, auto-playing URL-->
+					</Target>
+					<Text>Click here to watch a tutorial on the Crystal Scanner</Text>
+				</Link>
+
+			</Paragraphs>
+		</Page>
+			<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Conseils de survie</Text>
+				</Header>
+
+			
+
+				<Paragraph>
+					<Text>Pour ceux qui ne veulent pas lire un guide complet, voici quelques conseils rapides sur le jeu. Les pages suivantes donnent plus de détails sur la façon de commencer.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>- Pendant la journée, votre combinaison est conçue pour charger sa batterie avec la lumière solaire.
+- Votre zone de départ a un Centre d\&apos;Énergie Principale, utilisez-le pour transformer les ressources récoltées en énergie pour alimenter des machines adjacentes.
+- Vous pouvez charger votre combinaison depuis le Concentrateur de d\&apos;Énergie Central ou en appuyant sur \&apos;Q\&apos; sur un Bloc de Stockage d\&apos;Énergie.
+- Interagir (\&apos;E\&apos;) avec l\&apos;usine de fabrication pour voir ce que vous pouvez faire.
+- Fabriquez des Torches pour vous chauffer en utilisant la fenêtre d\&apos;Auto Craft (\&apos;C\&apos;).
+- Utilisez le Scanner (\&apos;M\&apos;) pour scanner des blocs et ensuite les traiter à la station de recherche pour obtenir de nouvelles recettes.
+- Le Scanner peut également effectuer des balayages d\&apos;environnement comme le ping Minerai Inconnu pour trouver de nouveaux minerais.
+- Faites attention au taux de décharge de la batterie sur votre combinaison, un texte bleu indique que le froid extrême affecte votre combinaison et un texte rouge indique une chaleur extrême.
+- La lampe frontale utilise de l\&apos;énergie. C\&apos;est génial pour explorer mais ne la laissez pas allumé !
+- Le charbon est le meilleur carburant pour commencer, mais si vous êtes en manque, vous pouvez brûler la flore locale.
+- Vous devrez peut-être creuser très profondément pour trouver les minerais que vous recherchez.
+- Vous avez une grande portée de construction, alors utilisez-le pour placer des torches dans de grandes cavernes.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Équipement du site de crash</Text>
+				</Header>
+				<Icon>
+					<Name>Central Power Hub</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Le Concentrateur de d\&apos;Énergie Central est votre premier fournisseur d\&apos;énergie. Il a des panneaux solaires, et peut brûler des carburants pour générer de l\&apos;énergie. Il ne peut contenir qu\&apos;un élément de carburant à la fois, de sorte que l\&apos;automatisation de la livraison de carburant est essentielle. Il dispose d\&apos;une grande capacité de stockage interne.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Central Power Hub</Material>
+					</Target>
+					<Text>Central Power Hub</Text>
+				</Link>
+				<Spacer/>
+<Spacer/>
+<Spacer/>
+				<Icon>
+					<Name>PowerStorageBlock</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Le Bloc de Stockage d\&apos;Énergie peut stocker 250 d\&apos;énergie et la distribuer aux machines adjacentes.</Text>
+				</Paragraph>
+					<Link>
+					<Target>
+						<Material>PowerStorageBlock</Material>
+					</Target>
+					<Text>PowerStorageBlock</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Icon>
+					<Name>Ore Smelter</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Afin d\&apos;acquérir des barres utiles pour l\&apos;élaboration de nouvelles machines, vous devrez traiter des minerais dans la fonderie de minerai. Vous pouvez y interagir manuellement ou automatiser la fourniture de minerai. La fusion commencera qu\&apos;après avoir reçu suffisamment de minerai pour couler un lingot.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Ore Smelter</Material>
+					</Target>
+					<Text>Ore Smelter</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Icon>
+					<Name>Manufacturing Plant</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Vous pouvez fabriquer de simple chose en utilisant la fenêtre de fabrication, que vous ouvrer avec \&quot;C\&quot;, cependant pour les machines et composant plus complexe, Vous devriez utiliser l\&apos;usine a fabrication. Les recettes sont diviser en plusieurs catégorie que vous pouvez trouver en cliquant sur les carrer colorer. À ce moment l\&apos;usine peut seulement utiliser les objets dans votre inventaire, et fabriquer des objet que iront directement dedans.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Manufacturing Plant</Material>
+					</Target>
+					<Text>Manufacturing Plant</Text>
+				</Link>
+				<Icon>
+					<Name>Research Station</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Quand vous commencer, votre scanner ne connais aucun matériaux de cette planète. Tout les scans que vous faites peuvent être traité à la station de recherche et produire des points de recherche. Vous pouvez aussi entreprendre différent projet de recherche ici, et développer de nouvelle recettes pour l\&apos;usine à fabrication en dépensant des points de recherche. La station de recherche à besoin d’énergie pour fonctionner.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Research Station</Material>
+					</Target>
+					<Text>Research Station</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Trouver vos premier minerais</Text>
+				</Header>
+				<Paragraph>
+					<Text>Votre scanner a la possibilité de scanner pour connaitre les différents minerais, mais pour faire ça vous devez d\&apos;abord les connaitre avant. La clé pour trouver des nouveaux minerais et d\&apos;utiliser la balise \&quot;Matériaux inconnus\&quot; du scanner. Si vous l\&apos;utiliser, il va vous montrer tout les blocs autour de vous qu\&apos;il ne connait pas.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Votre première tache va être de scanner vos alentour et traité ces scan à la station de recherche. Aussi vite que vous aurez scanner les choses commune comme la neige et la terre autour de vous, le ping \&quot;Minerais inconnus\&quot; va commencer à vous rendre des choses utile.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Une fois que vous avez trouver du minerais dans vos souterrain, Vous pouvez les scanner Pour les enregistrer dans votre scanner.À partir de ce moment, Utiliser le ping de minerais va retourner les filons de ce minerai.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Extraction de minerai</Text>
+				</Header>
+				<Paragraph>
+					<Text>Maintenant que vous avez trouver votre premier filon de minerai, vous devriez d\&apos;abord l\&apos;extraire avant de pouvoir vous en servir, Vous pouvez la creuser en utilisant le clique droit, Mais ceci vous donne du minerai de temps en temps et génère des gravats le reste du temps.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Une meilleur option et d’utiliser le mode de super minage, qui peut être activer en maintenant CTRL en creusant. Ceci va largement Augmenter la quantité de minerai récolter, Mais va drainer l’énergie très rapidement.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Icon>
+					<Name>Ore Extractor</Name>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Ore Extractor</Material>
+					</Target>
+					<Text>Ore Extractor</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>StorageHopper</Name>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Storage Hopper</Material>
+					</Target>
+					<Text>Storage Hopper</Text>
+				</Link>
+			</Paragraphs>
+			</Page>
+			<Page>
+			<Paragraphs>
+				<Icon>
+					<Name>Conveyor Belt</Name>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Conveyor Belt</Material>
+					</Target>
+					<Text>Conveyor Belt</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</Chapter>
+
+		

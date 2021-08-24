@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>InfusedCoal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>特高热值煤</Text>
+				</Title>
+				<Icon>
+					<Name>Infused Coal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>特高热值煤是水晶煤粉粉碎机（Crystal Coal Infuser）的产物。 是对富氧煤的改进，因为它在相同的时间内产生更多的电力。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Crystal Coal Infuser</Material>
+					</Target>
+					<Text>Crystal Coal Infuser</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

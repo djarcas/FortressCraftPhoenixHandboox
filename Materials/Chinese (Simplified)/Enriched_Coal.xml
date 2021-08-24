@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>EnrichedCoal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>富氧煤</Text>
+				</Title>
+				<Icon>
+					<Name>Enriched Coal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>富氧煤是有机煤炭富集的产物。 富氧煤是一般煤炭的改进形态，因为它在相同的时间内产生更多的电力。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Coal Enricher</Material>
+					</Target>
+					<Text>Organic Coal Enricher</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

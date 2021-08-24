@@ -1,0 +1,37 @@
+﻿<MaterialEntry>
+	<Key>ARTHERTurret</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>지정</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left></Left>
+					<Right>64m
+ 33
+ 5
+ 150
+ 10 초
+ 1 (ARTHER)</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,43 @@
+﻿<MaterialEntry>
+	<Key>PowerBoosterMK3</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Power Booster MK 3</Text>
+				</Title>
+				<Icon>
+					<Name>MK3 Power Booster</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					<Text>Die Verwendung dieses Elements wird sofort die Stromversorgung von ARTHER wiederherstellen. Planen Sie voraus und Sie können Ihre Fahrten unterirdisch verlängern und Maschinen fördern.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Wiederherstellung der Stromversorgung:</Left>
+<Right>500</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK4</Material>
+					</Target>
+					<Text>ARTHER Power Booster MK4</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>MK3PowerBoosterCharger</Material>
+					</Target>
+					<Text>Crafted by MK3 Power Booster Charger</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

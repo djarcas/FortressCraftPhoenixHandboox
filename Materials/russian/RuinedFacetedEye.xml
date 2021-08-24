@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>RuinedFacetedEye</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Испорченный Фасетчатый Глаз</Text>
+				</Title>
+				<Icon>
+					<Name>WaspEyeRuined</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Глаза местной летающей фауны – превосходный компонент для оптики. Этот глаз слишком сильно поврежден, чтобы быть полезным.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

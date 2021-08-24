@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>GoldCoil</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Золотая Катушка</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Обычная Золотая Катушка, изготовленная из Золотых Проводов в Намотчике.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,26 @@
+﻿<Chapter>
+	<Handle>T2 assist machines</Handle>
+	<Title>高级物流</Title>
+	<Icon>mk1 robot arm</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>高级物流</Text>
+				</Title>
+				<Icon>
+					<Name>mk1 robot arm</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>优化我们的采矿作业需要的是手术刀，而不是锤子。（当然，锤子你可以单独升级）.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>这项研究项目将重点放在存储、分类和额外基地建设工具的改进上。</Text>
+				</Paragraph>
+			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

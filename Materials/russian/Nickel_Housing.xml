@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>NickelHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Никелевый Корпус</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Простой никелевый корпус, созданный из никелевых пластин.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

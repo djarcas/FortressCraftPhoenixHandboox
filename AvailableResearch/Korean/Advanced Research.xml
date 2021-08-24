@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>advanced research</Handle>
+	<Title></Title>
+	<Icon>Laboratory Component</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Icon>
+					<Name>Laboratory Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

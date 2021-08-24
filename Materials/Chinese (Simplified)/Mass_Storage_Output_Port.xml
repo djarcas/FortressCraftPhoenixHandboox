@@ -1,0 +1,33 @@
+﻿<MaterialEntry>
+	<Key>MassStorageOutputPortMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>大容量存储输出端口</Text>
+				</Title>
+				<Icon>
+					<Name>Mass Storage Output Port</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>将此块放在大容量存储块旁边，以将物料从大容量存储器输出到传送带。 您需要手动指定要从大容量存储中提取的单个项目。 如果大容量存储器中指定的项目可用，机器人将逐个抓取它们，并将物品放置在内置输送机上。</Text>
+				</Paragraph>
+				<Header>
+					<Text>提示与技巧！</Text>
+				</Header>
+				<Paragraph><Text>注意这个块的指向！ 就像普通的传送带一样，它将物品移动到一个特定的方向。</Text>
+</Paragraph>
+				<Paragraph><Text>要分配输出的项目，请在快捷栏中保存所需项目，对着输出端口，然后按E</Text>
+</Paragraph>
+				<Header>
+					<Text>警告！</Text>
+				</Header>
+				<Paragraph><Text>与储物箱无关！</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

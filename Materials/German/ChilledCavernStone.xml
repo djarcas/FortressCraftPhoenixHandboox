@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>ChilledCavernStone</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Gekühlter Höhlenstein</Text>
+				</Title>
+				<Icon>
+					<Name>Chilled Cavern Stone</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Hauptblock zwischen 215 und 270 Metern Tiefe. Kann im Backenbrecher zerkleinert werden, um möglicherweise nützliches Erz zu gewinnen. Dieser Block kann platziert werden.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

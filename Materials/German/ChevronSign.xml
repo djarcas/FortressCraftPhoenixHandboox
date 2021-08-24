@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ChevronSign</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Warnstreifen DIN-30710 Rot-Weiß</Text>
+				</Title>
+				<Icon>
+					<Name>Chevron Sign</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Rot-Weiße Warnmarkierung nach DIN-3070 in 45° fallenden Winkelstreifen. Kann überall hergestellt werden. Öffne dafür die integrierte Werkbank deines Anzuges (Standard [C]).</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

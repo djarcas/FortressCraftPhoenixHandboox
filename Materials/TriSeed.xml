@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Key>TriSeed</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mandragora</Text>
+				</Title>
+				<Icon>
+					<Name>TriSeed</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A nondescript plant found on the surface and within the caverns of this planet. The seeds can be easily crafted into Crude lenses.</Text>
+				</Paragraph>
+		
+				<Spacer/>
+        <Icon>
+          <Name>Crude Organic Lens</Name>
+          <Target>
+            <Material>CrudeOrganicLens</Material>
+          </Target>
+        </Icon>
+				<Spacer/>
+				<Paragraph>
+					<Text>Seeds of this can be also used in the Ampule Crafter.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

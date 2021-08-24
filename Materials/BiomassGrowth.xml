@@ -1,0 +1,39 @@
+<MaterialEntry>
+	<Key>BiomassGrowth</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Biomass Growth</Text>
+				</Title>
+				<Icon>
+					<Name>Emeralds</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Biomass Growth is found in the Toxic Caverns. There were findings of veins closely to the Toxic Caverns but never in greater distance. It can be Dug-up with a Build Gun MK2, Ore Extractors and by Trencher-Extractors.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Biomass Growth can be used for Plastic Pellet production or for High Energy Composite Fuel.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Short Facts</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Occurrence:
+					Ping Color:
+					1st Stage of Extraction:
+					2nd Stage of Extraction:
+
+					3rd Stage of Extraction:</Left>
+					<Right>Toxic Caverns (-350m to -550m)
+					Light Blue
+					Build Gun MK2
+					Ore Extractor Fitted with "Steel Cutterhead" or harder.
+					Trencher Extractor MK1-MK3</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

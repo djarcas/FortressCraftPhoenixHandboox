@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T1 Power</Handle>
+	<Title>Энергетическая сеть</Title>
+	<Icon>Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Энергетическая сеть</Text>
+				</Title>
+				<Icon>
+					<Name>Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Невозможно продержаться только на энергии, вырабатываемой Центральным Энергетическим Концентратором. По мере развития базы необходимо найти новые способы генерации энергии и её передачи на дальние расстояния, в частности к местам добычи ресурсов.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

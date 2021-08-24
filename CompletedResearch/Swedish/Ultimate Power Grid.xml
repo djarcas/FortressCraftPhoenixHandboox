@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T5 Power</Handle>
+	<Title>Ultimat Kraftnät</Title>
+	<Icon>Ultimate Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ultimat Kraftnät</Text>
+				</Title>
+				<Icon>
+					<Name>Ultimate Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

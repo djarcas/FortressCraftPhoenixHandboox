@@ -1,0 +1,40 @@
+﻿<MaterialEntry>
+	<Key>LaserEnergyTransmitter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Laaserenergialähetin</Text>
+				</Title>
+				<Icon>
+					<Name>Laser Energy Transmitter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Laaserenergialähettimet (tai LELt) ovat voimaverkkosi selkäranka. Ne voivat lähettää energiaa jopa 64 metrin päähän ja toimittavat sen suoraan koneisiin, virtavarastolohkoihin tai toiseen LELiin kantaman lisäämiseksi.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Avaa LELn ohjauspaneeli painamalla \&apos;vuorovaikuta\&apos; nappia (oletus \&apos;E\&apos;). Tämä mahdollistaa linssipäivityksen joka nostaa enegiansiirtonopeutta. Voit myös vaihtaa ampumistapaa niin että akun täyttymistä odotetaan ennen energian lähettämistä. LELllä on pieni sisäinen varaaja. Harkitse niiden tukemista virtavarastolohkoilla varmistaaksesi virransaannin luettettavuuden kysynnän ja tarjonna vaihdellessa.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Energiapaketin koko:
+					Maksimipakettitahti:
+					Maksimienergiansiirtonopeus:
+					Virtakapasiteetti:
+					Maksimikantama:</Left>
+					<Right>10
+					1 sekunnissa
+					10 sekunnissa
+					64
+					64m</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

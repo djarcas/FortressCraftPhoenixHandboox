@@ -1,0 +1,43 @@
+﻿<MaterialEntry>
+	<Key>PowerBoosterMK3</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Энергоячейка АРЧЕРа МК3</Text>
+				</Title>
+				<Icon>
+					<Name>MK3 Power Booster</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					<Text>Использование данного предмета позволит мгновенно подзарядить батарею АРЧЕРа. Запаситесь ими заранее, это позволит вам дольше путешествовать под землей и подзаряжать оборудование.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Хранимая Энергия:</Left>
+<Right>500</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK4</Material>
+					</Target>
+					<Text>ARTHER Power Booster MK4</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>MK3PowerBoosterCharger</Material>
+					</Target>
+					<Text>Crafted by MK3 Power Booster Charger</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>SoftResin</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Soft Resin</Text>
+				</Title>
+				<Icon>
+					<Name>Geiger</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Soft Resin appears to be a byproduct of the Overminds attempts to reach the Central Power Hub. It&#39;s most usually located diagonally from our base, on the surface. Organic Rock is plentiful here.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

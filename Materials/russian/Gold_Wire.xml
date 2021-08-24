@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>GoldWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Золотой Провод</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Wire</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Золотой провод, изготовляемый из золотых слитков в Экструдере.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

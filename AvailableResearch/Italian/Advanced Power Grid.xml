@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T3 Power</Handle>
+	<Title>Griglia di Potenza Avanzata</Title>
+	<Icon>Advanced Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Griglia di Potenza Avanzata</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>I materiali che abbiamo scoperto recentemente dovrebbero permetterci di fare ulteriori miglioramenti alla nostra infrastruttura di potenza elettrica.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

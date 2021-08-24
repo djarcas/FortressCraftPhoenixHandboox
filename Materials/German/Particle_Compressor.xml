@@ -1,0 +1,44 @@
+﻿<MaterialEntry>
+	<Key>ParticleCompressorPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Partikelverdichter</Text>
+				</Title>
+				<Icon>
+					<Name>Particle Compressor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Partikel-Kompressor wird verwendet, um Partikel von maximal 4 Partikel-Filtern in eine dichtere, verwendbare Form zu komprimieren. Die Partikel werden dabei soweit verdichtet, dass sie sich wie eine Flüssigkeit verhalten. Der Partikel-Kompressor ist in einer 3x3x3-Formation zu bauen.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>T4_Particles</Chapter>
+					</Target>
+					<Text>Particulate Filtration System</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Filter</Material>
+					</Target>
+					<Text>Particle Filter</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Storage</Material>
+					</Target>
+					<Text>Particle Storage</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Gas Bottler</Material>
+					</Target>
+					<Text>Gas Bottler</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

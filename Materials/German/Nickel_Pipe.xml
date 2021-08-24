@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>NickelPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Nickelrohr</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein einfaches Nickelrohr, das aus Nickelbarren in einer Rohrextrusionsanlage hergestellt wurde.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

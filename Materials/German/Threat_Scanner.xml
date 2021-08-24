@@ -1,0 +1,40 @@
+﻿<MaterialEntry>
+	<Key>ThreatScanner</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Bedrohungsscanner</Text>
+				</Title>
+				<Icon>
+					<Name>Threat Scanner</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Bedrohungsscanner verfügt über zwei Modi, einen Scanmodus und einen Einrastmodus. Im Scan-Modus zeigt der Scanner die Anzahl der Bedrohungen an, die die Basis produziert, und eine geschätzte Zeit bis zum nächsten Angriff. Der Angreifmodus wird aktiviert, wenn er aktiviert wird. Wenn er aktiviert wird, zeigt der Bedrohungsscanner die Zusammensetzung der angreifenden Einheiten und die ungefähre Zeit an, bis die nächste Welle der Feinde spawnt. Die Bedrohung kann mit dem Bedrohungsreduzierer oder Bedrohungssteigerer geändert werden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Threat Reducer</Material>
+					</Target>
+					<Text>Threat Reducer</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Threat Agitator</Material>
+					</Target>
+					<Text>Threat Agitator</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Benötigt Energie:</Left>
+					<Right>Ja</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

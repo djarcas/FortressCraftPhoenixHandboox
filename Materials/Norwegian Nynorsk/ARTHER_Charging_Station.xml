@@ -1,0 +1,30 @@
+﻿<MaterialEntry>
+	<Key>ARTHERChargingStation</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER ladnings stasjon</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Charging Station</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>spesifikajoner</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left></Left>
+					<Right>25 per sekund
+1500
+10 per sekund</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

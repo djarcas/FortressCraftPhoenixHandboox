@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>RuinedPhosphorescentGland</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Испорченная фосфоресцентная Железа</Text>
+				</Title>
+				<Icon>
+					<Name>WaspGlandRuined</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Железы местных форм жизни обладают свойствами, подходящими для хранения энергии. Структура этой железы нарушена, и она почти бесполезна.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

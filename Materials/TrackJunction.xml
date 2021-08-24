@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Name>Track Junction</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Track Junction</Text>
+				</Title>
+				<Icon>
+					<Name>Track Junction</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Track Junction is the key to enabling intelligent distribution of resources across your entire fortress. Junctions link to each other to form a transport grid that freight carts can navigate to freight station destinations. With these, it is possible to connect every production center, near and far, with a supply of resources from anywhere in the fortress.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>			
+		<Page>
+			<Paragraphs>
+				<Title>
+				<Text>Track Grids</Text>
+				</Title>
+				<Paragraph>
+				<Text>All track on a connected grid will light up with the same color.  Use this to identify when a section of track has become disconnected from others.
+				
+				It is perfectly valid for a junction path to lead back to itself. A connection can lead to a station, turn the cart around with a buffer, and return to the original junction and register as a valid connection. Closed loops that do not end at a junction however are forbidden.
+				
+				Press Q on a junction to reset the track connections. This may be used to force a recheck of track if a change has been made recently and a connection is not being detected. The track and junction color will change to reflect that a refresh has been completed.  Tracks that do not match color indicate that there is no valid connection between them.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

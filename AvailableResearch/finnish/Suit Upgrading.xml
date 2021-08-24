@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>suit upgrades</Handle>
+	<Title>Pukupäivitykset</Title>
+	<Icon>Suit Upgrading</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pukupäivitykset</Text>
+				</Title>
+				<Icon>
+					<Name>SuitUpgrades</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tutkimuspukusi on tunnetun maailman kehittyneintä insinöörityötä. Valitettavasti sen hyödyllisyys riippuu modulaarisista päivityksistä, joihin meillä ei ole nyt tuotantokykyä. On aika kehittää tavat miten voisit tehdä omat päivityksesi kaukana kotitehtaista. Apu raa\&apos;an luonnon kanssa sinnittelyyn olisi tervetullutta.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

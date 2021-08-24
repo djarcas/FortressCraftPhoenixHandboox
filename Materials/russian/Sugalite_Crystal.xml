@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>SugaliteCrystal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Сахаритовый Кристалл</Text>
+				</Title>
+				<Icon>
+					<Name>Sugalite Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Сахаритовый Кристалл - редкий материал, ингредиент для создания улучшений. Может быть обнаружен в пещерах на глубине от -375 до -2500 и ниже.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Советы и хитрости.</Text>
+				</Header>
+				<Paragraph><Text>Вы изредка можете наткнуться на эти кристаллы в глубоких пещерах. На экстремальных глубинах пещер нет.</Text>
+</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

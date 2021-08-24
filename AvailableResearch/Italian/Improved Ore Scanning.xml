@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>ore pings</Handle>
+	<Title>Scansione dei minerali migliorata</Title>
+	<Icon>Improved Ore Scanning</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Scansione dei minerali migliorata</Text>
+				</Title>
+				<Icon>
+					<Name>Improved Ore Scanning</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Siamo incappati in un problema durante la ricerca di risorse per espandere la nostra base!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Il nostro scanner di minerali è configurato per individuare materiali sconosciuti da ricercare e classificare. La sua abilità di trovare nuove risorse di uno specifico materiale già conosciuto tuttavia è limitata. Dovrebbe essere possibile utilizzare una piccola quantità di minerale di scorta come filtro avanzato per individuare solo la specifica risorsa che stiamo cercando.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

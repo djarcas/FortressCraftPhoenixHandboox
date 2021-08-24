@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>T3 Power</Handle>
+	<Title>高級電網</Title>
+	<Icon>Advanced Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>高級電網</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>我們對電力基礎設施進行了進一步改進，包括新的電源存儲塊和激光能量發射器。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>我們還對一種新型發電機進行了一些臨時設計，但是為了完成這項研究，我們還需要找到比目前為止依賴的煤更濃密的能源。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

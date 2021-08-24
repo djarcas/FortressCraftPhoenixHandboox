@@ -1,0 +1,50 @@
+﻿<Chapter>
+	<Handle>T4_start</Handle>
+	<Title>Zmrazená továrna!</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Zdejší formy Života</Text>
+				</Title>
+				<Icon>
+					<Name>MagmaBore Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nyní je tento výzkum dokončen, můžeme pokročit k vybudování \&quot;Cold Cavern Climate Control Center\&quot; (CCCCC nebo C5 zkráceně!). Budeme muset postavit tento stroj v Studené Jeskyni, napájet napájet ho nenergií, a pak čekat, než pomalu přemění jeskyni na úžasné místo, kde se můžeme správně zařídit a čekat na záchranu.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Tento nový stroj je mnohem pokročilejší (a křehčí!) Než starý CPH - měli bychom být schopni navrhnout, prozkoumat a postavit mnohem větší, rychlejší a složitější těžební a zdrojové stroje. Nejdříve potřebujeme nějaké pokročilejší materiály, a proto budeme potřebovat speciální stroj, který se bude zabývat super zpevněnými minerály.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text></Text>
+  
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Hard Rock Grinder</Material>
+					</Target>
+					<Text>Hard Rock Grinder</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>NanoDisintegrator</Material>
+					</Target>
+					<Text>NanoDisintegrator</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>CCCCC_Placement</Material>
+					</Target>
+					<Text>Cold Cavern Climate Control Centre</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

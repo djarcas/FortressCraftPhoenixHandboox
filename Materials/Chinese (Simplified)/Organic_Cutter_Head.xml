@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>OrganicCutterHead</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>有机质钻头</Text>
+				</Title>
+				<Icon>
+					<Name>Organic Cutter Head</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>通过提高矿物分离器的效率来减少浪费的矿石。 还允许挖掘较硬的材料。 钻头会随着时间的推移磨损。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>有机钻头由当地生物的刺制成，比钢钻头效率更高，但更快速地磨损。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>效率：
+  最大硬度：
+ 耐用性：</Left>
+					<Right>50%
+ 250
+ 1500</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

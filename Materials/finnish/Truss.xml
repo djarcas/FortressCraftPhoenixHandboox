@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Truss</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kehikko</Text>
+				</Title>
+				<Icon>
+					<Name>Truss</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Perusrakennusmateriaali jota voi tehdä missä vain ilman valmistusasemaa. Avaa itsevalmistuskäyttöliittymä (oletus &apos;C&apos;) tehdäksesi näitä.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>GoldBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Gold Bar</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Gold Bars are generally used in advanced machines, especially those requiring high quality electrical contacts. Gold can also be used to manufacture decorative items. They are crafted from Gold Ore, which can be found at least 250m below the surface.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

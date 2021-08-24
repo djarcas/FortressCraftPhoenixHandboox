@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>GreenGlowPod</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Grüner GlowPod</Text>
+				</Title>
+				<Icon>
+					<Name>Green GlowPod</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Diese einheimische Pflanze erzeugt ein stetiges grünes Leuchten, das durch eine chemische Reaktion der Pflanze erzeugt wird.</Text>
+				</Paragraph>
+		
+				<Spacer/>
+				<Paragraph>
+					<Text>Diese Pflanze kann verbrannt werden um Energie zu gewinnen.</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,31 @@
+﻿<MaterialEntry>
+	<Key>TinOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tinamalmi</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Löydetään pinnan läheltä. Tinamalmia voi sulattaa tinaharkoiksi sulattamossa. Tinaharkkoja yleensä käytetään peruskoneissa jotka vaativat kevyttä rakennetta.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Tinamalmia tulisi luohia malmiluohimella.</Text>
+				</Paragraph>
+        <Icon>
+          <Name>Ore Extractor</Name>
+          <Target>
+            <Material>OreExtractor</Material>
+          </Target>
+        </Icon>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

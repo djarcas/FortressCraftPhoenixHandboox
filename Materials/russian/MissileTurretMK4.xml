@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>MissileTurretMK4</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ракетная Турель МК4</Text>
+				</Title>
+				<Icon>
+					<Name>Missile Turret MK4</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				<Paragraph>
+					<Text>Выстреливает одноразовые ракеты по большим целям. Ракеты должны храниться в смежном Накопительном Бункере.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&#34;Минимальное расстояние:
+  Максимальное расстояние:
+  Урон (на 1 ракету):
+  Ракет в залпе:
+  Время перезарядки:&#34;</Left>
+					<Right>64 м
+ 512 м
+ 50 000 (базовая ракета)
+ 4
+ 15 секунд</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

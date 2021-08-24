@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>ToxicCavernFlora1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Giftige Höhlenpflanze 1</Text>
+				</Title>
+				<Icon>
+					<Name>Toxic Cavern Flora 1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Diese Pflanze scheint gegen die toxische Umgebung in dieser Höhle immun zu sein.</Text>
+				</Paragraph>
+		
+				<Spacer/>
+				<Paragraph>
+					<Text>Diese Pflanze kann für Strom verbrannt werden.</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

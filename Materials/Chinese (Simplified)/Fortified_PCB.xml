@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>FortifiedPCB</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>强化PCB</Text>
+				</Title>
+				<Icon>
+					<Name>Fortified PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>在PCB组装厂中由镍线圈制成的镍基PCB。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

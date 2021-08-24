@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 2</Handle>
+	<Title>Eenvoudige Mijnbouwverbeteringen II</Title>
+	<Icon>Enhanced Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Eenvoudige Mijnbouwverbeteringen II</Text>
+				</Title>
+				<Icon>
+					<Name>Enhanced Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Volgend op ons vorig onderzoek voor mijnbouwverbeteringen zouden we onze boormotor en geforceerde inductie-upgrades verder moeten kunnen verbeteren.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

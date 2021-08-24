@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>BasicDrillMotor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Perusporamottori</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Parantaa nopeutta jolla malminlouhija louhii malmia minuutissa lisääntyneen virrankulutuksen hinnalla.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Louhintanopeus:</Left>
+					<Right>200%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

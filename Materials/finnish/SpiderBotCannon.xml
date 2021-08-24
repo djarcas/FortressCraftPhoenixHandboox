@@ -1,0 +1,31 @@
+﻿<MaterialEntry>
+	<Key>SpiderBotCannon</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Robohäkkikanuunat</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot Defences 2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tämä pari etuliitettyjä kanuunoita pystyy hoitelemaan keskikokoiset ja isot kohteet. Ne tähtäävät itsenäisesti ja älykkäästi jättävät pienet kohteet huomiotta keskittyen isompiin panssaroituihin kohteisiin.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Vain yhden asentaminen on tarpeellista - ne tulevat kokonaisuutena!</Text>
+				</Header>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SpiderBot Base Component</Material>
+					</Target>
+					<Text>More information regarding SpiderBot!</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

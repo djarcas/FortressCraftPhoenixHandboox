@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 5</Handle>
+	<Title>Aggiornamenti Avanzati per la Miniera</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Aggiornamenti Avanzati per la Miniera</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Questo progetto investigherà ulteriori miglioramenti all\&apos;estrattore e alla fonderia di minerali . In aggiunta la ricerca continuerà a lavorare sul nuovo sistema di cava.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

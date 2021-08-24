@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>CoalInfuser</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Насытитель Угля</Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Coal Infuser</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Насытитель Угля использует небольшое количество энергии, чтобы увеличить выход энергии при сжигании Угля. Насытителю требуется 0,1 Э/с при длительности 15 секунд в процессе превращения Обогащенного Угля в Насыщенный Уголь.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

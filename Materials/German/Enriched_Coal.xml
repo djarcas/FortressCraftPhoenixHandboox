@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>EnrichedCoal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Angereicherte Kohle</Text>
+				</Title>
+				<Icon>
+					<Name>Enriched Coal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Angereicherte Kohle ist das Produkt aus dem organischen Kohleanreicherer. Sie hat einen gegenüber normaler Kohle erhöhten Brennwert, sodass sie in der gleichen Zeit eine größere Menge an Energie produziert.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Coal Enricher</Material>
+					</Target>
+					<Text>Organic Coal Enricher</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

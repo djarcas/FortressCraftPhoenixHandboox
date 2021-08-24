@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Key>ConstructionPasteGrinder</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Konstruktionspastenmühle</Text>
+				</Title>
+				<Icon>
+					<Name>ConstructionPasteGrinder</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Baupasten-Grinder verwendet eine primitive Version der anorganischen Ansetzer der Anzüge, um Baupaste aus nutzlosen Materialien wie den verschiedenen Gesteins- und Bodentypen auf diesem neuen Planeten zu erzeugen. Die Maschine selbst kann unter Verwendung der im Erdboden des Planeten gefundenen Mineralien zusammengesetzt werden. Die niedrigen Herstellungskosten dieser Maschine und die nicht vorhandenen Leistungsanforderungen ermöglichen es, mehrere parallel zu betreiben. Die Einrichtung eines Mülldiebs in einem frequentierten Gang, der an mehrere dieser Maschinen angeschlossen ist, ist ein guter Weg, um eine große Menge an Baupaste zu Beginn des Spiels zu erhalten.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Construction Paste</Material>
+					</Target>
+					<Text>Construction Paste</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

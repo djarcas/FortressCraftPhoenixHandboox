@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>SugaliteFocusingLens</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Сахаритовая Фокусирующая Линза</Text>
+				</Title>
+				<Icon>
+					<Name>Sugalite Focusing Lens</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Вставьте в Лазерный Энергопередатчик для увеличения скорости передачи энергии.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Скорость передачи энергии:</Left>
+					<Right>300%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

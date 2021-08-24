@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>HardenedPCB</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Упрочненная ПП</Text>
+				</Title>
+				<Icon>
+					<Name>Hardened PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Железная ПП, созданная из Железных Катушек на Сборщике Печатных Плат (ПП).</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

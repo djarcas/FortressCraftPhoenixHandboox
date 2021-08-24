@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>NickelHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>镍质外壳</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>一个由镍板制造的简单的镍质外壳。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

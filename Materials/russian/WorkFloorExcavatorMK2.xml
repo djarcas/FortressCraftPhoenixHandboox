@@ -1,0 +1,33 @@
+﻿<MaterialEntry>
+	<Key>WorkFloorExcavatorMK2_Key</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Площадочный Экскаватор МК2</Text>
+				</Title>
+				<Icon>
+					<Name>&gt;Workfloor Excavator MK2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Создание ровной площадки - утомительное дело, если копать вручную. Это оборудование расчищает площадку высотой 3 метра в радиусе 32 метра. Она расчищает и рудные жилы, то есть вы можете организовать ровную площадку под большое оборудование в любом месте. Просторное рабочее пространство означает хорошо организованную базу!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;Радиус:
+Энергии за блок:
+Разрушает Руду:
+ &quot;</Left>
+					<Right>&quot;32 м
+128
+Да
+ &quot;</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,29 @@
+<MaterialEntry>
+	<Key>ExtrusionPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Extrusion Plant</Text>
+				</Title>
+				<Icon>
+					<Name>Extrusion Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Extrusion Plant is a regular conveyor fitted with a machine for extruding metal bars into wires, and behaves like a Conveyor in all circumstances.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Usage</Text>
+				</Header>
+				<Paragraph>
+					<Text>Feed metal bars into the Extrusion Plant from another Conveyor, Conveyor-based machine, or Conveyor Turntable. The Extruder will convert the bars into wires which can be used in additional recipes, or further converted into Coils or PCBs.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>The Extrusion Plant is essential for the automation of Laboratory Research.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

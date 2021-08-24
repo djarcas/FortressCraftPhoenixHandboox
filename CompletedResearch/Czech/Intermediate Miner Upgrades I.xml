@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 3</Handle>
+	<Title>Středně pokročilé Vylepšení Těžby I</Title>
+	<Icon>Ore Smelter</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Středně pokročilé Vylepšení Těžby I</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Úspěšně jsme navrhli novou Tavící Pec. Pro její výrobu jsou však potřeba materiály, keré se nenacházejí v blízkosti povrchhu.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

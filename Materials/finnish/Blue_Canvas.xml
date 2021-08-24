@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>BlueCanvas</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Sininen kangas</Text>
+				</Title>
+				<Icon>
+					<Name>Blue Canvas</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Täysin sinininen kaunistuspalikka.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

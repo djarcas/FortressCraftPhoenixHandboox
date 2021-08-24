@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 3</Handle>
+	<Title>Mejoras de Minería Intermedia I</Title>
+	<Icon>Ore Smelter</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mejoras de Minería Intermedia I</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Es hora de comenzar a investigar cómo replicar las capacidades avanzadas de la fundición de mineral suministrada con nuestro Central Power Hub. Las fundiciones básicas que hemos podido construir son demasiado lentas y están desperdiciando recursos valiosos.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

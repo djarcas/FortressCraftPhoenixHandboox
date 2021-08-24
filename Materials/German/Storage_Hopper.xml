@@ -1,0 +1,65 @@
+﻿<MaterialEntry>
+	<Key>StorageHopper</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lagercontainer</Text>
+				</Title>
+				<Icon>
+					<Name>StorageHopper</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Lagercontainer ist eine der wichtigsten Maschinen zur Automatisierung Ihrer Basis. Es hat eine Lagerkapazität von 100 Stück und kann Gegenstände sehr schnell verarbeiten. Günstigere Alternativen mit geringerer Kapazität und längerer Verarbeitungszeit sind verfügbar und können beim ersten Einrichten einer Basis nützlich sein.</Text>
+				</Paragraph>
+				<Header>
+					<Text>I/O Status</Text>
+				</Header>
+				<Paragraph>
+					<Text>Der Lagercontainer kann auf einen von vier Ein- / Ausgabestatus eingestellt werden. Diese sind: Hinzufügen / Entfernen, Nur Entfernen, Nur Hinzufügen und Gesperrt. Der Status kann durch Drücken der Taste \&apos;Interact\&apos; (Standard \&apos;E\&apos;) geändert werden. Diese Statuscodes gelten nur für eigenständige Maschinen, z. B. eine Schmelze oder ein Montagewerk. Sie gelten nicht für Förderer oder auf Förderer basierende Montagemaschinen mit der einzigen Ausnahme, dass ein verschlossener Container nicht auf ein Förderband ausgibt.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Eine Maschine extrahiert nur aus einem Container, wenn sie auf \&quot;Hinzufügen / Entfernen\&quot; oder \&quot;Nur entfernen\&quot; eingestellt ist, und platziert nur dann Artikel in den Container, wenn sie auf \&quot;Hinzufügen / Entfernen\&quot; oder \&quot;Nur Hinzufügen\&quot; eingestellt ist. Bei Maschinen, die sowohl einen Ein- als auch einen Ausgang haben, ist es ratsam, zwei Container zu haben, von denen einer auf \&quot;Nur entfernen\&quot; mit den Rohstoffen und der andere auf \&quot;Nur hinzufügen\&quot; eingestellt ist, in den die hergestellte Komponente eingelegt wird. Dies stellt sicher, dass das System nicht blockiert wird.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Förderbänder</Text>
+				</Header>
+				<Icon>
+					<Name>Conveyor Belt</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der I / O-Status gilt nicht für Förderer. Sie können damit Rohmaterialien in einen Maschineneingabemagazin einlegen, der als \&quot;Nur entfernen\&quot; gekennzeichnet ist und umgekehrt. Jedes Förderband, das direkt zum Cotnainer zeigt, führt Material in den Container ein. Der Container wird auf jeden anderen Förderband über, unter oder neben ihm ausgegeben, es sei denn, der Container ist verriegelt.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Artikel manuell speichern</Text>
+				</Header>
+				<Paragraph>
+					<Text>Während der Container für die Automatisierung vorgesehen ist, können die darin enthaltenen Artikel manuell gespeichert werden, indem die Taste \&quot;Einlagern\&quot; gedrückt wird (Standard \&quot;T\&quot;). Der ausgewählte Artikel oder Stapel im Hotbar wird im Container gespeichert, wenn Platz vorhanden ist. Sie können 10 Elemente auch nur speichern, indem Sie Umschalt + T drücken. Um einen genauen Betrag zu speichern, können Sie den Stapel in Ihrem Inventar teilen (halten Sie die Umschalttaste gedrückt und ziehen Sie). Jedes Drücken von T fügt den letzten passenden Stapel in dein Inventar ein.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Manuelles Extrahieren von Elementen</Text>
+				</Header>
+				<Paragraph>
+					<Text>Alle Objekte in einem Container können durch Drücken der Taste \&quot;Extrahieren\&quot; (Standard \&quot;Q\&quot;) entfernt werden.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Vakuummodus einschalten</Text>
+				</Header>
+				<Paragraph>
+					<Text>Der Vakuummodus kann mit einer modifizierten Interaktion umgeschaltet werden (Standard \&apos;Shift + E\&apos;). Wenn der Vakuummodus eingeschaltet ist, saugt der Container alle in der Nähe befindlichen Objekte an, solange noch genügend Speicherplatz vorhanden ist.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>
+

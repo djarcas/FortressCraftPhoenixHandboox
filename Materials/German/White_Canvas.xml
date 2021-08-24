@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>WhiteCanvas</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Weiße Leinwand</Text>
+				</Title>
+				<Icon>
+					<Name>White Canvas</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Voller weißer Verschönerungsblock.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

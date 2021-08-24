@@ -1,0 +1,29 @@
+﻿<MaterialEntry>
+	<Key>ExtrusionPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>挤压机</Text>
+				</Title>
+				<Icon>
+					<Name>Extrusion Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>挤压机是安装在普通的传送带上的用于将金属锭挤压成金属丝的机器。</Text>
+				</Paragraph>
+				<Header>
+					<Text>用法</Text>
+				</Header>
+				<Paragraph>
+					<Text>从其他传送带把金属锭送到挤压机。 挤压机将金属锭转换为可用于其他工序的线材。</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>挤压机对于实验室研究的自动化来说必不可少。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

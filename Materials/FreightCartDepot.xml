@@ -1,0 +1,46 @@
+<MaterialEntry>
+	<Name>Freight Cart Depot</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Freight Cart Depot</Text>
+				</Title>
+				<Icon>
+					<Name>Freight Cart Depot</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Freight Cart Depots add Freight Carts into your freight network. Place a Storage Hopper adjacent to the Depot with appropriate permissions, ensure the Depot is connected to the track system linking to Freight Cart Stations, and set cart assignments for any desired stations that the carts should service and the depot will send carts on their way. Each Depot is limited to a single Freight Cart placement per 15 seconds.  
+					
+					Freight Carts will return to the depot if there is no longer work for them among the accessible stations.  Ensure that carts have a route back to the depot.  The depot requires at least one Storage Hopper with appropriate permissions set to accept the incoming cart.  You may use separate depots for launching and returning carts.
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Freight Cart Resource Handling</Text>
+				</Title>
+				<Spacer/>
+				<Paragraph>
+					<Text>Once in your freight network, Freight Carts will navigate to their assigned Freight Cart Station and attempt to distribute items according to the needs of the station.  See Freight Cart Station info for details on configuring station item settings.
+					
+					The freight cart depot supports all Freight Cart varieties as well as the generic Minecarts.  Minecarts launched from a freight cart depot have the same speed and capacities as when used for minecart stations but will only interact with freight cart stations.  These carts may carry any combination of items and may be viewed as upgraded versions of the scrap freight cart.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Icon>
+					<Name>Freight Cart Station</Name>
+					<Target><Material>Freight Cart Station</Material></Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Freight Cart Station</Material>
+					</Target>
+					<Text>Freight Cart Station</Text>
+				</Link>
+			</Paragraphs>
+		</Page>	
+	</Pages>
+</MaterialEntry>

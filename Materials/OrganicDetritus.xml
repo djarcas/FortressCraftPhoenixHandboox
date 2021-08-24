@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>NewSurvivalSurface</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Organic Detritus</Text>
+				</Title>
+				<Icon>
+					<Name>Organic Detritus</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This thick, disgusting mess covers the entire planet. Useful for paste and not much else.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

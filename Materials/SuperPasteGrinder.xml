@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>SuperConstructionPasteGrinder</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Super Construction Paste Grinder</Text>
+				</Title>
+				<Icon>
+					<Name>Super Construction Paste Grinder</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Uses 'garbage' or Coal blocks to make Construction Paste at a 1:8 ratio.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

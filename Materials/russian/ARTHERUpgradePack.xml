@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ARTHERUpgradePack</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Модуль обновления АРЧЕРа</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Upgrade Pack</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Сочетает в себе Солнечную Панель, Силовое Ядро и Батарею. Экономит место, объединяя улучшения АРЧЕРа. Достаточно одного устройства, и оно должно храниться в вашем инвентаре.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,40 @@
+﻿<MaterialEntry>
+	<Key>LaserEnergyTransmitterMK3</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>激光输电器 MK3</Text>
+				</Title>
+				<Icon>
+					<Name>Laser Energy Transmitter MK3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>激光输电器（LET）是您供电网络的主干，它们可以传输能量最远64m，并可将其直接传输到机器，能量块或另一个LET以扩展范围。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>要打开LET的控制面板，请按“交互”键（默认为“E”）。 这允许您升级镜片，这将提高功率传输。 您也可以切换发射模式，以使电量充满后再发出能量。 LET具有较小的内部电池容量，可用能量块与之互补，以确保供需不一致状态下供电的可靠性。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>能量分组尺寸：
+最大分组速率：
+最大传输速率：
+能源容量：
+最大范围：</Left>
+					<Right>64
+ 5 /s
+ 320 /s
+ 384
+ 64m</Right>
+				</TwoColumnParagraph>
+			
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

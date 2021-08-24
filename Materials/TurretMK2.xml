@@ -1,0 +1,42 @@
+<MaterialEntry>
+	<Key>TurretMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Turret MK2</Text>
+				</Title>
+				<Icon>
+					<Name>Pop Up Turret MK2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Basic energy-based defence. Must be powered by an adjacent Power Generator, Power Storage Block or via a Laser Power Transmitter.</Text>
+				</Paragraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>The MK2 turret is more power-efficient than the MK1. The the usual limiting factor in a successful defence is placement and then power usage - you are likely to need to upgrade these turrets with drops from the larger mobs.</Text>
+        </Paragraph>
+        <Spacer/>
+        
+				<Header><Text>Specifications</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Range:
+					Damage Per Shot:
+					Power Per Shot:
+					Max. Power Capacity:
+					Max. Power Recharge Rate:
+					Reload Time:</Left>
+					<Right>20m
+					96
+					64
+					192
+					512 per second
+					0.4 seconds</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

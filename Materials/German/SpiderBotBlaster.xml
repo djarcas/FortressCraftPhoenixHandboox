@@ -1,0 +1,31 @@
+﻿<MaterialEntry>
+	<Key>SpiderBotBlaster</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Spiederbot Blasterkanone</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot Defences 3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Diese unterlegene Waffe kann auf einen einzelnen Gegner zielen und bietet eine kleine Menge an Schnellfeuerverteidigung gegen sich schneller bewegende, kleinere Ziele. Achten Sie darauf, dass durch die Montage der Mutterboden und der Schnee beschädigt werden können. Seien Sie sicher, dass Sie bereit sind für eine vom Krieg zerrüttete Zone, bevor Sie diesen Badboy einstellen!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Sie müssen nur eines davon herstellen und anpassen!</Text>
+				</Header>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SpiderBot Base Component</Material>
+					</Target>
+					<Text>More information regarding SpiderBot!</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

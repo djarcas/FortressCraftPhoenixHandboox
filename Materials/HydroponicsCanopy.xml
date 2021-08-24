@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>HydroponicsCanopy</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hydroponics Canopy</Text>
+				</Title>
+				<Icon>
+					<Name>HydroponicsCanopy</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A decorative piece of canopy created on an Advanced Hydroponics Bay.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

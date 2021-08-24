@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>RedWarningLight</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Red Warning Light</Text>
+				</Title>
+				<Icon>
+					<Name>Red Warning Light</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Attach to a machine to monitor it.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

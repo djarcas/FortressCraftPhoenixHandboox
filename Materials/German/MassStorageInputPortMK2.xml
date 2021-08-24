@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Key>MassStorageInputPortMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Massenspeichereingang</Text>
+				</Title>
+				<Icon>
+					<Name>Mass Storage Input Port</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Header>
+					<Text>Vorsicht!</Text>
+				</Header>
+				<Paragraph><Text>Hat nichts mit dem Lagercontainer zu tun!</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

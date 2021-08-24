@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERSolarPanel</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Panneau Solaire ARTHER</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Solar Panel</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Améliore la vitesse à laquelle ARTHUR recharge depuis la lumière du soleil. Vous n\&apos;en n\&apos;avez besoin que d\&apos;un seul et il doit être conservé dans votre inventaire pour fonctionner.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

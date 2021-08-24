@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>PartiallyAblatedResin</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Partially Ablated Resin</Text>
+				</Title>
+				<Icon>
+					<Name>Partially Ablated Resin</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The tough outer coating has started giving way; ablation just requires a bit more power.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

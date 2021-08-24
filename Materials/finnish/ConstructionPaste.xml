@@ -1,0 +1,28 @@
+<MaterialEntry>
+	<Key>ConstructionPaste</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rakennustahna</Text>
+				</Title>
+				<Icon>
+					<Name>Construction Paste</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Rakennustahna on materiaali jota tehdään pukusi epäorgaanisen uudelleenkokoajan uudelleenasetuksilla. Pukusi epäorgaaninen uudelleenkokoajaa käytetään automaattisesti paikkaamaan kriittisesti vahingoittuneet osastot puvustasi nopean alipainestumisen estämiseksi avaruuden tyhjiössä. Tutkimalla näitä järjestelmiä ainetta jota normaalisti käytetään korjausprosessissa on yhdistetty planeetan kivien mikrobeihin. Uusi aine on ristitty rakennustahnaksi koska sitä voidaan käyttää useiden koristeellisten ja vahvistettujen palikoiden tekemiseen. Järjestelmä on suunniteltu matkimaan pukusi epäorgaanista uudelleenkokoajaa juuri tämän aineen tekemiseksi. Tämän tahnan kantaminen näyttää myös tuovan tilansäästön hyödyn tavaraluettelossasi.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Construction Paste Grinder</Material>
+					</Target>
+					<Text>Construction Paste Grinder</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

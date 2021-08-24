@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>AirLock_Outer_Placement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>AirLock Outer</Text>
+				</Title>
+				<Icon>
+					<Name>AirLock_Outer</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Connects Airlocks to the Outside</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

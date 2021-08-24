@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T4 Power</Handle>
+	<Title>Ultra-Elnät</Title>
+	<Icon>Ultra-Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ultra-Elnät</Text>
+				</Title>
+				<Icon>
+					<Name>Ultra-Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Vi har nått gränserna för kraft som vi kan lagra i en enda 1m kub. Detta projekt kommer att undersöka möjligheten för större energilagringsenheter.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

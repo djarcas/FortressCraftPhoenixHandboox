@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>AdvancedHydroponicsBay</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Advanced Hydroponics Bay</Text>
+				</Title>
+				<Icon>
+					<Name>AdvancedHydroponicsBay</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Grows plants much faster. Must be built indoors or will lose the plants being grown. Maybe requires power, haven't decided.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>BarKeeper</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>赛博坦金属锭收取系统</Text>
+				</Title>
+				<Icon>
+					<Name>Bar Keeper</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>赛博坦金属锭收取系统（Cyberdyne Bar Repossession System）是一款用于从玩家随身库存中取出金属锭的机器。 该机器旨在防止玩家注销时意外”窃取“资源。 与其前身（ ore and Garbage thief ）不同，放置在走廊中将会阻碍而不是帮助玩家。 当在服务器上游戏时，该机器应该放置在所有玩家可访问的中央位置，以明显的方式标记，以免被无意中激活。
+
+  简单地建立一个3x3架构的全新的金属锭收取系统（tm），并为每个金属锭提供5单位能量，然后只需站在它上面，让它帮你您干这繁重的工作！</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;金属锭采集速度：
+  内部存储：
+  能量使用：
+ &quot;</Left>
+					<Right>&quot;高达 3,300条/分钟!
+ 100 条金属锭!
+ 仅仅 5 /条 !
+ &quot;</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

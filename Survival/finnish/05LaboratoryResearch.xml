@@ -1,0 +1,79 @@
+﻿<Chapter>
+	<Handle>laboratory research</Handle>
+	<Title>Laboratoriotutkimus</Title>
+	<Icon>Laboratory Component</Icon>
+	<ResearchRequirements>
+		<Research>Advanced Research</Research>
+	</ResearchRequirements>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Laboratoriotutkimus</Text>
+				</Title>
+				<Icon>
+					<Name>Laboratory Component</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Tämä opas on tutkimusprojekteille jotka vaativat laboratorion käyttöä. Lisätietoa tutkimuksesta yleensä tutkimusaseman opassivulla.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Page>0</Page>
+						<Material>Research Station</Material>
+					</Target>
+					<Text>Research Station</Text>
+				</Link>
+				
+				<Header>
+					<Text>Laboratorion rakentaminen</Text>
+				</Header>
+				<Paragraph>
+					<Text>Tutkimuslaboratorio täytyy ensin avata tekemällä asianmukaiset projektit tutkimusasemalla. Sitten tarvitaan 27 laboratorio-osan valmistus valmistusasemalla ja niiden asettaminen 3 kertaa 3 kertaa 3 asetelmaan.
+					</Text>
+				</Paragraph>
+				<Header>
+					<Text>Laboratorion virroittaminen</Text>
+				</Header>
+				<Paragraph>
+					<Text>Laboratorio on suunniteltu käyttämään niin paljon virtaa kuin sille voidaan antaa. Lisävirta tarkoittaa nopeampaa tutkimusta! Vähintään usean polttovoimalan käyttämistä suositellaan mutta ei ole tarpeellista yrittää laboratorion täyttä virroittamista.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+			<Header>
+					<Text>Aloitusprojektit</Text>
+				</Header>
+				<Paragraph>
+					<Text>&quot;Avaa laboratorion ohjainpaneeli vuorovaikuttamalla koneen kanssa (oletus \&apos;E\&apos;) ja varmista että olet \&apos;kokeilu\&apos; moodissa. Valittu projekti esitetään ensin ja kaikki sen tarvikkeet sitten ja muut aloitettavissa olevat projektit sen alla. Valitaksesi uuden projektin napsauta sitä ja sen tarvikkeet näytetään. Napsauta \&apos;Aloita projekti\&apos; aloittaaksesi tutkimuksen.
+ &quot;</Text>
+
+				</Paragraph>
+				<Header>
+					<Text>Projektitarvikkeiden syöttäminen</Text>
+				</Header>
+				<Icon>
+					<Name>ResearchPod_Basic</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Projektit tyypillisesti tarvitsevat yhtä tai useampaa koekapseli tyyppiä. Tarkat vaatimukset esitetään projektissa. Nämä tulisi asettaa laboratorion sivuun kiinnitettyyn varastohypyttimeen. Jos haluat automatisoida kapselien kuljettamisen harkitse erillisen hypyttimen käyttämistä jokaiselle tyypille varmistaaksesi kaikkien kapselityyppien saatavuuden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Lisätietoa koekapselien tekemisestä seuraavassa oppassa.</Text>
+				</Paragraph>
+				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Experimental Pods</Text>
+				</Link>
+			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,27 @@
+﻿<Chapter>
+	<Handle>Base Defence</Handle>
+	<Title>Bas Försvar</Title>
+	<Icon>&gt;ARTHER Turret</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Bas Försvar</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Att följa med din forskning kring de lokala livsformerna är tydligt att försvarssystemen måste ha en hög prioritet.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Vi skall skapa FRED på denna planet!</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

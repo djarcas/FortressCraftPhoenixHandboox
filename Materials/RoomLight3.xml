@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>RoomLight_3</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>RoomLight #3</Text>
+				</Title>
+				<Icon>
+					<Name>RoomLight #3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A long light that makes a 90 degree turn. Fits well in spots where it touches 2 blocks. Paintable and rotatable.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

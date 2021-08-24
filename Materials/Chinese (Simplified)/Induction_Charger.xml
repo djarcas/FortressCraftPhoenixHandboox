@@ -1,0 +1,38 @@
+﻿<MaterialEntry>
+	<Key>InductionCharger</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>感应Power Boosters</Text>
+				</Title>
+				<Icon>
+					<Name>Induction Charger</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;感应Power Boosters是一款小型5x5机器，具有非常高的吞吐量，但最少的存储空间。 这是一个优秀的为一个地区供电的选项，不用多余的激光器或电池，而且应该避免了地下埋电力线或者能量块的麻烦。
+
+  用法非常简单： 5x1x5，从任何方向供电，并将机器放置在顶部或侧面。 请注意，与所有供电机器一样，面向激光器并接触Power Boosters将导致反馈回路，应注意避免。
+
+  该机器放置在研究实验室或其他大型耗电量较大的机器之下，非常适合精简而高速的电力运输。
+ &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;内部存储：
+  电源输入速率：
+  功率输出速率： 
+ &quot;</Left>
+					<Right>&quot;1500
+ 7500/面/秒
+ 1250/台/秒
+ &quot;</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Key>MassStorageOutputPortMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Icon>
+					<Name>Mass Storage Output Port</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Paragraph><Text></Text>
+</Paragraph>
+				<Paragraph><Text></Text>
+</Paragraph>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Paragraph><Text></Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

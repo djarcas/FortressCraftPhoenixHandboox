@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>FreezonInjector</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Freezoneinspritzanlage</Text>
+				</Title>
+				<Icon>
+					<Name>Freezon Injector</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Freezon Injektoren nutzen Freezonkanister um Kompatiblemaschienen massizu verbessern.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Effekte</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;Geothermalgeneratoren
+Energielanzen
+Harzschleife
+Harzverflüssiger
+ &quot;</Left>
+					<Right>10x Energieerzeugung
+28x Räumgeschwindigkeit
+54x Arbeitsrate
+54x Arbeitsrate</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

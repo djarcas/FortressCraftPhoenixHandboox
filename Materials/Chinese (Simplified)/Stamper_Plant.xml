@@ -1,0 +1,29 @@
+﻿<MaterialEntry>
+	<Key>StamperPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>冲压机</Text>
+				</Title>
+				<Icon>
+					<Name>Stamper Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>冲压机是一种用于将金属锭冲压成板的机器。</Text>
+				</Paragraph>
+				<Header>
+					<Text>用法</Text>
+				</Header>
+				<Paragraph>
+					<Text>从另一传送带（设备）进料，将金属锭送入冲压机。冲压机会将金属锭转换为可用于其他工序的金属板。</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>冲压机对于实验室研究的自动化至关重要。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

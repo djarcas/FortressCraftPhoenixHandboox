@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>advanced research</Handle>
+	<Title>Avancerad Forskning</Title>
+	<Icon>Laboratory Component</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Avancerad Forskning</Text>
+				</Title>
+				<Icon>
+					<Name>Laboratory Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Våra forskningsframsteg begränsas av spärrningarna på forskningsstationen. Vi behöver konstruera ett nytt laboratorium för att fortsätta med mer avancerade projekt!</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

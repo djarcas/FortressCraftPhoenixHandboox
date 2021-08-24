@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>IronHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Железный Корпус</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Простой железный корпус, созданный из железных пластин.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

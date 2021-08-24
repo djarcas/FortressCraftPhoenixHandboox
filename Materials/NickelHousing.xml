@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>NickelHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Nickel Housing</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A simple nickel housing created from nickel plates.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

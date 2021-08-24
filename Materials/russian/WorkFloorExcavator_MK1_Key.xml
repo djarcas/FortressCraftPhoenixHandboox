@@ -1,0 +1,34 @@
+<MaterialEntry>
+	<Key>WorkFloorExcavator_MK1_Key</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Площадочный Экскаватор МК1</Text>
+				</Title>
+				<Icon>
+					<Name>&gt;Workfloor Excavator MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Создание ровной площадки - утомительное дело, если копать вручную. Эта машина расчищает площадку высотой 3 метра в радиусе 32 м. Она не выкапывает рудные жилы, а это означает, что можно пользоваться ею рядом с Экстрактором Руды, расчистить к нему подход. Просторное рабочее пространство - верный путь к организованной базе!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Alignment>Center</Alignment>
+					<Left>&#34;Радиус:
+ Энергии за блок:
+ Разрушает Руду:
+ &#34;</Left>
+					<Right>&#34;32 м
+ 64
+ Нет
+ &#34;</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

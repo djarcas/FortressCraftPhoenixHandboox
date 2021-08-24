@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 2</Handle>
+	<Title>Melhoria de Mineração Básica II</Title>
+	<Icon>Enhanced Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Melhoria de Mineração Básica II</Text>
+				</Title>
+				<Icon>
+					<Name>Enhanced Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Seguindo nossas pesquisas anteriores de melhorias na mineração, devemos melhorar os motores das brocas e melhorar a indução forçada.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

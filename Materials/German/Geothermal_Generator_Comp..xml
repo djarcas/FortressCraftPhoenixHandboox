@@ -1,0 +1,29 @@
+﻿<MaterialEntry>
+	<Key>GeothermalGeneratorPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Geothermal Generatorkomponente</Text>
+				</Title>
+				<Icon>
+					<Name>Geothermal Generator Comp_</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Die Geothermal-Generatorkomponenten werden für einen besseres Energiegenerations-System benötigt, welches bis zu 10 mal mehr Energie produzieren kann als eine Generatorturbine. Der Geothermalgenerator muss in den Frosthölen errichtet werden und mit wärmeleitenden Rohrenversorgt werden um zu funktionieren.
+Energie wird durch den Temperaturunterschieden zwischen dem Rohrsystem und der Frosthöle generiert. Um so tiefer die Rohre unterhalb der Frosthöle gehen, desto mehr Energie wird produziert. Wenn die Rohrleitung einmal die Magmahölen erreicht hat, nehmen die Rohre so viel Wärme vom umliegenden Magma auf, sodass die Energieproduktion in die Höhe schießt.
+Da der Generator mit Temperaturunterschieden funktioniert, sollte eine Versorgung mit Freezon die Effizienz signifikant erhöhen. &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Heat Conducting Pipe</Material>
+					</Target>
+					<Text>Heat Conducting Pipe</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

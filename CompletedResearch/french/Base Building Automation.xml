@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>T1 assist machines</Handle>
+	<Title>Base Automatisation Construction</Title>
+	<Icon>Base Building Automation</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Base Automatisation Construction</Text>
+				</Title>
+				<Icon>
+					<Name>Base Building Automation</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Nous avons maintenant une grande variété de nouvelles machines disponibles pour automatiser notre base. Utilisez le Macérateur pour broyer des roches inutiles en échange du minerai utile occasionnel. L\&apos;Excavateur Automatique  peut creuser des puits montants, tandis que le Constructeur Automatique peut construire de longs convoyeurs pour nous.&quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Utilisez les ascenseurs pour voyager en toute sécurité entre votre base de surface et les mines plus profondes. Utilisez les explosifs pour éliminer de vastes zones ou détruire des cibles hostiles.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

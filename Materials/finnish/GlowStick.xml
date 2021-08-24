@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>GlowStick</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Valotikku</Text>
+				</Title>
+				<Icon>
+					<Name>Glow Stick</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Valotikut tuotetaan automaattisesti puvussasi 5 energian hintaan. Paina G heittääksesi valotikun!</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

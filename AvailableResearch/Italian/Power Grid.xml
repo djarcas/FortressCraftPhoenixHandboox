@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T1 Power</Handle>
+	<Title>Rete Elettrica</Title>
+	<Icon>Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rete Elettrica</Text>
+				</Title>
+				<Icon>
+					<Name>Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Non possiamo sopravvivere a lungo solo con l\&apos;elettricità prodotta dal nostro Hub elettrico centrale. Mentre la nostra base si espande abbiamo la necessità di trovare nuovi modi per generare elettricità e trasferirla alle operazioni minerarie distanti così da non aver bisogno di andare avanti e indietro per alimentarle manualmente.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

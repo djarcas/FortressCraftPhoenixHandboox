@@ -1,0 +1,44 @@
+﻿<MaterialEntry>
+	<Key>JetTurbineGeneratorIntakePlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>喷气涡轮发电机进气口</Text>
+				</Title>
+				<Icon>
+					<Name>Drain Grate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>喷射涡轮发电机是从化石燃料产生动力的一个更先进的方法。 它需要在精炼反应釜中由生物质（Biomass）生产的高能复合燃料。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>建造</Text>
+</Header>
+				<Paragraph>
+					<Text>喷气涡轮发电机外壳尺寸为4×3的底，3m高,共36块。 然后在两个面上分别构造一个3m x 3m的进气口。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>峰值功率（丰富）：
+  峰值功率（稀缺）：
+  电能容量：
+  最大功率传输速率：
+  燃烧时间：
+  燃料：</Left>
+					<Right>450 /s (HECF)
+ 182 /s (HECF)
+ 3000
+ 320 /s
+ 480 s
+ 高能复合燃料（High Energy Composite Fuel）</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

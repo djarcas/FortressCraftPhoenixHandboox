@@ -1,0 +1,36 @@
+﻿<MaterialEntry>
+	<Key>BatteryMK4Placement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Energiespeicher MK4</Text>
+				</Title>
+				<Icon>
+					<Name>PowerStorageBlockT4</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Energiespeicher MK4 kann eine Reserve von bis zu 270000 Energie speichern. Es wird Energie von mehreren angeschlossenen Generatoren aufnehmen und an angeschlossene Maschinen oder Laserenergietransmitter liefern. Mehrere Energiespeicher teilen sich Energie untereinander. Dies ist jedoch für eine Übertragung von Energie über mehr als ein paar Blöcke nicht effizient. Stattdessen sollten Laserenergietransmitter für diesen Zweck verwendet werden.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Dieser Energiespeicher hat die doppelte Dichte vom Energiespeicher MK3 und es wird dringend empfohlen, dass Sie so schnell wie möglich upgraden. Sie sind in einem 3x3x3 Würfel gebaut, insgesamt 27 Blöcke.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Energie kann aus dem Energiespeicher durch Drücken der Taste \&quot;Extrahieren\&quot; (Standard \&quot;Q\&quot;) entnommen und mit der Interact-Taste (Standard \&quot;E\&quot;) eingefügt werden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Leistungskapazität:
+ Maximale Leistungsübertragungsrate:</Left>
+					<Right>270000
+ 10.000 pro Maschine</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

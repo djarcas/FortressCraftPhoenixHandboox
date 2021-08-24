@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>LightweightMachineHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lightweight Machine Housing</Text>
+				</Title>
+				<Icon>
+					<Name>Lightweight Machine Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A small metal box, used in lightweight objects and crafted from Tin plates.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

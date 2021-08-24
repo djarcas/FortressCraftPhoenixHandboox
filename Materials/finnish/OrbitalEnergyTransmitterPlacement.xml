@@ -1,0 +1,37 @@
+<MaterialEntry>
+	<Key>OrbitalEnergyTransmitterPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kiertorataenergialähetinosa</Text>
+				</Title>
+				<Icon>
+					<Name>Orbital Energy Transmitter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Työmme huipentuma tällä planeetalla. Kiertorataenergialähetin (KEL) pystyy lähettämään tarpeeksi energiaa avaruusaseman uudelleenrakennukseen. Meidän täytyy suojella tukikohtaa kun lataamme KELiä sillä pahoin vahingoittunut päävirtakeskus purkaa KELn nopeasti.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Rakentaminen</Text>
+</Header>
+				<Spacer/>
+				<Paragraph>
+					<Text>Kiertorataenergialähetin on valtava 1053 osan rakennus. Se täytyy rakentaa 13 metriä korkeaksi 9 metriä kertaa 9 metriä kannalla avoimelle taivaalle.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Vaadittu virta yhteensä:
+					Maksimivirransiirtonopeus:</Left>
+					<Right>100,000,000
+					100,000 sekunnissa</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

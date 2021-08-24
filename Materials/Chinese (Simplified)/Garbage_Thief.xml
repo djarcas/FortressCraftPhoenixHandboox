@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>GarbageThief</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>赛博坦垃圾小偷（tm）</Text>
+				</Title>
+				<Icon>
+					<Name>Garbage Thief</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>赛博坦垃圾小偷用以清除库存中的垃圾而不是矿石。 这种机器与多种施工浆料研磨机（Construction Paste Grinders ）共同使用时，可以快速清除和处理垃圾释放库存。 为了获得最佳性能，可将部分常经过的走廊地面用本机和相应的处理设备替换。
+
+  简单地构建我们全新的垃圾小偷（tm） 3x3布局，每个块只要5单位电源，然后站上去，脏活累活让它干就好！</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;垃圾收集速度：
+  内部存储器：
+  电源使用：
+ &quot;</Left>
+					<Right>&quot;高达3,300 /分钟！
+  100单位的垃圾！
+  每个垃圾只需要5单位能源！
+ &quot;</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

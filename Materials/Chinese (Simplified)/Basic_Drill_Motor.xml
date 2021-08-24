@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>BasicDrillMotor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>基础钻头电机</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>以增加使用功率为代价提高矿物分离器每分钟开采矿石的速率。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品参数</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>开采速率：</Left>
+					<Right>200%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

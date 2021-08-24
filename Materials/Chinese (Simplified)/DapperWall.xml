@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>DapperWall</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>&quot;Dapper  Wall&quot;</Text>
+				</Title>
+				<Icon>
+					<Name>DapperWall</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>来自DAPPER Indie Support Pack的美化方块。 感谢支持FortressCraft！</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

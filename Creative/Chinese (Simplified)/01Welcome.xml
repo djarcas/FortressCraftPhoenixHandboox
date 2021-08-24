@@ -1,0 +1,324 @@
+﻿<Chapter>
+	<Handle>welcome</Handle>
+	<Title>新手指引</Title>
+	<Icon>Grass</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<HelpImage>
+					<Name>FCevolvelogo-01</Name>
+				</HelpImage>
+				<Title>
+					<Text>欢迎游玩Fortress Evolved</Text>
+				</Title>
+				<Header>
+					<Text>创造模式</Text>
+				</Header>
+				<Paragraph>
+					<Text>欢迎游玩创造模式！在接下来的几页将介绍按键操作和工具介绍。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Chapter>findingSurvival</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Looking for Survival Mode?</Text>
+				</Link>
+				<Spacer/>
+				<Header>
+					<Text>按键操作</Text>
+				</Header>
+				<TwoColumnParagraph>
+<Left>W,A,S,D: 移动
+Space: 跳跃
+Space x 2: 激活喷气背包模式
+ Q: 飞跃
+ Shift: 冲刺
+ 着陆以关闭
+Esc: 暂停选项
+H: 帮助界面</Left>
+<Right>Z: 缩放
+X: 建筑枪
+C: 天气权杖
+N: 绘画枪
+F10: 进入超级建筑模式
+F11: 进入复制粘贴模式
+=: 方块选择界面
+F1-F7: 选择热键页面
+1-10: 选择热键槽位</Right>
+				</TwoColumnParagraph>
+				<Paragraph>
+					<Text>鼠标左键: 建造/工具主要功能
+鼠标右键: 摧毁/工具次要功能
+鼠标中键: 取样选中的高光方块
+鼠标滚轮: 下一个/上一个方块或工具功能
+CTRL + 鼠标左键: 连续建造至玩家所在位置
+CTRL + 鼠标右键: 超级挖掘</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>创造模式建筑工具</Text>
+				</Title>
+				<Paragraph>
+					<Text>在FortressCraft Evolved中，你有一些强有力的工具用于创造模式的建筑。接下来，我们简单的描述每一种工具，而且在未来会包括一些关于每种工具用法的链接。</Text>
+				</Paragraph>
+				<Header>
+					<Text>建筑枪</Text>
+				</Header>
+				<Icon>
+					<Name>Build Gun V2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>当切换至使用建筑枪时（按下X键），使用鼠标左键建造被选定的方块，而右键则是清楚掉。你有很长的建造距离，最多可以在64格以外的位置建造。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>超级挖掘</Text>
+				</Header>
+				<Paragraph>
+					<Text>按住CTRL建启动超级挖掘模式。这可以显著提升你的挖掘速度，用于快速清理一些空间。但是请小心，这会非常容易的意外挖掉你自己的劳动成果。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>建造至我</Text>
+				</Header>
+				<Paragraph>
+					<Text>按住CTRL键切换到连续建造至我的模式。你可以瞬间建造从被选中的方块到你自己的这段直线位置。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>工作坊</Text>
+				</Header>
+				<Paragraph>
+					<Text>在这个游戏中，工作坊是一个最强大的创造模式工具去建筑一个有很多细节的创造物。你可以通过建筑一个大方块结构缩小至单个方块，来设计创造你自己的方块。工作坊可以在世界中的任何位置被建造。为了建造一个，你需要先打开方块选择面板（按下=）然后选择工作坊放置方块：</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Workshop Placement</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Quote>
+					<Text>Workshop Placement block</Text>
+				</Quote>
+				<Paragraph>
+					<Text>然后你可以选择一个地方去建造这个工作坊。为了完成这个工作坊，你需要两个工作坊放置方块。你需要放置它们在你需要定义工作坊区域的两个对角上。以下是一些简单的介绍：</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>1、选择一块平整的区域。放置第一块工作坊放置方块。</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>2、从那里开始，在同一个水平高度上走到对角线的另一端。</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>3、在另一个角落放下第二块工作坊放置方块。</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>4、如果两个方块是对角放置的，而且在7格距离内，这个工作坊会被使用强化石头和强化木块建立</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>				
+				<Spacer/>
+				<Paragraph>
+					<Text>工作坊可以在2x2（相邻的对角）到8x8（两个方块间中间有6个空方块）的大小内建立。</Text>
+				</Paragraph>
+				<Header>
+					<Text>在工作坊中创造一个细节的方块设计</Text>
+				</Header>
+				<Paragraph>
+					<Text>一旦你建造了第一个工作坊，进入其中就会开始创造你的第一个方块设计的细节。当你在工作坊里面的时候，会发生两件事情：工作坊的轮廓就会闪闪发亮，工作坊的覆盖面会显示。</Text>
+				</Paragraph>
+				<!--
+				<HelpImage>
+					<Name>Workshop Overlay</Name>
+				</HelpImage>
+				-->
+				<Paragraph>
+					<Text>以下是相关按键用于在工作坊里选择功能：
+Y: 开始新的设计
+U: 使用当前的（还没有执行的）
+I: 显示细节窗口
+O: 显示行为窗口 (通常关闭)
+[: 上一个设计
+]: 下一个设计</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>当你进入到一个新的工作坊时，一个新的设计就自动开始了，所以按下Y键开始新的设计只有在你已经有第一个设计之后。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Spacer/>
+				<Paragraph>
+					<Text>为了设计你的第一个方块，简单的在高亮工作坊区域内建造就可以了。强化木块构成的墙壁会成为你方块的前面，你可以使用任何方块去构建你的设计，但是所有带有模型的方块不会在这个细节方块中显示。被染色的方块会保持染色状态。</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>当你觉得你的设计已经很好了，简单的离开工作坊区域即可保存并创造这个方块。为了选中它，开启你的方块选择屏幕（=键）然后选择你的新设计放到你的热键槽位上。你可以通过筛选器快速找到全部的细节方块设计。你可以现在通过按下Y键在工作坊开始设计一个新的方块，或者建造一个新的工作坊。你可以在一个世界里最多存储16384个细节方块设计！</Text>
+				</Paragraph>
+				<Header>
+					<Text>放置细节方块</Text>
+				</Header>
+				<Paragraph>
+					<Text>要放置一个细节块，像任何其他方块一样构建它。 设计将附加到您选择的面，并旋转以朝向您。 这允许您以任何您想要的方向放置细节块。</Text>
+				</Paragraph>
+		
+<!--				
+				<HelpImage>
+					<Name>Detail Block example</Name>
+				</HelpImage>
+				-->
+				<Paragraph>
+					<Text>如果您在同一区域使用数千个细节块，您将注意到显著的性能下降。 这是因为所有这些细节都必须由您的显卡呈现。 为了减轻这种情况，请使用较低分辨率，普通方块随你便。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>超级建造</Text>
+				</Header>
+		
+				<Paragraph>
+					<Text>按F8键会在你的屏幕右侧打开超级建造面板</Text>
+				</Paragraph>
+				<!--
+				<HelpImage>
+					<Name>Super Build panel</Name>
+				</HelpImage>
+				-->
+				<Paragraph>
+					<Text>这允许您使用您选择的任何块快速构建简单的几何形状。 要使用超级建造，首先选择使用F9选择一个要构建的形状。 使用F10，您可以选择实心还是中空。 使用F11可开关建造模式。 即时 会让您最快获取效果，但是可能会导致一些非常大的孔。 End 在锚点居中或底部中间形状之间切换。</Text>
+				</Paragraph>
+				
+				<Paragraph>
+					<Text>X，Y和Z允许您更改形状的大小。 按住它们将该尺寸增加1.按住shift并按X，Y或Z减1。 您可以按住ALT一次更改大小16。</Text>
+				</Paragraph>
+				
+				<Paragraph>
+					<Text>一旦您选择了形状，大小和位置，请按Ins建立形状，或者Del 挖掘。 然后，您将不得不重新选择一个形状来挖掘或重建。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>复制粘贴</Text>
+				</Header>
+		
+				<Paragraph>
+					<Text>复制粘贴工具允许您快速复制您制作的一部分设计，旋转或翻转它，并将其重新粘贴到任何您想要的位置中。 按F11打开复制粘贴面板。
+复制粘贴面板目前正在开发中，这就是为什么它和其他界面不太一样。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>复制粘贴控制</Text>
+				</Header>
+				<Paragraph>
+					<Text>按Ins 来放置您要复制的矩形部分的第一个角。</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>按Del放置要复制的矩形部分的第二个角。 要复制的区域现在将被突出显示。</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>一旦选择了一个区域，您可以按End抓住它。 此时，复制区域的预览将显示在你选择的块的顶部。</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>抓住一个区域，有三件事情可以改变该区域的粘贴方式：用R旋转，用Shift移动锚点，用CTRL翻转。</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>“R”将顺时针旋转抓取区域90度。</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>按Shift键将允许您使用X，Y和Z键更改锚点。 按SHIFT + X，Y或Z将减少锚定位置</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>按CTRL一次可以使用X，Y和Z键翻转设计。 每个按钮将沿着该轴翻转设计。</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>最后，按Home会将区域粘贴到所选位置。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>存储 复制粘贴 原理图</Text>
+				</Header>
+				<Paragraph>
+					<Text>也可以使用\&apos;&lt;\&apos;键存储原理图以供以后使用，并使用\&apos;？\&apos;加载它们。 您可以将保存的原理图与其他人交换。 但是这个功能还在开发中，所以我们不能保证它能奏效。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header>
+					<Text>油漆枪</Text>
+				</Header>
+		
+				<Paragraph>
+					<Text>您可以按“N”选择油漆枪。 它允许您绘制可涂色的某些材料，以任何您想要的颜色。 选择“油漆枪”后，LMB将绘制目标区块，人为打开颜色选择窗口，如果所选块可以绘制，MMB将从所选块中采样颜色。 喷枪将显示选择的颜色。</Text>
+				</Paragraph>
+				<!--
+				<HelpImage>
+					<Name>Paint Gun window</Name>
+				</HelpImage>
+				-->
+				<Header>
+					<Text>寻找可涂漆材料</Text>
+				</Header>
+		
+				<Paragraph>
+					<Text>只有一些特定的方块可以被喷漆。 要快速找到哪些，打开块选择屏幕（\&apos;=\&apos;）并检查\&apos;可绘制\&apos;过滤器。 所有在这里展示的方块都可以摆放在世界，并上色。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>天气控制</Text>
+				</Header>
+		
+				<Paragraph>
+					<Text>允许您控制天气，时间和周围的流星。 使用\&apos;C\&apos;选择它。 当你进入你的世界时，它显示的统计数据之一就是在FortressCraft Evolved中的流星总数。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>天气控制模式</Text>
+				</Header>
+				<Paragraph>
+					<Text>eSun：使当前的雨或雪停止，并使太阳照耀（或月亮，如果是夜晚）</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>eLightning：造成暴风雨。 鼠标左键激活闪电</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>eSnow：制造降雪</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>eRain: 制造降雨</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>eDayNight：快速向前或向后循环时间</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>eMeteor：传唤流星。 LMB从天空高处召唤一颗流星，到达你附近的某个地方。 RMB召集来自天气工作人员的流星进入选定的区块。 这两个动作都有冷却时间，所以长按可能不会像你想要的那样召唤出许多流星雨。当发射流星时，注意轨道空间站！</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</Chapter>

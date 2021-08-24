@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T5 Power</Handle>
+	<Title>Réseau d\&apos;Énergie Ultime</Title>
+	<Icon>Ultimate Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Réseau d\&apos;Énergie Ultime</Text>
+				</Title>
+				<Icon>
+					<Name>Ultimate Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Suite à notre succès avec le système de stockage d\&apos;énergie MK4, nous devrions pouvoir concevoir un système de stockage d\&apos;énergie ultime.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

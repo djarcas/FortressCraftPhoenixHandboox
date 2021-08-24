@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>EmeraldFocusingLens</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Smaragdikohdistuslinssi</Text>
+				</Title>
+				<Icon>
+					<Name>Emerald Focusing Lens</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Aseta laaserenergialähettimeen parantaaksesi sen energialähetystahtia.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Energialähetystahti:</Left>
+					<Right>130%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

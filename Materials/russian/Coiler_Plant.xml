@@ -1,0 +1,29 @@
+﻿<MaterialEntry>
+	<Key>CoilerPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Намотчик</Text>
+				</Title>
+				<Icon>
+					<Name>Coiler Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Намотчик - обычный конвейер, совмещенный с намоточным оборудованием, создающей Катушки из Проводов.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Использование</Text>
+				</Header>
+				<Paragraph>
+					<Text>Загружайте Провода в Намотчик с Конвейера, конвейерного оборудования или Поворотного Стола. Намотчик изготавливает Катушки из Проводов. Катушки потом используются в производстве других предметов.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Намотчик необходим для автоматизации исследований в Лаборатории.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

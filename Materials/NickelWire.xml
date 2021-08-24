@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>NickelWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Nickel Wire</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Wire</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A simple nickel wire created from nickel bars in an Extrusion Plant.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

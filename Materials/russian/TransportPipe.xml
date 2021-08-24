@@ -1,0 +1,37 @@
+<MaterialEntry>
+	<Key>TransportPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Транспортная Труба</Text>
+				</Title>
+				<Icon>
+					<Name>Transport Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Транспортная Труба - более дорогостоящая по сравнению с конвейерами, но намного быстрее, устойчива к низким температурам и атакам местной фауны. Как и конвейерам, системам Транспортных Труб, не нужен внешний источник энергии.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Обновление инфраструктуры с применением Транспортных Труб – это долгосрочный проект. Сфокусируйтесь на узких местах.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Использование</Text>
+				</Header>
+				<Paragraph>
+					<Text>Транспортные Трубы подчиняются тем же правилам, что и Конвейеры.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Conveyor Belt</Material>
+					</Target>
+					<Text>Conveyor Belt</Text>
+				</Link>
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>aesthetics</Handle>
+	<Title>Estetiikka</Title>
+	<Icon>Hello_Kitty1</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Estetiikka</Text>
+				</Title>
+				<Icon>
+					<Name>Hello_Kitty1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Jos epätodennäköisesti meillä sattuisi olemaan luppoaikaa voisimme koristella tukikohtamme erilaisilla väritetyillä laatikoilla ja kankailla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

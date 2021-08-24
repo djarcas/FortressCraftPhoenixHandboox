@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>LithiumOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Литиевая Руда</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Обнаруживаемая на глубинах ниже 120 метров Литиевая Руда может быть переплавлена в Литиевые Слитки в Плавильне. Литиевые Слитки в основном используются в создании оборудования для передачи энергии.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Литий можно добыть с помощью Экстрактора Руды.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>GoldBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Goldbarren</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Gold Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Goldbarren werden sehr häufig für fortgeschrittene Maschinen benötigt, vorallem für qualitativ hochwertige elektronische Kontakte. Auch findet Gold bei dekorativen Gegenständen oder Schmuckstücken seinen Einsatz.
+Goldbarren werden durch das Schmelzen von Golderz erzeugt, welches ab 250 Meter unter der Oberfläche zu finden ist.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

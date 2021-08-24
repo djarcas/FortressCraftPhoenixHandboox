@@ -1,0 +1,37 @@
+<MaterialEntry>
+	<Key>WorkFloorExcavatorMK3_Key</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Workfloor Excavator MK3</Text>
+				</Title>
+				<Icon>
+					<Name>WorkFloorExcavator MK3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Creating a basic mining face is a lot of tedious, if done by hand. This machine will clear a 3 metre tall tunnel, in a 64m range. This model WILL clear ores, meaning you can use this for areas that need large machines built. Wide-open work spaces are conducive to organised bases! 4x faster than the MK2s!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Range:
+					Power Capacity:
+					Power per block:
+					Destroys Ores:
+					Max. Power Recharge Rate:
+					</Left>
+					<Right>64m
+					512
+					8
+					Yes
+					Unlimited
+					</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

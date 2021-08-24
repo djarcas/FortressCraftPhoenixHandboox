@@ -1,0 +1,49 @@
+<MaterialEntry>
+	<Key>CargoLiftBulk</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Bulk Cargo Lift</Text>
+				</Title>
+				<Icon>
+					<Name>Bulk Cargo Lift</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The largest of the available Cargo Lifts, this Frozen Factory machine is ideal for en-masse delivery of materials such as Chromium and Molybdenum to the Frozen Caverns. This cargo list has enormous capacity and is extremely fast as well!</Text>
+					<Text>If you're in Rapid Game Mode, the Bulk Cargo Lift will Carry double the Cargo</Text>
+				</Paragraph>
+				<Spacer/>
+
+				<Header><Text>Specifications</Text>
+</Header>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>Maximum Range:
+					Maximum Speed:
+					Acceleration:
+					Maximum Capacity:
+					Power Usage (Travelling):
+					</Left>
+					<Right>Unlimited
+					15 metres/sec (30 on Rapid)
+					0.5 metres/sec/sec
+					3000 (6000 on Rapid)
+					850 PPS
+					</Right>
+				</TwoColumnParagraph>
+
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Cargo Lift Controller</Material>
+					</Target>
+					<Text>CargoLift Controller</Text>
+				</Link>
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

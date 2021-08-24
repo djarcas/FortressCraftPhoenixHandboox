@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>SapphireFocusingLens</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>蓝宝石聚焦镜头</Text>
+				</Title>
+				<Icon>
+					<Name>Sapphire Focusing Lens</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>插入激光功率送电器以提高其传输功率。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>能量传输速率：</Left>
+					<Right>190%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>T1 assist machines</Handle>
+	<Title>Автоматизация строительства</Title>
+	<Icon>Base Building Automation</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Автоматизация строительства</Text>
+				</Title>
+				<Icon>
+					<Name>Base Building Automation</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Теперь мы располагаем ассортиментом оборудования для автоматизации нашей базы. Используйте Измельчитель для измельчения бесполезной породы в обмен на случайную полезную руду. Авто-экскаватор может копать шахты вверх. Авто-строитель может строить длинные конвейерные линии.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Используйте лифты, чтобы быстро и безопасно перемещаться между уровнями базы и в глубины пещер. Используйте взрывчатку, чтобы расчистить большую площадь или уничтожить врагов.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

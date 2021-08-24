@@ -1,0 +1,29 @@
+﻿<MaterialEntry>
+	<Key>PipeExtrusionPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rohrextrudier Maschine</Text>
+				</Title>
+				<Icon>
+					<Name>Pipe Extrusion Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die Rohr-Extrusionsanlage ist ein regelmäßiger Förderer mit einer Maschine zum Umwandeln von Metallbarren in Rohre.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Verwendung</Text>
+				</Header>
+				<Paragraph>
+					<Text>Fördern von Barren in die Rohrextrusionsanlage von einem anderen Förderer, einer Förderbandmaschine oder einem Förderdrehtisch. Die Rohrextrusionsanlage wid die Barren in Rohre umwandeln, die in zusätzlichen Rezepten verwendet werden können.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Die Rohrextrusionsanlage ist wesentlich für die Automatisierung der Raketenproduktion.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

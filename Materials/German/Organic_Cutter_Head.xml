@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>OrganicCutterHead</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Organischer Bohrkopf</Text>
+				</Title>
+				<Icon>
+					<Name>Organic Cutter Head</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Reduziert vergeudetes Erz durch Verbesserung der Effizienz unseres Erzgewinnungsprozesses. Ermöglicht auch den Abbau von härteren Materialien. Bohrköpfe verschleißen im Laufe der Zeit.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Der organische Bohrkopf wird aus dem Stinger einer lokalen Lebensform hergestellt, er ist wesentlich effizienter als der Stahl-Bohrkopf, verschleißt jedoch schneller.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Effizienz:
+ Maximale Härte:
+ Haltbarkeit:</Left>
+					<Right>50%
+ 250
+ 1500</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

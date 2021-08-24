@@ -1,0 +1,44 @@
+﻿<MaterialEntry>
+	<Key>FALCOR</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>HAUKKAAJAt</Text>
+				</Title>
+		
+						
+				<Icon>
+					<Name>FALCOR MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+				<Paragraph>
+					<Text>&quot;Haun Automatisointi Usealla Kone Kiitäjän Avulla Aavalta Jorpakkoiselta Alueelta (tai lyhyesti HAUKKAAJA) on kahdenlaisia.
+
+ Mallin 1 HAUKKAJAt etsivät 128 metrin alueelta sondia jolla on kerättyjä esineitä. Jos sellainen löytyy HAUKKAAJA lentää sen luokse, hakee esineen ja palaa sen kanssa. Haetut esineet asetetaan sitten liitettyyn varastohypyttimeen.
+
+ Logistiset HAUKKAJAt toimivat samoin mutta palvelevat vain sondeja jotka on asetettu varastohypyttimen päälle.
+
+ Tulossa pian! Kehittyneet HAUKKAJAt jotka mahdollistavat haluttujen esineiden suodatuksen! HAUKKAJA-tukikohdat eivät tarvitse virtaa mutta sondit kuitenkin tarvitsevat.
+ &quot;</Text>
+				</Paragraph>
+				<Icon>
+					<Name>FALCOR Beacon</Name>
+					<Target><Material>FALCOR Beacon</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>FALCOR Beacon</Material>
+					</Target>
+					<Text>FALCOR Beacon</Text>
+				</Link>
+	
+				 
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

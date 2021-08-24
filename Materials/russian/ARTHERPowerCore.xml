@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ARTHERPowerCore</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Силовое ядро АРЧЕРа</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Power Core</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Устраняет повреждения у АРЧЕРа, восстанавливая его подвижность. Вам нужен только один элемент, и он должен храниться в вашем инвентаре.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

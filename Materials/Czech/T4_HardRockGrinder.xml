@@ -1,0 +1,49 @@
+﻿<MaterialEntry>
+	<Key>T4_Grinder_Placement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Icon>
+					<Name>T4_Grinder</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+	
+				<Spacer/>
+			
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>NanoDisintegrator</Material>
+					</Target>
+					<Text>NanoDisintegrator</Text>
+				</Link>
+
+				<Icon>
+					<Name>Trencher Drill component</Name>
+					<Target><Material>TrencherDrillPlacement</Material>
+</Target>
+				</Icon>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

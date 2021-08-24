@@ -1,0 +1,37 @@
+﻿<MaterialEntry>
+	<Key>MatterMover</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>物质传送机</Text>
+				</Title>
+				<Icon>
+					<Name>Matter Mover</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>物质传送机是一种高能高效的围绕您的采矿作业移动资源的方式。 使用简单，与任何其他机器一样供电，并将它们放置在源存储料斗附近，并面向目的储存料斗。 能耗不取决于距离。 需要到目的地料斗的线性视野。</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>最大运输速率：
+  能耗要求：
+  最大传输功率：
+  能源容量：
+  最大范围：</Left>
+					<Right>300 件/分
+ 64 /件
+ 256 /s /面
+ 512
+ 64m</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

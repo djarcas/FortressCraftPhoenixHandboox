@@ -1,0 +1,32 @@
+﻿<MaterialEntry>
+	<Key>ARTHERChargingStation</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER 充电站</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Charging Station</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>从你基地的能量网络为ARTHER 急速充能。与ARTHER 电池升级配合食用效果更佳。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>ARTHER 充电速率：
+ 充电站电能容量：
+ 充电站充能速率：</Left>
+					<Right>25/s
+1500
+10/s</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

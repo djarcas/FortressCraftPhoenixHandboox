@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>NickelWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Nickeldraht</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Wire</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein einfacher Nickeldraht, der aus Nickelbarren in einer Extrusionsanlage hergestellt wurde.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

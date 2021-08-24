@@ -1,0 +1,42 @@
+﻿<MaterialEntry>
+	<Key>SolarPanelMK2Placement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>MK2 太阳能板组件</Text>
+				</Title>
+				<Icon>
+					<Name>MK2 Solar Panel Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>MK2 太阳能板组件是3m宽，3m长，1m高的发电设备。 按照这个布局放置9个太阳能电池板组件来构造机器。 它必须直接接受阳光的照射。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>该发电机只能放置在研究实验室，精炼厂，货梯，MK4＆MK5电力存储系统等先进机器之上。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>峰值功率（丰富）：
+  峰值功率（稀缺）：
+  能量容量：
+  最大传输功率：
+  燃烧时间：
+  燃料：</Left>
+					<Right>405 /s
+ 162 /s
+ 1500
+ 无限制
+ n/a（不适用）
+ 阳光</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

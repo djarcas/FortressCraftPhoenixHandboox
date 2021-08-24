@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ItemInjector</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>H.E.I.S.T.</Text>
+				</Title>
+				<Icon>
+					<Name>H.E.I.S.T.</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Hopper Emptying Inventory Storage Transporter - Automatically transmits items into the player's inventory. H.E.I.S.T. for short.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

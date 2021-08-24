@@ -1,0 +1,25 @@
+﻿<MaterialEntry>
+	<Key>TinBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Zinnbarren</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Tin Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Zinnbarren werden im Allgemeinen in Basismaschinen verwendet, die eine Leichtbauweise erfordern. Sie sind aus Zinnerz, die in der Nähe der Oberfläche gefunden werden können.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,22 @@
+﻿<Chapter>
+	<Handle>T4_Particles</Handle>
+	<Title>微粒过滤</Title>
+	<Icon>Particulate Filtration</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>微粒过滤</Text>
+				</Title>
+				<Icon>
+					<Name>Particulate Filtration</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					<Text>通过研究防护服微粒过滤系统，我们现在可以将空气中的不同元素过滤掉。 在各种洞穴中建立这些系统应该允许我们提取，浓缩和储存空气中发现的不同元素。 由于这些洞穴的平均尺寸和空气中颗粒的密度，这一过程不应该有任何明显的长期影响。 这些系统可能会降低本地动植物的敌意，影响应是微不足道的，因为没有已知的主要敌对动植物群。 寒冷的洞穴将把我们诱入冻成冰人，充满氯气的有毒洞穴（the Toxic Caverns Chlorine），硫磺横行的岩浆洞穴（the Magma Caverns）等危险境地。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

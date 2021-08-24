@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T2 assist machines</Handle>
+	<Title>Продвинутая логистика</Title>
+	<Icon>mk1 robot arm</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Продвинутая логистика</Text>
+				</Title>
+				<Icon>
+					<Name>mk1 robot arm</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Теперь можно построить склад и механизм сортировки руды на конвейерах.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,82 @@
+﻿<Chapter>
+	<Handle>experimental pods</Handle>
+	<Title></Title>
+	<Icon>ResearchPod_Basic</Icon>
+	<ResearchRequirements>
+		<Research>Advanced Research</Research>
+	</ResearchRequirements>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Basic</Name>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+						
+				<Header>
+					<Text></Text>
+				</Header>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Icon>
+					<Name>Stamper Plant</Name>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Icon>
+					<Name>PCB Assembling Plant</Name>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Icon>
+					<Name>Research Assembler</Name>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

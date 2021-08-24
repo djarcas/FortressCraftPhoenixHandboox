@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>IronWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Железный Провод</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Wire</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Простой железный провод, изготовляемый из железных слитков в Экструдере.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

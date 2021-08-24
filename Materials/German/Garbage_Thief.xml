@@ -1,0 +1,36 @@
+﻿<MaterialEntry>
+	<Key>GarbageThief</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Cyberdyne Abfalldieb (tm)</Text>
+				</Title>
+				<Icon>
+					<Name>Garbage Thief</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Der Cyberdyne Müll-Dieb (oder Müll-Dieb, wie manche ihn nennen) ist einfach ein Erz-Dieb der neu Programmiert wurde, um Müll im Inventar anstelle von Erz zu entfernen. Diese Maschine, wenn sie in Verbindung mit mehreren Bau-Pasten-Schleifmaschinen verwendet wird, kann schnell Müll entfernen, verarbeiten und in Bau-Paste freigeben. Für eine optimale Leistung ersetzen Sie den Boden eines frequentierten Flurs mit dieser Maschine und einem passenden Ausgabe-Handling-System.
+
+
+Erstellen Sie einfach unseren brandneuen Müll-Dieb (tm) in einem 3x3 Layout und beliefern Sie ihn mit nur 5 Energie pro Block. Stehen Sie einfach darauf und lassen Sie  die harte Arbeit für Sie machen!&quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;Abfallsammelgeschwindigkeit:
+Internes Lager:
+Energieverbrauch:
+ &quot;</Left>
+					<Right>&quot;Bis zu 3.300/minute!
+100 Einheiten Müll!
+Nur 5 Energie pro Müll!
+ &quot;</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

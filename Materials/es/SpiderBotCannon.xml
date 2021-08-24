@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Key>SpiderBotCannon</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot Defences 2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SpiderBot Base Component</Material>
+					</Target>
+					<Text>More information regarding SpiderBot!</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

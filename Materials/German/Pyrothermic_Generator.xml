@@ -1,0 +1,42 @@
+﻿<MaterialEntry>
+	<Key>PyrothermicGenerator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pyrothermischer Generator</Text>
+				</Title>
+				<Icon>
+					<Name>Pyrothermic Generator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Pyrothermische Generator ist die früheste Methode, um Energie zu erzeugen, sobald Sie die Fähigkeiten des Zentralen Energie Verteilers nicht mehr ausreichen. Es wird nach einem angehängten Energieerzeuger gesucht, der brennbares Material enthält und es verbrennt, um Energie zu erzeugen. Das Gerät selbst kann bis zu 1000 Strom speichern, die es an jedes angeschlossene Gerät oder den Energiespeicher verteilt.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>&quot;Pyrothermische Generatoren erfordern eine große Menge an Sauerstoff für den Betrieb, die fehlende Belüftung im Untergrund wird schnell die Effizienz des Generators mit der Tiefe verringern. Sie sollten in Erwägung ziehen, Laser-Power-Transmitter zu verwenden, um Energie von der Oberfläche auf Ihre tieferen Bergbauvorgänge zu übertragen. &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Macht (reichlich):
+ Macht (knapp):
+ Leistungskapazität:
+ Maximale Leistungsübertragungsrate:
+ Brenndauer:
+ Treibstoff:</Left>
+					<Right>9,7 pro Sekunde (Kohle)
+ 3,9 pro Sekunde (Kohle)
+ 1000
+ 32 pro Sekunde
+ 180 Sekunden
+ Holz, Kohle.</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

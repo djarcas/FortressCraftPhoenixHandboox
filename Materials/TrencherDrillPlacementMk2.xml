@@ -1,0 +1,34 @@
+<MaterialEntry>
+	<Key>TrencherDrillPlacementMk2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Trencher Drill Mk2</Text>
+				</Title>
+				<Icon>
+					<Name>Trencher Drill Mk2 component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>These massive multi-block drilling machines can be used to harvest all known materials in a very rapid fashion. To build one, you&#39;ll need to build the drillhead in a 3x3x3 layout, then the motor in a 3x3x3 fashion, touching it. The Trencher&#39;s facing is dictated by this; the motor always goes at the back. You can use this to make Trencher face any angle, including straight up!</Text>
+				</Paragraph>
+	
+				<Spacer/>
+			
+				<Paragraph>
+					<Text>Be aware that these new drills are very power-hungry, and can drop off hundreds of ore per minute. You&#39;ll need to think big when it comes to moving this stuff up to the Cold Caverns for smelting - Cargo Lifts and Minecarts are the order of the day!</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				
+				<Paragraph>
+					<Text>The currently fitted drills are able to harvest ores with far greater efficiency than its predecessor, some even without loss. Some hard and brittle ores still suffer under decreased efficiency. This drill still needs some improvement if veins are to be drilled into without loss of materials.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

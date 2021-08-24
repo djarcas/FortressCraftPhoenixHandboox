@@ -1,0 +1,49 @@
+<MaterialEntry>
+	<Key>MolybdenumOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Molybdenum Ore</Text>
+				</Title>
+				<Icon>
+					<Name>Molybdenum Ore</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Molybdenum Ore is found below the Toxic Caverns. As you go deeper the richness of the veins will increase. It can be mined with a Build Gun MK3, the Hard Rock Grinder and Trencher Extractors.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>The first stages of ore smelting can be done with standard Ore Smelters. Molybdenum Ore requires the "Arc Smelter" upgrade to be processed by Ore Smelters as it requires higher melting temperatures than normal.
+					Later, when throughput is valued over efficiency, a Blast Furnace setup is strongly recommended</Text>
+				</Paragraph>
+				</Paragraphs>
+		</Page>
+		<Page>
+		<Paragraphs>
+		
+				<Header><Text>Short Facts</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Occurrence:
+					Ping Color:
+					1st Stage of Extraction:
+					2nd Stage of Extraction:
+					3rd Stage of Extraction:
+					1st Stage of Smelting:
+					
+					2nd Stage of Smelting:</Left>
+					<Right>-750 to -1900m
+					Bright Yellow
+					Build Gun MK3
+					Hard rock grinder
+					Trencher Extractor MK1-MK3
+					
+					Ore Smelter with "Arc Smelter" upgrade
+					Blast Furnace setup</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,22 @@
+﻿<Chapter>
+	<Handle>black box</Handle>
+	<Title>Black Box-gegevens</Title>
+	<Icon>&gt;Black Box Data</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Black Box-gegevens</Text>
+				</Title>
+				<Icon>
+					<Name>Black Box Data</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Uw pak bevat een \&apos;black box\&apos; die alle sensorlezingen opgeslagen heeft die geleid hebben tot uw crash op de planeet. Door deze gegevens te onderzoeken kan het je helpen om te bepalen wat er precies gebeurd is.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

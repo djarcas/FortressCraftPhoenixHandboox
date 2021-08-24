@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>BaubleBerry</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>杂球莓（BaubleBerry）</Text>
+				</Title>
+				<Icon>
+					<Name>BaubleBerry</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>在这个星球的表面和洞穴内发现的一种不知名的植物。</Text>
+				</Paragraph>
+		
+				<Spacer/>
+				<Paragraph>
+					<Text>这种植物可以当柴烧。</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

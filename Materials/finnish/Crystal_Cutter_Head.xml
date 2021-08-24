@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>CrystalCutterHead</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kristalliporaterä</Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Cutter Head</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Vähentää malmin hukkaa parantamalla malmilouhijan tehokkuutta. Mahdollistaa myös kovempien materiaalien louhimisen. Poraterät kuluvat ajan myötä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Kristalliporaterä on tehokkaampi kuin teräsporaterä mutta kuluu nopeammin.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Tehokkuus:
+ Maksimikovuus:
+ Kestävyys:</Left>
+					<Right>30%
+					250
+					5000</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

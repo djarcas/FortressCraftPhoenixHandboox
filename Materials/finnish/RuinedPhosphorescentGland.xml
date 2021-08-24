@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>RuinedPhosphorescentGland</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pilattu forforenssirauhanen</Text>
+				</Title>
+				<Icon>
+					<Name>WaspGlandRuined</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nämä paikallisten lentävien eliöiden rauhaset näyttävät soveltuvan virran varastointiin. Tämä on liian vaurioitunut käyttöön.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

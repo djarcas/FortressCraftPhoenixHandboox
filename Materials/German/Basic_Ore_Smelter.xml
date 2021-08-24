@@ -1,0 +1,37 @@
+﻿<MaterialEntry>
+	<Key>BasicOreSmelter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Einfacher Schmelzofen</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Schmelzofen verarbeitet Roherze zu Metallbarren, die in der weiteren Produktion verwendet werden können. Der einfache Schmelzofen hat nur die halbe Geschwindigkeit und Effizienz des normalen Schmelzofens und und kann nicht mittels Induktionseinheit aufgewertet werden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Anfänglich werden wir unsere Schmelzöfen per Hand befüllen müssen, bis wir eine Möglichkeit zur Automatisierung haben. Drücke \&quot;Interagieren\&quot; (Standard [E]) um mit dem Schmelzofen zu interagieren und das Bedienfeld zu öffnen. Du kannst dann Erze hinzufügen indem du auf die Schaltfläche \&quot;Erz hinzufügen\&quot; drückst oder einfach mittels hineinziehen. Das Bedienfeld zeigt an, wie viel Erz pro Barren benötigt wird, solange es leer ist.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Sobald der Schmelzofen genug Erz hat, beginnt er sich zu erhitzen. Das benötigt Energie aus einem benachbarten Energiespeicher oder einem Energietransmitter. Sobald die erforderliche Temperatur erreicht ist, wird der Schmelzofen beginnen, die Roherze in Metallbarren umzuwandeln die durch Anklicken des Ausgabefensters entnommen werden können.</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>Automatisierung</Text>
+				</Header>
+			
+				<Paragraph>
+					<Text>Der Schmelzofen sollte so früh wie möglich automatisiert werden. Platziere Ein- und Ausgangscontainer, wobei der Eingangscontainer auf \&quot;nur Auslagern\&quot; gesetzt werden sollten. Der Eingangscontainer muss groß genug sein, um die minimale Erzanforderung für einen Schmelzvorgang zu erfüllen.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+					
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 4</Handle>
+	<Title>Melhorias de Mineração Intermediárias II</Title>
+	<Icon>Enhanced Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Melhorias de Mineração Intermediárias II</Text>
+				</Title>
+				<Icon>
+					<Name>Enhanced Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>É possível melhorar ainda mais as capacidades do extrator de minério. Este projeto vai investigar métodos alternativos para extrair minério.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

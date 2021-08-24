@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ChevronSign2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Väkämerkki 2</Text>
+				</Title>
+				<Icon>
+					<Name>Chevron Sign 2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Keltainen ja musta vaarapalikka jota voidaan tuottaa kaikkialla vaatimatta valmistusasemaa. Avaa itsevalmistuskäyttöliittymä (oletus \&apos;C\&apos;) valmistaaksesi sitä.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

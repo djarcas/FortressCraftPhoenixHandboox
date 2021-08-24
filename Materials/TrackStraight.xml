@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Key>TrackStraight</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Straight Minecart Track</Text>
+				</Title>
+				<Icon>
+					<Name>Track Straight</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Allows Minecarts to travel in a straight line.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

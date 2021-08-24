@@ -1,0 +1,96 @@
+<MaterialEntry>
+	<Key>TourCart</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tour Cart</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart_T10</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tour carts are for riding to other places by sitting in it (Tap U on a cart).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Max Speed:
+					Max Storage:
+					Acceleration:
+					</Left>
+					<Right>4m/s
+					0
+					2.0m/s/s</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Minecart usage is straightforwards, and simply expands on the Hopper -&gt; Conveyor paradigm that has been used until now. Minecarts are loaded onto your minecart network via a Minecart Depot.</Text>
+&gt;
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Minecart Depot</Material>
+					</Target>
+					<Text>Minecart Depot</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Advanced Minecart Controls</Text>
+				</Title>
+				<Spacer/>
+				<Paragraph>
+					<Text>For finer control over your Minecart&apos;s movement and ore-carrying, you have a number of tools available for changing behaviour and decision making.</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Minecart Turbo Rail</Name>
+					<Target>
+						<Material>Minecart Turbo Rail</Material>
+					</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Turbo Rail</Material>
+					</Target>
+					<Text>Minecart Turbo Rail</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>MinecartBufferFull</Name>
+					<Target>
+						<Material>MinecartBufferFull</Material>
+					</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Full Gate</Material>
+					</Target>
+					<Text>Minecart Full Gate</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>MinecartBufferEmpty</Name>
+					<Target>
+						<Material>MinecartBufferEmpty</Material>
+					</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Empty Gate</Material>
+					</Target>
+					<Text>Minecart Empty Gate</Text>
+				</Link>
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

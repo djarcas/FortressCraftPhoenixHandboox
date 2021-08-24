@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>HardenedResin</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hardened Resin</Text>
+				</Title>
+				<Icon>
+					<Name>Hardened Resin</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+        <Paragraph>
+          <Text>
+            This incredibly hard organic structure appears to be shielding a soft and vulnerable core.
+          </Text>
+        </Paragraph>
+        <Paragraph>
+          <Text>
+            Nano-Disintegrators can perhaps make a small hole, but we'll need specialised equipment to deal with large quantities of this resin, and this should be researched as soon as possible.
+          </Text>
+        </Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

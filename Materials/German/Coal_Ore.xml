@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>CoalOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kohle</Text>
+				</Title>
+				<Icon>
+					<Name>Coal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kohle kann im Zentralen Energie Verteiler oder in Generatoren verbrannt werden.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Kohle kann mit einem Erzbohrer gefördert werden.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

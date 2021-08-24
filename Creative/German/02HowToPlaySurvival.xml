@@ -1,0 +1,44 @@
+﻿<Chapter>
+	<Handle>findingSurvival</Handle>
+	<Title>Wie spiele ich den Überlebensmodus</Title>
+	<Icon>Unknown</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Wie spiele ich den Überlebensmodus</Text>
+				</Title>
+				<Paragraph>
+					<Text>Dies ist ein Creative-Modus-Spiel. Um eine Überlebenswelt zu beginnen:</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Gehe zurück zum Hauptmenü. Betrete den Welt-Auswahl-Raum und wähle einen leeren Slot (Pfeil rechts oder klicken auf die Auswahl). Neben dem Spielmodus-Indikator sind Pfeile, die du anklicken kannst, um den Spielmodus auf Survival zu ändern. Drücken Sie Welt erstellen, um das Spiel zu starten</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Spacer/>
+				<Header>
+					<Text>Ich kann keinen Spielmodus auswählen?</Text>
+				</Header>
+				<Paragraph>
+					<Text>Du kannst den Spielmodus nicht auf eine bestehende Welt wechseln. Wählen Sie einen leeren Speicherplatz aus.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Deine Weltspeicherplätze ist ausgebucht!</Text>
+				</Header>
+				<Paragraph>
+					<Text>Sie können eine Welt aus dem World Select Room zurücksetzen, alle Daten, die mit dieser Welt verknüpft sind, werden gelöscht. Wenn Sie Ihre Welten dann auf der aktuellen Version von Windows sichern möchten, können sie im folgenden Ordner gefunden werden:% AppData% .ocalLowrojectorGamesortressCraftorlds.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Es funktioniert nicht!</Text>
+				</Header>
+				<Paragraph>
+					<Text>Wenn du immer noch Schwierigkeiten hast, den Survival-Modus zu starten, poste bitte eine Nachricht auf dem Dampf-Diskussionsforum.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

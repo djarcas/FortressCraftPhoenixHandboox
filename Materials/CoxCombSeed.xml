@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>Seed_CoxComb</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>CoxComb Seed</Text>
+				</Title>
+				<Icon>
+					<Name>CoxComb</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Used to plant CoxCombs or for use in the Ampule Crafter</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Key>DeOrbitContainerContennts</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tutkimusosat</Text>
+				</Title>
+				<Icon>
+					<Name>Lightweight PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Törmännyt rahtikapseli näyttää sisältäneen lukuisia kehittyneen piiristön osia joita emme vain pysty tuottamaan pinnalla. Viemällä nämä laboratoriooon ja käyttämällä analysointi-moodia kun nämä ovat liitetyssä varastohypyttimessä pitäisi johtaa hyödylliseen kehitykseen!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

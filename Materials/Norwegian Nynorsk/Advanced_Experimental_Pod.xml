@@ -1,0 +1,40 @@
+﻿<MaterialEntry>
+	<Key>AdvancedExperimentalPod</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Avansert ekspiriment pod</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Advanced</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>avanserte eksperiment pods er bruk i labaratoriet for å oppføre eksperiment og fullføre forsknings projekt, desse podane er lagd fra gull. For mer information på laboratorium forskning ver så snill og besøk følgende veiledning.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+				<Spacer/>
+				<Paragraph>
+					<Text>for mer information på å lage eksperiment pods ver så snill og les den følgende veiledning.</Text>
+				</Paragraph>
+				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Experimental Pods</Text>
+				</Link>
+		
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

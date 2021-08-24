@@ -1,0 +1,43 @@
+﻿<MaterialEntry>
+	<Key>MissileTurretMK4</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 4 ohjustorni</Text>
+				</Title>
+				<Icon>
+					<Name>Missile Turret MK4</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				<Paragraph>
+					<Text>Ampuu kertakäyttöohjuksia suurempiin kohteisiin. Ohjukset tulee säilöä liitetyssä varastohypyttimessä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Minimikantama:
+ Maksimikantama:
+ Vahinko (ohjusta kohden):
+ Ohjuksia laakissa:
+ Latausaika:</Left>
+					<Right>64m
+ 512m
+ 50,000 (perusohjus)
+ 4
+ 15 sekunttia</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

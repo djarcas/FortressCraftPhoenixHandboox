@@ -1,0 +1,58 @@
+﻿<MaterialEntry>
+	<Key>MagmaBorePlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>岩浆孔建设</Text>
+				</Title>
+				<Icon>
+					<Name>MagmaBore Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>钻一个巨大的孔下到岩浆洞穴来将热能充满冰窟。 33wx3hx33d配置（共3276）</Text>
+				</Paragraph>
+	
+				<Spacer/>
+			
+				<Paragraph>
+					<Text>岩浆孔将创造一个竖井到岩浆洞穴; 一旦完成，我们应该可以浓缩岩浆，并使用它来最终抹除极寒浆液巢穴。</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>岩浆孔的基底建于33米宽的正方形，3米高。 一旦完成，基台将尝试自动竖起。 这将需要清除12米以上的空间; 要清除的区域将被标记红色方框。 清除该区域以展开数字化龙门架主体。</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>该岩浆孔的主体部分将需要64米空间，为33x80x33的总规模。 再次，清除蓝盒内的任何碎屑以进入最后阶段。 我们将需要史诗般的电量从字面意义上创建这个完全由能量构成的无敌钻头。</Text>
+				</Paragraph>
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			
+			<Paragraphs>
+			<Title>
+				<Text>岩浆孔的使用</Text>
+				</Title>
+				<Icon>
+					<Name>MagmaBore Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>一旦钻头完全数字化，那么接下来就是无聊的时光。 我们估计至少10万每秒的功率可以慢慢运行它 能量多多益善。 在我们打到岩浆洞穴之后，我们可以用它把岩浆泵出来！</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>岩浆应通过标准流体管道泵送到岩浆储存单元。 这可以在距离岩浆孔上方高达256米处。 然后可以将岩浆容器连接到最大距离为512m的炼狱冷却大炮。 如此可以永久地了结极寒浆液的威胁。</Text>
+				</Paragraph>
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

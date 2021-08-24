@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 5</Handle>
+	<Title>Kehittyneet luohintapäivitykset</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kehittyneet louhintapäivitykset</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Lisäparannukset malmilouhimeen ja -sulattamoon ovat nyt saatavilla. Lisäksi olemme viimein kehittäneet kaivosjärjestelmän. Käytä maamittareita tunnistaaksesi parhaan paikan asetttaa kaivos louhintaoperaatioiden aloittamiseksi.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

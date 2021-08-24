@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>AIMoverControl</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Control de Movimiento de IA</Text>
+				</Title>
+				<Icon>
+					<Name>AI Mover Control</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Este robot moverá un recurso a la vez desde una tolva cercana hacia otra, acorde a los permisos \&quot;Añadir y Remover\&quot; de las tolvas cercanas.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

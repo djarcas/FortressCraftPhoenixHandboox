@@ -1,0 +1,191 @@
+﻿<Chapter>
+	<Handle>controls</Handle>
+	<Title>Управление</Title>
+	<Icon>Build Gun V2</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Управление</Text>
+				</Title>
+				<Paragraph>
+					<Text>В этом руководстве перечислены все элементы управления, доступные в FortressCraft Evolved. Если информации будет слишком много, не беспокойтесь, просто обратитесь к разделу основных элементов управления, чтобы хоть с чего-то начать.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Некоторые моменты управления недоступны, пока вы не завершите обучение.</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>Основное управление</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;W,A,S,D: Передвижение
+Space: Прыжок
+H: Это руководство
+Esc: Главное меню
+
+X: Строительная Пушка
+ЛКМ: Построить Блок
+ПКМ: Удалить Блок
+СКМ: Образец
+
+M: Сканер
+ЛКМ: Поиск Материалов
+ПКМ: Сканирование
+ &quot;</Left>
+					<Right>&quot;I: Инвентарь
+C: Производство вручную
+F: Крюк
+G: Световая палочка
+
+E: Меню взаимодействия
+Q: Сбор с оборудования
+R: Вращать оборудование
+
+V: Лучевое ружьё
+ЛКМ: Выстрел
+ПКМ: СуперВыстрел
+ &quot;</Right>
+				</TwoColumnParagraph>
+				<Paragraph>
+					<Text>(ЛКМ = левая кнопка мыши, ПКМ = правая кнопка мыши)</Text>
+				</Paragraph>
+				<Header>
+					<Text>Настройка управления</Text>
+				</Header>
+				
+				<Paragraph>
+					<Text>Большинство элементов управления можно настроить из игрового лаунчера. Игровые подсказки не отражают эти изменения.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Движение и Вид</Text>
+				</Header>
+		
+				<TwoColumnParagraph>
+					<Left>&quot;W: двигаться вперед
+  S: двигаться назад
+  A: Смещение влево
+  D: Смещение вправо&quot;</Left>
+					<Right>&quot;Пробел: Прыжок
+  Мышь: Посмотреть вокруг
+  U: Сесть в вагонетку
+  Z: Масштаб&quot;</Right>
+				</TwoColumnParagraph>
+				
+				<Header>
+					<Text>Инструменты и Оружие</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>X: Переключиться на Строительную Пушку
+V: Переключиться на Лучевое ружьё
+B: Стабилизированная камера</Left>
+					<Right>N: Краскопульт
+ M: Переключиться на Сканер
+ Shift + Mouse Wheel: Переключение инструментов</Right>
+				</TwoColumnParagraph>
+					
+				<Header>
+					<Text>Инвентарь и Панели быстрого доступа</Text>
+				</Header>
+	
+				<TwoColumnParagraph>
+					<Left>&quot;I: Открыть инвентарь
+F1-F7: Выбрать вкладку быстрого доступа
+1-10: Выбрать ячейку быстрого доступа
+ Q : Выбросить подсвеченный предмет
+ &quot;</Left>
+					<Right>&quot;Shift + Drag: Разделить стопку предметов
+ Control + Wheel: Переключаться между вкладками быстрой панели
+ Mouse Wheel: Переключаться между слотами быстрой панели
+ --
+ &quot;</Right>
+				</TwoColumnParagraph>
+					
+				<Header>
+					<Text>Функции костюма</Text>
+				</Header>
+	
+				<TwoColumnParagraph>
+					<Left>C: Открыть производство вручную
+ L: Включить Фонарь
+ J: Активировать реактивный ранец (когда он есть)
+ F: Выстрелить крюком</Left>
+					<Right>G: Бросить световую палочку
+ K: Включить вид Голобазы
+ U: Переключаться между режимами Голобазы
+ Space: Отпустить зацепление Крюком</Right>
+				</TwoColumnParagraph>
+		
+				<Header>
+					<Text>Оборудование</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;E: Взаимодействие с оборудованием
+  T: Сложить предметы в слот оборудования
+  R: Поворот оборудования по часовой стрелке
+  ]: Поворот оборудования по часовой стрелке&quot;</Left>
+					<Right>&quot;Q: Извлечение из оборудования
+  Shift-T: сложить 10 предметов в слот
+  Shift-E: режим всасывания Бункера
+  [: Поворот оборудования против часовой стрелки&quot;</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Мультиплеер</Text>
+				</Header>
+	
+				<Paragraph>
+					<Text>&quot;Enter: Показать окно чата
+  Правый Shift: показать информацию о сервере
+  Правый Shift + F1, F2 или F3: установка скорости сети&quot;</Text>
+				</Paragraph>
+				<Header>
+					<Text>Строительная пушка</Text>
+				</Header>
+	
+				<TwoColumnParagraph>
+					<Left>&quot;ЛКМ: построить блок
+  ПКМ: удалить блок
+  СКМ: выбрать текущий блок&quot;</Left>
+					<Right>Control + ЛКМ: Режим «Строй-ко-мне» - строительство линии блоков от прицела к пользователю
+ Control + Удерживание ПКМ: СуперБур</Right>
+				</TwoColumnParagraph>
+				
+				<Header>
+					<Text>Сканер</Text>
+				</Header>
+	
+				<Paragraph>
+					<Text>ЛКМ: Сканироватьокружение
+ ПКМ: Сканировать блок
+ Колесо мышки: Изменить тип сканирования</Text>
+				</Paragraph>
+				<Header>
+					<Text>Лучевое ружьё</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>ЛКМ: Одиночный выстрел</Left>
+					<Right>Удерживание ПКМ: Усиленный выстрел</Right>
+				</TwoColumnParagraph>
+	
+				<Header>
+					<Text>Прочее</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Escape: Главное меню
+ Ctrl-M: Переключение музыки</Left>
+					<Right>Tab: Изменить дистанцию ARTHER</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

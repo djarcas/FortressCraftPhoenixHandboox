@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Dirt</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>泥土</Text>
+				</Title>
+				<Icon>
+					<Name>Dirt</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>通常位于雪面下方的方块种类。 可在粉碎机中粉碎，以提取有用的矿石。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

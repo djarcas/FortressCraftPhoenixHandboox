@@ -1,0 +1,80 @@
+﻿<MaterialEntry>
+	<Key>OreExtractor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Malmiluohija</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Extractor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Malmilouhija on pääkone resurssien keräämiseen. Kun kaivat rakennuspyssylläsi jokainen yritys luohia malmia vähentää saatavilla olevan malmin kokonaismäärää siinä palikassa. Tämä joskus tuottaa malmia mutta tuottaa paljon soraa. Voit myös superkaivaa pitämällä CTRL pohjassa. Tämä tuottaa vähän malmia nopeasti suurella energiahinnalla ja kamalalla tehokkudella. Vältä malmin tuhlaamista tällä tavalla kun mahdollista.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Automatisoidaksesi malmin kerääminen käytä malmiluohijaa. Voit asettaa louhimen malmipalikkaa vasten ja se kuluttaa energiaa irroittaakseen resurssit automaattisesti. Voit pitää malmilouhijan ohjainpaneelin auki painamalla \&apos;vuorovaikuta\&apos; näppäintä (oletus \&apos;E\&apos;). Tämä mahdollistaa energian lisäämisen koneeseen puvustasi, malmin keräämiseen sen sisäisestä varastosta ja koneen päivityksen. Aloituslouhimet ovat merkittävästi resurssitehokkampia kuin superkaivaminen ja voidaan jättää valvomatta.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Louhijalla on sisäinen 500 energian varauskapasiteetti joka on vähän yli kahden puvun verran energiaa joten sinun täytyy tehdä monta matkaa täyttääksesi sen. Jos sisäinen varasto täyttyy louhija lopettaa kaivamisen kunnes se on tyhjennetty. Voit asettaa varastohypyttimen louhijan viereen tarjoamaan lisävarastotilaa ja myös lähettääksesi malmin kuljettimilla tukikohtaasi.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Paragraph>
+					<Text>Malmiluohijan nopeus malmeissa minuutissa ja tehokkuus näytetään ohjauspaneelissa kun koneen kanssa vuorovaikutetaan. 10% tehokkudella 9 louhittavaa malmia tuhotaan jokaista kerättyä yksikköä kohden.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Louhimien päivittäminen</Text>
+				</Header>
+				<Paragraph>
+					<Text>Perusmalmiluohimet ovat hyödyllisiä koneita mutta kaukana niiden maksimitehosta. Louhinta voi päivittää kahdella eri osalla: uusilla moottoreilla ja uusilla poraterillä. Ohjainpaneelin ollessa auki klikkaa sopivaa päivityskoloa ja paras päivitys tavaraluettelostasi asetetaan siihen. Voit myös raahata päivityksiä tavaraluettelostasi siihen tai siitä.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Moottori</Text>
+				</Header>
+				<Paragraph>
+					<Text>Uusi moottori lisää nopeutta jolla louhijan poraterä luohii joka tarkoittaa että enemmän malmia vastaanotetaan minuutissa. Lisääntynyt nopeus tulee suuremman virrankulutuksen hinnalla joten varmista että virransaanti on turvattu ennen päivittämistä.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Poraterä</Text>
+				</Header>
+				<Paragraph>
+					<Text>Poraterän päivittäminen lisää tehokkuutta jolla louhija luohii malmeja. Tämä tarkoittaa että se hakee enemmän malmia suonesta sen elinaikana. Tehokkuusparannuksen lisäksi uusi poraterä sallii myös kovempien materiaalien louhimisen mihin perusporaterä ei pysty leikaamaan yhtään.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Poraterät kuluvat ajanmyötä. Niiden jäljellä oleva kestävyys näytetään malmilouhimen ohjainpaneelissa.</Text>
+				</Paragraph>
+					
+			</Paragraphs>
+		</Page>
+			<Page>
+			<Paragraphs>
+				<Header><Text>Holotukikohdan lukeminen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Energiapaketin koko:
+ Keltainen:
+ Punainen/sininen vilkkuminen:
+ Punainen/syaani vilkkuminen:
+ Punainen/musta vilkkuminen:
+ Punainen/vihreä vilkkuminen:</Left>
+					<Right>Toimii
+					Virta loppu
+					Varasto täynnä
+					Toimeton
+					Pora jumissa</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

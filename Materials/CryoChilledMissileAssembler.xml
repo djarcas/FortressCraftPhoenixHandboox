@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Key>FreezeMissileCrafter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>CryoChilled Missile Assembler</Text>
+				</Title>
+				<Icon>
+					<Name>CryoChilled Missile Assembler</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Uses Freezon Canisters to make Plasma-Imbued Missiles have a slowing effect and slightly higher damage.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>This machine requires hoppers holding at least 1 Freezon Canister and Plasma-Imbued Missile to start the chilling process.</Text>
+				</Paragraph>
+
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Manufacturing Time:
+					Power Required:
+					Power Capacity:
+					Max. Power Recharge Rate:</Left>
+					<Right>15 seconds
+					8 per second
+					128
+					100 per second</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

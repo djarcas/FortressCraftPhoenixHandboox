@@ -1,0 +1,34 @@
+﻿<MaterialEntry>
+	<Key>AutoBuilder</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Constructeur Automatique</Text>
+				</Title>
+				<Icon>
+					<Name>Auto Builder</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Peut construire des lignes de tapis roulants normaux vers n\&apos;importe qu\&apos;elle direction cardinale quand approvisionné en tapis roulants.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Trucs et Astuces !</Text>
+				</Header>
+				<Paragraph><Text>- Cette machine a besoin de pas mal d\&apos;énergie pour fonctionner à vitesse maximale !</Text>
+</Paragraph>
+				<Paragraph><Text>- Une trémie est nécessaire pour approvisionner en tapis roulants.</Text>
+</Paragraph>
+				<Paragraph><Text>- Ne pas utiliser d\&apos;autres blocs ! Ne peut pas placer d\&apos;autres blocs !</Text>
+</Paragraph>
+				<Header>
+					<Text>Attention !</Text>
+				</Header>
+				<Paragraph><Text>- Attacher une trémie avec des tubes de transport construira des tapis roulants normaux, pas des tubes de transport !</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

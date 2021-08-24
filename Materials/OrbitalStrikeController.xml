@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>OrbitalStrikeController</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Orbital Strike Controller</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Quarry</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nuke the site from orbit. It's the only way to be sure. Requires a fully-charged OET.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

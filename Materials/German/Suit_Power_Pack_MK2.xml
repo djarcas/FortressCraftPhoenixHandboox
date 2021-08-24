@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Key>SuitPowerPackMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Anzug Power Pack MK2</Text>
+				</Title>
+				<Icon>
+					<Name>Suit Power Pack MK2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Das Anzug Power Pack MK2 ist eine zusätzliche montierbare Batterie, die ihren Vorgänger verbessert, indem sie den nativen internen Puffer des Anzugs erhöht. Dieses Upgrade verdoppelt den internen Puffer von 512 auf 1024 Einheiten. Während die Kühlungsprobleme von nun an gelöst wurden, hat sich ein zusätzliches Problem ergeben. Eine weitere Erhöhung der Kapazität ist leider nicht möglich, bis ein neues Material für ein fortschrittlicheres elektromagnetisches Abschirmungssystem gefunden werden kann.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Suit Power Pack MK1</Material>
+					</Target>
+					<Text>Suit Power Pack MK1</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

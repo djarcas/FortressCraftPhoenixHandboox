@@ -1,0 +1,82 @@
+﻿<Chapter>
+	<Handle>experimental pods</Handle>
+	<Title>Experimentier-Pods</Title>
+	<Icon>ResearchPod_Basic</Icon>
+	<ResearchRequirements>
+		<Research>Advanced Research</Research>
+	</ResearchRequirements>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Experimentier-Pods</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Basic</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Experimentelle Pods werden in einem Labor eingesetzt, um Experimente und Forschungsprojekte durchzuführen. Weitere Informationen zur Laborforschung finden Sie in der folgenden Anleitung.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+						
+				<Header>
+					<Text>Was sind Experimentier-Pods?</Text>
+				</Header>
+				<Paragraph>
+					<Text>Experimentier-Pods sind die Ressource, die vom Labor verwendet wird, um Experimente durchzuführen. Jeder Pod ist eine intelligente Speichervorrichtung, die in der Lage ist, eine Vielzahl von Substanzen zu enthalten und zu überwachen. Das Labor ist verantwortlich für das Management dieser, man braucht es nur mit den Pods zu versorgen.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Erstellen von Experimentier-Pods</Text>
+				</Header>
+				<Paragraph>
+					<Text>Experimentelle Pods werden zur gleichen Zeit wie das Labor freigeschaltet. Nur die grundlegendsten davon können in der Produktionsstätte gefertigt werden. Der Rest erfordert spezialisierte Maschinerie. Jede Art von Pod erfordert einen anderen Rohstoff, aber alle verwenden die gleiche Maschinerie, um sie zu konstruieren.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Jeder Pod besteht aus Metallplatten und Leiterplatten aus dem gleichen Material. Bitte überprüfen Sie den Hilfe Eintrag für den jeweiligen Pod, den Sie für weitere Informationen benötigen.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Herstellung von Metallplatten</Text>
+				</Header>
+				<Icon>
+					<Name>Stamper Plant</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Metallplatten werden in der Stanze hergestellt. Dies ist eine spezielle Art von Förderband mit der Stanzmechanik, die in der Konstruktionsanlage hergestellt wird. Als Rohmaterial werden Metallbarren benötigt.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Herstellung von Platinen</Text>
+				</Header>
+				<Icon>
+					<Name>PCB Assembling Plant</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Die Herstellung von Platinen ist ein mehrstufiger Prozess und benötigt drei verschiedene Maschinen. Zuerst benutze die Extrudiermaschine, um Metallbarren zu Drähten zu verarbeiten. Danach werden die Drähte in der Wickelmaschine aufgespult und zuletzt werden die Spulen in der Platinen-Montagemaschine zu Platinen weiterverarbeitet.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Fertigungs-Pod</Text>
+				</Header>
+				<Icon>
+					<Name>Research Assembler</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Schließlich verwenden Sie den Forscher, um die Platten und Platinen zu einem experimentellen Pod zu kombinieren. Dies ist keine förderbandbasierte Maschine und benötigt Strom. Sowohl Eingangs- als auch Ausgabe-Lagercontainer. Wir empfehlen die Verwendung von zwei Eingangs-Containern, um die Verfügbarkeit von Platten und Leiterplatten zu gewährleisten. Die fertigen Pods können dann an das Labor geliefert werden.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

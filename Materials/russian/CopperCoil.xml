@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>CopperCoil</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Медная Катушка</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Обычная медная катушка, изготовленная из Медных Проводов в Намотчике.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

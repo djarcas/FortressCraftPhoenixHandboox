@@ -1,0 +1,32 @@
+﻿<Chapter>
+	<Handle>black box</Handle>
+	<Title>黑匣子数据</Title>
+	<Icon>Black Box Data</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>黑匣子数据</Text>
+				</Title>
+				<Icon>
+					<Name>Black Box Data</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>																																																																	  			
+					<Text>你防护服的黑匣子里记录的数据的全面分析已经完成。 它证实了你的视觉分析，一小行星在你准备停靠时撞击了太空站。 爆炸损坏了您的船只的推进器，从而坠毁在该行星。 目前没有发现其他幸存者。</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>目前还不清楚为何小行星未被空间站的长程扫描器发现，很可能是系统故障或者蓄意破坏所致。</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>万幸的是，一个前哨施工舱在爆炸中幸存下来，并锁定到你船的遇险信号。 它已经降落在坠机现场旁边， 它是一个标准的Vortox X103 MK V舱室，包含由矿石熔炼炉，制造厂和研究站围绕的中央电力枢纽。 它还配备了一个自主机器人防御系统，如果我们在这个星球上发现任何敌对的生物，它应该能帮助我们抵御任何早期的攻击。</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,38 @@
+﻿<MaterialEntry>
+	<Key>BFL9000</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>VIL-9000</Text>
+				</Title>
+				<Icon>
+					<Name>BFL-9000</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tämä massiivinen vaakatunnelin kaivinlaaser leikkaa 5x5 tunnelin. Vaatii valtavat määrät virtaa toimiakseen. Ei palauta mitään hyödyllisiä resursseja.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Tunnelin koko:
+					Maksimi tunnelin pituus:
+					Virtavaatimus:
+					Virtakapasiteetti:
+					Maksimi latausnopeus:
+					Maksimi louhintatahti:</Left>
+					<Right>5m x 5m
+					Rajoittamaton
+					1280 metriltä
+					2560
+					2560 sekunnissa
+					0.2 metriä sekunnissa</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

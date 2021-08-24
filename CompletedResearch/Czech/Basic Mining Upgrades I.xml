@@ -1,0 +1,57 @@
+﻿<Chapter>
+	<Handle>mining upgrade 1</Handle>
+	<Title>Základní Těžební Vylepšení I</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Základní Těžební Vylepšení I</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Úspěšně jsme prozkoumali řadu upgradů, abychom vylepšili naši schopnost sběru zdrojů.</Text>
+				</Paragraph>
+				<Header><Text>Základní Slévárna</Text>
+</Header>
+				<Icon>
+					<Name>Basic Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nyní můžeme postavit základní slévárnu. Tato nepodporuje žádné upgrady a je pomalejší a méně účinná než normální slévárna dodávaná se základnou, ale mělo by to nyní pomoci odstranit tuto překážku.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Většina zdrojů, které jsme nalezli blízko povrchu, nejsou vhodné pro stavbu sléváren, avšak skeny poukázali na některé malé skalní útvary, které mohou mít požadované vlastnosti.</Text>
+				</Paragraph>
+				<Header><Text>Nucená Indukce</Text>
+</Header>
+				<Icon>
+					<Name>Forced Induction</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Moduly nucené indukce mohou být umístěny na vrchu běžných sléváren, aby se zlepšila rychlost slévání za cenu větší spotřeby. Základní slévárna nepodporuje tyto moduly.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header><Text>Motory vrtaček</Text>
+</Header>
+				<Icon>
+					<Name>Basic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Motory vrtaček mohou výt vloženy do extraktoru rud pro vylepšení jejich rychlosti za cenu větší spotřeby.</Text>
+				</Paragraph>
+					
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

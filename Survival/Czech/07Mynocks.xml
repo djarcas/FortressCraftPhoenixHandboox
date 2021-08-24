@@ -1,0 +1,26 @@
+﻿<Chapter>
+	<Handle>Mynocks</Handle>
+	<Title>Zamoření Mynocky</Title>
+	<Icon>Local Life Forms</Icon>
+	<Hidden>true</Hidden>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Zamoření Mynocky</Text>
+				</Title>
+				<Icon>
+					<Name>Local Life Forms</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Tento Dopravní pás byl napaden cizí formou života. Spatřili jsme je jak kradou suroviny z pásu, ale zdá se, že tyto zdroje nezůstanou v těle živočicha. Namísto toho se zdá, že jsou nasměrováni do kořenového systému, který protéká zemí. Naše skenery ukazují, že tyto kořeny směřují k centrálnímu jádru, a proto bychom měli tuto otázku přednostně prošetřit.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Bez ohledu na to, kde nakonec tyto suroviny nakonec skončí, je potřeba to zastavit! Zdá se že tato cizí forma života je zranitelná pomocí energetických zbraní. Měli bychom dále zkoumat jejich slabiny, což by nám mělo umožnit vybudovat automatizovanou obranu, která by je dokázala odstranit. Dlouhodobě bychom se měli zaměřit na zkoumání zdokonalených metod distribuce zdrojů, které by nebyli tolik náchylné k útoku. Tuto cizí formu života je možné zabít pomocí Plazmové Pušky (V), určitě se ale brzy objeví další.</Text>
+				</Paragraph>
+			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

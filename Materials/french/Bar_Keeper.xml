@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>BarKeeper</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Système de Récupération de Lingots Cyberdyne</Text>
+				</Title>
+				<Icon>
+					<Name>Bar Keeper</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Le Système de Récupération de Lingots Cyberdyne est une machine utilisée pour récupérer les lingots depuis l\&apos;inventaire d\&apos;un joueur. Cette machine est prévue pour prévenir le vol involontaire de ressources quand un joueur se déconnecte. Contrairement à ses prédécesseurs les voleurs de minéraux et d\&apos;ordures il gène plutôt qu\&apos;il n\&apos;aide quand placé dans les couloirs. Utilisée dans un serveur cette machine devrait être placée à une position centrale accessible à tous mais étiquetée de manière évidente pour ne pas être utilisée de façon involontaire.
+
+ Construisez simplement notre tout-nouveau Système de Récupération de Lingots en une disposition 3x3 et alimentez le avec seulement 5 d\&apos;énergie par lingot, puis restez simplement dessus et laissez LE faire tout le travail à votre place !</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;Vitesse de Récupération des Lingots:
+ Stockage Interne:
+ Utilisation d’Énergie :
+ &quot;</Left>
+					<Right>&quot;Jusqu\&apos;à 3,300/minute!
+ 100 Lingots!
+ Seulement 5 d\&apos;énergie par Lingot !
+ &quot;</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

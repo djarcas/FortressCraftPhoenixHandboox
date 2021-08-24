@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>CrystalCutterHead</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>水晶钻头</Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Cutter Head</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>通过提高矿物分离器的效率来减少浪费的矿石。 还允许挖掘较硬的材料。 钻头会随着时间的推移磨损。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>水晶钻头比钢钻头更有效率，但磨损更快。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品参数</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>效率：
+ 最大硬度：
+ 耐用性：</Left>
+					<Right>30%
+ 250
+ 5000</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

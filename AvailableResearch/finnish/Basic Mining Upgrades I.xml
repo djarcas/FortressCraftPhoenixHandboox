@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 1</Handle>
+	<Title>Peruslouhintapäivitykset I</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Peruslouhintapäivitykset I</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Meidän täytyy parantaa malminkeräys ja -sulattamisnopeuden nostamisen tahtia. Tämä projekti keskittyy malmilouhimien ja sulattamojen suorituskyvyn parantamiseen.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

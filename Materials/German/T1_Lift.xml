@@ -1,0 +1,43 @@
+﻿<MaterialEntry>
+	<Key>Lift</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Heben Sie mit dem Unterseite montierten Kolben</Text>
+				</Title>
+				<Icon>
+					<Name>T1 Lift</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein Aufzug mit einem Kolben, der eine Plattform anhebt und senkt. Eine drahtlose Verbindung zu Ihrem Anzug ermöglicht es, den Lift automatisch an Ihren Standort zu heben oder zu senken, wenn Sie sich dem Aufzugsschacht nähern. Dies kann durch ein manuelles Steuerungsmodul ergänzt werden, um präzise Bewegungen auf Geheiß aller Personen zu ermöglichen, die den Aufzug benutzen. Ein Aufzug kann sich wesentlich schneller bewegen, wenn er nicht durch das Gewicht eines Spielers belastet wird, und dies auch dann, wenn ein Spieler in der Nähe des Aufzugsschachts in jeder vom Aufzug erreichbaren Höhe erkannt wird.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Interaktion (Standard \&apos;E\&apos;) mit dem Lift, um die maximale Reichweite einzustellen, Feinabstimmung mit alternativer Interaktion (Standard \&apos;Shift + E\&apos;). Rüsten Sie den Aufzug mit angetriebenen Kompressoren auf, um das Gas schneller zu regenerieren und die Leistung für stark beanspruchte Aufzüge beizubehalten. Ein angetriebener Kompressor ist bereits erforderlich, damit sich der Lift über 64 m (32 m in der niedrigsten Detaileinstellung) erstreckt.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Höchstgeschwindigkeit (mit Gas):
+ Maximale Geschwindigkeit (kein Gas):
+ Maximale Reichweite:
+ Gas Kapazität:
+ Gasrückgewinnung:
+ Gasverbrauch:
+ Pause-Timer:</Left>
+					<Right>12 m / s
+ 3 m / s
+ 256m (64m für Multiplayer-Clients)
+ 24 Liter
+ 0,025 l / s
+ 1 l / s
+ 5 Sekunden</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

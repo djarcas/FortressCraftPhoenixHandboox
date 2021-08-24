@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>HighEnergyCompositeFuel</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Korkeaenerginen yhdistelmäpolttoaine</Text>
+				</Title>
+				<Icon>
+					<Name>High Energy Composite Fuel</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Korkeaenergistä yhdistelmäpolttoainetta voidaan tehdä jalostamoreaktorisammiossa biomassasta. Sitä voidaan käyttää suihkuturbiinien käyttämiseen ja ohjuspuolustuksien rakentamiseen. Polttoainekanisterit jotka käytetään suihkuturbiinissa voidaan kierrättää tyhjinä.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Refinery Controller</Material>
+					</Target>
+					<Text>Refinery Controller</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

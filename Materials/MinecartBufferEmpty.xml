@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Key>MinecartBufferEmpty</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Minecart Empty Gate</Text>
+				</Title>
+				<Icon>
+					<Name>MinecartBufferEmpty</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Minecarts heading in the same direction as the RED arrow will turn around if they are NOT EMPTY. GREEN is freely passable.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

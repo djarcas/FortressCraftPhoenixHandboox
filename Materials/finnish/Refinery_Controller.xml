@@ -1,0 +1,54 @@
+﻿<MaterialEntry>
+	<Key>RefineryController</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Jalostamo-ohjain</Text>
+				</Title>
+				<Icon>
+					<Name>Refinery Controller</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Jalostamo mahdollistaa muukalaisplaneetalta löydettyjen hiilihydraattien uudelleen yhdistelemisen hyödyllisiksi materiaaleiksi. Toimiakseen vaati kaksi osaa: jalostamo-ohjaimen ja jalostamoreaktiosammion. &quot;</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Refinery Reactor Vat Component</Material>
+					</Target>
+					<Text>Refinery Reactor Vat Component</Text>
+				</Link>
+				<Paragraph>
+					<Text>Jalostamo-ohjain on kone joka ylläpitää tarkan kemiallisen tasapainon jota vaaditaan haluttujen tuotteiden aikaansaamiseksi. Toimiakseen raakaaineet pitää syöttää ohjaimeen tarvittavan virran kera. Ohjaimeen liitetty varastohypytin vastaanottaa tuotteen.
+
+Ohjaimen yhdistäminen sammioon on niinkin yksinkertaista kuin ohjaimen asettaminen mihin tahansa sammiota vasten. Jos yhteys syntyy ponnahdusikkuna näyttää tämän ja ohjain kääntää itsensä kohti sammiota ja ulottaa putkia yhdistääkseen siihen.
+
+Jalostamo voi käsitellä vain yhtä tuotetta kerrallaan: reseptejä täytyy vaihdella painamalla E kun ohjain on valittuna. Voit aloittaa uuden tuotteen tekemisen vasta kun se mahtuu sisäiseen varastoon. Jos eri tuote on vielä siellä tuotanto ei voi jatkua.
+
+Voit noutaa tuotteita ohjaimesta painamalla \&apos;q\&apos; tai yhdistämällä varastohypyttimen.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Valmistusaika:
+					Vaadittu virta:
+					Virtakapasiteetti:
+					Maksimilatausnopeus:</Left>
+					<Right>10 sekunttia (sammiota kohden)
+					100 sekunnisa (sammiota kohden)
+					3000 (sammiota kohden)
+					100 sekunnissa (sammiota kohden)</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

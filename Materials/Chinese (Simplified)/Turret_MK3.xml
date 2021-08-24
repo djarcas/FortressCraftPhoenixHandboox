@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>TurretMK3</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>炮塔 MK3</Text>
+				</Title>
+				<Icon>
+					<Name>Pop Up Turret MK3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>远程能量防御。必须由相邻的发电机、能量块或通过激光输电器供电。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品参数</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>范围:
+损坏 (每射击):
+电源要求 (每射击):
+最大功率容量:
+重新加载时间:</Left>
+					<Right>72m
+ 3600
+ 400
+ 900
+ 4 s</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

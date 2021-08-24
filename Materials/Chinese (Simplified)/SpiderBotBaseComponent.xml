@@ -1,0 +1,66 @@
+﻿<MaterialEntry>
+	<Name>SpiderBot Base Component</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>蜘蛛机器人基地</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot Core Charger</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;SpiderBot Base是您与移动防御机器人的主要交互方式，常被称为SpiderBot，SpiderBro或Henrietta，具体取决于您选择的性别。
+
+  所有的能源供应和升级都是通过物流料斗来给您的蜘蛛机器人基地提供的。 每个附加的料斗能够每1.2秒向SpiderBot提供1单位物品; 利用四周的大量空间实现最大的吞吐量。
+
+  SpiderBot自己有能力持有15万存储。 电能通过SpiderBot Base充电器交付，创建SpiderBot能量核心。 这些都被放置在附加的物流料斗中。
+
+  SpiderBot有3阶武器升级。 这些都需要手工制作，并放置在附加的物流料斗中。 然后SpiderBot将自动返回码头并收集合适的项目。
+
+  每个武器升级项目只需要一个; 副本将被忽略。
+ &quot;</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>可用的升级</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SpiderBot Core Charger</Material>
+					</Target>
+					<Text>SpiderBot Core Charger</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>SpiderBot Blaster</Material>
+					</Target>
+					<Text>SpiderBot Blaster</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>SpiderBot Cannon</Material>
+					</Target>
+					<Text>SpiderBot Cannon</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>SpiderBot Particle Rifle</Material>
+					</Target>
+					<Text>SpiderBot Particle Rifle</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

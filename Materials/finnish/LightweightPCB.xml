@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>LightweightPCB</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kevyt piirilevy</Text>
+				</Title>
+				<Icon>
+					<Name>Lightweight PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Titaanipohjainen pirilevy on tehty titaanikeloista piirilevykokoajassa.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

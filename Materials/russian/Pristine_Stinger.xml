@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>PristineStinger</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Жало</Text>
+				</Title>
+				<Icon>
+					<Name>WaspStingerPristine</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Это жало чрезвычайно острое и прочное, но относительно хрупкое. Оно может иметь полезные применения в сфере добычи руды.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>ConveyorTurntable</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Förderband Drehscheibe</Text>
+				</Title>
+				<Icon>
+					<Name>Conveyor Turntable</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die Förderband Drehscheibe kann dazu verwendet werden um Ressourcen zwischen mehreren Förderbändern aufzuteilen. Um sicher zu gehen, dass kein Chaos eintritt, solltest du es vermeiden Drehscheiben an Trichtern oder anderen Drehscheiben anzubringen.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

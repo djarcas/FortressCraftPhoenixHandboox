@@ -1,0 +1,32 @@
+﻿<MaterialEntry>
+	<Key>LogisticsHopper</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Логистический Бункер</Text>
+				</Title>
+				<Icon>
+					<Name>LogisticsHopper</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Логистический Бункер - дешевая версия Накопительного Бункера, позволяющая хранить до 2 предметов. Логистический Бункер подходит во многих случаях, когда нет смысла хранить большой запас ресурсов.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>За подробностями по Бункерам, пожалуйста, обратитесь к справке по Накопительным Бункерам.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Page>0</Page>
+						<Material>StorageHopper</Material>
+					</Target>
+					<Text>Storage Hopper</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

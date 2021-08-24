@@ -1,0 +1,28 @@
+<MaterialEntry>
+	<Key>ConstructionPasteGrinder</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Konstruktionspastenmühle</Text>
+				</Title>
+				<Icon>
+					<Name>ConstructionPasteGrinder</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die Konstruktionspastenmühle nutzt eine simple Technik die auch in deinem Anzug verbaut ist. Durch den anorganischen Re-Assembler kannst du Baupaste aus nutzlosen Blöcken herstellen wie etwa Grundgestein, Erde und was dir sonst noch nutzlos erscheint. Die Mühle selbst kann aus einfachsten Materialen hergestellt werden die wir an der Oberfläche finden. Der Mischer benötigt keinerlei Energie. Kombiniere den Mischer mit einem Müllschlucker in einem stark begangenem Bereich.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Construction Paste</Material>
+					</Target>
+					<Text>Construction Paste</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

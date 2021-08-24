@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Key>CryoInfernoPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Cryo Inferno</Text>
+				</Title>
+				<Icon>
+					<Name>Cryo Inferno</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This heat-based weapon should allow us to finally conquer the CryoSpawners. It will require 15 minutes of uninterrupted line-of-sight to the CryoSpawner.
+          
+          Use a Fluid Pipe to connect the Cryo Inferno to the Magma Storage. The maximum range of this set of pipes is 512m. Once connected, the pipes will turn orange, to signify that they are transferring Magma. 
+          </Text>
+				</Paragraph>
+				
+        <Spacer/>
+ 
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

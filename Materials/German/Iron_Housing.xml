@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>IronHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Eisengehäuse</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein Eisengehäuse, gefertigt aus Eisenplatten.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

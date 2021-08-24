@@ -1,0 +1,23 @@
+﻿<Chapter>
+	<Handle>black box</Handle>
+	<Title>Données de la boite noir
+</Title>
+	<Icon>&gt;Black Box Data</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Données de la boite noir</Text>
+				</Title>
+				<Icon>
+					<Name>Black Box Data</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Votre combinaison contient une boîte noir qui a stocké toutes les informations des capteurs pendant la chute sur cette planète. La recherche sur ces données pourrait vous aider à comprendre ce qui a pu exactement se passer.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

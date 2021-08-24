@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ARTHERDapperPack</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Dapper Pack</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Dapper Pack</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Fully Dapper! Use this to save room in your inventory by combining all previous Dapper upgrades into one item. It must be kept in your inventory to apply the upgrades..</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

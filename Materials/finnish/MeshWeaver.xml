@@ -1,0 +1,32 @@
+<MaterialEntry>
+	<Key>MeshWeaver</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kristalliverkon kutoja</Text>
+				</Title>
+				<Icon>
+					<Name>Mesh Weaver</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kristalliverkon kutoja käsittelee kristalliesiintymät molekyylitasolla luodakseen kristalliverkon. Tämä kone käyttää 50 virtaa 8 sekunnin aikana molekyyliyhdistääkseen 32 kristalliesiintymää kristalliverkoksi.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Crystal Fiber Mesh</Material>
+					</Target>
+					<Text>Crystal Fiber Mesh</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Pipe Coater</Material>
+					</Target>
+					<Text>Pipe Coater</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

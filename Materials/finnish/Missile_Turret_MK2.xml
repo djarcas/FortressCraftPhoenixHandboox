@@ -1,0 +1,43 @@
+﻿<MaterialEntry>
+	<Key>MissileTurretMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 2 ohjustorni</Text>
+				</Title>
+				<Icon>
+					<Name>Missile Turret MK2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				<Paragraph>
+					<Text>Ampuu kertakäyttöohjuksia isompiin kohteisiin. Ohjukset tulisi säilöä liitetyssä varastohypyttimessä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Minimikantama:
+ Maksimikantama:
+ Vahinko (ohjusta kohden):
+ Ohjuksia laakissa:
+ Latausaika:</Left>
+					<Right>64m
+ 512m
+ 50,000 (perusohjus)
+ 2
+ 15 sekunttia</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

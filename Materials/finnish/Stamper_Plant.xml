@@ -1,0 +1,29 @@
+﻿<MaterialEntry>
+	<Key>StamperPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Leimasinasema</Text>
+				</Title>
+				<Icon>
+					<Name>Stamper Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Leimasinasema on tavallinen kuljetin koneella joka leimaa harkot levyiksi.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Käyttö</Text>
+				</Header>
+				<Paragraph>
+					<Text>Syötä metalliharkot leimaajaan toisesta kuljettimesta, kuljetinkoneesta tai kuljetinkääntölavasta. Leimaaja muuntaa harkot levyiksi joita voidaan käyttää lisäresepteissä.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Leimaaja on oleellinen laboratoriotutkimuksen automatisoinnissa.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

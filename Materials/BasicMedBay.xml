@@ -1,0 +1,41 @@
+<MaterialEntry>
+	<Key>MedBay_T1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Basic MedBay</Text>
+				</Title>
+				<Icon>
+					<Name>Medbay</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This automated healing machine has to be placed in a room. Once done so, it needs a minimal amount of power, but will then continually heal you as long as you're in range. The effect is not as fast as a high-tier Ampule, but it's constant and does not require resources.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Power Required:
+					Power Capacity:
+					Max. Power Recharge Rate:
+					Heal Boost Timer:
+					Heal Boost Amount:
+Range:
+					</Left>
+					<Right>10 per second
+					1500
+					10/sec
+					0.5 seconds
+					+5
+          10m
+					</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

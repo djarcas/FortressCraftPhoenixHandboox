@@ -1,0 +1,36 @@
+﻿<MaterialEntry>
+	<Key>BatteryMK4Placement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 4 akun osa</Text>
+				</Title>
+				<Icon>
+					<Name>PowerStorageBlockT4</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Mallin 4 virtavarastolohko voi varata 270 000 energiaa. Se ottaa energiaa monista liitetyistä voimaloista ja antaa kiinnitetyille koneille tai voimalähettimille. Useat voimavarastolohkot jakavat energiaa keskenään mutta tämä ei ole tehokasta muutamaa palikkaa pidemmälle. Tähän tulisi käyttää laaserenergialähettimiä.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Tällä akulla on tuplasti mallin 3 virtavarastolohkon tiheys ja päivittämistä suositellaan heti kun mahdollista. Ne rakennetaan 3x3x3 kuutioksi, yhteensä 27 palikkaa.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Energiaa voidaa ottaa virtavarastolohkosta painamalla \&apos;ota\&apos; nappia (oletus \&apos;Q\&apos;) ja lisätä painamalla \&apos;vuorovaikuta\&apos; nappia (oletus \&apos;E\&apos;).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Virtakapasiteetti:
+					Maksimivirtasiirtonopeus:</Left>
+					<Right>270000
+					10 000 konetta kohti</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>suit upgrades</Handle>
+	<Title>Улучшения костюма</Title>
+	<Icon>Suit Upgrading</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Улучшения костюма</Text>
+				</Title>
+				<Icon>
+					<Name>SuitUpgrades</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Можно модифицировать защитный костюм, основываясь на последних разработках оборудования и осуществив миниатюризацию некоторых компонентов. Наиболее очевидные усовершенствования - улучшенная солнечная батарея и изоляция для более эффективной работы на этой враждебной планете. Для этого вам понадобится установить на вашем Заводе Гидроабразивный Резак!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Чтобы обновить характеристики костюма, просто создайте улучшение и положите в инвентарь.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

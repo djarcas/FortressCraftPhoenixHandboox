@@ -1,0 +1,27 @@
+﻿<Chapter>
+	<Handle>Local Life Forms</Handle>
+	<Title>Paikalliset elämänmuodot</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Paikalliset elämänmuodot</Text>
+				</Title>
+				<Icon>
+					<Name>Local Life Forms</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tämä planeetta vaikuttaa sisältävän erilaisia kasveja ja eläimiä eivätkä kaikki ole ystävällisiä.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Luotaimet tunnistavat joukon lentäviä eliöitä lähellä, joista on mahdollisesti uhkaa. Suunnitelmat uhkaluotaimelleniiden edistymisen valvontaaan ovat saatavilla. Meidän pitäisi myös kehitellä puolustuksien pystyttämistä. Mahdollisesti vielä huolestuttavampaa, olemme huomanneet monia isoja orgaanisia rakenteita maan alla, jotka voivat haitata kykyämme luotettavasti saada resursseja.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

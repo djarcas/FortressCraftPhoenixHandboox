@@ -1,0 +1,31 @@
+﻿<MaterialEntry>
+	<Key>LocationMarker</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Paikkamerkki</Text>
+				</Title>
+				<Icon>
+					<Name>Location Marker</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Paikkamerkkiä voi käyttää tiettyjen koordinaattien säilömiseen ja se voidaan sitten asettaa koneeseen joka vaatii niitä kuten kaukosiirtimeen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Käyttö</Text>
+</Header>
+				<Paragraph>
+					<Text>Paikkamerkin tuottamisen jälkeen aseta se pikapalkkiin, valitse se ja osoita rakennuspyssyllä haluttua paikaa. Sitten paina rakennusnappia (oletus \&apos;HVN\&apos;). Jos onnistuit pukusi näyttövisiirin pitäisi näyttä valopylväs kohditetussa paikassa kun paikkamerkki on valittuna.</Text>
+				</Paragraph>
+				<Spacer/>
+					<Paragraph>
+					<Text>Huomioi että pukusi ei tue monen paikamerkin kanssa vuorovaikuttamista samanaikaisesti. Siksi suosittelemme että kannat vain yhtä paikkamerkkiä kerrallaan tavaraluettelossasi sekaannuksien välttämiseksi.</Text>
+				</Paragraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

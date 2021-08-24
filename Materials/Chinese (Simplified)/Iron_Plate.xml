@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>IronPlate</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>铁板</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>由铁锭在冲压机制造的一个简单的铁质板材。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

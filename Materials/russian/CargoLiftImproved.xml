@@ -1,0 +1,53 @@
+<MaterialEntry>
+	<Key>CargoLiftImproved</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Улучшенный Грузовой Лифт</Text>
+				</Title>
+				<Icon>
+					<Name>Improved Cargo Lift</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Улучшенный Грузовой Лифт быстрее и вместительнее обычного. Идеален для массовой доставки материалов, добываемых на больших глубинах (Никель, Кристаллы, Биомасса).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>&#34;Максимальное расстояние:
+  Максимальная скорость:
+  Ускорение:
+  Вместительность:
+  Потребляемая энергия (в движении):
+ &#34;</Left>
+					<Right>&#34;Неограниченно
+ 10 м/с
+ 0,5 м/с^2
+ 1000
+ 250 Э/с
+ &#34;</Right>
+				</TwoColumnParagraph>
+
+				<Icon>
+					<Name>Cargo Lift Controller</Name>
+					<Target><Material>Cargo Lift Controller</Material>
+</Target>
+				</Icon>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Cargo Lift Controller</Material>
+					</Target>
+					<Text>CargoLift Controller</Text>
+				</Link>
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

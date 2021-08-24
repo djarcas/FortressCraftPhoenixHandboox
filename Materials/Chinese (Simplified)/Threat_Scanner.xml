@@ -1,0 +1,40 @@
+﻿<MaterialEntry>
+	<Key>ThreatScanner</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>威胁扫描仪</Text>
+				</Title>
+				<Icon>
+					<Name>Threat Scanner</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>威胁扫描仪具有两种模式，扫描模式和接敌模式。 在扫描模式下，扫描仪将显示基地产生的威胁度，直到下一次攻击开始的时间为止。 接敌模式将在受到攻击时激活，当激活时，威胁扫描器将显示攻击的组成以及直到下一波敌人产生的大致时间。 使用威胁降低设备或威胁振荡器以修改威胁。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Threat Reducer</Material>
+					</Target>
+					<Text>Threat Reducer</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Threat Agitator</Material>
+					</Target>
+					<Text>Threat Agitator</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>能量需求：</Left>
+					<Right>是</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

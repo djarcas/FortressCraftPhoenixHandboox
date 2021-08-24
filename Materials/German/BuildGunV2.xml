@@ -1,0 +1,35 @@
+<MaterialEntry>
+	<Key>BuildGunV2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Bauwerkzeug V2</Text>
+				</Title>
+				<Icon>
+					<Name>Build Gun V2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&#34;Der Konstruktor V2 ist eine verbesserte Version des ersten Konstruktors, der besser für die außerirdische Umgebung geeignet ist. Die Verbesserungen am Konstruktor erlauben es uns, nun härteres Material abzubauen und verbesserte Maschinen zu bauen. Trotz dieser Verbesserung sind die Kühlsysteme für den Enterhaken noch unzureichend. Für den schnellen Einsatz in den Frosthöhlen und anderen Bereichen mit schlechter Luftqualität benötigen wir einen besseren Wärmeleiter. Nur eine dieser Verbesserungen ist notwendig, um die Funktionalität des Konstruktors zu verbessern. Zu diesem Zeitpunkt sind keine weiteren Verbesserungen ohne größte Anstrengungen möglich. &#34;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V1</Material>
+					</Target>
+					<Text>Build Gun V1</Text>
+				</Link>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V3</Material>
+					</Target>
+					<Text>Build Gun V3</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

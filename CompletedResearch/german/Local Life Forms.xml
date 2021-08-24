@@ -1,0 +1,28 @@
+﻿<Chapter>
+	<Handle>Local Life Forms</Handle>
+	<Title>Lokale Lebensformen</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lokale Lebensformen/Text&gt;
+				</Text>
+				</Title>
+				<Icon>
+					<Name>Local Life Forms</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Auf diesem Planeten scheint es eine große Auswahl and pflanzlichem und tierischem Leben zu geben. Allerdings ist uns nicht alles davon freundlich gesonnen.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Unsere Scanner machen eine Menge fliegende Lebensformen in der Nähe aus, die ein potenzielles Risiko darstellen. Wir haben Pläne für einen Gefahrenstufesensor, der die Bedrohung überwachen kann. Wir sollten außerdem herausfinden, wie wir ein grundlegendes Abwehrnetz errichten. Wahrscheinlich noch mehr Sorgen sollten uns die großen, organischen Strukturen im Untergrund bereiten, die unseren geregelten Nachschub an Ressourcen unterbrechen könnten.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

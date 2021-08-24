@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>TinHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>锌质外壳</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>一个由锌板制造的简单的锌质外壳。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

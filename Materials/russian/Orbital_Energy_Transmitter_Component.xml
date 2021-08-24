@@ -1,0 +1,37 @@
+﻿<MaterialEntry>
+	<Key>OrbitalEnergyTransmitterPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Компонент Орбитального Передатчика Энергии</Text>
+				</Title>
+				<Icon>
+					<Name>Orbital Energy Transmitter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Это кульминационный момент вашего пребывания на этой планете! Орбитальный Передатчик Энергии (ОПЭ) сможет послать достаточно энергии на орбиту, чтобы Орбитальная Станция смогла себя восстановить. Необходимо защищать базу, пока ОПЭ заряжается. В противном случае, если наш Энергетический Концентратор будет сильно поврежден – ОПЭ быстро разрядится.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Строительство</Text>
+</Header>
+				<Spacer/>
+				<Paragraph>
+					<Text>Орбитальный Передатчик Энергии - это гигантская машина, состоящая из 1053 блоков. Её габариты - основание 9х9 и высота 13 метров. Ей необходима прямая видимость неба.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Потребность в энергии:
+Скорость потребления:</Left>
+					<Right>100 000 000 Э
+100 000 Э/с макс.</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

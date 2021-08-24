@@ -1,0 +1,44 @@
+﻿<Chapter>
+	<Handle>findingSurvival</Handle>
+	<Title></Title>
+	<Icon>Unknown</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Spacer/>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

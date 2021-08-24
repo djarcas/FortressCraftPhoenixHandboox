@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>CrystalClock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Кристаллические Тактовые Генераторы</Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Clock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Кристаллический Тактовый Генератор (КТГ) - распространенный компонент, используемый в передовом оборудование. Включение КТГ позволяет синхронизироваться механизмам более точно. КТГ производятся с использованием 5 Кристаллических Отложений на Заводе Кристаллических Тактовых Генераторов. КТГ могут быть разогнаны, для получения более эффективных генераторов для продвинутого оборудования.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Crystal Clock Maker</Material>
+					</Target>
+					<Text>Crystal Clock Maker</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

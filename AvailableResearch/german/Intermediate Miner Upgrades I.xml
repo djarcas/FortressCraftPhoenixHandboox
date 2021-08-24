@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 3</Handle>
+	<Title>Fortgeschrittene Bergbau Verbesserung I</Title>
+	<Icon>Ore Smelter</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fortgeschrittene Bergbau Verbesserung I</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Es ist an der Zeit unsere Forschung darauf zu konzentrieren zu verstehen, wie die Erzschmelze an unserem ZEV funktioniert. Die Schmelzöfen, die wir bis jetzt bauen konnten, sind zu langsam und verschwenden zu viele wertvolle Ressourcen.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

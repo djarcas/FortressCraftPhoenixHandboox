@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>TitaniumHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Titaanikotelo</Text>
+				</Title>
+				<Icon>
+					<Name>Titanium Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen titaanikotelo on tehty titaanilaatoista.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,25 @@
+﻿<MaterialEntry>
+	<Key>LithiumBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>锂锭</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Lithium Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>锂锭通常用于存储或传输电力的机器中。 它们是由锂矿制成的，可以在表面以下至少120米处找到。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

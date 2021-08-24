@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>SoftResin</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pehmeä hartsi</Text>
+				</Title>
+				<Icon>
+					<Name>Soft Resin</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Pehmeä hartsi näyttää olevan ylimielten päävirtakeskukseen pääsyn yrityksen sivutuote. Se useimmiten sijaitsee kulmittain tukikohdastasi, pinnalla. Orgaaninen kivi on runsasta siellä.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

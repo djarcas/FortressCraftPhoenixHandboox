@@ -1,0 +1,24 @@
+﻿<MaterialEntry>
+	<Name>Advanced machine block</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Bloc machine Avancé</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced machine block</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Bloc principal de construction pour machines avancées.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Ces blocs sont le composant principal de certaines machines multi blocs.</Text>
+				</Header>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

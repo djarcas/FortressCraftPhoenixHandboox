@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>TransportPipeFilter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Фильтр Транспортной Трубы</Text>
+				</Title>
+				<Icon>
+					<Name>Transport Pipe Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Фильтр Транспортной Трубы, подсоединяемый к Бункеру, фильтрует тип предметов поступающих из Бункера в транспортную систему.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

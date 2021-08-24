@@ -1,0 +1,36 @@
+<MaterialEntry>
+	<Key>BatteryMK5Placement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 5 voimavarastolohko</Text>
+				</Title>
+				<Icon>
+					<Name>PowerStorageBlockT4</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Mallin 5 voimavarastolohko voi varata 4,5 miljoonaa energiaa. Se ottaa energiaa monista liitetyistä voimaloista ja antaa sitä liitetyille koneille ja voimasiirtimille. Monet virtavarastolohkot jakavat energiaa keskenään mutta tämä ei ole tehokasta muutamaa palikkaa pidemmälle. Tähän tulisi käyttää laaserenergialähettimiä.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Tällä akulla on nelinkertainen tiheys verrattuna mallin 3 virtavarastolohkoihin ja siihen suositellaan päivittämään heti kun mahdollista. Ne rakennetaan 5x9x5 muotoon, yhteensä 225 palikkaa.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Energiaa voidaa ottaa virtavarastolohkosta painamalla &#39;ota&#39; näppäintä (oletus &#39;Q&#39;) ja lisätä käyttämällä &#39;vuorovaikuta&#39; nappia (oletus &#39;E&#39;).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Virtakapasiteetti:
+					Maksimivirransiirtonopeus:</Left>
+					<Right>4,5 miljoonaa
+					10 000 konetta kohti</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

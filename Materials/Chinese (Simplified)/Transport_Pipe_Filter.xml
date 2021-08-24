@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>TransportPipeFilter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>运输管过滤器</Text>
+				</Title>
+				<Icon>
+					<Name>Transport Pipe Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>传输管道过滤器可用于筛选存储料斗中输入材料类型。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

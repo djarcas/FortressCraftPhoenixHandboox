@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>HydrojetCutter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Vesisuihkuleikkuri</Text>
+				</Title>
+				<Icon>
+					<Name>Hydrojet Cutter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Aseta valmistusaseman päälle mahdollistaaksesi pukupäivitykset.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

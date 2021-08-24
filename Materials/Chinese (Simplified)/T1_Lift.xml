@@ -1,0 +1,43 @@
+﻿<MaterialEntry>
+	<Key>Lift</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>升降机 w/下部活塞</Text>
+				</Title>
+				<Icon>
+					<Name>T1 Lift</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>用活塞升高和降低的升降机。 无线连接到您的防护服以让电梯在您接近电梯井时自动升高或降低到您的位置。 这可以通过手动控制模块来增强，以允许任何使用电梯的人的精确移动。 电梯可以在不受玩家重量影响的情况下明显速度更快，电梯会这样做若一玩家被检测到接近电梯井，只要电梯能到达这一高度。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>与电梯交互（默认\&apos;E\&apos;）调整最大范围，微调（默认\&apos;Shift + E\&apos;）。 使用动力压缩机升级升降机，以更快地重新生成气体，使电梯在高强度运行下保持性能。 升降机超过64m需要安装动力压缩机（最低细节设置下为32米）。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>最大速度（含气）：
+  最大速度（无气）：
+  最大范围：
+  气体容量：
+  气体回复：
+  气体用量：
+  暂停计时器：</Left>
+					<Right>12 m/s
+ 3 m/s
+ 256m (多人游戏64m)
+ 24 L
+ 0.025 L/s
+ 1 L/s
+ 5 s</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

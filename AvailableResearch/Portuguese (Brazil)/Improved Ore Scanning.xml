@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>ore pings</Handle>
+	<Title>Scanner de Minério Melhorado</Title>
+	<Icon>Improved Ore Scanning</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Scanner de Minério Melhorado</Text>
+				</Title>
+				<Icon>
+					<Name>Improved Ore Scanning</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nós encontramos um problema na nossa busca por recursos para expandir nossa base!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Nosso scanner está configurado para localizar materiais desconhecidos para pesquisa e classificação. A funcionalidade para localizar novas fontes especificas de materiais conhecidos é limitada. Deve ser possível usar uma pequena quantidade de minério como um filtro avançado para localizar apenas este recurso que precisamos.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

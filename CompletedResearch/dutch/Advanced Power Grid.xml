@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>T3 Power</Handle>
+	<Title>Geavanceerd Energienet</Title>
+	<Icon>Advanced Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Geavanceerd Energienet</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>We hebben verdere verbeteringen gemaakt aan onze energie-infrastructuur, waaronder een nieuwe Energie Opslagblok en een Laser Energiezender.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>We hebben ook een aantal voorlopige ontwerpen voor een nieuw type Energiegenerator. Om dit onderzoek te voltooien, zullen we echter een dichtere energiebron moeten vinden dan de kolen die we tot nu toe hebben gebruikt.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

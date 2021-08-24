@@ -1,0 +1,36 @@
+<MaterialEntry>
+	<Key>WaypointMachine</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Waypoint Machine</Text>
+				</Title>
+				<Icon>
+					<Name>Waypoint Machine</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Place this and give power to auto-generate a waypoint. Override the waypoint name by placing an adjacent sign.</Text>
+				</Paragraph>
+        <Paragraph>
+          <Text>Placing this next to an Ore Vein will automatically name the Waypoint according to the Vein type.</Text>
+        </Paragraph>
+
+        <Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Power Required:
+					Power Capacity:
+					Max. Power Recharge Rate:</Left>
+					<Right>0.1 per second
+					32
+					100 per second</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

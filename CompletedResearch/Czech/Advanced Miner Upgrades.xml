@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 5</Handle>
+	<Title>Pokročilé Vylepšení Těžičky</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pokročilé Vylepšení Těžičky</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Další vylepšení extraktoru rud a slévárny jsou nyní k dispozici. Dále jsme konečně zdokonalili důlní systém. Použij Geologický průzkumník k identifikaci nejlepšího umístění a pak postav důl pro započetí těžebních operací.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

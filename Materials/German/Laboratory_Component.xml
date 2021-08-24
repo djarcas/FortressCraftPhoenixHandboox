@@ -1,0 +1,31 @@
+﻿<MaterialEntry>
+	<Key>LaboratoryPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Laborkomponente</Text>
+				</Title>
+				<Icon>
+					<Name>Laboratory Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Das Labor wird für fortgeschrittene Forschungen benötigt. Es werden insgesamt 27 Laborkomponenten (9 pro Herstellung) benötigt. Diese werden in einem 3x3x3 Blöcke platziert.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Bei mehr benötigten Informationen über das Labor und dessen Benutzung folge folgendem Leitfaden:</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research Guide</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

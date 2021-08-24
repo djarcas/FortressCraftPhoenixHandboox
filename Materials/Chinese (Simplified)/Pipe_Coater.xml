@@ -1,0 +1,32 @@
+﻿<MaterialEntry>
+	<Key>PipeCoater</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>管道喷涂机</Text>
+				</Title>
+				<Icon>
+					<Name>Pipe Coater</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>采用先进的粘合技术，由于其独特的分子结构作为粘结剂，现在可以将晶体纤维网的耐高耐热性应用于使用塑料颗粒的铜管中。 接合过程以50pps的速率以确保均匀的涂层，耗能300。</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Heat Conducting Pipe</Material>
+					</Target>
+					<Text>Heat Conducting Pipe</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Geothermal Generator comp_</Material>
+					</Target>
+					<Text>Geothermal Generator comp_</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

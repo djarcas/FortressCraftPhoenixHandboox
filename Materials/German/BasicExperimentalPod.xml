@@ -1,0 +1,40 @@
+<MaterialEntry>
+	<Key>BasicExperimentalPod</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Einfache Forschungskapsel</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Basic</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die einfache Forschungskapsel wird im Labor verwendet um die Forschung voranzutreiben. Sie wird aus Kupfer hergestellt. Für weitere Informationen zum Labor klicke auf folgenden Link.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+				<Spacer/>
+				<Paragraph>
+					<Text>Für weitere Informationen zur Herstellung von Forschungskapseln klicke auf folgenden Link.</Text>
+				</Paragraph>
+				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Experimental Pods</Text>
+				</Link>
+		
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

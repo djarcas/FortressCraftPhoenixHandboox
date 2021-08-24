@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 2</Handle>
+	<Title>Miglioramenti di base della miniera II</Title>
+	<Icon>Enhanced Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Miglioramenti di base della miniera II</Text>
+				</Title>
+				<Icon>
+					<Name>Enhanced Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A seguito della nostra precedente ricerca sui aggiornamenti minerari dovremmo essere in grado di migliorare i nostri motori scavatori e l\&apos;induzione di forza.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

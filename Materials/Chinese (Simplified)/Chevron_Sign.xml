@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ChevronSign</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>人字形标志</Text>
+				</Title>
+				<Icon>
+					<Name>Chevron Sign</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>红白相间的标记箭头的方块，可以在任何地方进行加工，无需制造工厂。 打开手工制作界面（默认\&apos;C\&apos;）制造。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

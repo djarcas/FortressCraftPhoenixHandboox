@@ -1,0 +1,39 @@
+﻿<MaterialEntry>
+	<Key>GeologicalSurveyor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Геологический Разведчик</Text>
+				</Title>
+				<Icon>
+					<Name>Geological Surveyor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Геологический Разведчик сканирует слои пород непосредственно под собой и регистрирует все полезные ресурсы. Он показывает общий объём руды по мере сканирования вглубь. Используется для поиска оптимального расположения Карьеров.</Text>
+				</Paragraph>
+				<Spacer/>
+bulk
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Площадь поиска:
+Глубина поиска:
+Потребление Энергии:
+Энергоёмкость:
+Макс. скорость перезарядки:
+Макс. скорость сканирования:</Left>
+					<Right>9 м x 9 м
+1024 м
+40 Э/с
+100 Э
+100 Э в секунду
+320 м/с</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

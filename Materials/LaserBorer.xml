@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>LaserBorerPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Laser Borer</Text>
+				</Title>
+				<Icon>
+					<Name>LaserBorer</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>HEFC-powered Laser Boring device. Rapidly creates a 3x3 hole 256m straight down. Build in a 3x3x3 shape.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

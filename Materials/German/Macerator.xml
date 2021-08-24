@@ -1,0 +1,33 @@
+﻿<MaterialEntry>
+	<Key>Macerator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Zerkleinerer</Text>
+				</Title>
+				<Icon>
+					<Name>Macerator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Zerkleinerer ist in der Lage auch die widerstandsfähigsten, uns bekannten Materialen zu zerkleinern. Manchmal gibt der Zerkleinerungsprozess einen mineralienreichen Klumpen zurück welcher hauptsächlich eines der Elemente enthält, aus welchem der zerkleinerte Gegenstand bestand. Das Material ist von abgebautem Erz nicht zu unterscheiden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>Benötigt Energie:</Left>
+					<Right>ja</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Header>
+					<Text>Tipps und Tricks!</Text>
+				</Header>
+				<Paragraph><Text>- Diese Maschine wird mit einem Förderband gefüttert und gibt zurückgewonnenes Erz an einen benachbarten Container ab.</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

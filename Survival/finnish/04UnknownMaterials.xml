@@ -1,0 +1,58 @@
+﻿<Chapter>
+	<Handle>unknown materials</Handle>
+	<Title>Tuntemattomat materiaalit</Title>
+	<Icon>Unknown</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tuntemattomat materiaalit</Text>
+				</Title>
+				<Header>
+					<Text>Mitä ovat tuntemattomat materiaalit?</Text>
+				</Header>
+				<Icon>
+					<Name>Unknown</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Aluksi kaikki planeetan materiaalit ovat tuntemattomia. Ne näkyvät tavaraluettelossa kysymysmerkkinä - ollakseen hyödyksi ne pitää tunnistaa. Kerättyäsi tai luodattusi (käyttäen luotaustyökalun toissijaistomintoa) tuntemattoman materiaalin se täytyy käsitellä tutkimusasemalla.
+					Ennen tätä materiaalia ei voi käyttää käsittelyyn tai rakentamiseen.
+					</Text>
+				</Paragraph>
+				<Header>
+					<Text>Tuntemattomien materiaalien käsittely</Text>
+				</Header>
+				<Paragraph>
+					<Text>Valitse tutkimusaseman ensimmäinen välilehti nimltään luotaukset; Täällä on lista kaikista tuntemattomista materiaaleista jotka olet kohdannut, niiden arvo tutkimuspisteissä ja kuinka paljon virtaa vaaditaan niiden käsittelyyn. Paina \&apos;Käsittele\&apos; nappia käsitelläksesi materiaalin. Vaadittu voima vähennetään ja määrätty määrä tutkimuspisteitä saavutetaan. Näitä voi käyttää reseptien ja projektien avaamiseen käyttäen toista ja kolmatta tutkimusaseman välilehteä.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Edistyminen</Text>
+				</Header>
+				<Paragraph>
+					<Text>Kun uusia materiaaleja on luodattu ne avaavat uusia koneita, reseptejä ja projekteja.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Uusien tuntemattomien materiaalien luotaus on paras tapa saada tutkimuspisteitä. Ymmärtäessämme enemmän tästä oudosta, kulmikkaasta planeetasta pystymme varustautumaan paremmin luodaksemme isompia ja isompia koneita selviytyäksemme ja sitten paetaksemme!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Käy tutkimusaseman oppaalla saadaksesi lisätietoja.</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Research Station</Name>
+				</Icon>
+				<Link>
+					<Target>
+						<Page>0</Page>
+						<Material>Research Station</Material>
+					</Target>
+					<Text>Research Station</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

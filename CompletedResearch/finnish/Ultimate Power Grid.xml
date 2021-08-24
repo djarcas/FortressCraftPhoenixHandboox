@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T5 Power</Handle>
+	<Title>Lopullinen voimaverkko</Title>
+	<Icon>Ultimate Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lopullinen voimaverkko</Text>
+				</Title>
+				<Icon>
+					<Name>Ultimate Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Onnistuminen! Suurimmat virranvarastointikoneet joita voimme ikinä tarvita ovat nyt valmistettavissa. Lisäkkeenä olemme myös kehittäneet paremmat aurinkopaneelit, jotka voimme asettaa suoraan isojen rakennusten, kuten laboratorion ja mallin 4 ja 5 akkujen päälle.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

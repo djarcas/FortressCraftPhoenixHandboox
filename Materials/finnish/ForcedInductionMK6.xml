@@ -1,0 +1,35 @@
+<MaterialEntry>
+	<Key>ForcedInductionMK6</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Arc-sulattamopäivitys</Text>
+				</Title>
+				<Icon>
+					<Name>Forced InductionT6</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tämä korkeaenerginen pakkaus mahdollistaa yhden malmisulattomon käsitellä kromia ja molybdeeniä.
+
+ Tämä pitäisi korvata kunnon järjestelmällä joka pystyy käsittelemään näitä materiaaleja heti kun mahdollista, arc-sulattamopäivitys on erityisen tehoton.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Perusmalmiosulattamot eivät tue ahdinpäivityksiä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Sulatusnopeus:
+					Virrankäyttö:</Left>
+					<Right>50%
+					12800%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

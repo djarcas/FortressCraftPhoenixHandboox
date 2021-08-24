@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Snow</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Снег</Text>
+				</Title>
+				<Icon>
+					<Name>Snow</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Вездесущая смесь грязи со снегом. Эта планета отлично справляется и без дорожных служб!</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

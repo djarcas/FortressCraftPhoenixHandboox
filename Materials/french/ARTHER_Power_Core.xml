@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERPowerCore</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Noyau d’Énergie ARTHER</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Power Core</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Répare les dégâts fait à ARTHUR lui permettant de se déplacer de manière correcte. Vous n\&apos;en n\&apos;avez besoin que d\&apos;un seul et il doit être conservé dans votre inventaire pour fonctionner.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

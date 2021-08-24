@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Key>MinecartLoadStation</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Станция Загрузки Вагонеток</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart Load</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Перемещает ресурсы из Бункеров в пристыкованные Вагонетки.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Minecart Depot</Material>
+					</Target>
+				<Text>Minecart Depot</Text>
+			</Link>
+			</Paragraphs>
+		
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

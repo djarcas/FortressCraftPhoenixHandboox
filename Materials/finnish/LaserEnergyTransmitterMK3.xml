@@ -1,0 +1,40 @@
+<MaterialEntry>
+	<Key>LaserEnergyTransmitterMK3</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 3 laaserenergialähetin</Text>
+				</Title>
+				<Icon>
+					<Name>Laser Energy Transmitter MK3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Laaserenergialähettimet (tai LELt) ovat voimaverkkosi selkäranka. Ne voivat lähettää energiaa jopa 64 metrin päähän ja toimittavat sen suoraan koneisiin, virtavarastolohkoihin tai toisiin LELhin kantaman nostamiseksi.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Ohjauspaneelin avataksesi paina \&#39;vuorovaikuta\&#39; nappia (oletus \&#39;E\&#39;). Tämä mahdollistaa linssipäivittämisen mikä nostaa energianlähettämisnopeutta. Voit myös vaihtaa ampumistapaa niin että akun täyttymistä odotetaan ennen energian lähettämistä. LELllä on peini sisäinen varaaja. Harkitse niiden tukemista virtavarastolohkoilla taataksesi virran luotettavan saanin kysynnän ja tarjonna vaihdellessa.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Energiapaketinkoko:
+					Maksimipakettitahti:
+					Maksimienergiasiirtonopeus:
+					Virtakapasiteetti:
+					Maksimikantama:</Left>
+					<Right>64
+					5 sekunnissa
+					320 sekunnissa
+					384
+					64m</Right>
+				</TwoColumnParagraph>
+			
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,25 @@
+﻿<MaterialEntry>
+	<Key>IronBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>铁锭</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Iron Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>铁锭通常用在需要坚固结构的机器中。 它们由铁矿石制成，可以在地表以下至少65米处找到。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

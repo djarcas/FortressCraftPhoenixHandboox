@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>LightweightMachineHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kevyt konekotelo</Text>
+				</Title>
+				<Icon>
+					<Name>Lightweight Machine Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Pieni metallilaatikko. Käytetään kevyissä esineissä ja valmistetaan tinalaatoista.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

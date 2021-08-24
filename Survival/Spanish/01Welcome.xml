@@ -1,0 +1,248 @@
+﻿<Chapter>
+	<Handle>welcome</Handle>
+	<Title>Guía de Inicio</Title>
+	<Icon>Solar Panel-old</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Bienvenido a FortressCraft Evolved</Text>
+				</Title>
+				<Header>
+					<Text>Modo Supervivencia</Text>
+				</Header>
+				<Paragraph>
+					<Text>Acabas de escapar de la Estación Orbital en un transbordador de escape dañado. No sobrevivió a la reentrada, pero afortunadamente conseguiste eyectar con seguridad. ¡Ahora tendrás que sobrevivir en este terrible planeta alienígena!</Text>
+				</Paragraph>
+				<Header>
+					<Text>Iniciando</Text>
+				</Header>
+				<Paragraph>
+					<Text>Su traje de vanguardia puede mantenerlo a salvo bajo estas frías condiciones, pero requiere energía para hacerlo. El sitio donde la nave impactó puede darle los recursos para ello a corto plazo, así que usted debe dirigirse hacia allí tan pronto como usted pueda.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Controles</Text>
+				</Header>
+				<Paragraph>
+					<Text>Los controles del juego se enumeran en una guía separada a continuación.</Text>
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<Chapter>controls</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Controls Guide</Text>
+				</Link>
+
+				<Link>
+					<Target>
+						<URL>www.youtube.com/tv#/watch?v=KT_eI01IKDE</URL>
+<!-- Full screen, auto-playing URL-->
+					</Target>
+					<Text>Prefer a video? Click here for the FortressCraft Tutorial</Text>
+				</Link>
+				<Link>
+					<Target>
+						<URL>www.youtube.com/tv#/watch?v=1MLHgXDFczo</URL>
+<!-- Full screen, auto-playing URL-->
+					</Target>
+					<Text>Click here to watch a tutorial on the Crystal Scanner</Text>
+				</Link>
+
+			</Paragraphs>
+		</Page>
+			<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Consejos de supervivencia</Text>
+				</Header>
+
+			
+
+				<Paragraph>
+					<Text>Para aquellos que no quieren leer una guía completa, estos son algunos consejos rápidos de juego. Las siguientes páginas adentran en más detalle en cómo comenzar.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>- Durante el día, su traje está diseñado para alimentar su batería con luz solar.
+- Su área de inicio tiene un Central Power Hub, úsela para convertir los recursos cosechados en energía para cargar maquinaria adyacente.
+- Puede completar su traje de poder desde el Central Power Hub o presionar \&apos;Q\&apos; en el bloque de almacenamiento de energía.
+- Interactúa (\&apos;E\&apos;) con la planta de fabricación para ver lo que puedes hacer.
+- Elabore antorchas para calentarse usando la ventana Self Crafting (\&apos;C\&apos;).
+- Utilice la herramienta de escaneo (\&apos;M\&apos;) para escanear bloques y procesarlos en la estación de investigación para obtener nuevas recetas.
+- La herramienta de escaneo también puede hacer escaneos de entorno como el ping de material desconocido para encontrar nuevos minerales.
+- Preste mucha atención a la velocidad de descarga de la batería en su traje, un texto azul indica que el frío extremo está afectando a su traje y un texto rojo indica calor extremo.
+- El faro usa energía. ¡Es genial para explorar, pero no lo dejes!
+- El carbón es el mejor combustible para comenzar, pero si estás en apuros puedes quemar la flora local.
+- Puede que tenga que cavar muy profundo para encontrar los minerales que está buscando.
+- Tienes un gran alcance de construcción, así que úsalo para colocar antorchas en grandes cavernas.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Equipamiento del lugar del accidente</Text>
+				</Header>
+				<Icon>
+					<Name>Central Power Hub</Name>
+				</Icon>
+				<Paragraph>
+					<Text>El Central Power Hub es su primer generador de energía. Tiene paneles solares, y puede quemar combustibles para generar energía. Sólo puede contener un elemento de combustible a la vez, por lo que es esencial automatizar la entrega de materiales de combustible. Tiene una gran capacidad interna de almacenamiento de energía.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Central Power Hub</Material>
+					</Target>
+					<Text>Central Power Hub</Text>
+				</Link>
+				<Spacer/>
+<Spacer/>
+<Spacer/>
+				<Icon>
+					<Name>PowerStorageBlock</Name>
+				</Icon>
+				<Paragraph>
+					<Text>El bloque de almacenamiento de energía puede almacenar 250 de energía y distribuirlo a las máquinas adyacentes.</Text>
+				</Paragraph>
+					<Link>
+					<Target>
+						<Material>PowerStorageBlock</Material>
+					</Target>
+					<Text>PowerStorageBlock</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Icon>
+					<Name>Ore Smelter</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Para adquirir barras útiles para la fabricación de máquinas nuevas, deberás procesar minerales en la fundición de mineral. Puede interactuar manualmente con él o automatizar el suministro de materiales. Solo comenzará a fundirse una vez que haya recibido suficientes materiales para fundir un lingote.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Ore Smelter</Material>
+					</Target>
+					<Text>Ore Smelter</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Icon>
+					<Name>Manufacturing Plant</Name>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Manufacturing Plant</Material>
+					</Target>
+					<Text>Manufacturing Plant</Text>
+				</Link>
+				<Icon>
+					<Name>Research Station</Name>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Research Station</Material>
+					</Target>
+					<Text>Research Station</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Icon>
+					<Name>Ore Extractor</Name>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Ore Extractor</Material>
+					</Target>
+					<Text>Ore Extractor</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>StorageHopper</Name>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Storage Hopper</Material>
+					</Target>
+					<Text>Storage Hopper</Text>
+				</Link>
+			</Paragraphs>
+			</Page>
+			<Page>
+			<Paragraphs>
+				<Icon>
+					<Name>Conveyor Belt</Name>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Conveyor Belt</Material>
+					</Target>
+					<Text>Conveyor Belt</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</Chapter>
+
+		

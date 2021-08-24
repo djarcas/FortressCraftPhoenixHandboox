@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ImbuedMachineBlock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Imbued Machine Block</Text>
+				</Title>
+				<Icon>
+					<Name>Imbued Machine Block</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Crafting component of tier 4 machinery. Can also be used for construction</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

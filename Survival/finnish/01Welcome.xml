@@ -1,0 +1,248 @@
+﻿<Chapter>
+	<Handle>welcome</Handle>
+	<Title>Aloitusopas</Title>
+	<Icon>Solar Panel-old</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tervetuloa FortressCraft Evolved:iin</Text>
+				</Title>
+				<Header>
+					<Text>Sinnittelymuoto</Text>
+				</Header>
+				<Paragraph>
+					<Text>Olet juuri paennut avaruusasemalta vahingoittuneella pakosukkulalla. Se ei selvinnyt laskusta, mutta onneksi sinä onnistuit putkahtamaan siitä pois turvallisesti. Nyt sinun tulee selvitä tällä kamalalla muukalaisplaneetalla!</Text>
+				</Paragraph>
+				<Header>
+					<Text>Aloitus</Text>
+				</Header>
+				<Paragraph>
+					<Text>Sinun viimeistä huutoa oleva pukusi pitää sinut turvassa näissä kylmissä oloissa, mutta käyttää siihen virtaa. Aluksesi törmäysalue voi antaa sinulle resursseja pärjätäksesi lyhyellä tähtäimellä, joten sinun pitäisi tutkia maailmaa heti kun voit.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Ohjaimet</Text>
+				</Header>
+				<Paragraph>
+					<Text>Tämän pelin nappulat on listattu erillisessä opaassa joka on linkitetty alla.</Text>
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<Chapter>controls</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Controls Guide</Text>
+				</Link>
+
+				<Link>
+					<Target>
+						<URL>www.youtube.com/tv#/watch?v=KT_eI01IKDE</URL>
+<!-- Full screen, auto-playing URL-->
+					</Target>
+					<Text>Prefer a video? Click here for the FortressCraft Tutorial</Text>
+				</Link>
+				<Link>
+					<Target>
+						<URL>www.youtube.com/tv#/watch?v=1MLHgXDFczo</URL>
+<!-- Full screen, auto-playing URL-->
+					</Target>
+					<Text>Click here to watch a tutorial on the Crystal Scanner</Text>
+				</Link>
+
+			</Paragraphs>
+		</Page>
+			<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Sinnittelyvinkkejä</Text>
+				</Header>
+
+			
+
+				<Paragraph>
+					<Text>Niille jotka eivät halua lukea kokonaista opasta tässä on vähän pelivinkkejä. Seuraavat sivut menevät yksityiskohtiin kuinka aloittaa.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>- Päivällä pukusi on suunniteltu lataamaan akkunsa auringonvalosta.
+- Aloitusalueellasi on päävirtakeskus, käytä sitä muuttaaksesi kerätyt resurssit virraksi ladataksesi viereiset koneet.
+- Voit ladata pukusi päävirtakeskuksesta tai painamalla \&apos;Q\&apos; virtavarastolohkolle. 
+- Vuorovaikuta (‘E’) valmistusaseman kanssa katsoaksesi mitä voit tehdä.
+- Tee soihtuja lämmittääksesi itseäsi käyttäen itsevalmistusikkunaa (‘C’).
+- Käytä luotaintyökalua (\&apos;M\&apos;) luodataksesi palikoita ja käsitelläksesi niitä tutkimusasemalla saadaksesi uusia reseptejä.
+- Luotainta voi käytää myös ympäristöluotaukseen kuten tuntemattoman materiaalin sysäykseen löytääksesi uusia malmeja.
+- Seuraa akkusi purkautumistahtia, sininen teksti tarkoittaa että äärimmäinen kylmä vaikuttaa pukuusi ja punainen teksti ilmaisee äärimmäistä kuumuutta. 
+- Otsalammpu käyttää virtaa. Se on mahtava tutkimusmatkailuun mutta älä jätä sitä päälle!
+- Hiili on paras polttoaine aloituksessa, mutta tiukassa paikassa voit polttaa kasveja.
+- Voit juotua kaivamaan syvällekin ennen kuin löydät haluamasi malmit.
+- Rakennnuskantama on pitkä joten käytä sitä asettamaan soihtuja pitkin suuria luolia.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Törmäysalueen laitteet</Text>
+				</Header>
+				<Icon>
+					<Name>Central Power Hub</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Päävirtakeskus on ensimmäinen voimalaitoksesi. Siinä on aurinkopaneelit ja se voi polttaa polttoaineita tehdäkseen virtaa. Se voi pitää vain yhtä esinettä kerralla, joten polttoaineen toimituksen automatisointi on oleellista. Sillä on iso sisäinen voimavarastointikapasitettti.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Central Power Hub</Material>
+					</Target>
+					<Text>Central Power Hub</Text>
+				</Link>
+				<Spacer/>
+<Spacer/>
+<Spacer/>
+				<Icon>
+					<Name>PowerStorageBlock</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Virtavarastolohko säilöö 250 virtaa ja jakaa sen viereisille koneille.</Text>
+				</Paragraph>
+					<Link>
+					<Target>
+						<Material>PowerStorageBlock</Material>
+					</Target>
+					<Text>PowerStorageBlock</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Icon>
+					<Name>Ore Smelter</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Saadaksesi uusien koneiden valmistuksessa tarpeellisia harkkoja, malmit täytyy käsitellä malmisulattamossa. Voit vuorovaikuttaa sen kanssa käsin tai automatisoida materiaalien toimituksen. Sulatus alkaa vasta kun tarpeeksi materiaaleja harkon tekemiseen on saapunut.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Ore Smelter</Material>
+					</Target>
+					<Text>Ore Smelter</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Icon>
+					<Name>Manufacturing Plant</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Voit tehdä itse yksinkertaisia asioita itsevalmistusikkunassa joka avataan \&apos;c\&apos;:llä, mutta monimutkaisempiin koneisiin ja osiin täytyy käyttää valmistusasemaa. Reseptit on jaoteltu kategorioihin jotka voit löytää klikkaamalla väritettyjä laatikkoja. Tällä hetkellä asema voi käyttää vain tavaraluettelossasi olevia esineitä ja esineiden tekeminen asettaa ne suoraan takaisin sinne.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Manufacturing Plant</Material>
+					</Target>
+					<Text>Manufacturing Plant</Text>
+				</Link>
+				<Icon>
+					<Name>Research Station</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Aloittaessasi luotaimesi ei tiedä mitään planeetalta löytyvistä materiaaleista. Kaikki tekemäsi luotaukset voidaan käsitellä tutkimusasemalla ja niistä saa tutkimuspisteitä. Voit myös aloittaa erinäisiä kehitysprojekteja täällä ja kehittää uusia reseptejä valmistusasemalle käyttämällä tutkimuspisteitä. Tutkimusasema vaatii virtaa toimiakseen.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Research Station</Material>
+					</Target>
+					<Text>Research Station</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Ensimmäisten malmien löytäminen</Text>
+				</Header>
+				<Paragraph>
+					<Text>Luotaimesi on varustettu kyvyllä luodata tunnettuja malmityyppejä, mutta näin tehdäkseen sen täytyy tietää niistä ensin. Uusien malmien löytämisen avain on käyttää tuntematon materiaali -sysäystä luotaimessa. Jos käytät tätä ensin, se kertoo sinulle kaikki palikat ympärillä, joita se ei tunne.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Ensimmäinen tehtäväsi on luodata ympäristösi ja käsitellä ne tutkimusasemalla. Heti kun olet luodannut tavallisen mullan ja lumen ympäriltäsi, tuntematon malmi -sysäys paikantaa hyödyllisiä malmeja ympäriltäsi.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Kun olet löytänyt maanalaisen suonen läheltä voit luodata sen ja käsitellä ne opettaaksesi ne luotaimellesi. Tästä lähtien malmiluotauksen käyttäminen luotaimella paikantaa sen malmityypin suonet.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Malminirroitus</Text>
+				</Header>
+				<Paragraph>
+					<Text>Kun olemme löytäneet ensimmäisen suonen, meidän tarvitsee irroittaa malmi käyttääksemme sitä. Voit kaivaa sitä käyttämällä oikeanpuoleista klikkausta mutta tämä tiputtaa vain yhden malmin joskus ja tekee soraa muulloin.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Parempi vaihtoehto on käyttää superkaivamista joka aktivoidaan pitämällä CTRL pohjassa kun kaivat. Tämä kaivaa nopeasti ison määrän malmia mutta kuluttaa virtavarastojasi nopeasti.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Varo ettet käytä kaikkea virtaa suonen superkaivamiseen, pukusi vaatii virtaa myös ruumiinlämpösi ylläpitämiseen! Yritä pitää turvallinen soihdutettu reitti takaisin voimalallesi lämmitääksesi itseäsi.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Irroittamisen automaatio</Text>
+				</Header>
+				<Icon>
+					<Name>Ore Extractor</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Kestävämpi tapa luohia malmia on käyttää malmilouhinta. Aloitat muutamalla ja voit asettaa sellaisen suonen viereen ja täyttää sen virralla aloittaaksesi kaivuun. Sillä on pieni sisäinen varastotila, joten kunnes voit purkaa sen jonnekin muualle sinun täytyy silloin tällöin tulla noutamaan tuotteet.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Malmilouhin voi louhia kokonaisen suonen malmia kun se koskee yhteen malmipalikkaan. Niinpä sitä ei tarvitse siirtää ennen kuin koko suoni on raivattu.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Ore Extractor</Material>
+					</Target>
+					<Text>Ore Extractor</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>StorageHopper</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Varastohypyttimet hyväksyvät malmeja ja esineitä koneiltasi ja antavat niitä toisille koneille. Tämä tekee niistä oleellisen minkä tahansa luohinta- ja sulatustoimintaosan automatisoinnissa.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Storage Hopper</Material>
+					</Target>
+					<Text>Storage Hopper</Text>
+				</Link>
+			</Paragraphs>
+			</Page>
+			<Page>
+			<Paragraphs>
+				<Icon>
+					<Name>Conveyor Belt</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Kun on resursesseja liikenee, kuljettimet voivat auttaa automaatiota tuomalla malmit luohimelta malmisulattamolle. Ne ovat halpoja, mutta tarvitset montaa yhdistääksesi luohintatoimintosi päätukikohtaasi. Ne eivät vaadi virtaa toimiakseen.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Conveyor Belt</Material>
+					</Target>
+					<Text>Conveyor Belt</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</Chapter>
+
+		

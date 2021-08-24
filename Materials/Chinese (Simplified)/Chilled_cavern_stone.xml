@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>ChilledCavernStone</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>冷淬洞窟石</Text>
+				</Title>
+				<Icon>
+					<Name>Chilled Cavern Stone</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>介于-215和-270米之间的主要方块类型。 该块不会自己降温，尽管您发现它们的洞穴非常冷。 可在粉碎机中粉碎，偶尔提取有用的矿石。 可以放置。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

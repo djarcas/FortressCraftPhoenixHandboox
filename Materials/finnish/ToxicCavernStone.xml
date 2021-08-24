@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>ToxicCavernStone</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Myrkkyluolakivi</Text>
+				</Title>
+				<Icon>
+					<Name>Toxic Cavern Flora 4</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tämä materiaali löytyy 400:sta 700:aan metriin pinnan alapuolelta. Palikka ei aiheuta myrkkyvahinkoa itsessään mutta luolat joista se löytyy ovat täynnä myrkkyllisiä hiukkasia. Voidaan murskata murskaimessa hyödyllisen malmin löytämiseksi. Tämä palikka voidaan asettaa.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

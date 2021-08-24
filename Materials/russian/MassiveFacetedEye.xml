@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>MassiveFacetedEye</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Огромный Фасетчатый Глаз</Text>
+				</Title>
+				<Icon>
+					<Name>WaspEyeMassive</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Из глаз местных летающих форм жизни получается отличная оптика. Этот глаз – крупнейший образец из встречающихся типов глаз, и он в достаточно хорошем состоянии, чтобы его использовать.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

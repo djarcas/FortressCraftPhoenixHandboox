@@ -1,0 +1,31 @@
+﻿<MaterialEntry>
+	<Key>SpiderBotParticleRifle</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Корпускулярные Винтовки ПаукоБота</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot Defences 1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Эта пара корпускулярных винтовок, установленных на плечах, способна наносить значительный урон самым большим целям. Они наводятся независимо друг от друга  и интеллектуально игнорируют более мелкие цели и сосредотачиваются на врагах класса «босс».&quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Вам нужно создать и установить только одну единицу - они идут в комплекте!</Text>
+				</Header>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SpiderBot Base Component</Material>
+					</Target>
+					<Text>More information regarding SpiderBot!</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

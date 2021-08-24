@@ -1,0 +1,35 @@
+<MaterialEntry>
+	<Key>TurretMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 1 tykkitorni</Text>
+				</Title>
+				<Icon>
+					<Name>Pop Up Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Perusenergiapuolustus. Täytyy virroittaa liitetyllä voimavarastolohkolla tai laaserenergialähetimellä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Kantama:
+					Vahinko (ammusta kohti):
+					Virtavaatimus (ammusta kohti):
+					Maksimivirtakapasiteetti:
+					Latausaika:</Left>
+					<Right>16m
+					50
+					40
+					100
+					1 sekuntti</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

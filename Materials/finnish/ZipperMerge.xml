@@ -1,0 +1,28 @@
+<MaterialEntry>
+	<Key>ZipperMerge</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Vetoketjuyhdistäjä</Text>
+				</Title>
+				<Icon>
+					<Name>Zipper Merge</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Vetoketjuyhdistäjä yhdistää virheettä kaksi kuljetinlinjaa 1:1 suhteella. Vetoketjuyhdistäjän pitäisi pystyä käsittelemään 100 esinettä minuutissa. Vetoketjuyhdistäjä on kaikkein hyödyllisin esineiden automaatiossa jotka tarvitsevat tasaisen määrän kahta esinettä kuten takorautaharkko.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Conveyor Belt</Material>
+					</Target>
+					<Text>Conveyor Belt</Text>
+				</Link>
+			
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

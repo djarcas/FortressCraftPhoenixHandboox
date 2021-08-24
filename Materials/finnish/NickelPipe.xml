@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>NickelPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Nikkeliputki</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen nikkeliputki on tehty nikkeliharkoista putkenvenyttimessä.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

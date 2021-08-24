@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>TinPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Оловянная Труба</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Простая оловянная труба, изготовляемая из оловянных слитков в Экструдере Труб.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

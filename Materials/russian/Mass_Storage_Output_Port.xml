@@ -1,0 +1,33 @@
+﻿<MaterialEntry>
+	<Key>MassStorageOutputPortMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Выходной Порт Склада</Text>
+				</Title>
+				<Icon>
+					<Name>Mass Storage Output Port</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Поместите этот блок рядом с блоком Склада для выгрузки предметов со Склада на конвейер. Необходимо указать конкретный предмет, который вы хотите выгружать со склада. Если предмет есть на Складе, складской дрон будет передавать их по одному на конвейер.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Советы и хитрости!</Text>
+				</Header>
+				<Paragraph><Text>Обращайте внимание, на то как ориентирован этот блок! Как и конвейер у него есть выделенное направление.</Text>
+</Paragraph>
+				<Paragraph><Text>Чтобы назначить перемещаемый предмет, выделите предмет в панели быстрого доступа, потом нацельтесь на Порт и взаимодействуйте с ним (E).</Text>
+</Paragraph>
+				<Header>
+					<Text>Осторожно!</Text>
+				</Header>
+				<Paragraph><Text>Не имеет отношения к обычным Ящикам!</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

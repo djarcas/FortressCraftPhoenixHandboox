@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SpaceWindow</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>太空窗</Text>
+				</Title>
+				<Icon>
+					<Name>Space Window</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>一种基本的建筑材料，可以在任何地方进行加工而不需要制造工厂的服务。 打开手工制作界面（默认\&apos;C\&apos;）制造这些。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

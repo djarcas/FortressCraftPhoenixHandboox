@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>LithiumHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>锂质外壳</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>一个由锂板制成的简单的锂质外壳。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

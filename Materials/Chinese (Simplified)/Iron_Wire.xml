@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>IronWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>铁丝</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Wire</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>由挤压机中的铁锭制成的简单铁丝。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

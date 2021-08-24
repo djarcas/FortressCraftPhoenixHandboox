@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>CopperWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Медный Провод</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Wiring</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Медный провод, изготовляемый из медных слитков в Экструдере. Используется в электронных компонентах.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

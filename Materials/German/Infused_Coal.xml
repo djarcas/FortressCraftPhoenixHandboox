@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>InfusedCoal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Durchsetzte Kohle</Text>
+				</Title>
+				<Icon>
+					<Name>Infused Coal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Durchsetzte Kohle wird vom Kristallkohleeinflöser hergestellt. Es ist eine Verbesserung zur angereicherten Kohle.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Crystal Coal Infuser</Material>
+					</Target>
+					<Text>Crystal Coal Infuser</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

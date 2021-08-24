@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>T4CreepBurnerPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>CryoPlasm Dazzler Turret</Text>
+				</Title>
+				<Icon>
+					<Name>CryoPlasmBurner</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+        <Paragraph>
+          <Text>
+            Long-range, fast, CryoPlasm defence, designed to fire in long-distance straight lines. Excellent when paired with terraforming work and Melters, the Dazzler requires 250k power to trigger.
+            Once there is a sufficient density of CryoPlasm along one of the cardinal directions, it will charge, and then begin to fire.
+            Once triggered will burn through power and CryoPlasm until there is no more CryoPlasm or power.</Text>
+        </Paragraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>Please note - exposure to the beam will prove to be instantly fatal. Listen out for the charging noise and stay clear!
+          </Text>
+        </Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Range:
+					Max. Power Capacity:
+					Max. Power Recharge Rate:
+					</Left>
+					<Right>255m
+					250000
+					5000 per second
+					</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

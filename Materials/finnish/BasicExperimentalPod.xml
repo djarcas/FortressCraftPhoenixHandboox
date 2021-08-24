@@ -1,0 +1,40 @@
+<MaterialEntry>
+	<Key>BasicExperimentalPod</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Peruskoekapseli</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Basic</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Peruskoekapselia käytetään laboratoriossa kokeiden ja tutkimusprojektien tekemiseen. Nämä kapselit tehdään kuparista. Lisäinformaatiota laboratoriotutkimuksesta seuraavassa oppaassa.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+				<Spacer/>
+				<Paragraph>
+					<Text>Lisäinformaatiota koekapselien teosta seuraavassa oppaassa.</Text>
+				</Paragraph>
+				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Experimental Pods</Text>
+				</Link>
+		
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,43 @@
+﻿<MaterialEntry>
+	<Key>PowerBoosterMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 1 AVUTIN-virtavahvistin</Text>
+				</Title>
+				<Icon>
+					<Name>MK1 Power Booster</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					<Text>Tämän esineen käyttö antaa heti virtaa AVUTIN:lle. Suunnittele ja voit laajentaa maanalaisia retkiäsi ja virroittaa koneita. Näitä tehdään virtavahvistinlatureissa.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Virtaa palautettu:</Left>
+<Right>100</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK2</Material>
+					</Target>
+					<Text>ARTHER Power Booster MK2</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>MK1PowerBoosterCharger</Material>
+					</Target>
+					<Text>Crafted by MK1 Power Booster Charger</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

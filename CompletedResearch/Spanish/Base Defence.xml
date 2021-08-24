@@ -1,0 +1,27 @@
+﻿<Chapter>
+	<Handle>Base Defence</Handle>
+	<Title>Defensa de base</Title>
+	<Icon>&gt;ARTHER Turret</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Defensa de base</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>¡Ahora podemos traer la LIBERTAD a este planeta!</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Nuestra investigación de defensa básica ha sido exitosa, ahora tenemos tres torretas disponibles para la fabricación. La torre ARTHER es eficiente desde el punto de vista energético y tiene un largo alcance, pero debe ser operada por ARTHER, por lo que debemos ubicarla cuidadosamente para proteger nuestra infraestructura de recursos mientras reunimos los materiales necesarios para construir y alimentar las torretas independientes.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

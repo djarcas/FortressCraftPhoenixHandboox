@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>CrystalClock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>水晶钟</Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Clock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>水晶钟是先进机械中常见的制造产物。 将水晶钟包含在机械中可以获取更精确的时序。 水晶钟是在水晶钟制造设备（Crystal Clock Maker）中使用5 份水晶矿（Crystal Deposit）制作的。 普通水晶钟像大多数芯片可以超频，为更先进的机械生产更有效的时钟。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Crystal Clock Maker</Material>
+					</Target>
+					<Text>Crystal Clock Maker</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

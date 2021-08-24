@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>LithiumCoil</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Литиевая Катушка</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Обычная Литиевая Катушка, изготовленная из Литиевых Проводов в Намотчике.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

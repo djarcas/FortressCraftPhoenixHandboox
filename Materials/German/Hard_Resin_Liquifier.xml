@@ -1,0 +1,42 @@
+﻿<MaterialEntry>
+	<Key>LaserResinLiquifier</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Laserharzverflüssiger</Text>
+				</Title>
+				<Icon>
+					<Name>Laser Resin Liquifier</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+				<Paragraph>
+					<Text>Dies ist der zweite von drei benötigten Schritten um gehärtetes Harz nutzbar zu machen, welches von einem Schwarm abgesondert wird.
+Der Laserharzverflüssiger benutzt heißes Plasma um den noch weichen Kern vom Harz zu schmelzen und zu extrahieren.
+Das flüssige Harz kann anschließend in einer Flüssigharz-Raffinierie weiter verarbeitet werden.
+Um gehärtetes Harz zu abgetragenes Harz verarbeiten zu können, benutze den Laserharzentferner.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Laser Resin Ablator</Material>
+					</Target>
+					<Text>Laser Resin Ablator</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Liquid Resin Refiner</Material>
+					</Target>
+					<Text>Liquid Resin Refiner</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>Refined Liquid Resin</Material>
+					</Target>
+					<Text>Refined Liquid Resin</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

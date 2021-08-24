@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>DapperFrame</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Silotteluraami</Text>
+				</Title>
+				<Icon>
+					<Name>DapperFrame</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Silottelulisäosan kosmeettinen palikka. Kiitos FortressCraft:n tukemisesta!</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

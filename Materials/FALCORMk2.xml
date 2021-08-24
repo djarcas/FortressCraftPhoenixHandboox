@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>FALCORMk2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Logistics FALCOR</Text>
+				</Title>
+				<Icon>
+					<Name>FALCOR MK2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Collects items from FALCOR Beacons attached to remote Storage Hoppers and returns it. Needs attached storage hopper.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,58 @@
+﻿<Chapter>
+	<Handle>unknown materials</Handle>
+	<Title>未知材料</Title>
+	<Icon>Unknown</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>未知材料</Text>
+				</Title>
+				<Header>
+					<Text>什么是未知材料?</Text>
+				</Header>
+				<Icon>
+					<Name>Unknown</Name>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;最初，这个星球上的所有材料都是未知数。 它们将在您的物品栏中显示为一个问号 - 用于任何用途前必须被识别。 一旦收集或扫描（使用扫描工具的次要操作），必须将未知的物质材料带到研究站进行处理。
+  直到处理完成，材料才能用于加工或建造。
+ &quot;</Text>
+				</Paragraph>
+				<Header>
+					<Text>处理未知材料</Text>
+				</Header>
+				<Paragraph>
+					<Text>选择研究站的第一个选项卡“扫描”; 这将列出您遇到的所有未知材料，研究点的价值以及处理它们的能源消耗。 按“处理”按钮处理材料，扣除所需的电量并给予指定数量的研究点。 这些可用于使用研究站的第二和第三个选项卡来解锁工序和研究项目。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>进展</Text>
+				</Header>
+				<Paragraph>
+					<Text>一旦新材料被扫描，能解锁新机器，工序和项目。</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>扫描未知材料是获得更多研究点的最佳方式。只有更多地了解这个奇怪的，块状的星球，我们才有能力创造出更大更好的机器来帮助你生存，然后逃脱！</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>请访问研究站的帮助指南条目了解更多信息。</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Research Station</Name>
+				</Icon>
+				<Link>
+					<Target>
+						<Page>0</Page>
+						<Material>Research Station</Material>
+					</Target>
+					<Text>Research Station</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

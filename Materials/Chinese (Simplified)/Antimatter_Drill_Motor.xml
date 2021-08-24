@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>AntimatterDrillMotor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>反物质钻头电机</Text>
+				</Title>
+				<Icon>
+					<Name>Antimatter Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>以增加能耗为代价提高采矿设备的速度。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>提取速度：</Left>
+					<Right>3200%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

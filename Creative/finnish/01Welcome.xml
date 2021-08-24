@@ -1,0 +1,327 @@
+﻿<Chapter>
+	<Handle>welcome</Handle>
+	<Title>Aloitusopas</Title>
+	<Icon>Grass</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<HelpImage>
+					<Name>FCevolvelogo-01</Name>
+				</HelpImage>
+				<Title>
+					<Text>Tervetuloa FortressCraft Evolved:iin</Text>
+				</Title>
+				<Header>
+					<Text>Luova muoto</Text>
+				</Header>
+				<Paragraph>
+					<Text>Tervetuloa luovaan muotoomme! Ohjaimet ovat alla, työkaluoppaat ovat seuraavilla sivuilla.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Chapter>findingSurvival</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Looking for Survival Mode?</Text>
+				</Link>
+				<Spacer/>
+				<Header>
+					<Text>Ohjaimet</Text>
+				</Header>
+				<TwoColumnParagraph>
+<Left>W,A,S,D: Liikkuminen
+Välilyönti: Hyppy
+Välilyönti x 2: Rakettireppu moodi päälle
+ Q: Lennä alas
+ Shift: Nopeutus
+ Laskeudu kytkeäksesi pois päältä
+Esc: Taukovalikko
+H: Apuruutu</Left>
+<Right>Z: Lähennä
+X: Rakennuspyssy
+C: Sääsauva
+N: Maalipyssy
+F10: Mene superrakennus moodiin
+F11: Mene leikkaa/liimaa moodiin
+=: Palikan valintaruutu
+F1-F7: Valitse pikapalkin välilehti
+1-10: Valitse pikapalkin kolo</Right>
+				</TwoColumnParagraph>
+				<Paragraph>
+					<Text>Vasen hiiri: Rakenna/Ensisijainen työkalun toiminto
+Oikea hiiri: Poista/Vaihtoehtoinen työkalun toiminto
+Keskihiiri: Näytteistä korostettu palikka
+Hiirenrulla: Seuraava/Edellinen palikka tai kierrätä työkalun toimintoa.
+CTRL + vasen hiiri: Rakenna-tänne
+CTRL + oikea hiiri: Superkaivuu</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Luovat rakennuskalut</Text>
+				</Title>
+				<Paragraph>
+					<Text>FortressCraft Evolved:ssa on paljon voimallisia työkaluja luovalle rakentamiselle. Alla lyhyesti kuvailemme jokaisen työkalun ja tulevaisuudessa sisältää linkin tietyn työkalun oppaaseen.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Rakennnuspyssy</Text>
+				</Header>
+				<Icon>
+					<Name>Build Gun V2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Käytettäessä rakennuspyssyä (valitse painamalla \&apos;X\&apos;), Vasen hiiren painike rakentaa valitun palikan ja Oikea hiiren nappi poistaa. Sinulla on pitkä rakennuskantama joten voit rakentaa palikoita jopa 64 metrin päähän.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Superkaivuu</Text>
+				</Header>
+				<Paragraph>
+					<Text>Pitämällä CTRL kun kaivat käyttät Superkaivuu moodia. Tämä lisää merkittävästi kaivuunopeutta mikä on hyvä nopeaan alueen raivaukseen. Huomioi mihin tähtäät sillä on helppoa kaivaa omaa työtä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Rakenna-tänne</Text>
+				</Header>
+				<Paragraph>
+					<Text>Pitämällä CTRL kun rakennat käytät tänne-rakentamista. Valittua palikkaa rakennetaan valitulta tahkolta takaisin kohti paikaasi suorassa linjassa.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Työpaja</Text>
+				</Header>
+				<Paragraph>
+					<Text>Työpaja on kaikkein voimallisin luova työkalu FortressCraft Evolved:n arsenaalissa yksityiskohtaisten luomusten tekemiseen. Käyttämällä sitä voit suunnitella omat palikkasi rakentamalla laajemman mallikappaleen joka kutistetaan yhden palikan kokoiseksi.
+Työpajoja voi rakentaa minne tahansa maailmaan. Tehdäksesi sellaisen aloitat avaamalla palikanvalinta paneelin (\&apos;paina \&apos;=\&apos;\&apos;) ja valitsemalla työpajansijoituspalikan:</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Workshop Placement</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Quote>
+					<Text>Workshop Placement block</Text>
+				</Quote>
+				<Paragraph>
+					<Text>Sitten valitset paikan johon rakentaa työpaja. Voidaksesi määritellä työpajan tarvitsee sinun asetta vain 2 (kaksi) työpajansijoituspalikkaa. Sijoitat ne niin että ne ovat vastakkaisilla kulmilla lattiassa mihin haluat työpajan tulevan. Yksinkertaisilla ohjeilla:</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>1. Valitse tasainen alue. Aseta ensimmäinen työpajansijoituspalikka.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>2. Sitten mene kulmittain mihin tahansa suuntaan pysyen samalla tasolla.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>3. Aseta toinen palikka mihin haluat työpajan toisen kulman tulevan.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>4. Jos kaksi palikkaa ovat viistottain ja 7 palikan etäällä toisistaan työpaja tehdään niiden välille käyttäen vahvistettua kiveä ja vahvistettua puuta.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>				
+				<Spacer/>
+				<Paragraph>
+					<Text>Työpajoja voi tehdä eri kokoisina alkaen 2x2 (kaksi palikka suorasti viistottain) jopa 8x8 kokoon (6 tyhjää palikkaa ensimmäisen ja toisen palikan välissä).</Text>
+				</Paragraph>
+				<Header>
+					<Text>Yksityiskohtapalikan luonti työpajassa</Text>
+				</Header>
+				<Paragraph>
+					<Text>Kun olet rakentanut ensimmäisen työpajasi mene siihen aloittaaksesi ensimmäisen yksityiskohtapalasi luonnin. Kun olet työpajassa kaksi asiaa tapahtuu: Työpajan ulkoreuna hohtaa säihkehtivillä hiukkasilla ja työpajakäyttöliittymä ilmestyy.</Text>
+				</Paragraph>
+				<!--
+				<HelpImage>
+					<Name>Workshop Overlay</Name>
+				</HelpImage>
+				-->
+				<Paragraph>
+					<Text>Tiettyjä näppäimiä käytetään työpajan toimintojen valitsemiseen:
+Y: Aloita uusi sommitelma
+U: Käytä nykyistä (ei vielä toteutettu)
+I: Näytä yksityiskohtaikkuna
+O: Näytä käytösikkuna (nykyisellään pois päältä)
+[: Edellinen suunnitelma
+]: Seuraava suunnitelma</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Kun olet mennyt uuteen työpajaan, uusi suunnittelu on automaattisesti aloitettu joten \&apos;Y\&apos;:n painaminen tekee jotain vasta tehtyäsi ensimmäisen sommitelmasi.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Spacer/>
+				<Paragraph>
+					<Text>Suunnitellaksesi ensimmäisen yksityiskohtapalikan yksinkertaisesti ala rakentamaan korostetulle työpajaalueelle. Vahvistetusta puusta tehty seinä on palikkasi etureuna. Voit käyttää kaikkia palikoita mitä haluat suunnitelmasi rakentamisessa, mutta palikat joilla on malli eivät näy yksityiskohtapalikassa. Maalatut palikat pysyvät maalattuina.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Kun olet tyytyväinen sommitelmaasi poistu työpajasta tallentaaksesi sen ja luodaksesi yksityiskohtapalikan jolla rakentaa. Valitaksesi sen avaa palikanvalintaruutu (\&apos;=\&apos;) ja valitse uusi sommitelma pikapalkki koloon. Voit nopeasti löytää kaikki yksityiskohtapalikkasommitelmasi suodattamalla \&apos;yksityiskohtapalikka\&apos; suodatinlistasta. Voit nyt aloittaa uuden suunnitelman työpajassa painamalla \&apos;Y\&apos; tai rakentamalla uuden työpajan. Maailmassa voi olla korkeintaan 16384 yksityiskohtapalikkasommitelmatyyppiä!</Text>
+				</Paragraph>
+				<Header>
+					<Text>Yksityiskohtapalikan asettaminen</Text>
+				</Header>
+				<Paragraph>
+					<Text>Asettaaksesi yksityiskohtapalikan rakenna se kuten rakentaisit minkä tahansa muunkin palikan. Sommmitelma tarttuu tahkoon jonka olet valinnut ja pyöritetään nenäkkäin kanssasi. Tämä mahdollistaa yksityikohtapalikoiden asettamisen mihin tahansa haluamaasi asentoon.</Text>
+				</Paragraph>
+		
+<!--				
+				<HelpImage>
+					<Name>Detail Block example</Name>
+				</HelpImage>
+				-->
+				<Paragraph>
+					<Text>Jos käytät tuhansia yksityiskohtapalikoita samalla alueella huomaat merkittävän suorituskyvyn laskun. Tämän johtuu kaikista yksityiskohdista jotka grafiikkakorttisi täytyy piirtää. Helpottaaksesi tätä käytä pienemmän tarkkuuden yksityiskohtapalikoita ja käytä normaaleja palikoita missä voit.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Superrakennus</Text>
+				</Header>
+		
+				<Paragraph>
+					<Text>Painamalla F8 avaat superrakennuspaneelin ruudun oikealle laidalle.</Text>
+				</Paragraph>
+				<!--
+				<HelpImage>
+					<Name>Super Build panel</Name>
+				</HelpImage>
+				-->
+				<Paragraph>
+					<Text>Tämä mahdollistaa nopean yksinkertaisten goemetristen muotujen rakentamisen käyttäen palikkaa jonka olet valinnut. Käyttääksesi superrakennusta ensin valitse muoto käyttämällä F9. F10:llä voit valita rakennetaanko täytetty vai ontto muoto. F11:llä kytket rakennustavan. Välitön antaa nopeimman lopputuloksen mutta voi johtaa reikiin hyvin suurissa muodoissa. \&apos;End\&apos; kytkee ankkuroidaanko muoto keskelle vai pohjan keskelle.</Text>
+				</Paragraph>
+				
+				<Paragraph>
+					<Text>X, Y ja Z mahdollistavat muodon koon muuttamisen. Painamalla niitä lisäät sitä ulottuvuutta yhdellä. Pidä shift ja paina X, Y tai Z vähentääksesi yhdellä. Voit lisäksi pitää ALT vaihtaaksesi kokoa 16 kerrallaan.</Text>
+				</Paragraph>
+				
+				<Paragraph>
+					<Text>Kun olet valinnut muodon, koon ja paikan, paina \&apos;Ins\&apos;
+rakentaaksesi muodon tai \&apos;Del\&apos; kaivaaksesi sen. Sinun täytyy sitten valita muoto uudestaan kaivaaksesi tai rakentaaksesi uudelleen.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Kopioi-liimaa</Text>
+				</Header>
+		
+				<Paragraph>
+					<Text>Kopioi-liimaa työkalu mahdollistaa nopeasti kopioida osan sommitelmasta jonka olet tehnyt, pyörittää tai kääntää sen ympäri ja liimata se takaisin maailmaan mihin ikinä haluatkaan. Avaa kopioi-liimaapaneeli painamalla F11.
+Kopio-liimapaneeli on nykyään TYÖNALLA, siksi se ei näytä siltä miltä muu käyttöliittymä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Kopio-liimaa ohjaimet</Text>
+				</Header>
+				<Paragraph>
+					<Text>Paina &apos;Ins&apos; asettaaksesi ensimmäisen suorasärmiön kulman jonka haluat kopioida.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Paina &apos;Del&apos; asettaksesi toisen suorasärmiön kulman jonka haluat kopioda. Nyt kopioitava alue korostetaan.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Kun alue on valittu voit painaa &apos;End&apos; ottaaksesi siitä kiinni. Tässä kohtaa, kopiodun alueen esikatselu näytetään palikanvalinnan päällä.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Alue kiinnitettynä on kolme asiaa joita voit tehdä vaikuttaaksesi miten alue liimataan: Pyöritä R:llä, liikuta ankkuripistettä Shift:llä, käännä CTRL:lla.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>&apos;R&apos; pyörittää aluetta 90 astetta myötäpäivään.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Painamalla Shift kerran mahdollistat ankkuripisteen siirtämisen X, Y ja Z napeilla. Painamalla SHIFT + X, Y or Z vähennät ankkuripaikkaa</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Painamalla CTRL kerran mahdollistat sommittelman kääntämisen X, Y ja Z napeilla. Jokainen nappi kääntää sommmitelman sillä akselilla.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Ja lopuksi painammalla &apos;Home&apos; liimaat alueen valittuun paikkaan.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Kopio-liimaa suunnitelmien tallennus</Text>
+				</Header>
+				<Paragraph>
+					<Text>On myös mahdollista taltioida suunnitelmia myöhempää käyttöä varten käyttämällä &apos;&lt;&apos; näppäintä ja ladata niitä käyttämällä &apos;?&apos;. Voit vaihtaa tallennettuja suunnitelmia muiden ihmisten kanssa. Mutta tämä ominaisuus on vielä kehityksessä joten emme voi taata että se toimii.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header>
+					<Text>Maalipyssy</Text>
+				</Header>
+		
+				<Paragraph>
+					<Text>Voit valita maalipyssyn painamalla &apos;N&apos;. Se mahdollistaa tiettyjen materiaalien maalamisen halutun väriseksi. Maalipyssy valittuna, VHP maalaa kohdistetun palikan, OHP avaa värivalintaikkunan ja KHP 
+näytteistää värin valitusta palikasta jos valittua palikaa voi maalata. Maalipyssy näyttää värin joka on valittu pyssyssä itsessään.</Text>
+				</Paragraph>
+				<!--
+				<HelpImage>
+					<Name>Paint Gun window</Name>
+				</HelpImage>
+				-->
+				<Header>
+					<Text>Maalattavien materiaalien löytäminen</Text>
+				</Header>
+		
+				<Paragraph>
+					<Text>Vain tietyt palikat voidaan maalata. Löytääsesi nopeasti mitkä avaa palikanvalintaruutu (&apos;=&apos;) ja ruksita &apos;maalattava&apos; suodatin. Kaikki näytettävät palikat voidaan asettaa mailmaan ja maalata.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Sääsauva</Text>
+				</Header>
+		
+				<Paragraph>
+					<Text>Sääsauva mahdollistaa sään ja päivänvaiheen hallinnan ja heittää meteoreja ympäriinsä. Valitse se painamalla \&apos;C\&apos;. Kun menet maailmaan yksi tilastotiedoista näyttää kuinka monta meteoria FortressCraft Evolved:ssa on heitetty.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Sääsauva moodit</Text>
+				</Header>
+				<Paragraph>
+					<Text>eSun: Lopettaa sateen tai lumen ja pistää auringon paistamaan (tai kuun jos on yö)</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>eLightning: Tekee raskaan myrskyn. VHN antaa salaman iskeä.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>eSnow: Luo lumisateen</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>eRain: Luo sateen</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>eDayNight: Kierrättää aikaa eteen tai taaksepäin nopeasti</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>eMeteor: Kutsuu meteoreita. VHN kutsuu meteorin korkealta taivaalta iskemään johonkin lähelläsi. OHN kutsuu meteorin sääsauvastasi tähdättynä valittuun palikkaan. Molemmilla toiminnoilla on pieni viive joten klikkausten ylenpalttinen painelu ei välttämättä tuota niin montaa meteoria kuin haluaisit :). Kun viskailet meteoreita varo avaruusasemia!</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</Chapter>

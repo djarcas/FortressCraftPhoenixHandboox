@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>CrystalFiberMesh</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kristallikuituverkko</Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Fiber Mesh</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Käyttämällä kehittyneitä käsittelytekniikoita on kristalliesiintymiä voitu nyt yhdistää molekyylitasolla. Tämä uusi verkko pystyy kestämään kuumutta ja painetta. Tämä materiaali tehdään kristalliverkonkatuojassa ja on päävaatimus geotermisen voimalan putkissa. &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Mesh Weaver</Material>
+					</Target>
+					<Text>Crystal Mesh Weaver</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

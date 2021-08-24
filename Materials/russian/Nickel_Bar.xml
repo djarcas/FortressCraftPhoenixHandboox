@@ -1,0 +1,25 @@
+﻿<MaterialEntry>
+	<Key>NickelBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Никелевый Слиток</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Nickel Ore</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Никелевые Слитки применяются в производстве продвинутого оборудования. Эти Слитки льются из Никелевое Руды, которую можно найти на глубинах ниже 400 метров.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

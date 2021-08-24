@@ -1,0 +1,31 @@
+﻿<MaterialEntry>
+	<Key>SpiderBotCannon</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Пушки ПаукоБота</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot Defences 2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Эта пара передних пушек способна отрабатывать средние и большие цели. Пушки самостоятельно нацеливаются и интеллектуально игнорируют меньшие цели и сосредотачиваются на более крупных, бронированных.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Достаточно создать и установить только одно такое устройство - они идут в наборе!</Text>
+				</Header>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SpiderBot Base Component</Material>
+					</Target>
+					<Text>More information regarding SpiderBot!</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

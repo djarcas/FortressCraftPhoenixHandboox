@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>RuinedStinger</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Испорченное Жало</Text>
+				</Title>
+				<Icon>
+					<Name>WaspStingerRuined</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Это жало чрезвычайно острое, но слишком сильно повреждено, и потому бесполезно.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

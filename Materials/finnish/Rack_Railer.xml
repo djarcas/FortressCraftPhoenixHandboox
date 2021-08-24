@@ -1,0 +1,46 @@
+﻿<MaterialEntry>
+	<Key>RackRailer</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hyllyraidettaja</Text>
+				</Title>
+				<Spacer/>
+				<Icon>
+					<Name>Pipe Extrusion Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Hyllyraidettaja on kone joka muovaa rautaharkkoparin rahtihissijärjestelmässä käytettäväksi raiteeksi.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Rack Rail</Material>
+					</Target>
+					<Text>Rack Rail</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Vaadittu virta:</Left>
+					<Right>100 e/s</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Paragraph>
+					<Text>Katso rahtihissiohjaimesta lisätietoja.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target><Material>Cargo Lift Controller</Material>
+</Target>
+					<Text>Cargo Lift Controller</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

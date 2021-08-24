@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>IronOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Eisenerz</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Wurde das Erz erst einmal ab rund 100 Meter Tiefe gefunden, kann es in einer Schmelze zu Eisenbarren geschmolzen werden.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Eisenerz kann durch normale Erzförderer abgebaut werden.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Key>HardenedMachineBlockAssembler</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hardened Machine Block Assembler</Text>
+				</Title>
+				<Icon>
+					<Name>HardenedMachineBlockAssembler</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Uses a mixture of Nickel and Titanium to create essential blocks.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>This machine requires hoppers holding at least 1 Nickel Bar and Titanium Bar to start the hardening process.</Text>
+				</Paragraph>
+
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Manufacturing Time:
+					Power Required:
+					Power Capacity:
+					Max. Power Recharge Rate:</Left>
+					<Right>1 second
+					15 per second
+					500
+					25 per second</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Bedrock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>基岩</Text>
+				</Title>
+				<Icon>
+					<Name>Bedrock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>一般岩石类型之一。 可在粉碎机中粉碎，以提取有用的矿石。 可以被放置。基岩：陆地表层中的-竖硬岩层，埋藏深度不一，少则数米到数十米，多则数百米。由沉积岩、变质岩、岩浆岩中的一种或数种组成。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

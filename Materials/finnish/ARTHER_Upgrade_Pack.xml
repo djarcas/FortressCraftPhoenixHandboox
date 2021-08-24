@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERUpgradePack</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>AVUTIN-päivityspaketti</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Upgrade Pack</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Aurinkopaneelin, virtaytimen ja akun vaikutusten yhdistelmä. Käytä tätä säästääksesi tavaraluettelotilaa. Tarvitset vain yhden ja tarvitsee pitää tavaraluettelossa toimiakseen.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

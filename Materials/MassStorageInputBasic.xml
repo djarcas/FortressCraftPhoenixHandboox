@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>MassStorageInputPortMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Basic Mass Storage Input Port</Text>
+				</Title>
+				<Icon>
+					<Name>Mass Storage Input Port</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Use this to insert resources into Mass Storage. Carries 5 resources at a time.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>Techno_Lift</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Anti-Grav Lift</Text>
+        	<Alignment>Center</Alignment>
+				</Title>
+				<Icon>
+					<Name>TechnoAnti-GravLift</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Anti-Grav lift is a wonderful new method of moving vertically, without all that tedious mucking about with Grappling or Lifts. All versions behave identically, so you can use them to colour-code your base.</Text>
+				</Paragraph>
+				<Spacer/>
+        
+      	<Icon>
+					<Name>RainbowAnti-GravLift</Name>
+          <Target>
+            <Material>Rainbow_Lift</Material>
+          </Target>
+				</Icon>
+			 		<Paragraph>
+					<Text>The Rainbow Lift requires the Dapper DLC pack.</Text>
+				</Paragraph>
+ 
+				<Spacer/>
+				<Icon>
+					<Name>PredatorAnti-GravLift</Name>
+					<Target>
+						<Material>Predator_Lift</Material>
+					</Target>
+				</Icon>
+					<Paragraph>
+					<Text>The Predator Lift requires The Adventures Pack.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

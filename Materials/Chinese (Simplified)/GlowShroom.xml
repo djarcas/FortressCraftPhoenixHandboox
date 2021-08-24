@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>GlowShroom</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>荧光致幻菇</Text>
+				</Title>
+				<Icon>
+					<Name>GlowShroom</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>在这个星球表面发现一种发光的真菌。 不能吃！</Text>
+				</Paragraph>
+		
+				<Spacer/>
+				<Paragraph>
+					<Text>这种植物可以用来当柴烧。</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

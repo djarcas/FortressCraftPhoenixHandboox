@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 2</Handle>
+	<Title>基础矿工升级 II</Title>
+	<Icon>Enhanced Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>基础矿工升级 II</Text>
+				</Title>
+				<Icon>
+					<Name>Enhanced Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>根据我们之前对于采矿升级的研究，我们应该能够进一步提升我们的钻头和超载组件。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

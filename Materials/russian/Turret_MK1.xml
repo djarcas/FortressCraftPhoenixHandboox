@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>TurretMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Турель МК1</Text>
+				</Title>
+				<Icon>
+					<Name>Pop Up Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Эта Турель - основной элемент обороны с энергопотреблением от соседнего Генератора, Энергохранилища или от Лазерного Энергопередатчика.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Дальность:
+Урон (за выстрел):
+Энергии за выстрел:
+Энергоёмкость:
+Время перезарядки:</Left>
+					<Right>16 м
+50
+40 Э
+100 Э
+1 секунда</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

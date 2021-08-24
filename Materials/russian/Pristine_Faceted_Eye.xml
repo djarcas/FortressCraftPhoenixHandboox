@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>PristineFacetedEye</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Фасетчатый Глаз</Text>
+				</Title>
+				<Icon>
+					<Name>WaspEyePristine</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Из Глаз местной летающей фауны получается превосходная оптика. Этот образец в хорошем состоянии, его можно использовать.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

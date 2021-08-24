@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>GoldWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Golddraht</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Wire</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Golddraht wird in der Extruder Maschine aus Goldbarren hergestellt.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

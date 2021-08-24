@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>EmeraldFocusingLens</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Emerald Focusing Lens</Text>
+				</Title>
+				<Icon>
+					<Name>Emerald Focusing Lens</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+          <Text>Insert into a Laser Power Transmitter to provide a flat-rate boost to its power transmission rate. Gives a massive increase in low-tier LPTs, but is much less useful in higher Tier ones.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Power Transmission Rate:</Left>
+					<Right>30 PPS</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,40 @@
+<MaterialEntry>
+	<Key>CopperOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Copper Ore</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Found near the surface, Copper Ore can be smelted into Copper Bars using the smelter. Copper Bars are generally used in a wide range of machines with electrical components.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Short Facts</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Occurrence:
+					Ping Color:
+					1st Stage of Extraction:
+					2nd Stage of Extraction:				
+					
+					1st Stage of Smelting:
+					2nd Stage of Smelting:</Left>
+					<Right>-5 to -850m
+					Very Green
+					Build Gun MK1
+					Ore Extractor
+					
+					Ore Smelter
+					Blast Furnace setup</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

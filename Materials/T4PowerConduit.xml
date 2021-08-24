@@ -1,0 +1,35 @@
+<MaterialEntry>
+	<Key>ConduitPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Conduit</Text>
+				</Title>
+				<Icon>
+					<Name>PowerConduitT4</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>These interconnect T4 batteries in a straight line that are closer than 128 meters and balances power between them. Build in a 3x3x1 configuration attached to the T4 PSB's at the source and destination.</Text>
+				</Paragraph>
+        <Paragraph>
+          <Text>These can be aligned in any cardinal direction, and it's recommended that you interlink the majority of your base together to provide an infrastructure capable of storing millions of power.</Text>
+        </Paragraph>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Max. Power Transfer Rate:
+					Power Capacity:
+					Maximum Range:</Left>
+					<Right>10000 per second
+					10000
+					128m</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

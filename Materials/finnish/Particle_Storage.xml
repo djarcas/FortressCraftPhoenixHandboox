@@ -1,0 +1,44 @@
+﻿<MaterialEntry>
+	<Key>ParticleStoragePlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hiukkasvarasto</Text>
+				</Title>
+				<Icon>
+					<Name>Particle Storage</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Hiukkasvarastoa käytetään taltioimaan maksimissaan 4 hiukkaspuristimen tulos. Tämä monipalikkainen kone säilöö kerätyt ja puristetut hiukkaset ennen pullottamista. Hiukkasvarasto rakennetaan 3x7x3 muodostelmaan.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>T4_Particles</Chapter>
+					</Target>
+					<Text>Particulate Filtration System</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Filter</Material>
+					</Target>
+					<Text>Particle Filter</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Compressor</Material>
+					</Target>
+					<Text>Particle Compressor</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Gas Bottler</Material>
+					</Target>
+					<Text>Gas Bottler</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

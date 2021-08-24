@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>GreenCanvas</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Vihreä kangas</Text>
+				</Title>
+				<Icon>
+					<Name>Green Canvas</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Täysin vihreä kaunistamispalikka.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

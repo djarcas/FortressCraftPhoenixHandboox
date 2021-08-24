@@ -1,0 +1,40 @@
+﻿<MaterialEntry>
+	<Key>LaserEnergyTransmitterMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Laser Energie Tansmitter MK 2</Text>
+				</Title>
+				<Icon>
+					<Name>Laser Energy Transmitter MK2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Laserenergietransmitter bilden das Skelett des Energienetzes. Sie können ihre Energie bis zu 64m weit an Maschinen, Energiespeicher oder weitere Laserenergietransmitter übertragen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Um das Menü des Laserenergietransmitters zu öffnen, drücke die Interagieren Taste (standard [E]). Dort ist es möglich die Linse zu wechseln und dadurch die Effizienz/Übertragungsrate um einiges zu verbessern. Es lässt sich außerdem das Verhalten beeinflussen, wann der Transmitter das nächste mal seine Energie überträgt. LET haben eine geringe interne Kapazität, sollte mit einem Energiespeicher ergänzt werden, um eine zuverlässige Stromversorgung zu gewährleisten, da Angebot und Nachfrage variieren.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Energiepaketgröße:
+Paketübertragungsrate:
+Ø Energieübertragung:
+Kapazität:
+Reichweite:</Left>
+					<Right>40
+1.67 pro Sekunde
+66.7 pro Sekunde
+192
+64 Meter</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

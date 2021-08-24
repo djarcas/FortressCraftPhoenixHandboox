@@ -1,0 +1,22 @@
+﻿<Chapter>
+	<Handle>T4_Particles</Handle>
+	<Title>Filtrace Částic</Title>
+	<Icon>Particulate Filtration</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Filtrace Částic</Text>
+				</Title>
+				<Icon>
+					<Name>Particulate Filtration</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					<Text>Díky studiu systému filtrování částic máme nyní možnost filtrovat různé prvky ze vzduchu. Budování těchto systémů v různých jeskyních by nám mělo umožnit extrahovat, koncentrovat a uskladnit různé prvky nacházejících se ve vzduchu. Vzhledem k průměrné velikosti těchto jeskyní a hustotě částic ve vzduchu by tento proces neměl mít žádné viditelné dlouhodobé účinky. Tyto systémy mohou snížit nepřátelství prostředí pro přirozenou flóru a faunu, tento účinek by měl být zanedbatelný, protože neexistuje známá převážně nepřátelská flóra nebo fauna. Studené jeskyně nás osvěží Freezonem, Toxické jeskyně Chlorinem a Lávové Jeskyně Sírou .</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

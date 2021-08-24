@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>MinecartUnloadStation</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>矿车卸货车站</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart Unload</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>将装载的材料卸载到附加的存储料斗中。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Minecart Depot</Material>
+					</Target>
+					<Text>Minecart Depot</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,32 @@
+<MaterialEntry>
+	<Key>ConveyorTurntable</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Conveyor Turntable</Text>
+				</Title>
+				<Icon>
+					<Name>Conveyor Turntable</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+        <Paragraph>
+          <Text>The Conveyor Turntable can be used to split one conveyor line into two or three others equally distributing the items between each line. To ensure material flows correctly avoid placing turntables directly adjacent to Storage Hoppers or other turntables.</Text>
+        </Paragraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>The Turntable will split things evenly as long as the incoming items are more often than once per 15 seconds. It will also deal with blocked inputs and move on to the next output.</Text>
+        </Paragraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>The Turntable is capable of dealing with a fully-saturated Tube, and will not introduce any slowdown; if you feed 100 items a minute into it, and it has 4 free outputs, it will deliver 25/min to each one.</Text>
+        </Paragraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>Hint : You can feed the Turntable from below!</Text>
+        </Paragraph>
+				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

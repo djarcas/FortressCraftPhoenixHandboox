@@ -1,0 +1,42 @@
+﻿<MaterialEntry>
+	<Key>LaserResinLiquifier</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Разжижитель Смолы</Text>
+				</Title>
+				<Icon>
+					<Name>Laser Resin Liquifier</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+				<Paragraph>
+					<Text>Эта машина - второй этап трёх-ступенчатого метода, включающего в себя использование и удаление Твёрдой Смолы, которую выделяют Разумы Роя.
+Разжижитель использует поток ионизированной плазмы, чтобы расплавить и добыть ставшую текучей внутреннюю массу - Текучую Смолу.
+Затем вы можете использовать Очиститель Текучей Смолы, чтобы превратить её в Очищенную Жидкую Смолу.
+Для превращения Твёрдой Смолы в Аблированную Смолу используйте Лазерный Аблятор Смолы.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Laser Resin Ablator</Material>
+					</Target>
+					<Text>Laser Resin Ablator</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Liquid Resin Refiner</Material>
+					</Target>
+					<Text>Liquid Resin Refiner</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>Refined Liquid Resin</Material>
+					</Target>
+					<Text>Refined Liquid Resin</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

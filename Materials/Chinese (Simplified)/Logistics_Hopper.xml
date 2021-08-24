@@ -1,0 +1,32 @@
+﻿<MaterialEntry>
+	<Key>LogisticsHopper</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>物流料斗</Text>
+				</Title>
+				<Icon>
+					<Name>LogisticsHopper</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>物流料斗是标准储存料斗的便宜版本，只能存储2单位物品，处理每件物品需要10秒钟。 物流料斗适合作为白板矿物分离器的输出料斗。 如果成为物流瓶颈，应该考虑升级。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>有关储物斗的更多信息，请参阅标准储存料斗指南。</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Page>0</Page>
+						<Material>StorageHopper</Material>
+					</Target>
+					<Text>Storage Hopper</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

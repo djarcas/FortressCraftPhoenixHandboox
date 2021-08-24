@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>IronCoil</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>铁线圈</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>一个简单的铁线圈，由铁丝在绕线机制造。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

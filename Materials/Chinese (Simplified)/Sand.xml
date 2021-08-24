@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SandNonFluid</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>沙子</Text>
+				</Title>
+				<Icon>
+					<Name>Sand</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>沙子是自然界发现的一种方块，类似流体，因为如果所取出的沙子比包围它的沙子的高度低，周围将取代任何被移走的沙子。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

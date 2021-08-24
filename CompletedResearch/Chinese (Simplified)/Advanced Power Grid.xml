@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>T3 Power</Handle>
+	<Title>高级能量块</Title>
+	<Icon>Advanced Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>高级能量块</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>我们对电力基础设施进行了进一步改进，包括新的能源存储块和激光输电器。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>我们还对一种新型发电机进行了一些临时设计，然而为了完成这项研究，我们还需要找到比如今依赖的煤能量密度更高的能源。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

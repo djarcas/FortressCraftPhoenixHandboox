@@ -1,0 +1,32 @@
+﻿<Chapter>
+	<Handle>ore pings</Handle>
+	<Title>Vylepšené Skenování Rud</Title>
+	<Icon>Improved Ore Scanning</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Vylepšené Skenování Rud</Text>
+				</Title>
+				<Icon>
+					<Name>Improved Ore Scanning</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Úspěšně jsme modernizovali Skener Rudy pro podporu filtrování. Chcete-li tuto funkci použít, vyrobte si ve Výrobně Prázdný Detektor Surovin. Následně jej přeměnte na požadovaný filtr pomocí Ruční Výroby (C).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Umístěte požadovaný Filtr Surovin do rychlého menu a aktivujte ho (LMB). Tímto filtr \&quot;nahrajete\&quot; do skeneru a použijete ho. Filtr bude spotřebován.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<URL>www_youtube_com/tv#/watch?v=1MLHgXDFczo</URL>
+<!-- Full screen, auto-playing URL-->
+					</Target>
+					<Text>Click here to watch a tutorial on the Crystal Scanner</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

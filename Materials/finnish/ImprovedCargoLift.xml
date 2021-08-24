@@ -1,0 +1,53 @@
+﻿<MaterialEntry>
+	<Key>CargoLiftImproved</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Paranneltu rahtihissi</Text>
+				</Title>
+				<Icon>
+					<Name>Improved Cargo Lift</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Toinen saatavilla oleva rahtihissi on paljon nopeampi ja suurempi kuin perushissi. Tämä on ihanteellista syvempien materiaalien kuten nikkeli, kristalli ja biomassa massakuljetukseen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>Maksimikantama:
+					Maksiminopeus:
+					Kiihdytys:
+					Maksimikapasiteetti:
+					Virrankäyttö (matkustaessa):
+					</Left>
+					<Right>Rajoittamaton
+					10 metriä sekunnisa
+					0.5 metriä neliösekunnissa
+					1000
+					250 e/s
+					</Right>
+				</TwoColumnParagraph>
+
+				<Icon>
+					<Name>Cargo Lift Controller</Name>
+					<Target><Material>Cargo Lift Controller</Material>
+</Target>
+				</Icon>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Cargo Lift Controller</Material>
+					</Target>
+					<Text>CargoLift Controller</Text>
+				</Link>
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

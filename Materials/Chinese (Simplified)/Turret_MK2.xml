@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>TurretMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>炮塔 MK2</Text>
+				</Title>
+				<Icon>
+					<Name>Pop Up Turret MK2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>基本的能量防御武器。必须由相邻的发电机、能量块或通过激光输电器供电。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品参数</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>范围:
+损坏 (每射击):
+电源要求 (每射击):
+最大功率容量:
+重新加载时间:</Left>
+					<Right>20m
+ 96
+ 32
+ 192
+ 0.4 s</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

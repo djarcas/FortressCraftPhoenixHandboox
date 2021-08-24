@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>DapperWall</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Silotteluseinä</Text>
+				</Title>
+				<Icon>
+					<Name>DapperWall</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Silottelupakkauksen kosmeettinen palikka. Kiitos ForttressCraft:n tukemisesta!</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

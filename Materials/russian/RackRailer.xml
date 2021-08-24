@@ -1,0 +1,46 @@
+<MaterialEntry>
+	<Key>RackRailer</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Установщик Зубчатых Рельсов</Text>
+				</Title>
+				<Spacer/>
+				<Icon>
+					<Name>Pipe Extrusion Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Установщик Зубчатых Рельсов - машина изготавливающая Зубчатые рельсы для Грузовых Лифтов из пары железных слитков.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Rack Rail</Material>
+					</Target>
+					<Text>Rack Rail</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Требуемая энергия:</Left>
+					<Right>100 Э/с</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Paragraph>
+					<Text>За подробностям обращайтесь к справке по Контроллеру Грузового Лифта.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target><Material>Cargo Lift Controller</Material>
+</Target>
+					<Text>Cargo Lift Controller</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

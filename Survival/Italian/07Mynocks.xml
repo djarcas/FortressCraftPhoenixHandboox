@@ -1,0 +1,26 @@
+﻿<Chapter>
+	<Handle>Mynocks</Handle>
+	<Title></Title>
+	<Icon>Local Life Forms</Icon>
+	<Hidden>true</Hidden>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Icon>
+					<Name>Local Life Forms</Name>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>CopperHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>铜质外壳</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>由铜板制成的简单铜壳。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

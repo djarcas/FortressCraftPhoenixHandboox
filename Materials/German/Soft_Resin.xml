@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SoftResin</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Weiches Harz</Text>
+				</Title>
+				<Icon>
+					<Name>Soft Resin</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Weiches Harz scheint ein Nebenprodukt der Versuche von Overmind zu sein, den Zentraler Energieverteiler zu erreichen. Es ist in der Regel diagonal von unserer Basis, auf der Oberfläche. Organisches Gestein ist hier reichlich vorhanden.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

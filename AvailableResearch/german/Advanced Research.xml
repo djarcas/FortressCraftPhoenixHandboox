@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>advanced research</Handle>
+	<Title>Fortgeschrittene Forschung</Title>
+	<Icon>Laboratory Component</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fortgeschrittene Forschung</Text>
+				</Title>
+				<Icon>
+					<Name>Laboratory Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Unsere Forschungsmöglichkeiten sind durch die technischen Begrenzungen der Forschungsstation stark eingeschränkt! Durch die Neuentwicklung eines automatisierten Labors sollten wir in der Lage sein komplexere Projekte anzugehen.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

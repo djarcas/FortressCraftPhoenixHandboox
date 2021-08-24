@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>LiftManualControlModule</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Manuelle Liftsteuerung</Text>
+				</Title>
+				<Icon>
+					<Name>Lift Manual Control Module</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Befestige dies an der Basis des Lifts um den Lift mithilfe deines Anzuges manuell steuern zu können. Benötigt Energie.
+benutze [Pos1] und [ENDE] zum beschleunigen / verlangsamen des Lifts.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

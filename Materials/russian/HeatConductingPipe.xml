@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Key>HeatConductingPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Теплопроводящая Труба</Text>
+				</Title>
+				<Icon>
+					<Name>Heat Conducting Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Теплопроводящие Трубы объединяют в себе эффективный тепломассоперенос Меди и прочность Кристаллической Сетки при больших давлениях. Эти новые трубы помогут реализовать эффективную Геотермальную генерацию энергии, что необходимо при растущем энергопотреблении машин.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Pipe Coater</Material>
+					</Target>
+					<Text>Pipe Coater</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Geothermal Generator comp.</Material>
+					</Target>
+					<Text>Geothermal Generator comp.</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

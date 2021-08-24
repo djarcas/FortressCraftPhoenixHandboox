@@ -1,0 +1,22 @@
+﻿<Chapter>
+	<Handle>black box</Handle>
+	<Title>Данные чёрного ящика</Title>
+	<Icon>&gt;Black Box Data</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Данные чёрного ящика</Text>
+				</Title>
+				<Icon>
+					<Name>Black Box Data</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>В вашем костюме есть чёрный ящик, в котором хранятся данные со всех датчиков до крушения на планете. Изучив эти данные можно понять, что же случилось.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

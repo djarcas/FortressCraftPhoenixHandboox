@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ConveyorBeltFilter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>传送带分拣器</Text>
+				</Title>
+				<Icon>
+					<Name>Conveyor Belt Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;使用传送带分拣器可以更精确地控制资源分配。 这种筛选器用于控制从传送带网络中的料斗排出的材料。 您可以设置一个筛选器来移除垃圾，矿石，有机体（ORGANIC），宝石，煤，生物质（BIOMASS），可融物，可燃物，制作的物品（CRAFTED ITEMS），水晶或金属锭。 &quot;</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

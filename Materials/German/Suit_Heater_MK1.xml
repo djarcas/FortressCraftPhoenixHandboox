@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SuitHeaterMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Anzugsheizung MK1</Text>
+				</Title>
+				<Icon>
+					<Name>Suit Heater MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein viel stärkerer thermischer Kern ermöglicht es der verbesserten Anzugsheizung, den Benutzer bei Temperaturen nahe Null zu halten. Der Stromverbrauch ist ebenfalls erhöht. Du brauchst nur einen davon und er muss in deinem Inventar aufbewahrt werden, damit er funktioniert.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

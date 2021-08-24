@@ -1,0 +1,34 @@
+﻿<MaterialEntry>
+	<Key>BlankOrePing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tyhjä malmisysäys</Text>
+				</Title>
+				<Icon>
+					<Name>Blank Ore Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tyhjää malmisysäystä käytetään mallimalmin kanssa malmisysäyssuodattimen tekemiseen. Nämä suodatetut malmisysäykset on suunniteltu mahdollistamaan saman tyypin malmin suonien löytämiseen jos edellinen on lähes loppu tai liian pieni käytettäväksi.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Käyttö</Text>
+</Header>
+				<Paragraph>
+					<Text>1. Tuota sopiva määrä tyhjiä malmisysäyksiä valmistusasemalla.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>2. Kun suodatettua malmisysäystä tarvitaan, yhdistä tyhjä malmisysäys mallimalmin kanssa pukusi itsevalmistuskyvyllä (oletus \&apos;C\&apos;).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>3. Aseta malmisysäyssuodatin pikapalkkiisi ja valitse se. Lähetä sysäys painamalla &apos;rakennna&apos; nappia (oletus &apos;VHN&apos;). Tämä syöttää sen malmiluotaimeesi ja luotain lähettää suodatettun sysäyksen ja myös näytetään holotukikohdassa. Malmisysäys kulutetaan prosessissa.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

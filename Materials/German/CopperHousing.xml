@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>CopperHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kupfergehäuse</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein einfaches Kupfergehäuse, hergestellt aus Kupferplatten.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

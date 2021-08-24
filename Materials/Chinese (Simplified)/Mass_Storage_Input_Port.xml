@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>MassStorageInputPortMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>大容量存储输入端口</Text>
+				</Title>
+				<Icon>
+					<Name>Mass Storage Input Port</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>将此块放在大容量存储块旁边以将物品输入到大容量存储器中。 可以从传送带直接进给，以便将物品一个个加入。不同的物品类型可以由同一个输入端口依次导入。</Text>
+				</Paragraph>
+				<Header>
+					<Text>警告！</Text>
+				</Header>
+				<Paragraph><Text>与储物箱无关！</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

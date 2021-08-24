@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>TitaniumWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>钛线</Text>
+				</Title>
+				<Icon>
+					<Name>Titanium Wire</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>由挤压机中的钛锭制成的简单钛线。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

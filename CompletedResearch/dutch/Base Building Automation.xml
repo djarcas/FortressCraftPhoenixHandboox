@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>T1 assist machines</Handle>
+	<Title>Automatisatie Basisconstructie</Title>
+	<Icon>Base Building Automation</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Automatisatie Basisconstructie</Text>
+				</Title>
+				<Icon>
+					<Name>Base Building Automation</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>We hebben nu een grote verscheidenheid aan nieuwe machines beschikbaar om onze basis te automatiseren. Gebruik het Snijrooster om nutteloze rotsen om te malen en om te ruilen in mogelijke nuttige ertsen. De auto-graafmachine kan boven zichzelf schachten uitgraven, terwijl de auto-bouwer lange transportbanen voor ons kan bouwen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Gebruik de liften om veilig te reizen tussen uw basis aan het oppervlak en uw diepere mijnen. Gebruik de explosieven om grote gebieden uit te ruimen of vijandige doelen te vernietigen.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>GlowShroom</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Leuchtpilz</Text>
+				</Title>
+				<Icon>
+					<Name>GlowShroom</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein leuchtender Pilz der auf der Oberfläche dieses Planeten gefunden wurde. Nicht essen!</Text>
+				</Paragraph>
+		
+				<Spacer/>
+				<Paragraph>
+					<Text>Diese Pflanze kann verbrannt werden um Energie zu gewinnen.</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

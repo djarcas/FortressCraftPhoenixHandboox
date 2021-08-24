@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>LithiumCoil</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Litiumkela</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen litiumkela on tehty litiumlangasta kelausasemalla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

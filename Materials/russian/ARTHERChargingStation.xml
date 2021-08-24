@@ -1,0 +1,32 @@
+<MaterialEntry>
+	<Key>ARTHERChargingStation</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Зарядная Станция АРЧЕРа</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Charging Station</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Быстро заряжайте АРЧЕРа от энергосети вашей базы. Лучше всего сочетать с улучшенной батареей АРЧЕРа.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Скорость зарядки АРЧЕРа:
+ Ёмкость станции:
+ Скорость накопления энергии самой станции:</Left>
+					<Right>25 Э/с
+ 1500 Э
+ 10 Э/с</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

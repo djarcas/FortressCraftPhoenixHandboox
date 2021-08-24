@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERBatteryCore</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER-Batteriekern</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Battery Core</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Erlaubt es ARTHER 8x mehr Energie zu speichern als üblich. Baue dies so früh wie möglich! Du benötigst nur einen einzigen, den du in deinem Inventar aufbewahrst.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

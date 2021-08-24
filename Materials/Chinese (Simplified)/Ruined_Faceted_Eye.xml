@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>RuinedFacetedEye</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>破碎的复眼</Text>
+				</Title>
+				<Icon>
+					<Name>WaspEyeRuined</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>来自当地飞行生物的眼睛是优秀的光学元件。这个东西损坏得太严重，不能用了。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

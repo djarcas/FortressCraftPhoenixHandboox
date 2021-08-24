@@ -1,0 +1,41 @@
+﻿<Chapter>
+	<Handle>T1 Power</Handle>
+	<Title>能量块</Title>
+	<Icon>Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>能量块</Text>
+				</Title>
+				<Icon>
+					<Name>Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>我们现在有一种新的生产并运输电能的方案。该项目还为ARTHER和一个新的机器物质传送仪设计了升级功能，能够将物料从一个料斗传送到另一个料斗。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>热能发电机</Text>
+</Header>
+				<Icon>
+					<Name>Pyrothermic Generator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>本机将连接的存储箱中的可燃资源转换为能源。 它需要大量的新鲜空气，因此越深效率越低。</Text>
+				</Paragraph>
+				<Header><Text>激光输电器</Text>
+</Header>
+				<Icon>
+					<Name>Laser Energy Transmitter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>放置在发电机或电池旁边，以将电力传输到电池，电力消费者或其他激光输电器。我们可以用这个来给我们更深处的采矿作业传输能量。</Text>
+				</Paragraph>
+					
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

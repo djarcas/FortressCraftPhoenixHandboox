@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T2 Power</Handle>
+	<Title>Réseau d\&apos;Énergie Amélioré</Title>
+	<Icon>Upgraded Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Réseau d\&apos;Énergie Amélioré</Text>
+				</Title>
+				<Icon>
+					<Name>Upgraded Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Notre infrastructure d\&apos;énergie se déroule très bien. Cependant, notre technologie de batterie est assez limitée, ce projet tentera de concevoir une meilleure batterie pouvant stocker plus de puissance, ce qui nous fournira un tampon plus important.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

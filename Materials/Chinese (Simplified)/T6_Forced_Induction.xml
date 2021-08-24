@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>ForcedInductionMK6</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>电弧冶炼机升级</Text>
+				</Title>
+				<Icon>
+					<Name>Forced InductionT6</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>这种高能耗套件可以让你升级单个矿石熔炼炉以应对铬和钼。
+
+  由于电弧冶炼机升级特别低效，应该尽快用适当的系统来处理这些材料。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>基础熔炼炉不支持增压进气升级。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>熔炼速率：
+能量使用：</Left>
+					<Right>50%
+ 12800%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

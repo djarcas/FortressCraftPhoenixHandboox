@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>CoalInfuser</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>水晶煤粉粉碎机（Crystal Coal Infuser）</Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Coal Infuser</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>水晶煤粉粉碎机（Crystal Coal Infuser）使用少量的电力来增加富氧热煤在热能发电机中产生的功率。 水晶煤燃烧器在15秒的时间内使用0.1pps，以将富氧煤转换为特高热值煤。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

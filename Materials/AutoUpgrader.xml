@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Key>AutoUpgrader</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Auto Upgrader</Text>
+				</Title>
+				<Icon>
+					<Name>Auto Upgrader</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Automatically upgrade the rank of conveyors. Requires a hopper containing conveyor belts.</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Power Per Block:
+					Power Capacity:
+					Max. Power Recharge Rate:</Left>
+					<Right>24 per second
+					512
+					100 per second</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

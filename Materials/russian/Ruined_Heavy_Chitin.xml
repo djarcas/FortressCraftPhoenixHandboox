@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>RuinedHeavyChitin</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Испорченный Тяжёлый Хитин</Text>
+				</Title>
+				<Icon>
+					<Name>WaspHeavyChitinRuined</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Хитин – состоит из длинных цепочек полимера, молекула которого включает в себя углерод, водород, кислород и азот. По-видимому, это фундаментальный компонент экзоскелета у многих местных форм жизни. Этот образец испорчен и непригоден для обычного производства.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

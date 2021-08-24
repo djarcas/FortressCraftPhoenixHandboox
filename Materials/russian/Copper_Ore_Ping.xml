@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>CopperOrePing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Пробник Медной Руды</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Ore Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Пробник Медной Руды используется для поиска дополнительных Медных жил, когда известные вам жилы исчерпаны или недостаточны по объёму. Дополнительную информацию см. в справочном руководстве по Пустым Рудным Пробникам.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Blank Ore Ping</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

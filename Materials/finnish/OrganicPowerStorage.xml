@@ -1,0 +1,37 @@
+<MaterialEntry>
+	<Key>OrganicPowerStorage</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Orgaaninen virtalohko</Text>
+				</Title>
+				<Icon>
+					<Name>Organic Power Storage</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Orgaaninen virtalohko voi varata jopa 8500 energiaa. Se ottaa energiaa liitetystä voimalasta ja antaa sen liitetyille koneille tai energiasiirtimille. Useammat virtavarastolohkot jakavat energiaa keskenään. Tämä ei kuitenkaan ole tehokasta muutamaa palikkaa pidemmälle. Laserenergiasiirtimiä tulisi käyttää tähän tarkoitukseen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Energiaa voi ottaa virtavarastolohkosta painamalla &#39;Ota&#39; näppäintä (oletus &#39;Q&#39;) ja lisätä &#34;vuorovaikuta&#34; näppäimellä (oletus &#39;E&#39;).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Orgaaninen virtalohko varaa paljon virtaa verrattuna sen hintaan. Se kuitenkin siirtää virtaa hitaasti.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Virtakapasiteetti:
+					Maksimivirransiirtonopeus:</Left>
+					<Right>8500
+					500 sekunnissa</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

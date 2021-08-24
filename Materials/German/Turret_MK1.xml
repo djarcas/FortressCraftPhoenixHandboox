@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>TurretMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Geschützturm MK1</Text>
+				</Title>
+				<Icon>
+					<Name>Pop Up Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Grundlegende Energie-basierte Verteidigung. Muss von einem benachbarten Energiegenerator, Energiespeicher oder über einen Laserenergieransmitter gespeist werden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Reichweite:
+Schaden (pro Schuss):
+Energiebedarf (pro Schuss):
+Max. Energiespeicher:
+Nachladezeit:</Left>
+					<Right>16m
+50
+40
+100
+1 Sekunde</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,63 @@
+<MaterialEntry>
+	<Key>FALCORBeacon</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>FALCOR Beacons</Text>
+				</Title>
+		
+						
+				<Icon>
+					<Name>FALCOR Beacon</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+				<Paragraph>
+					<Text>The Fully-Automated Loot Collector Organisational Robots (or FALCOR for short!) Beacons can be used in one of three different modes.
+
+					If the Beacon was placed on the floor, then it will collect items within 16 meters in all directions and hold it until a MK1 FALCOR is free to collect.
+
+					If the Beacon was placed on top of a Storage Hopper, then it will collect items from that Storage Hopper and hold it until a Logistics FALCOR is free to collect.
+					
+					If a Beacon is added to the Spiderbot the Beacon will Pickup Loot around the Spiderbot. SpiderCor Drones need to collect the Loot then from the Beacons. (Only two Beacons required)
+
+					</Text>
+					</Paragraph>
+					<Spacer/>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Paragraph>
+				<Text>
+					FALCOR bases do not require power, neither do Storage Beacons. Collector Beacons however require power.
+					
+					For the first and second Beacon types a Clearance of at least 16m above them is required.
+				</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>FALCORMK1</Material>
+					</Target>
+					<Text>FALCOR MK1</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>FALCORMK2</Material>
+					</Target>
+					<Text>Logistics FALCOR</Text>
+				</Link>				
+				<Link>
+					<Target>
+						<Material>FALCORMK4</Material>
+					</Target>
+					<Text>SpiderCOR</Text>
+				</Link>
+				 
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

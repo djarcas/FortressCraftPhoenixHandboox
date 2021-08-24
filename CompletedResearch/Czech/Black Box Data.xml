@@ -1,0 +1,32 @@
+﻿<Chapter>
+	<Handle>black box</Handle>
+	<Title>Data Černé Schránky</Title>
+	<Icon>Black Box Data</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Data Černé Schránky</Text>
+				</Title>
+				<Icon>
+					<Name>Black Box Data</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>																																																																	  			
+					<Text>Byla dokončena důkladná analýza údajů černé skříňky zaznamenaných vaším oblekem. To potvrzuje vaši vizuální analýzu, že cizí objekt, nejspíše meteor, narazil do stanice, když jste se chystal k dokování. Následný výbuch poškodil lodní manévrovací trysky a způsobil nouzové přistání na tuto mimozemskou planetu. V tuto chvíli nebyly zjištěni žádní další přeživší.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Není známo, proč meteor nebyl detekován staničnímy senzory s dlouhým dosahem, případné příčiny zahrnují chybu systému nebo sabotáž.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Naštěstí výbuch přežil koloniální konstrukční modul a zaměřil se na tísnový signál vaší lodi. Přistál vedle místa havárie. Jedná se o standardní Vortox X103 MK V modul, který obsahuje Centrální Energetický Hub, který je obklopen slévárnou, výrobním zařízením a výzkumnou stanicí. Je také vybaven systémem autonomní robotické obrany, který by nám měl pomoci přežít jakékoliv rané útoky, pokud bychom na této planetě našli nějaký nepřátelský život.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

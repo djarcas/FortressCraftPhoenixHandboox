@@ -1,0 +1,52 @@
+﻿<MaterialEntry>
+	<Key>CentralPowerHub</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>中央电力枢纽（CPH）</Text>
+				</Title>
+				<Icon>
+					<Name>Central Power Hub</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>中央电力中心（CPH）是您基地最重要的机器。 它是太先进了故难以复制，没了它你将无法在这个世界生存，所以你必须不惜一切代价保护它。</Text>
+				</Paragraph>
+				<Header>
+					<Text>能量生产</Text>
+				</Header>
+			
+				<Paragraph>
+					<Text>CPH包含一个大型内部电池，可以储存其太阳能电池板收集的能量和内部的小型化石燃料发电机。 一次只能燃烧一单元燃料，所以您应该尽快使用存储料斗或小型料斗来自动化燃料输送。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>CPH将自动将能量推送到需要它的周边机器上。 您还可以通过与之交互直接注入或提取能量（默认为“E”）。 该控制面板还允许您将燃料加入发电机。</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>轨道激光</Text>
+				</Header>
+				<Paragraph>
+					<Text>从CPH顶部发射的激光束可用作找到您的基地的信标灯，但请注意不要在其附近放置任何方块，否则它们有可能被毁。</Text>
+				</Paragraph>
+
+			</Paragraphs>
+		</Page>
+	
+		<Page>
+			<Paragraphs>	
+			<Header>
+					<Text>计算机系统</Text>
+				</Header>
+				<Paragraph>
+					<Text>CPH包含大多数协调您的基地的计算机系统，控制信号可以无线发送，在电力和物质传输梁中编码，并沿着传送带。 无线连接由您的防护服提供，但是如果您发现被孤立的远方机器快要停止运行了，请考虑建立基本的激光输电线路。</Text>
+				</Paragraph>
+	
+			</Paragraphs>
+		</Page>
+	
+	</Pages>
+</MaterialEntry>
+

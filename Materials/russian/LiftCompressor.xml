@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Key>LiftCompressor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Лифтовой Компрессор</Text>
+				</Title>
+				<Icon>
+					<Name>Lift Compressor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Присоедините к основанию поршня Лифта, чтобы повысить скорость, с которой восстанавливается давление, что важно для часто используемых Лифтов. Этот Компрессор должен быть запитан от внешнего источника питания. Чтобы достичь максимальной высоты в 256 метров, установите два компрессора.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Восстановление газа в поршне:
+ Потребляемая Энергия:
+ Энергоёмкость:
+ Скорость передачи энергии:</Left>
+					<Right>0.15 л/с
+ 1 Э/с
+ 150 Э
+ 5 Э/с</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

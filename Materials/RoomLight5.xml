@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>RoomLight_5</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>RoomLight #5</Text>
+				</Title>
+				<Icon>
+					<Name>RoomLight #5</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A light like RoomLight #4 but with 2 bars, still spans 3 blocks. Paintable and rotatable.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

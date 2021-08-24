@@ -1,0 +1,29 @@
+﻿<MaterialEntry>
+	<Key>PCBAssemblingPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>PCB组装机</Text>
+				</Title>
+				<Icon>
+					<Name>PCB Assembling Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>PCB组装机用于从线圈制造印刷电路板。</Text>
+				</Paragraph>
+				<Header>
+					<Text>用法</Text>
+				</Header>
+				<Paragraph>
+					<Text>从另一传送带（设备）进料，将金属线圈送入PCB组装机并转换为可用于其他工序的PCB。</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>PCB组装机对实验室研究的自动化至关重要。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

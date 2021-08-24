@@ -1,0 +1,31 @@
+﻿<MaterialEntry>
+	<Key>SpiderBotBlaster</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>蜘蛛机器人爆裂枪</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot Defences 3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>这种可瘫痪的武器可以瞄准一个敌人，并可对更快，更小的目标提供少量的速射火力防御。 请注意，安装这个可能会对表层土壤和积雪造成严重破坏。 在准备好这个小坏蛋之前，请确保你已经准备好了战争区域！</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>你只需要制作并装配其中之一！</Text>
+				</Header>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SpiderBot Base Component</Material>
+					</Target>
+					<Text>More information regarding SpiderBot!</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

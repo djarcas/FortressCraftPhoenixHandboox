@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>ChilledCavernStone</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kolea luolakivi</Text>
+				</Title>
+				<Icon>
+					<Name>Chilled Cavern Stone</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Pääpalikkatyyppi syvyyksien -215 and -270 metriä välillä. Palikka ei aiheuta kylmää itsessään vaikka luolat josta löydät ne ovat hyvin kylmiä. Voidaan murskata murkaimessa silloin tällöin hyödyllisen malmin löytämiseksi. Palikka voidaan asettaa.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

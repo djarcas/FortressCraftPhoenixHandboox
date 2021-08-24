@@ -1,0 +1,33 @@
+﻿<MaterialEntry>
+	<Key>Macerator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Murskain</Text>
+				</Title>
+				<Icon>
+					<Name>Macerator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Murskain pystyy hävittämään kaikkein kestävimmätkin materiaalit. Joskus tästä prosessista tulee mineraaliyhdisteitä sisäänpannusta esineestä. Ulostullut malmi on erottamaton normaalista malmista ja voidaan kohdella sellaisena.</Text>
+				</Paragraph>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>Vaatii virtaa:</Left>
+					<Right>Kyllä</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Header>
+					<Text>Vinkkejä ja temppuja!</Text>
+				</Header>
+				<Paragraph><Text>- Tätä konettaa syötetään liukuhihnalta ja vie kerätyn malmin viereiseen varastohypyttimeen.</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

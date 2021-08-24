@@ -1,0 +1,39 @@
+﻿<MaterialEntry>
+	<Key>GeologicalSurveyor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>地质测量仪</Text>
+				</Title>
+				<Icon>
+					<Name>Geological Surveyor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>地质测量仪扫描其附近的地貌特征，发现资源，返回找到的矿石的总量。 用于为采石场定位最佳地点。</Text>
+				</Paragraph>
+				<Spacer/>
+bulk
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>搜索尺寸：
+  搜索深度：
+  需要能量：
+  能量容量：
+  最大充电速率：
+  最大扫描速度：</Left>
+					<Right>9m x 9m
+ 1024m
+ 40/s
+ 100
+ 100/s
+ 320m/s</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

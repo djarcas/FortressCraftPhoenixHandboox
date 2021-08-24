@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>FusionDrillMotor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>聚变钻头</Text>
+				</Title>
+				<Icon>
+					<Name>Fusion Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>以增加能耗为代价提高采矿设备的开采速率。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>开采速率：</Left>
+					<Right>1600%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

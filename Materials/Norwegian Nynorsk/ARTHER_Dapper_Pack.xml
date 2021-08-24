@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERDapperPack</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Dapper pakke</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Dapper Pack</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Full Dapper! Bruk denne for å spare plass i inventaret ditt ved å kombinere alle tidlegere Dapper oppgraderinger til ein gjenstand. Det må vere i inventaret ditt for å bruke oppgraderingene.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERSolarPanel</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER 太阳能板</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Solar Panel</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>提高ARTHUR从阳光发电的速度。 只需要一份，并且必须放入物品栏以生效。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

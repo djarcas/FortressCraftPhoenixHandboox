@@ -1,0 +1,57 @@
+﻿<Chapter>
+	<Handle>mining upgrade 1</Handle>
+	<Title>Eenvoudige Mijnbouwverbeteringen I</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Eenvoudige Mijnbouwverbeteringen I</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>We hebben met succes een aantal upgrades onderzocht om onze mogelijkheden voor het verzamelen van grondstoffen te verbeteren.</Text>
+				</Paragraph>
+				<Header><Text>Eenvoudige Ertssmeltoven</Text>
+</Header>
+				<Icon>
+					<Name>Basic Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>We kunnen nu een eenvoudige ertssmeltoven bouwen. Deze ondersteunt geen verbetering en is trager en minder efficiënt dan de normale smeltoven die bij de buitenpost werd geleverd, maar het zou moeten helpen om dat knelpunt voorlopig te elimineren.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>De meeste grondstoffen die we dicht bij de oppervlakte gevonden hebben, zijn niet goed geschikt om ertssmeltovens te bouwen, maar scans hebben enkele kleine rotsformaties getoond die de vereiste eigenschappen kunnen hebben.</Text>
+				</Paragraph>
+				<Header><Text>Geforceerde Inductie</Text>
+</Header>
+				<Icon>
+					<Name>Forced Induction</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Geforceerde inductiemodules kunnen bovenop normale smeltovens geplaatst worden om het smelttempo te verbeteren ten koste van meer energie. De eenvoudige smeltoven ondersteunt deze niet.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header><Text>Boormotoren</Text>
+</Header>
+				<Icon>
+					<Name>Basic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Boormotoren kunnen in een ertsonttrekker worden geplaatst om hun extractiesnelheid te verbeteren ten koste van meer energie.</Text>
+				</Paragraph>
+					
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

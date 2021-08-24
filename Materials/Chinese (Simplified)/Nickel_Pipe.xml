@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>NickelPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>镍管</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>在管道挤压机中由镍锭制成的简单镍管。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

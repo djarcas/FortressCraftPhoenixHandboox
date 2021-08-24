@@ -1,0 +1,62 @@
+﻿<MaterialEntry>
+	<Key>ManufacturingPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>制造工厂</Text>
+				</Title>
+				<Icon>
+					<Name>Manufacturing Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>制造工厂可用于制造大部分机器和物品。 一些物品需要专门的装配机器，这将列在对应项目的手册（H）条目中。 要打开制造界面，请按“交互”键（默认为“E”）。 您还可以随时使用您的防护服手动制作有限数量的物品，并通过打开手工制作界面（默认为“C”）来制作工具。</Text>
+				</Paragraph>
+				<Header>
+					<Text>制造界面</Text>
+				</Header>
+			
+				<Paragraph>
+					<Text>制造界面分为四个组成部分，从左到右依次：可用蓝图列表，所选项目信息，资源要求。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>蓝图窗口顶部的标签允许您按类型进行筛选，例如：能量，自动化以及防护服升级。 在此窗口的底部，可以输入自定义筛选。</Text>
+				</Paragraph>
+				
+				<Spacer/>
+					
+			</Paragraphs>
+		</Page>
+	
+		<Page>
+			<Paragraphs>		
+				<Paragraph>
+					<Text>当选择蓝图时，将显示有关它及其组件的信息。 如果您需要所需的材料，可以通过按“制造”按钮，或者按住“Ctrl”键并按下“制造”按钮一次制作25单位。 按帮助键（默认为“H”）可以为所选项目提供相关帮助。</Text>
+				</Paragraph>
+			
+				<Header>
+					<Text>自动化</Text>
+				</Header>
+				<Paragraph>
+					<Text>在制造工厂手动制作物品不需要任何能量，几乎是瞬间的，因为它与您的防护服构建工具接驳以执行工作。 如果您希望在离开时持续制造一件物品，那么需使用制造工厂，但是这样是要消耗能量和时间的。 选择要制造的物品，输入所需的物品数量，或者选择“重复”来持续制造，然后按“自动”按钮。 所需的材料必须位于相邻的存储料斗中，将其I/O权限设置为“添加/删除”或“仅移除”（推荐），制造的物品也将放置在储存料斗中，该存储料斗应具有I/O “仅添加”状态。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>可以切换到另一个项目的自动化，或者通过点击进度图标完全取消。 在这两种情况下，工厂将首先完成目前正在开发的项目。</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>模块</Text>
+				</Header>
+				<Paragraph>
+					<Text>一些蓝图可能需要附加到制造工厂的模块（如水刀切割机）。 这将列在该项目的手册条目中。</Text>
+				</Paragraph>
+					
+			</Paragraphs>
+		</Page>
+	
+	</Pages>
+</MaterialEntry>
+

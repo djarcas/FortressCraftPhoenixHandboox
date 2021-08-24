@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ToxicParticleFilter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Фильтр Токсичных Примесей</Text>
+				</Title>
+				<Icon>
+					<Name>Toxic Particle Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,28 @@
+<MaterialEntry>
+	<Key>ConstructionPasteGrinder</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Дробилка Строительной Пасты</Text>
+				</Title>
+				<Icon>
+					<Name>ConstructionPasteGrinder</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Дробилка Строительной Пасты использует тот же процесс, что и Рекомбинатор Органики, чтобы производить Строительную Пасту из ненужных материалов, существующих на этой планете, наподобие камней и почвы. Низкая стоимость изготовления этой машины и ее низкие требования к питанию делают возможным параллельное подключение нескольких машин. Установка Мусоросборника в часто посещаемом коридоре, подключенного к ряду таких машин, позволяет легко получать большое количество Строительной Пасты на ранних этапах развития.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Construction Paste</Material>
+					</Target>
+					<Text>Construction Paste</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

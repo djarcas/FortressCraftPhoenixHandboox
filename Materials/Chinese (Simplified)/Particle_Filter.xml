@@ -1,0 +1,45 @@
+﻿<MaterialEntry>
+	<Key>ParticleFilterPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>粒子过滤器</Text>
+				</Title>
+				<Icon>
+					<Name>Particle Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>粒子过滤器是防护服的颗粒过滤系统的更先进版本，使用以前用于在有毒洞穴存活的原始技术，我们现在可以从各种洞穴中发现的空气中提取特定的成分。 粒子过滤器是以5x3x5的形式构建的。</Text>
+				</Paragraph>
+					<Spacer/>
+				<Link>
+					<Target>
+						<Chapter>T4_Particles</Chapter>
+					</Target>
+					<Text>Particulate Filtration System</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Compressor</Material>
+					</Target>
+					<Text>Particle Compressor</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Storage</Material>
+					</Target>
+					<Text>Particle Storage</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Gas Bottler</Material>
+					</Target>
+					<Text>Gas Bottler</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

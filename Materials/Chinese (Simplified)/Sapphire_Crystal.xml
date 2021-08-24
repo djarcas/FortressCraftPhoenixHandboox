@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SapphireCrystal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>蓝宝石水晶</Text>
+				</Title>
+				<Icon>
+					<Name>Sapphire Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>蓝宝石水晶是用作升级的基础材料的稀有材料。 它可以在深度-225到-300之间的洞穴中找到。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

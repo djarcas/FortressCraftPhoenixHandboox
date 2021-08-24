@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>BiomassGrowthPing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Пробник Биомассы</Text>
+				</Title>
+				<Icon>
+					<Name>Biomass Growth Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Пробник Биомассы используется для поиска дополнительной биомассы, когда та, что находится при поиске неизвестных материалов, почти исчерпана или недостаточна. Дополнительную информацию см. в справочном руководстве по Пустым Рудным Пробникам.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Blank Ore Ping</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

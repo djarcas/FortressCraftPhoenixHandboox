@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>BasicMissile</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Missile Basique</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Missile</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Munition pour le Lance Missiles. Fabriqué dans un Assembleur de Missiles Basiques.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Dommages :</Left>
+					<Right>70.000</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

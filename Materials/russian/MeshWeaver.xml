@@ -1,0 +1,32 @@
+<MaterialEntry>
+	<Key>MeshWeaver</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Плетельщик Сетей</Text>
+				</Title>
+				<Icon>
+					<Name>Mesh Weaver</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Плетельщик Сетей обрабатывает Кристаллические Отложения на молекулярному уровне для создания Кристаллической Сетки. Этой машине необходимо 50 Энергии в течение 8 секунд, чтобы провести рекомбинацию 32 Кристаллических Отложений в Кристаллические Сетки.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Crystal Fiber Mesh</Material>
+					</Target>
+					<Text>Crystal Fiber Mesh</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Pipe Coater</Material>
+					</Target>
+					<Text>Pipe Coater</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

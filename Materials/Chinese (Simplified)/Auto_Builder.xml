@@ -1,0 +1,34 @@
+﻿<MaterialEntry>
+	<Key>AutoBuilder</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>自动建造设备</Text>
+				</Title>
+				<Icon>
+					<Name>Auto Builder</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>能够在任何主要方向上建造一般传送带，只要有待建的传送带。</Text>
+				</Paragraph>
+				<Header>
+					<Text>技巧与窍门！</Text>
+				</Header>
+				<Paragraph><Text>- 这台机器需要相当多的能量来全速工作！</Text>
+</Paragraph>
+				<Paragraph><Text>- 需要一个料斗来给传送带方块喂料。</Text>
+</Paragraph>
+				<Paragraph><Text>- 不要使用任何其他块！ 不能放任何其他块！</Text>
+</Paragraph>
+				<Header>
+					<Text>警告！</Text>
+				</Header>
+				<Paragraph><Text>- 配有运输管道的料斗将建造一般传送带，而不是运输管道！</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

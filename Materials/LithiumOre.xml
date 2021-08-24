@@ -1,0 +1,40 @@
+<MaterialEntry>
+	<Key>LithiumOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lithium Ore</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Found around 120m under the surface and below, Lithium Ore can be smelted into Lithium Bars using the smelter. Lithium Bars are generally used in machines which store or transmit power.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Short Facts</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Occurrence:
+					Ping Color:
+					1st Stage of Extraction:
+					2nd Stage of Extraction:
+					
+					1st Stage of Smelting:
+					2nd Stage of Smelting:</Left>
+					<Right>-120 to -850m
+					Grey with Teal
+					Build Gun MK1
+					Ore Extractor
+					
+					Ore Smelter
+					Blast Furnace setup</Right>
+				</TwoColumnParagraph>				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

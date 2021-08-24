@@ -1,0 +1,44 @@
+<MaterialEntry>
+	<Key>TitaniumOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Titanium Ore</Text>
+				</Title>
+				<Icon>
+					<Name>Titanium Ore</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Titanium Ore is found below the Cold Caverns. As you go deeper the richness of the veins will increase. It can be mined with the Build Gun MK1, Ore Extractors and Trencher Extractors.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>The first stages of ore smelting can be done with standard Ore Smelters. Later, when throughput is valued over efficiency, a Blast Furnace setup is strongly recommended.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Short Facts</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Occurrence:
+					Ping Color:
+					1st Stage of Extraction:
+					2nd Stage of Extraction:
+					3rd Stage of Extraction:
+					
+					1st Stage of Smelting:
+					2nd Stage of Smelting:</Left>
+					<Right>-350 to -1500m
+					Dark Blue, Wireframe
+					Build Gun MK1
+					Ore Extractor
+					Trencher Extractor MK1-MK3
+					
+					Ore Smelter
+					Blast Furnace setup</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

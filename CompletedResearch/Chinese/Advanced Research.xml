@@ -1,0 +1,37 @@
+﻿<Chapter>
+	<Handle>advanced research</Handle>
+	<Title>高級研究</Title>
+	<Icon>Laboratory Component</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>高級研究</Text>
+				</Title>
+				<Icon>
+					<Name>Laboratory Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>我們現在有一個研究實驗室和組裝機器的設計，為它提供實驗艙。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>實驗室需要研究先進的項目，提高您的技術水平，開啟新項目和工序。共需要27個實驗室組件（每個9個組件的3個堆疊製造），並且必須以3×3/3的形式構建。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>有關使用實驗室的更多信息，請參閱以下指南：</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research Guide</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

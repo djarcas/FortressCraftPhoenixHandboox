@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>TinWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Zinndraht</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Wire</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein einfacher Zinndraht, der aus Zinnbarren in einer Extrusionsanlage hergestellt wurde.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

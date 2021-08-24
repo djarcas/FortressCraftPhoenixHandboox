@@ -1,0 +1,46 @@
+﻿<MaterialEntry>
+	<Key>Teleporter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Icon>
+					<Name>Teleporter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text></Text>
+</Header>
+				<Icon>
+					<Name>Location Marker</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+	
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Location Marker</Material>
+					</Target>
+					<Text>Location Marker</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text></Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left></Left>
+					<Right></Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

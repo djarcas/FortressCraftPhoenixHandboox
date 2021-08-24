@@ -1,0 +1,190 @@
+﻿<Chapter>
+	<Handle>controls</Handle>
+	<Title>控制</Title>
+	<Icon>Build Gun V2</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>控制</Text>
+				</Title>
+				<Paragraph>
+					<Text>此帮助指南列出了FortressCraft Evolved中提供的所有的控制按键，不要慌，一开始都会有点头大，只需参考必要的控制部分即可开始食用。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>完成教程之前，某些控制按键将无法使用。</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>基本控制</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;ASDW：移动
+ 空格：跳
+ H：本帮助指南
+ESC：主菜单
+ 
+ X：切换到建造枪
+ LMB：建造方块
+ RMB：删除方块
+ 
+ M：切换到脉冲扫描工具
+ LMB：材料脉冲扫描
+ RMB：扫描方块
+ &quot;</Left>
+					<Right>&quot;I：打开物品栏
+C:打开手工制作
+F: 发射飞爪
+G:抛荧光棒
+
+E：与机器互动
+Q：从机器提取
+R：旋转
+
+V：切换到射线枪
+LMB：开火
+RMB：蓄能攻击
+ &quot;</Right>
+				</TwoColumnParagraph>
+				<Paragraph>
+					<Text>(LMB = 鼠标左键, RMB = 鼠标右键)</Text>
+				</Paragraph>
+				<Header>
+					<Text>自定义按键</Text>
+				</Header>
+				
+				<Paragraph>
+					<Text>大多数键位可通过游戏启动器自定义。游戏中的提示信息不会反映这些变化。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>移动与视野</Text>
+				</Header>
+		
+				<TwoColumnParagraph>
+					<Left>W：向前移动
+S：向后移动
+A：向左移动
+D：向右移动</Left>
+					<Right>空格：跳跃
+鼠标：环顾四周
+U：乘坐矿车
+Z：放大</Right>
+				</TwoColumnParagraph>
+				
+				<Header>
+					<Text>武器与工具</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>X：切换到建造枪
+V：切换到射线枪
+B：切换到固定镜头</Left>
+					<Right>N：切换到涂色枪
+M：切换到扫描工具
+ Shift + 鼠标滚轮：循环工具</Right>
+				</TwoColumnParagraph>
+					
+				<Header>
+					<Text>物品栏与快捷栏</Text>
+				</Header>
+	
+				<TwoColumnParagraph>
+					<Left>&quot;I：打开物品栏
+F1-F7：选择快捷栏标签
+1-9&amp;0：选择快捷栏槽位
+Q：扔下高亮物品
+ &quot;</Left>
+					<Right>&quot;Shift + 拖曳: 拆分堆栈
+CTRL + 鼠标滚轮: 标签循环
+鼠标滚轮: 快捷槽位循环
+ --
+ &quot;</Right>
+				</TwoColumnParagraph>
+					
+				<Header>
+					<Text>防护服功能</Text>
+				</Header>
+	
+				<TwoColumnParagraph>
+					<Left>C：打开手工制作
+L：头灯开关
+J：喷气背包开关
+F：发射飞爪</Left>
+					<Right>G：扔荧光棒
+K：开关全息地图
+U：开关全息模式
+空格：释放飞爪</Right>
+				</TwoColumnParagraph>
+		
+				<Header>
+					<Text>机器</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>E：与机器互动
+T：向机器中存储
+R：顺时针旋转
+]：顺时针旋转</Left>
+					<Right>Q：从机器中取出
+Shift-T: 存10单位物品
+ Shift-E: 清空料斗模式
+ [:逆时针旋转</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>多人模式</Text>
+				</Header>
+	
+				<Paragraph>
+					<Text>Enter: 聊天窗口
+ Right Shift: 显示服务器信息
+ Right Shift + F1, F2 or F3: 设置网络速率</Text>
+				</Paragraph>
+				<Header>
+					<Text>建造枪</Text>
+				</Header>
+	
+				<TwoColumnParagraph>
+					<Left>LMB: 建造方块
+RMB: 移除方块
+MMB:捡起当前方块</Left>
+					<Right>Ctrl + LMB: 向我建造
+Ctrl +按住RMB: 超级挖掘</Right>
+				</TwoColumnParagraph>
+				
+				<Header>
+					<Text>扫描工具</Text>
+				</Header>
+	
+				<Paragraph>
+					<Text>LMB：对周围脉冲扫描
+RMB：扫描方块
+鼠标中键：更改脉冲扫描设置</Text>
+				</Paragraph>
+				<Header>
+					<Text>射线枪</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>LMB：单发开火</Left>
+					<Right>按住RMB：蓄能开火</Right>
+				</TwoColumnParagraph>
+	
+				<Header>
+					<Text>其他</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>ESC：主菜单
+Ctrl-M：开关音乐</Left>
+					<Right>Tab：开关ARTHER 距离</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

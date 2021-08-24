@@ -1,0 +1,28 @@
+<MaterialEntry>
+	<Key>IronGearMaker</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Iron Gear Crafter</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Gear</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Cuts Iron Plates into Iron Gears for use in machinery.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Manufacturing Time:</Left>
+					<Right>10 seconds</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

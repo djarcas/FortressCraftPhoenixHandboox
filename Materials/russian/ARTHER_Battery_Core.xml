@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERBatteryCore</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Батарея АРЧЕРа</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Battery Core</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Позволяет АРЧЕРу накапливать в 8 раз больше Энергии, которую он может передать вам, когда в вашем костюме она кончается. Изготовьте как можно скорее! Достаточно одного устройства, и оно должно храниться в вашем инвентаре, чтобы работать.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

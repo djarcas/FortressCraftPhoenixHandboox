@@ -1,0 +1,43 @@
+﻿<MaterialEntry>
+	<Key>ThreatReducer</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Bedrohungsreduzierer</Text>
+				</Title>
+				<Icon>
+					<Name>Threat Reducer</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Das heimische Wildleben scheint auf die durch industrielle Aktionen in die Luft verstreuten Nebenprodukte negativ zu reagieren. In dem Bemühen, sowohl gegenwärtige als auch zukünftige Konflikte mit dem einheimischen Wildleben zu lindern, wurden Geräte gebaut, um die Auswirkungen von Maschinen zu minimieren. Der Bedrohungsreduzierer ist in der Lage, die durch die Stromerzeugung erzeugten elektromagnetischen Wellen zu entfernen und die nahegelegene Atmosphäre von Schadstoffen zu befreien. Das Gerät verwendet 5 Leistungseinheiten pro Sekunde, um diese Aufgabe zu erfüllen. &quot;</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>In den Bemühungen, die Reaktionen der Eingeborenen auf die Industrie besser zu verstehen, wurde ein neues System zur Messung unserer Auswirkungen auf der Grundlage der untersuchten Organismen entwickelt, das sowohl auf chemische als auch auf elektromagnetische Verschmutzung reagiert. Dieses System misst diese Faktoren in \&quot;Bedrohungseinheiten\&quot; und ist im Bedrohungsscanner zu sehen. Jeder aktive Bedrohungsreduzierer reduziert die Bedrohung um ca. 50 Bedrohungseinheiten. Mit genügend dieser Geräte kann die produzierte Bedrohung vollständig minimiert werden, egal wie umfangreich Operationen auf diesem Planeten werden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Threat Scanner</Material>
+					</Target>
+					<Text>Threat Scanner</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Threat Agitator</Material>
+					</Target>
+					<Text>Threat Agitator</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Benötigt Energie:</Left>
+					<Right>ja</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

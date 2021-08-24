@@ -1,0 +1,38 @@
+﻿<MaterialEntry>
+	<Key>PowerStorageMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Energiespeicher</Text>
+				</Title>
+				<Icon>
+					<Name>PowerStorageBlock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Energiespeicher kann eine Reserve von bis zu 200 Energie speichern. Es wird Energie von einem angeschlossenen Generator aufnehmen und an angeschlossene Maschinen oder Laserenergietransmitter liefern. Mehrere Energiespeicher teilen sich Energie untereinander, dies ist jedoch für eine Übertragung von Energie über mehr als ein paar Blöcke nicht effizient. Stattdessen sollten Laserenergietransmitter für diesen Zweck verwendet werden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Energie kann aus dem Energiespeicher durch Drücken der Taste \&quot;Extrahieren\&quot; (Standard \&quot;Q\&quot;) entnommen und mit der Interaktions-Taste (Standard \&quot;E\&quot;) eingefügt werden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Verbesserungen auf den Basis-Energiespeicher können in der Forschungsstation freigeschaltet werden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Leistungskapazität:
+ Maximale Leistungsübertragungsrate:</Left>
+					<Right>200
+ Keine</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>CrystalClock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kristalltaktgenerator</Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Clock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kristalltaktgenerator werden häufig als Teil eines Rezeptes für höherwertige Technologie verwendet. Das Einbinden von Taktgebern in Maschinen erlaubt uns präziseres Timing als normalerweise möglich. Kristalltaktgeneratoren können, so wie die meisten elektronischen Bauteile, übertaktet werden, um noch genauere Uhren für fortschrittliche Maschinen zu erhalten.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Crystal Clock Maker</Material>
+					</Target>
+					<Text>Crystal Clock Maker</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

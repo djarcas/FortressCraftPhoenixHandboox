@@ -1,0 +1,24 @@
+<MaterialEntry>
+	<Key>AdvancedMachineBlock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Advanced Machine Block</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced Machine Block</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Main building block for advanced machines.</Text>
+				</Paragraph>
+				<Header>
+					<Text>These blocks are a main component of certain multiblock machines.</Text>
+				</Header>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

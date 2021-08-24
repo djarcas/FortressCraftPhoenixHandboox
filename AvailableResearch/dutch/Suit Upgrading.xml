@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>suit upgrades</Handle>
+	<Title>Verbetering Ruimtepak</Title>
+	<Icon>Suit Upgrading</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Verbetering Ruimtepak</Text>
+				</Title>
+				<Icon>
+					<Name>SuitUpgrades</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Uw ruimtepak is het meest geavanceerde onderdeel van de verkenningstechniek dat de mens kent. Helaas hangt het gebruik ervan af van een modulair verbetersysteem dat momenteel ver buiten het bereik van onze productiemogelijkheden ligt. Het is tijd om te onderzoeken hoe u uw eigen verbeteringen kunt maken weg van de fabrieken thuis. Je kunt een beetje hulp gebruiken om te overleven in deze barre omgeving.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,31 @@
+﻿<MaterialEntry>
+	<Key>SpiderBotCannon</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>SpiderBot 加农炮</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot Defences 2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>这对前挂式大炮能够对付中等到大的目标。 他们是独立的目标，并将智能地忽略较小的目标，并专注于更大，有装甲的目标。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>你只需要制作一份 - 他们一对一对地制造！</Text>
+				</Header>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SpiderBot Base Component</Material>
+					</Target>
+					<Text>More information regarding SpiderBot!</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

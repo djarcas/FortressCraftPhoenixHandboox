@@ -1,0 +1,48 @@
+<MaterialEntry>
+	<Key>CargoLiftBasic</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Basic Cargo Lift</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Cargo Lift</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The smallest of the available Cargo Lifts, this is ideal for en-masse delivery of materials such as Iron and Lithium.</Text>
+					<Text>If you're in Rapid Game Mode, the Basic Cargo Lift will Carry double the Cargo</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Specifications</Text>
+</Header>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>Maximum Range:
+					Maximum Speed:
+					Acceleration:
+					Maximum Capacity
+					Power Usage (Travelling):
+					</Left>
+					<Right>Unlimited
+					5 metres/sec (10 on rapid)
+					0.5 metres/sec/sec
+					300 (600 on Rapid)
+					35 PPS
+					</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Cargo Lift Controller</Material>
+					</Target>
+					<Text>CargoLift Controller</Text>
+				</Link>
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

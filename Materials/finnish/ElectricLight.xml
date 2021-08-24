@@ -1,0 +1,24 @@
+<MaterialEntry>
+	<Key>ElectricLight</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Sähkövalo</Text>
+				</Title>
+				<Icon>
+					<Name>Electric Light</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Sähkövalo täytyy kiinnittä virtaan toimiakseen ja antaa kylmän sinisen valon paljon leveämmälle alueelle kuin perussoihtu.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Kolme valaistustapaa on saatavilla: Kohdevalo, pistelähde and varjostettu pistelähde.</Text>
+				</Paragraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

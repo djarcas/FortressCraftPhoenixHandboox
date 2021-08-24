@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>ore pings</Handle>
+	<Title>Förbättrad Malmskanning</Title>
+	<Icon>Improved Ore Scanning</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Förbättrad Malmskanning</Text>
+				</Title>
+				<Icon>
+					<Name>Improved Ore Scanning</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Vi har stött på ett problem i vår sökning efter resurser för att utöka vår bas!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Vår malmskanner är konfigurerad för att hitta okända material för forskning och klassificering. Dess förmåga att hitta nya källor till specifika kända material är begränsat. Det bör vara möjligt att använda en liten reserv malm som ett avancerat filter som gör det möjligt att lokalisera bara de resurser vi behöver.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

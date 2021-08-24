@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>Torch</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>火炬</Text>
+				</Title>
+				<Icon>
+					<Name>Torch</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>火炬对于你在这个星球上的早期生存至关重要, 它提供了温暖与光明。光照白天自动停用, 但仍会供暖。</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>警告！火很烫！防护服并非设计用来保护长时间与火炬密切接触的使用者。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

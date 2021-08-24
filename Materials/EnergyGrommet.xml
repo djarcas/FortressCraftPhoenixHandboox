@@ -1,0 +1,30 @@
+<MaterialEntry>
+	<Key>SpaceSiding</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Energy Grommet</Text>
+				</Title>
+				<Icon>
+					<Name>Space Siding</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Energy Grommets are the neatest way of getting power into and out of Rooms. They can only connect to single-block PSBs and single-block generators.
+          
+          One of the machines involved needs to be a PSB. If you use a pair of PSBs, one either side, then they will balance charge between them. 
+          
+          If you wish to Diode the power, then use a PSB one one side, and an LPT on the other. This will force the power to flow in the direction you choose.
+          
+          You can also use single-block Generators to transfer the power into a PSB on the other side. This includes Solar Panels and PTGs.
+        
+          You cannot fire an LPT into a Grommet. A target PSB will give the setup required here. Converting an existing power setup into a Grommet/Room setup only ever requires 1 extra PSB.
+          </Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

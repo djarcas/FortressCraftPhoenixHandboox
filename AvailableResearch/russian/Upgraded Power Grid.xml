@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T2 Power</Handle>
+	<Title>Усовершенствованная энергетическая сеть</Title>
+	<Icon>Upgraded Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Усовершенствованная энергетическая сеть</Text>
+				</Title>
+				<Icon>
+					<Name>Upgraded Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Текущая энергетическая инфраструктура.вполне справляется с задачами. Однако, оборудование для хранения энергии имеет ограничения, на устранение которых нацелен проект.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

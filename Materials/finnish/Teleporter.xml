@@ -1,0 +1,52 @@
+﻿<MaterialEntry>
+	<Key>Teleporter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Teleportti</Text>
+				</Title>
+				<Icon>
+					<Name>Teleporter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Teleportti mahdollistaa käyttäjän kaukosiirtymisen välittömästi ennalta asetettuun paikkaan. Käyttääksesi anna teleportille riittävästi virtaa, astu sille ja paina hyppy nappina (oletus \&apos;Välilyönti\&apos;). Virtavaatimus riippuu kaukosiirretystä etäisyydestä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Paikkamerkit</Text>
+</Header>
+				<Icon>
+					<Name>Location Marker</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+	
+				<Paragraph>
+					<Text>Teleportti vaatii paikkamerkin joka osoittaa määränpään. Aseta paikkamerkki teleporttiin painamalla vuorovaikutus nappia (oletus &apos;E&apos;). Lisäinformaatiota paikkamerkeistä alla olevasta linkistä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Location Marker</Material>
+					</Target>
+					<Text>Location Marker</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Maksimikaukosiirtymäkantama:
+ Virtaa vaadittu:
+ Virtakapasiteetti:
+ Maksimivirransiirtonopeus:</Left>
+					<Right>Rajoittamaton
+ 40 metriä kohden
+ Tuplaten kaukosiirtymän kokonaiskustannus
+ Rajoittamaton</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

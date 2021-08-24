@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 4</Handle>
+	<Title>Amélioration de Minage Intermédiaire II</Title>
+	<Icon>Enhanced Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Amélioration de Minage Intermédiaire II</Text>
+				</Title>
+				<Icon>
+					<Name>Enhanced Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>D\&apos;autres améliorations à l\&apos;extracteur de minerai sont maintenant disponibles. Nous avons également étudié un nouveau Géologue qui peut être utilisé pour identifier des sites riches en gisements de minerai. Nous devrions identifier certains emplacements privilégiés alors que nous poursuivons la recherche sur un nouveau système de Carrière.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

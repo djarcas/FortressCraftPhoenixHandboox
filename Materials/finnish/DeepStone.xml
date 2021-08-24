@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>DeepStone</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Syvännekivi</Text>
+				</Title>
+				<Icon>
+					<Name>Deep Stone</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Pääpalikka noin -65 alla, viilennetyt ja myrkylliset luolat poisluettuna. Voidaan murskata murskaimessa mahdollisesti hyödyllisen malmin löytämiseksi. Tämä palikka voidaan asettaa.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>LiftManualControlModule</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>升降机手动控制模块</Text>
+				</Title>
+				<Icon>
+					<Name>Lift Manual Control Module</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>连接到升降机活塞的一侧，以便您可以使用防护服无线遥控电梯的速度。 使用“Home”和“End”键可提高或降低升降机速度。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

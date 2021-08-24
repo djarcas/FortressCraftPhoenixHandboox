@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Key>ToxicCavernFlora5</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Myrkkyluolakasvi 5</Text>
+				</Title>
+				<Icon>
+					<Name>Toxic Cavern Flora 5</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tämä kasvi näyttää olevan immuuni tämän luolan myrkylliselle ilmastolle.</Text>
+				</Paragraph>
+		
+				<Spacer/>
+				<Paragraph>
+					<Text>Tämä kasvi voidaan polttaa virrantuotannossa.</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

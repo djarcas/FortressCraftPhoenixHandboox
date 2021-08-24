@@ -1,0 +1,40 @@
+<MaterialEntry>
+	<Key>ComplexExperimentalPod</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Сложная Экспериментальная Ячейка</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Complex</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Экспериментальные Ячейки используются в Лаборатории для проведения экспериментов и завершения исследовательских проектов. Более подробную информацию о лабораторных исследованиях можно найти в следующем руководстве.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+				<Spacer/>
+				<Paragraph>
+					<Text>Для более подробной информации по производству Экспериментальных Ячеек см. следующее руководство.</Text>
+				</Paragraph>
+				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Experimental Pods</Text>
+				</Link>
+		
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

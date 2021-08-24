@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 3</Handle>
+	<Title>&quot;Exploitation Minière intermédiaire  I&quot;</Title>
+	<Icon>Ore Smelter</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>&quot;Exploitation Minière intermédiaire  I&quot;</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Il est temps de commencer la recherche sur la façon de reproduire les capacités avancées de la fonderie de minerai fournie avec notre Concentrateur d\&apos;Énergie Central. Les fonderies de base que nous avons pu construire sont trop lentes et gaspillent de précieuses ressources.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

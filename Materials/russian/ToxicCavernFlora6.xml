@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Key>ToxicCavernFlora6</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Растение токсичных пещер 6</Text>
+				</Title>
+				<Icon>
+					<Name>Toxic Cavern Flora 6</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Это растение приспособлено к атмосфере токсических пещер.</Text>
+				</Paragraph>
+		
+				<Spacer/>
+				<Paragraph>
+					<Text>Это растение можно сжечь для выработки энергии.</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

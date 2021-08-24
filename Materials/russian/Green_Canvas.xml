@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>GreenCanvas</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Зелёный Холст</Text>
+				</Title>
+				<Icon>
+					<Name>Green Canvas</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Кругом зеленый декоративный блок.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

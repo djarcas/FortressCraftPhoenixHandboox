@@ -1,0 +1,31 @@
+﻿<MaterialEntry>
+	<Key>SpiderBotParticleRifle</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>SpiderBot Partikelgewehre</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot Defences 1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Dieses Paar Schulter-getragener Partikelbüchsen ist in der Lage, sehr große Ziele schwer zu treffen. Sie feuern unabhängig voneinander ab und werden kleinere Ziele intelligent ignorieren und sich auf Boss-Klassen-Monsters konzentrieren.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Sie müssen nur eines von ihnen herstellen und anpassen - sie kommen als Set!</Text>
+				</Header>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SpiderBot Base Component</Material>
+					</Target>
+					<Text>More information regarding SpiderBot!</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

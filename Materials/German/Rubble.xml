@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Rubble</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Schutt</Text>
+				</Title>
+				<Icon>
+					<Name>Rubble</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Als Nebenprodukt beim manuellen Erzbergbau gefunden. Kann im Zerkleinerer zerkleinert werden, um möglicherweise nützliches Erz zu extrahieren. Der Block kann platziert werden.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

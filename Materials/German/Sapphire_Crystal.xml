@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SapphireCrystal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Saphirkristall</Text>
+				</Title>
+				<Icon>
+					<Name>Sapphire Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein Saphirglas ist ein seltenes Material, das als Grundzutat für Upgrades verwendet wird. Es kann in Höhlen zwischen Tiefen von -225 bis -300 gefunden werden.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,58 @@
+﻿<MaterialEntry>
+	<Key>StandardOreSmelter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>矿石熔炼炉</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>熔炼炉将原矿转化为可用于制造工厂和其他地方制造新机器和物品的金属锭。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>最初，您将需要手动添加矿石，这可以通过按“交互”按钮（默认为“E”）打开熔炼炉控制面板。 然后，您可以通过按“进料”按钮添加矿石，或者将特定类型的矿石拖入冶炼厂。 控制面板空的时候显示每个金属锭需要多少矿石。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>一旦熔炼炉有了足够的矿石，它将开始升温，这需要来自附接的能量块或发电机提供的电力。 当达到正确的温度时，它将开始将矿石转换成可通过点击控制面板底部的输出槽来收集的金属锭。</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>自动化</Text>
+				</Header>
+			
+				<Paragraph>
+					<Text>冶炼厂应尽快自动化，增加输入和输出储存料斗。 输入料斗应设置为“仅移除”的I / O状态。 输入料斗必须足够大，以满足最低的矿石要求。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+					
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>升级</Text>
+				</Header>
+			
+				<Paragraph>
+					<Text>熔炼炉的速度（和功率要求）可以通过一些可以研究的增压进气升级来提高。 一旦被制作出来，应放在熔炼炉上方。</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>额外的熔炼炉</Text>
+				</Header>
+			
+				<Paragraph>
+					<Text>您开始的熔炼炉是一套难以复制的高级套件。 需要大量的研究和一些先进的材料才能制造。 一个基本的熔炼炉也可以帮助解决瓶颈问题，但缓慢，效率低下，无法升级。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+	
+	</Pages>
+</MaterialEntry>
+

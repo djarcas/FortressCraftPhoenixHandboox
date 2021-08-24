@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ARTHERDapperMoustache</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Щегольские усы АРЧЕРа</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Dapper Moustache</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Гусары, молчать! Работает только в том случае, если у вас есть Dapper Indie Supporter DLC. Достаточно одного такого предмета в инвентаре.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

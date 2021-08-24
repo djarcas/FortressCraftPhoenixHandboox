@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>ChargedPCB</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Заряженная ПП</Text>
+				</Title>
+				<Icon>
+					<Name>Charged PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Изготовленная из Лития Печатная Плата (ПП) из Литиевых Катушек производится на Заводе ПП.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

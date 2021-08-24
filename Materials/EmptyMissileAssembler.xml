@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Key>EmptyMissileAssembler</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Empty Missile Assembler</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Missile Assembler</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The assembler shapes copper pipes and fits them with golden wires to make them ready to recieve their explosive contents.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>This machine requires hoppers holding at least 1 Copper Pipe and Gold Wire to start the crafting process.</Text>
+				</Paragraph>
+
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Manufacturing Time:
+					Power Required:
+					Power Capacity:
+					Max. Power Recharge Rate:</Left>
+					<Right>15 seconds
+					8 per second
+					128
+					100 per second</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

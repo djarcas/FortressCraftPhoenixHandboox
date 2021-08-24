@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>HardenedPCB</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kovetettu piirilevy</Text>
+				</Title>
+				<Icon>
+					<Name>Hardened PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Rautapohjainen piirilevy on tehty rautakeloista piirilevykokoajassa.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

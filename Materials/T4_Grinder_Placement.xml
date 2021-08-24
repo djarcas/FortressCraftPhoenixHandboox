@@ -1,0 +1,71 @@
+<MaterialEntry>
+	<Key>T4_Grinder_Placement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hard Rock Grinder</Text>
+				</Title>
+				<Icon>
+					<Name>T4_Grinder</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>We&#39;re going to need to bootstrap our machines. To this end, we&#39;ve got a single-use Grinder - a couple of these should just about give us enough ore to construct a much larger, tougher drilling machine.</Text>
+				</Paragraph>
+	
+				<Spacer/>
+			
+				<Paragraph>
+					<Text>Usage should be pretty straightforward. Find or make a 3x3 horizontal flat area of the ore you want (Chromium or Molybdenum), place the Grinder down, give it power, wait until completion, and give it plenty of Storage Hoppers to offload the final material into.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>If you&#39;re having issues finding a 3x3 horizontal area, then the Nano Disintegrator or Charged Explosives are your friends!</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>These machines are horribly inefficient and expensive, and require a large amount of the refined Resin from the Hiveminds surrounding us. We should move onto better miners ASAP.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Link>
+					<Target>
+						<Material>NanoDisintegrator</Material>
+					</Target>
+					<Text>NanoDisintegrator</Text>
+				</Link>
+
+				<Icon>
+					<Name>Trencher Drill component</Name>
+					<Target>
+						<Material>TrencherDrillPlacement</Material>
+					</Target>
+				</Icon>
+				
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Grinding Time:
+					Power Required:
+					Power Capacity:
+					Max. Power Recharge Rate:
+					Ore Mined:</Left>
+					<Right>600 seconds
+					512 per second
+					4096
+					10000 per second
+					2048</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>DapperVIP</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>SilotteluVIP</Text>
+				</Title>
+				<Icon>
+					<Name>DapperVIP</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Silottelupakkauksen kosmeettinen palikka. Kiitos ForttressCraft:n tukemisesta!</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

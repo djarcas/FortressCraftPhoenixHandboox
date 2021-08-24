@@ -1,0 +1,42 @@
+﻿<MaterialEntry>
+	<Key>BasicQuarry</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Einfacher Steinbruch</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Quarry</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Steinbruch hebt das Erdreich unter ihm aus und platziert die gefundenen Ressourcen in angrenzenden Containern. Muss über -25m Höhe errichtet werden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Steinbruch-Größe:
+Steinbruch-Tiefe:
+Energiebedarf:
+Energiekapazität:
+Max. Laderate:
+Max. Hardness Dug:
+Max. Grabegeschwindigkeit:
+Erzförderungseffizienz:</Left>
+					<Right>9x9 Meter
+3950
+150 pro 1m^3
+4096
+1024 pro Sekunde
+250
+5m^3 pro Sekunde
+10%</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

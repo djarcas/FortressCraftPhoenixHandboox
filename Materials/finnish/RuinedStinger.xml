@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>RuinedStinger</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pilattu pistin</Text>
+				</Title>
+				<Icon>
+					<Name>WaspStingerRuined</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tämä pistin on erityisen terävä mutta liian vahingoittunut ollakseen hyödyllinen.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

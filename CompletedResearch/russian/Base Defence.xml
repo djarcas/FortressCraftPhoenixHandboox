@@ -1,0 +1,27 @@
+﻿<Chapter>
+	<Handle>Base Defence</Handle>
+	<Title>Оборона базы</Title>
+	<Icon>&gt;ARTHER Turret</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Оборона базы</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Теперь мы сможем ОСВОБОДИТЬ эту планету!</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Наши исследования в области защиты базы не пропали даром, и теперь у нас есть три турели, доступные для производства. Турель ARTHER энергоэффективна и имеет большой радиус действия, но ею может управлять только ARTHER, поэтому её размещать надо с умом. С её помощью можно защищать инфраструктуру, пока вы добываете материалы, необходимые для создания и питания автономных турелей.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

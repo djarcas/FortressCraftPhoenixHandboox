@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>LithiumHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Litiumkotelo</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen litiumkotelo on tehty litiumlaatoista.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

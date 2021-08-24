@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T5 Power</Handle>
+	<Title>Совершенная энергетическая сеть</Title>
+	<Icon>Ultimate Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Совершенная энергетическая сеть</Text>
+				</Title>
+				<Icon>
+					<Name>Ultimate Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Какой, однако, успех! Самое большое устройство хранения энергии, не имеющее аналогов, теперь может быть создано на наших производственных возможностях. В качестве дополнительного бонуса мы также разработали лучшую солнечную панель, которую можно разместить прямо над нашим крупногабаритным оборудованием, такими как лаборатория и новые батареи МК4 и МК5.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

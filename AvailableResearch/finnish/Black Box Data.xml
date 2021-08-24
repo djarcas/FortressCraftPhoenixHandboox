@@ -1,0 +1,22 @@
+﻿<Chapter>
+	<Handle>black box</Handle>
+	<Title>Mustan laatikon tiedot</Title>
+	<Icon>&gt;Black Box Data</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mustan laatikon tiedot</Text>
+				</Title>
+				<Icon>
+					<Name>Black Box Data</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Pukusi sisältää mustan laatikon, joka tallensi kaikki sensorilukemat ennen planeetalle läsähtämistä. Tutkimalla näitä tietoja voimme päätellä, mitä oikein tapahtui.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

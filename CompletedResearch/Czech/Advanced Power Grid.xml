@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>T3 Power</Handle>
+	<Title>Pokročilá Energetická Síť</Title>
+	<Icon>Advanced Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pokročilá Energetická Síť</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Provedli jsme další vylepšení naší energetické infrastruktury včetně nového Bloku Energetického Úložiště a Laserového Energetického Transmiteru.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Máme také několik předběžných návrhů pro nový typ generátoru energie, nicméně pro dokončení tohoto výzkumu budeme muset najít také hustší zdroj energie než uhlí, na které se zatím spoléháme.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

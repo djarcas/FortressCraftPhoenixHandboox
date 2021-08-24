@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>EmeraldCrystal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Изумрудный Кристалл</Text>
+				</Title>
+				<Icon>
+					<Name>Emerald Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Изумрудный Кристалл - редкий материал, используемый в качестве ингредиента для улучшений. Его можно найти в пещерах между глубинами от -75 до -150.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

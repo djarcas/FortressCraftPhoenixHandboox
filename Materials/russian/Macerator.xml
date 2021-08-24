@@ -1,0 +1,33 @@
+﻿<MaterialEntry>
+	<Key>Macerator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Измельчитель</Text>
+				</Title>
+				<Icon>
+					<Name>Macerator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Измельчитель способен измельчать в пыль многие труднообрабатываемые материалы, известные человеку. Иногда процесс распыления возвращает обогащенное минералами соединение, состоящее в основном из одного элемента. Выводимый элемент неотличим от обычной руды и может рассматриваться как таковой.</Text>
+				</Paragraph>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>Требует энергии:</Left>
+					<Right>Да</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Header>
+					<Text>Советы и хитрости!</Text>
+				</Header>
+				<Paragraph><Text>- Ресурсы подаются в это устройство с конвейера, а выгружает руду оно в подсоединённый Бункер.</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

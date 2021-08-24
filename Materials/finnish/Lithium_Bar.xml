@@ -1,0 +1,25 @@
+﻿<MaterialEntry>
+	<Key>LithiumBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Litiumharkko</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Lithium Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Litiumharkkoja käytetään yleensä koneissa jotka säilövät ja lähettävät voimaa. Ne tehdään litiummalmista jota voi löytää vähintään 120 metrin syvyydestä pinnan alta.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>HydrojetCutter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>水刀切割器</Text>
+				</Title>
+				<Icon>
+					<Name>Hydrojet Cutter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>将此模块放在制造工厂的上方，以便制造防护服升级。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

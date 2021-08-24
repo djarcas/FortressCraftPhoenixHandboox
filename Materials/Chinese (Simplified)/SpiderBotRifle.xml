@@ -1,0 +1,31 @@
+﻿<MaterialEntry>
+	<Key>SpiderBotParticleRifle</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>SpiderBot 粒子步枪</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot Defences 1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>这对肩扛式粒子步枪能够对大号的目标造成重大伤害。 他们是独立地瞄准，并将智能地忽略较小的目标，并专注于boss。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>你只需要制作一份 - 他们一对一对地制造！</Text>
+				</Header>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SpiderBot Base Component</Material>
+					</Target>
+					<Text>More information regarding SpiderBot!</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

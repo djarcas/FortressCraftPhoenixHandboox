@@ -1,0 +1,35 @@
+<MaterialEntry>
+	<Key>BuildGunV2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Строительная Пушка В2</Text>
+				</Title>
+				<Icon>
+					<Name>Build Gun V2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&#34;Строительная Пушка В2 - это обновленная версия пушки больше приспособленная к условиям этой планеты. Обновление позволяет Пушке рыть более твёрдые материалы и взаимодействовать с более сложным оборудованием. Несмотря на все улучшения, охлаждение по-прежнему не доведено до ума. Пушке требуется улучшение отведения тепла. &#34;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V1</Material>
+					</Target>
+					<Text>Build Gun V1</Text>
+				</Link>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V3</Material>
+					</Target>
+					<Text>Build Gun V3</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

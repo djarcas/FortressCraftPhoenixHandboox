@@ -1,0 +1,42 @@
+<MaterialEntry>
+	<Key>BasicQuarry</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Базовый Карьер</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Quarry</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Карьер выкапывает землю под собой, возвращая все найденные ресурсы. Может быть построен только выше уровня -25 м. Ресурсы будут размещены в прикрепленных Бункерах.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Площадь карьера:
+ Глубина:
+ Требуемая Энергия:
+ Энергоёмкость:
+ Макс. скорость перезарядки:
+ Максимальная твердость руды:
+ Скорость выкапывания:
+ Эффективность извлечения руды:</Left>
+					<Right>9 м x 9 м
+ 3950 м
+ 150 Э/блок
+ 4096 Э
+ 1024 Э/с
+ 250
+ 5 м/с
+ 10%</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

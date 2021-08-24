@@ -1,0 +1,29 @@
+﻿<MaterialEntry>
+	<Key>HiveBrainMatter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>母巢脑组织液</Text>
+				</Title>
+				<Icon>
+					<Name>Brain Matter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>大多数母巢大脑在能量爆炸中被摧毁。 一些大脑物质完好无损得需要调查。 您的实验室将分析此项目，这应该为我们提供更多的研究选项。</Text>
+				</Paragraph>
+				<Spacer/>
+rte
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

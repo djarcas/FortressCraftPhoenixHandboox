@@ -1,0 +1,66 @@
+﻿<MaterialEntry>
+	<Key>BasicConveyorBelt</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>基础传送带</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Conveyor Belt</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>传送带是一种相对便宜且易于移动资源的方式。 您第一次使用他们的可能是将材料从装有矿石或煤矿的储存料斗移动到连接到熔炼炉或发电机的物料斗，如CPH或热能发电机。</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>用法</Text>
+				</Header>
+				<Paragraph>
+					<Text>输送带将自动从任何储存料斗中获取资源若其指向料斗以外，并将其沿其前进方向移动，并将其放入在其前方的任何传送带或储存料斗上，前提是有可用空间。 您可以通过旋转传送带或将其放置在墙壁上以纵向移动资源来改变传送带的方向。 存储料斗只需要与生产线末端的相邻机器进行交互。</Text>
+				</Paragraph>
+				<Header>
+					<Text>限制</Text>
+				</Header>
+				<Paragraph>
+					<Text>传送带价格便宜，不需要外部电源，但它们确实有许多缺点。 他们容易受到极端寒冷/有毒环境的影响，开放式设计使它们特别容易受到攻击。 应研究其他运输方式。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>基础传送带比普通的传送带便宜，但是速度更慢。 用于早期自动化或不需要高吞吐量的应用场景。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Header><Text>筛选</Text>
+</Header>
+				<Icon>
+					<Name>Conveyor Belt Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;使用传送带分拣器可以更精确地控制资源分配。 这种筛选器用于控制从传送带网络中的料斗排出的材料。 您可以设置一个筛选器来移除垃圾，矿石，有机体（ORGANIC），宝石，煤，生物质（BIOMASS），可融物，可燃物，制作的物品（CRAFTED ITEMS），水晶或金属锭。 &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品参数</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>最大运输速率（快）：
+最大运输速率（慢）：
+需要电力：
+最大范围：</Left>
+					<Right>&quot;18 /分钟
+ 9  /分钟
+ 无
+ 1m&quot;</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+					
+	</Pages>
+</MaterialEntry>

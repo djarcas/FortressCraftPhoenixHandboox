@@ -1,0 +1,42 @@
+﻿<MaterialEntry>
+	<Key>SolarPanelMk1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>太阳能板</Text>
+				</Title>
+				<Icon>
+					<Name>Solar Panel</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>太阳能电池板是低维护的可再生能源来源。 清空他们上方的天空，并且只能在白天发电。 他们将电力分配给任何相邻的机器，电源存储块或激光功率送电器。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>太阳能电池板内部电容量较小，因此应由适量的能量块进行缓存，以确保可靠供电。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;峰值功率（丰富）：
+  峰值功率（稀缺）：
+  能量容量：
+  最大传输功率：
+  燃烧时间：
+  燃料：&quot;</Left>
+					<Right>22.5/秒
+  9/秒
+  64
+  32/秒
+  N/A
+  阳光</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

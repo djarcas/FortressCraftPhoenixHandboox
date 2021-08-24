@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>LithiumPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Литиевая Труба</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Простая литиевая труба, изготовляемая из литиевых слитков в Экструдере Труб.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

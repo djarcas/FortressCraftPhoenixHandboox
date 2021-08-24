@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Name>Organic Coal Enricher</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>有机煤富集器</Text>
+				</Title>
+				<Icon>
+					<Name>Coal Enricher</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>有机煤富集器使用少量的功率来增加热能发电机中的煤产生的功率。 有机煤富集器在15秒的时间内使用0.1pps将普通煤炭加工成复合煤。 可以进一步改进。</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Crystal Coal Infuser</Material>
+					</Target>
+					<Text>Crystal Coal Infuser</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

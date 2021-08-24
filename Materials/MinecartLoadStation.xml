@@ -1,0 +1,36 @@
+﻿<MaterialEntry>
+	<Key>MinecartLoadStation</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Minecart Load Station</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart Load</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Removes materials from attached Storage Hoppers into docked Minecarts.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Item Load Rate:</Left>
+					<Right>5 per second</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Minecart Depot</Material>
+					</Target>
+				<Text>Minecart Depot</Text>
+			</Link>
+			</Paragraphs>
+		
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

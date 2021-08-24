@@ -1,0 +1,130 @@
+﻿<MaterialEntry>
+	<Key>LargeMinecart</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Große Lore</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart_T3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Loren sind für den Massentransport von Gegenständen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;Max. Geschwindigkeit:
+Max. Speicher:
+Beschleunigung:
+ &quot;</Left>
+					<Right>&quot;1m/s
+50
+0.5m/s/s
+ &quot;</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Loren zu benutzen ist so einfach wie das bisherige System mit Förderbändern und Containern. Die Loren werden mithilfe des Lorendepots auf die Scheinen geladen.</Text>
+&gt;
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Minecart Depot</Material>
+					</Target>
+					<Text>Minecart Depot</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Be- Entladen von Loren</Text>
+				</Title>
+
+				<Paragraph>
+					<Text>Minenkarren halten automatisch an Lade- und Entladestationen an, um ihre Waren aufzunehmen oder abzuladen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Icon>
+					<Name>Minecart Load</Name>
+					<Target><Material>MinecartLoadStation</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>MinecartLoadStation</Material>
+					</Target>
+					<Text>Minecart Load</Text>
+				</Link>
+				<Icon>
+					<Name>Minecart Unload</Name>
+					<Target><Material>MinecartUnloadStation</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>MinecartUnloadStation</Material>
+					</Target>
+					<Text>Minecart Unload</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+			<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Erweiterte Kontrolle</Text>
+				</Title>
+				<Spacer/>
+				<Paragraph>
+					<Text>Für ein genaueres Kontrollieren der Loren sind noch weitere Werkzeuge vorhanden, die die Logik des Schienennetzes beeinflussen können.</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Minecart Turbo Rail</Name>
+					<Target><Material>Minecart Turbo Rail</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Turbo Rail</Material>
+					</Target>
+					<Text>Minecart Turbo Rail</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>MinecartBufferFull</Name>
+					<Target><Material>MinecartBufferFull</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Full Gate</Material>
+					</Target>
+					<Text>Minecart Full Gate</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>MinecartBufferEmpty</Name>
+					<Target><Material>MinecartBufferEmpty</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Empty Gate</Material>
+					</Target>
+					<Text>Minecart Empty Gate</Text>
+				</Link>
+				<Spacer/>
+
+		
+			</Paragraphs>
+		</Page>
+	
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Name>Organic Coal Enricher</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>有机质煤炭富集器</Text>
+				</Title>
+				<Icon>
+					<Name>Organic Coal Enricher</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>有机质煤炭富集器使用少量的电力来增加热能发电机中的煤的能量产出。有机质煤炭富集器在15秒的时间内使用0.1pps将普通煤炭加工成富氧煤。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

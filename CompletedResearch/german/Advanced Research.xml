@@ -1,0 +1,38 @@
+﻿<Chapter>
+	<Handle>advanced research</Handle>
+	<Title>Fortgeschrittene Forschung</Title>
+	<Icon>Laboratory Component</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fortgeschrittene Forschung
+				</Text>
+				</Title>
+				<Icon>
+					<Name>Laboratory Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Wir haben jetzt einen Bauplan für ein Forschungslabor und die Baumaschinen, um Forschungskapseln dafür zu erzeugen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Das Labor wird benötigt, um fortgeschrittene Projekte zu erforschen welche durch das freischalten neuer Projekte und Rezepte deinen Technologie Level erhöhen. Insgesamt werden 27 Labor Komponenten benötigt (gebaut in 3 Stapeln mit je 9 Komponenten) und diese müssen in einer 3 mal 3 mal 3 Konfiguration angeordnet werden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Mehr Informationen zum Labor gibt es in der folgenden Anleitung:</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research Guide</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

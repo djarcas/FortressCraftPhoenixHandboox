@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>ore pings</Handle>
+	<Title>Улучшенное обнаружение руды</Title>
+	<Icon>Improved Ore Scanning</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Улучшенное обнаружение руды</Text>
+				</Title>
+				<Icon>
+					<Name>Improved Ore Scanning</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Мы столкнулись с проблемой поиска ресурсов для расширения базы!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Сканер руды настроен на поиск неизвестных материалов, он исследует и классифицирует их. Его способность находить уже известные материалы ограничена. Есть возможность использовать небольшое количество руды для создания Пробников и поиска конкретных материалов.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

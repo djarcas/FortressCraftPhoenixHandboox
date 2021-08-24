@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SapphireCrystal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Safiirikide</Text>
+				</Title>
+				<Icon>
+					<Name>Sapphire Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Safiirikide on harvinainen materiaali jota käytetään päivityksien pohjamateriaalina. Sitä voi löytää luolista syvyyksien -225 ja -300 välistä.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

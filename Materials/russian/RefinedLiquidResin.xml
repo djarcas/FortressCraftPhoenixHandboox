@@ -1,0 +1,64 @@
+<MaterialEntry>
+	<Key>RefinedLiquidResin</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Текучая Смола</Text>
+				</Title>
+				<Icon>
+					<Name>Hardened Resin</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Partially Ablated Resin</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Ablated Resin</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Liquified Resin</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Этот материал получен после того, как Твёрдая Смола разжижена и очищена с помощью ряда специальных машин.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+			
+		<Page>
+			<Paragraphs>
+			<Title>
+				<Text>Очистка Твёрдой Смолы</Text>
+				</Title>
+				<Spacer/>
+				<Paragraph>
+					<Text>Извлеките и Очистите этот материал с помощью этих машин, расположенных вблизи живого или мертвого Разума Роя.</Text>
+				</Paragraph>
+		
+				<Link>
+					<Target>
+						<Material>Laser Resin Liquifier</Material>
+					</Target>
+					<Text>Laser Resin Liquifier</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Laser Resin Ablator</Material>
+					</Target>
+					<Text>Laser Resin Ablator</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Liquid Resin Refiner</Material>
+					</Target>
+					<Text>Liquid Resin Refiner</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	
+	</Pages>
+</MaterialEntry>

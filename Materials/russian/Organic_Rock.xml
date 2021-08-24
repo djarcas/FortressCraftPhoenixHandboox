@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>OrganicRock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Органический Камень</Text>
+				</Title>
+				<Icon>
+					<Name>Organic Rock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Органический Камень - это отложение, сформированное местной фауной. Его часто можно найти на этой планете, в особенности около Сверхразумов или в системах пещер. Его можно попытаться добыть с Камоботов.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

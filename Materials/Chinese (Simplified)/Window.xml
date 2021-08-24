@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Window</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>窗户</Text>
+				</Title>
+				<Icon>
+					<Name>Window</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>一种基本的建筑材料, 可以在任何地方加工。打开自己的手工制作界面 (默认 \&quot;C\&quot;) 来制造。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

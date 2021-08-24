@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>GoldOrePing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>金矿扫描脉冲</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Ore Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>金矿扫描脉冲用于新的金矿脉。 更多信息，请参阅空白扫描脉冲的帮助指南。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Blank Ore Ping</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

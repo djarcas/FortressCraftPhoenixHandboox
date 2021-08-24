@@ -1,0 +1,37 @@
+﻿<Chapter>
+	<Handle>advanced research</Handle>
+	<Title>Geavanceerd Onderzoek</Title>
+	<Icon>Laboratory Component</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Geavanceerd Onderzoek</Text>
+				</Title>
+				<Icon>
+					<Name>Laboratory Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>We hebben nu een ontwerp voor een onderzoekslaboratorium en de assemblagemachines die nodig zijn voor het leveren van experimentele capsules.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Het laboratorium is nodig voor het onderzoeken van geavanceerde projecten die uw technologieniveau verbeteren en nieuwe projecten en recepten ontgrendelen. Er zijn in totaal 27 laboratoriumcomponenten nodig (vervaardigd in 3 sets van 9 componenten elk) en moet in een 3 op 3 op 3 configuratie gebouwd worden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Voor meer informatie over het gebruik van het laboratorium, raadpleeg de volgende handleiding:</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research Guide</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

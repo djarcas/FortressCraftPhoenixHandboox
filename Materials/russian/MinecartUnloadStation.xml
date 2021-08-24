@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>MinecartUnloadStation</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Станция Разгрузки Вагонеток</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart Unload</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Выгружает ресурсы из Вагонеток в подсоединенные Бункеры.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Minecart Depot</Material>
+					</Target>
+					<Text>Minecart Depot</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

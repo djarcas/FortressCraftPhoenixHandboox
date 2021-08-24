@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>GoldHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Goldgehäuse</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

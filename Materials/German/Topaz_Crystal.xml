@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>TopazCrystal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Topaz Kristall</Text>
+				</Title>
+				<Icon>
+					<Name>Topaz Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein Topas-Kristall ist ein seltenes Material, das als Grundzutat für Upgrades verwendet wird. Es kann in Höhlen zwischen Tiefe -300 bis -375 gefunden werden.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

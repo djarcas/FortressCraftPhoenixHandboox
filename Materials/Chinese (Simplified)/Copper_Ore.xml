@@ -1,0 +1,31 @@
+﻿<MaterialEntry>
+	<Key>CopperOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>铜矿</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>可在地表附近发现，铜矿可以使用熔炼炉炼成铜锭。 铜锭通常用于各种具有电气部件的机器中。</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>使用矿物分离器开采铜矿。</Text>
+				</Paragraph>
+        <Icon>
+          <Name>Ore Extractor</Name>
+          <Target>
+            <Material>OreExtractor</Material>
+          </Target>
+        </Icon>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

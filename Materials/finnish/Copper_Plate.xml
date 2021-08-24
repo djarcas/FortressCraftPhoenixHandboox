@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>CopperPlate</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kuparilaatta</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen kuparilaatta on tehty kupariharkoista leimausasemalla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

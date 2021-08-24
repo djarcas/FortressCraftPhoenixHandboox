@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERBatteryCore</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Batteri kjerne</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Battery Core</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

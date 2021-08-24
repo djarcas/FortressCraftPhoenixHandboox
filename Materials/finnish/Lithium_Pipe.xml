@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>LithiumPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Litiumputki</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen litiumputki tehdään litiumharkoista putkenvenytysasemalla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

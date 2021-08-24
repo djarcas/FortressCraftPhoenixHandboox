@@ -1,0 +1,29 @@
+﻿<Chapter>
+	<Handle>T1 assist machines</Handle>
+	<Title>Bas Bygg Automation</Title>
+	<Icon>Base Building Automation</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Bas Bygg Automation</Text>
+				</Title>
+				<Icon>
+					<Name>Base Building Automation</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Att bygga ett stort gruvdrift är ett jobb för maskiner, inte människor!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Detta omfattande projekt kommer att utforma maskiner för automatisk utgrävning och konstruktion förutom att förbättra alternativen som är tillgängliga för att förflytta dig i din bas.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Förutom automatisk utgrävning kommer detta projekt att försöka producera ett sprängmedel som kan användas för att rensa ut ett stort område.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

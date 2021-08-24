@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SuitPowerPackMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>防护服能源包 MK1</Text>
+				</Title>
+				<Icon>
+					<Name>Suit Power Pack MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>防护服能源包MK1是一款额外安装的电池，可将本机256个功率单元的内部缓冲器增加到512个功率单元。 这种升级是初级的，有进一步改进的余地。 这种升级的进一步改进是不可能的，直到可以发现更好的导热材料来协助必要的冷却技术，使得蓄电单元的散热不会损害该套件的寿命支持系统。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

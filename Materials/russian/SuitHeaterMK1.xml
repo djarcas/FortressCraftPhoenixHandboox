@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Key>SuitHeaterMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Обогреватель Костюма МК1</Text>
+				</Title>
+				<Icon>
+					<Name>Suit Heater MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Более прочное тепловое ядро позволяет модернизированному нагревателю костюма обеспечивать безопасность пользователя при температурах вплоть до абсолютного нуля. 
+Увеличивается потребление энергии. 
+Для модернизации костюма этим улучшением достаточно изготовить только один образец и оставить в инвентаре.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

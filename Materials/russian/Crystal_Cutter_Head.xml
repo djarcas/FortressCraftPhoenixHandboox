@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>CrystalCutterHead</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Кристаллическая Фреза</Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Cutter Head</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Сокращает потери руды за счет повышения эффективности Экстрактора Руды. Также позволяет добывать более твердые материалы. Во время работы Фрезы изнашиваются.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Кристаллическая Фреза эффективнее Стальной, но быстрее изнашивается.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Эффективность:
+Макс. твердость:
+Прочность:</Left>
+					<Right>30%
+250
+5000</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

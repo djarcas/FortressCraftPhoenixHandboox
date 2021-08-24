@@ -1,0 +1,35 @@
+<MaterialEntry>
+	<Key>ForcedInductionMK5</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 5 ahdin</Text>
+				</Title>
+				<Icon>
+					<Name>Forced InductionT5</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ahdinyksiköt ovat päivityksiä malmisulattamoon jotka lisäävät sulatusnopeutta lisääntyneen virrankulutksen kustannuksella. Käyttääksesi yksikköä aseta se malmisulattamon päälle. 
+
+					Mallin 5 ahdinpäivitys myös nelinkertaistaa malmikeräysnopeuden liitetyistä varastohypyttimistä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Perusmalmisulattamot eivät tue ahdinpäivityksiä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Sulatusnopeus:
+					Virrankäyttö:</Left>
+					<Right>400%
+					3200%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

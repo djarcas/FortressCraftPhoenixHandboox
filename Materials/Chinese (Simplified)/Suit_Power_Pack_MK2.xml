@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Key>SuitPowerPackMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>防护服能源包 MK2</Text>
+				</Title>
+				<Icon>
+					<Name>Suit Power Pack MK2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>防护服能源包MK2是一款额外安装的电池，可将本机512个功率单元的内部缓冲器增加到1024个功率单元。 冷却问题今后解决了，另外还有一个问题。 不幸的是，不可能进一步升级，直到找到一种更先进的电磁屏蔽系统的新材料。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Suit Power Pack MK1</Material>
+					</Target>
+					<Text>Suit Power Pack MK1</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

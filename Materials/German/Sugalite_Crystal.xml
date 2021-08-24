@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>SugaliteCrystal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Sugalithkristall</Text>
+				</Title>
+				<Icon>
+					<Name>Sugalite Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein Sugalitkristall ist ein seltenes Material, das als Grundzutat für Upgrades verwendet wird. Es kann in Höhlen zwischen Tiefe -375 bis -2500+ gefunden werden.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Tricks und Tipps.</Text>
+				</Header>
+				<Paragraph><Text>In allen tiefen Höhlen kann es zu Sufalitkristallen kommen. Es ist ein seltener Fund. In extremen Tiefen stoppt die Höhlenbildung.</Text>
+</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

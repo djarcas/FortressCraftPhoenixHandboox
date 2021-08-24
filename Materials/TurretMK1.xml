@@ -1,0 +1,46 @@
+<MaterialEntry>
+	<Key>TurretMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Turret MK1</Text>
+				</Title>
+				<Icon>
+					<Name>Pop Up Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Basic energy-based defence. Must be powered by an adjacent Power Generator, Power Storage Block or via a Laser Power Transmitter.</Text>
+				</Paragraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>Turrets should be used to cover a number of critical parts of your base. As well as the CPH, you will want to defend any exposed Power Storage Block, Ore Extractor, and if you're on a hard enough difficulty, any power-using machine.</Text>
+        </Paragraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>Hint : It's far better to place a turret down near all your mining operations, than to hope you've find a sneaky way to confound the natural threats of this planet.</Text>
+        </Paragraph>
+        <Spacer/>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Range:
+					Damage Per Shot:
+					Power Per Shot:
+					Max. Power Capacity:
+					Max. Power Recharge Rate:
+					Reload Time:</Left>
+					<Right>16m
+					50
+					16
+					100
+					512 per second
+					1 second</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

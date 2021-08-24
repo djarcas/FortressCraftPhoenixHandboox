@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>DapperScale</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Silottelusuomu</Text>
+				</Title>
+				<Icon>
+					<Name>DapperScale</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Silottelulisäosan kosmeettinen palikka. Kiitos FortressCraft:n tukemisesta!</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,324 @@
+﻿<Chapter>
+	<Handle>welcome</Handle>
+	<Title>Starte Hilfe</Title>
+	<Icon>Grass</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<HelpImage>
+					<Name>FCevolvelogo-01</Name>
+				</HelpImage>
+				<Title>
+					<Text>Willkommen bei FortressCraft Evolved</Text>
+				</Title>
+				<Header>
+					<Text>Kreativ-Modus</Text>
+				</Header>
+				<Paragraph>
+					<Text>Willkommen im Kreativ-Modus! Einstellungen sind unten, Leitfaden für Werkzeuge befinden sich auf der nächsten Seite.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Chapter>findingSurvival</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Looking for Survival Mode?</Text>
+				</Link>
+				<Spacer/>
+				<Header>
+					<Text>Einstellungen</Text>
+				</Header>
+				<TwoColumnParagraph>
+<Left>W,A,S,D: Charakter bewegen
+Leertaste: Springen
+Leertaste x 2: Aktiviere Jetpack Modus
+ Q: nach unten fliegen
+ Shift: Schub
+ Landen zum deaktivieren
+Esc: Hauptmenü
+H: Hilfe</Left>
+<Right>Z: Zoom
+X: Konstruktor
+C: Wetter-Stab
+N: Pinsel
+F10: Aktiviere den Super bau Modus
+F11: Aktiviere Kopieren/Einfügen Modus
+=: Block-Auswahl
+F1-F7: Wähle Schnellzugriffsleiste
+1-10: Tastenkürzel auswählen</Right>
+				</TwoColumnParagraph>
+				<Paragraph>
+					<Text>Linke Maustaste: Bauen/Primäre Gerätefunktion
+Rechte Maustaste: Löschen/Alternative Gerätefunktion
+Mittlere Maustaste: Aktuell angesehenen Block auswählen
+Mausrad: Nächsten Block auswählen oder durch die Gerätefunktionen scrollen
+STRG + Linke Maustaste: Bau-zu-mir-Funktion. Platziert Blöcke bis zur aktuellen Position des Charakters
+STRG + rechte Maustaste: Schnell abbauen</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kreativmodus Bauwerkzeuge</Text>
+				</Title>
+				<Paragraph>
+					<Text>In FortressCraft Evolved besitzt du mehrere mächtige Werkzeuge für kreatives Bauen, die im folgenden beschrieben werden. Wir werden in Zukunft Links zur genaueren Erklärung der Werkzeuge bereitstellen.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Konstruktor</Text>
+				</Header>
+				<Icon>
+					<Name>Build Gun V2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Beim Verwenden des Konstruktors (auswählen mit [X]) kannst du mit \&quot;Bauen\&quot; (Standard: [Linke Maustaste]) Blöcke platzieren, während \&quot;Entfernen\&quot; (Standard: [Rechte Maustaste]) die Blöcke wieder löscht. Du kannst mit der großen Reichweite vom Konstruktur bis zu 64 Blöcke entfernt etwas be-/abbauen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Schnellabbau</Text>
+				</Header>
+				<Paragraph>
+					<Text>Halte STRG gedrückt, während du Blöcke abbaust, um den Schnellabbau zu aktivieren. Dies wird deine Abbaugeschwindigkeit sehr viel schneller machen, was gut ist für das ausheben von grösseren Flächen ist. Sei vorsichtig beim Schnellabbau, damit du nicht deine bereits fertige Arbeit aus Versehen zerstörst.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Baue-zu-mir-Funktion</Text>
+				</Header>
+				<Paragraph>
+					<Text>Halte STRG beim Bauen gedrückt, um eine Reihe Blöcke in deine Richtung zu bauen, ausgehend von der markierten Fläche.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Die Werkstatt</Text>
+				</Header>
+				<Paragraph>
+					<Text>Die Werkstatt ist ein mächtiges kreatives Werkzeug für die Gestaltung detaillierter Würfel. Du kannst deine eigenen Blöcke entwerfen, indem du großformatige Entwürfe baust und diese dann zur Größe eines Blockes schrumpfst. Die Werkstatt kann überall auf der Welt gebaut werden. Um die Werkstatt zu erstellen, öffne das Blockauswahlmenü (=) und wähle die Werkstatt aus:</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Workshop Placement</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Quote>
+					<Text>Workshop Placement block</Text>
+				</Quote>
+				<Paragraph>
+					<Text>Platziere den Block in den gegenüberliegenden Ecken, wo du die Werkstatt haben möchtest. Schritt für Schritt Anleitung:</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>1. Suche eine freie Fläche und platziere einen Werkstatt-Block.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>2. Bleibe auf der selben Höhe diagonal vom ersten Werkstatt-Block.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>3. Platziere den zweiten Werkstatt-Block um deine Werkstatt abzustecken.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>4. Sofern sich die beiden Blöcke auf derselben Höhe, diagonal zueinander und in einem maximalen Abstand von 7 Blöcken befinden, wird eine Werkstatt aus Verstärktem Stein und Holz errichtet</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>				
+				<Spacer/>
+				<Paragraph>
+					<Text>Die Werkstatt kann in Größen zwischen 2x2 (Zwei Blöcke direkt diagonal nebeneinander)und 8x8 (Sechs leere Blöcke dazwischen) gebaut werden.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Erstellen eines Detail-Blocks in der Werkstatt</Text>
+				</Header>
+				<Paragraph>
+					<Text>Sobald du deine Werkstatt errichtet hast, kannst du beginnen einen Detail-Block zu entwerfen. Die Werkstatt wird, während du dich in dieser befindest, mittels leuchtenden Funken an der Außenkante hervorgehoben. Zudem erscheint ein Werkstatt-Overlay.</Text>
+				</Paragraph>
+				<!--
+				<HelpImage>
+					<Name>Workshop Overlay</Name>
+				</HelpImage>
+				-->
+				<Paragraph>
+					<Text>Es gibt einige Tasten, mit denen Funktionen aus der Werkstatt ausgewählt werden können:
+Y: Beginne neues Design
+U: Nutze aktuelles Design (noch nicht implementiert)
+I: Zeige Detailfenster
+O: Zeige Verhaltensfenster (derzeit gesperrt)
+[: vorheriges Design
+]: Nächstes Design</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Beim Betreten einer neuen Werkstatt wird automatisch ein neues Design erstellt. \&apos;Y\&apos; muss nicht mehr zum initialisieren gedrückt werden nachdem das erste Design erstellt wurde.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Spacer/>
+				<Paragraph>
+					<Text>Um deinen ersten Detailblock zu erstellen, bauen ihn einfach in der markierten Zone. Die Wand, welche aus verstärktem Holz besteht wird die Frontseite von deinem Block sein. Du kannst alle Blöcke verwenden die du sonst auch verwenden würdest, jedoch Blöcke die ein Model haben werden nicht angezeigt. Gefärbte Blöcke werden mit ihrer Farbe abgespeichert.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Wenn du zufrieden bist mit deinem Design, verlassen die Werkstatt und sie wird den Detailblock speichern um damit bauen zu können. Um den Block nun bauen zu können, öffne den Blockauswahl-Bildschirm (=) und wähle deinen Block aus und ziehe ihn in deine Schnellzugriffsleiste. Du kannst Detailblöcke schneller finden in den du Rechts den Filter \&apos;Detail Block\&apos; auswählst. Du kannst nun ein neues Design beginnen indem du ´Y` drückst oder indem du eine neue Werkstatt baust. Insgesammt kannst du bis zu 16.384 einzigartige Designs für Detailblocks haben!</Text>
+				</Paragraph>
+				<Header>
+					<Text>Detailblöcke platzieren</Text>
+				</Header>
+				<Paragraph>
+					<Text>Um einen Detailblock zu platzieren, baue es wie du einen anderen Block baust. Das Design wird an das Gesicht, das du ausgewählt hast, anhängen und gedreht werden. So können Sie Detailblöcke in beliebiger Ausrichtung platzieren.</Text>
+				</Paragraph>
+		
+<!--				
+				<HelpImage>
+					<Name>Detail Block example</Name>
+				</HelpImage>
+				-->
+				<Paragraph>
+					<Text>Wenn Sie Tausende von Detailblöcken im selben Bereich verwenden, werden Sie signifikante Leistungsverluste feststellen. Dies ist, weil alle diese Details von Ihrer Grafikkarte gerendert werden müssen. Um dies zu lindern, verwenden Sie Detailblöcke von niedrigeren Auflösungen und verwenden Sie normale Blöcke, wo immer Sie können.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Super Konstruktor</Text>
+				</Header>
+		
+				<Paragraph>
+					<Text>Durch Drücken von F8 wird das Super Bau Menu auf der rechten Seite des Bildschirms geöffnet</Text>
+				</Paragraph>
+				<!--
+				<HelpImage>
+					<Name>Super Build panel</Name>
+				</HelpImage>
+				-->
+				<Paragraph>
+					<Text>Dies ermöglicht es dir, schnell und einfach geometrische Formen aus jedem Block, der ausgewählt ist, aufzubauen. Um den Super Konstruktor zu verwenden, wähle zuerst eine Form, um mit F9 zu bauen. Mit F10 kannst du wählen, ob eine solide oder hohle Form erzeugt soll. Mit F11 wird der Baumodus umgeschaltet. Sofort erzeugt das schnellste Ergebnis, dies kann aber in sehr grossen Konstruktionen zu Löchern führen. Ende wechselt den Ankerpunkt von mittig in der Form zu mittig an der unterseite der Form.</Text>
+				</Paragraph>
+				
+				<Paragraph>
+					<Text>X, Y und Z erlauben es Ihnen, die Größe der Form zu ändern. Wenn Sie sie drücken, erhöht sich diese Dimension um 1. Halten Sie die Verschiebung und drücken Sie X, Y oder Z, um eins zu senken. Sie können zusätzlich ALT halten, um die Größe um 16 zu einer Zeit zu ändern.</Text>
+				</Paragraph>
+				
+				<Paragraph>
+					<Text>Sobald Sie eine Form, Größe und Standort gewählt haben, drücken Sie Einfügen, um die Form zu erzeugen, oder Entfernen, um ein Negativ auszuheben. Sie müssen dann die Form neuauswählen, um wieder zu graben oder zu bauen zu können.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Kopieren Einfügen</Text>
+				</Header>
+		
+				<Paragraph>
+					<Text>Mit dem Kopieren Einfügen-Tool kannst du schnell einen Teil eines Designs kopieren, den du gemacht hast, drehen oder umdrehen und ihn in die Welt einfügen wo du willst. Öffne die Kopier/Einfügen Funktion durch Drücken von F11.
+Die Kopieren Einfügen Funktion ist derzeit IN ARBEIT, weshalb sie nicht wie der Rest der Spieloberfläche aussieht.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Kopieren Einfügen Einstellungen</Text>
+				</Header>
+				<Paragraph>
+					<Text>Drücke Einfügen, um die erste Ecke des rechteckigen Teils zu platzieren, der kopiert werden soll.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Drücke Entfernen, um die zweite Ecke des rechteckigen Teils zu platzieren, welcher kopiert werden soll. Der zu kopierende Bereich wird nun hervorgehoben.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Sobald ein Bereich ausgewählt wurde, kannst du Ende drücken, um ihn zu packen. An dieser Stelle wird eine Vorschau des kopierten Bereichs oben auf Ihrer Blockauswahl angezeigt.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Wenn ein Bereich gepackt ist, gibt es drei Dinge die du tun kannst, um die Art und Weise, wie die Fläche eingefügt wird, zu ändern: Mit R drehen, Ankerpunkt mit Umschalt bewegen, mit STRG umdrehen.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>\&apos;R\&apos; dreht die ausgewählte Region um 90 Grad im Uhrzeigersinn.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Wenn Sie einmal gedrückt werden, können Sie den Ankerpunkt mit den Tasten X, Y und Z ändern. Durch Drücken von SHIFT + X, Y oder Z verringert sich die Ankerposition</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Drücken Sie einmal STRG, um das Design mit den Tasten X, Y und Z zu kippen. Jede Taste wird das Design entlang dieser Achse umdrehen.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Schließlich wird das Drücken von Pos1 den Bereich in die ausgewählte Position einfügen.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Kopieren Einfügen von Schaltplänen</Text>
+				</Header>
+				<Paragraph>
+					<Text>Es ist auch möglich, Schaltpläne für die spätere Verwendung mit der Taste \&apos;&lt;\&apos; zu speichern und mit \&apos;?\&apos; Zu laden. Sie können die gespeicherten Schaltpläne mit anderen Personen austauschen. Aber diese Funktion ist noch in der Entwicklung, so können wir dir nicht garantieren, dass es funktionieren wird.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header>
+					<Text>Pinsel</Text>
+				</Header>
+		
+				<Paragraph>
+					<Text>Du kannst den Pinsel durch Drücken von \&apos;N\&apos; auswählen. Mit ihm kannst du bestimmte Materialien, die färbbar sind, in jeder beliebigen Farbe bemalen. Wenn der Pinsel ausgewählt ist, malt LMB den gezielten Block, RMB öffnet das Farbauswahlfenster und MMB übernimmt die Farbe vom ausgewählten Block, mit welcher der ausgewählte Block gemalt werden kann. Das Vorschaubild zeigt an, welche Farbe auf dem Pinsel selbst gewählt wird.</Text>
+				</Paragraph>
+				<!--
+				<HelpImage>
+					<Name>Paint Gun window</Name>
+				</HelpImage>
+				-->
+				<Header>
+					<Text>Finde färbbare Materialien</Text>
+				</Header>
+		
+				<Paragraph>
+					<Text>Nur bestimmte Blöcke können bemalt werden. Um schnell welche zu finden , öffne den Block auswahl Bildschirm (\&apos;=\&apos;) und überprüfen Sie die \&apos;Streichbar\&apos; Filter. Alle dort angezeigten Blöcke können in die Welt gelegt und angemalt werden.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Wetterstab</Text>
+				</Header>
+		
+				<Paragraph>
+					<Text>Der Wetterstab erlaubt dir, das Wetter, die Tageszeit zu kontrollieren und Meteore in die Gegend zu schmeissen. Wähle es mit \&apos;C\&apos; aus. Wenn du deine Welt betrittst, wird eine Statistik angezeigt, welche zeigt, welche Gesamtmenge an Meteoren, Spieler in FortressCraft Evolved herumgeworfen haben.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Wetterstab Modus</Text>
+				</Header>
+				<Paragraph>
+					<Text>eSun: Stoppt den aktuellen Regen oder Schnee und läßt die Sonne scheinen (oder den Mond, wenn es Nacht ist</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>eLightning: Erschafft einen schweren Sturm. LMT löst Blitz aus</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>eSnow: Erzeuge Schneefall</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>eRain: Erzeuge Regen</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>eDayNight: Dreht die Zeit schnell vor oder zurück</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>eMeteor: Erzeugt Meteore. LMT erzeugt einen Meteor hoch im Himmel, um irgendwo in deiner Nähe einzuschlagen. RMT ruft einen Meteor, der auf den von den Wetterpersonen anvisierten Block gerichtet ist. Es gibt eine kurze Abklingzeit bei diesen beiden Aktionen, also kann der Schnell-Klick nicht so viele Meteore beschwören, wie du es möchtest :) Beim Erzeugen von Meteoren achten Sie auf Orbital-Stationen!</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</Chapter>

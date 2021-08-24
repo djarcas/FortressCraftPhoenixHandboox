@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ReinforcedWood</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Усиленное Дерево</Text>
+				</Title>
+				<Icon>
+					<Name>Reinforced Wood</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Базовый строительный материал, который можно сделать в любом месте без использования Завода. Откройте интерфейс производства вручную (по умолчанию «C») для изготовления.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

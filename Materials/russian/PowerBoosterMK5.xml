@@ -1,0 +1,37 @@
+﻿<MaterialEntry>
+	<Key>PowerBoosterMK5</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Энергоячейка АРЧЕРа МК5</Text>
+				</Title>
+				<Icon>
+					<Name>MK5 Power Booster</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					<Text>Использование данного предмета позволит мгновенно подзарядить батарею АРЧЕРа. Запаситесь ими заранее, это позволит вам дольше путешествовать под землей и подзаряжать оборудование.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Хранимая Энергия:</Left>
+<Right>2500</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+					<Link>
+					<Target>
+						<Material>MK5PowerBoosterCharger</Material>
+					</Target>
+					<Text>Crafted by MK5 Power Booster Charger</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

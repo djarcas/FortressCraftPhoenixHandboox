@@ -1,0 +1,37 @@
+<MaterialEntry>
+	<Key>QuadMatterMover</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Quad Matter Mover</Text>
+				</Title>
+				<Icon>
+					<Name>Quad Matter Mover</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Matter Movers are a high-speed, high-energy method of moving resources around your mining operation. They are simple in usage; supply with power as you would any other machine, and place them adjacent to the source Storage Hopper and facing towards the destination Storage Hopper. The cost to mattermit does not depend on distance. Line of sight to the destination hopper is required. This block does not block movement.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Header><Text>Specifications</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Max. Transport Rate:
+					Power Required:
+					Max. Power Recharge Rate:
+					Power Capacity:
+					Max. Range:</Left>
+					<Right>1200 items per minute
+					64 per item
+					1536 /s (per face)
+					3072
+					16m</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

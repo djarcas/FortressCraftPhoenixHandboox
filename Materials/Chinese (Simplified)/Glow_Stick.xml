@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>GlowStick</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>荧光棒</Text>
+				</Title>
+				<Icon>
+					<Name>Glow Stick</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>根据需要，您的防护服会自动制作荧光棒，5单位能量一个。 按G掷出荧光棒！</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

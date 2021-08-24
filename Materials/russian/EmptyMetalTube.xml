@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>EmptyMetalTube</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Пустая металлическая труба</Text>
+				</Title>
+				<Icon>
+					<Name>Empty Metal Tube</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Простая, но прочная железная труба.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

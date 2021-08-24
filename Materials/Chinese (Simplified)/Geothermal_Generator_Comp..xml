@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>GeothermalGeneratorPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>地热发电机组。</Text>
+				</Title>
+				<Icon>
+					<Name>Geothermal Generator Comp_</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;地热发电机组用于形成能够输出喷气涡轮机功率的10倍的高级无源发电系统。 地热发生器必须放置在寒冷的洞穴中，并连接导热管以开始发电。 地热通过从温差产生能量，每多一根导热管，都会增加每秒能量产出。 一旦导热管到达岩浆洞，它们将开始从岩浆海中吸收热量，从而使得发电量指数级增长。 由于地热发电来源于温差，因此，冷冻罐可大大提升地热能的产出。 &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Heat Conducting Pipe</Material>
+					</Target>
+					<Text>Heat Conducting Pipe</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

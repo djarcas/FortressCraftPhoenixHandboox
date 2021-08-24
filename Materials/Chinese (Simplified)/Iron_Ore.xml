@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>IronOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>铁矿</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>可在约100m深度附近发现，铁矿可以使用熔炼炉炼成铁锭。 铁锭通常用于各种机器中。</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>可以采用矿物分离器开采铁矿。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

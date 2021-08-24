@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>PristineFacetedEye</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>原生复眼</Text>
+				</Title>
+				<Icon>
+					<Name>WaspEyePristine</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>来自当地飞行生物的眼睛，可用作出色的光学元件。 这一份质量就够好。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

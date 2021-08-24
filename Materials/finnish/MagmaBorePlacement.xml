@@ -1,0 +1,58 @@
+<MaterialEntry>
+	<Key>MagmaBorePlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Magmakairan rakennus</Text>
+				</Title>
+				<Icon>
+					<Name>MagmaBore Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Leikkaa valtavan railon alas magmaluoliin tulvatakseen kylmäluolat lämmöllä. Rakenna 33lx3kx33s asetelmaan (3276 yhteensä)</Text>
+				</Paragraph>
+	
+				<Spacer/>
+			
+				<Paragraph>
+					<Text>Magmakaira tekee meille kuilun alas magmaluoliin. Kun tämä on valmis meidän pitäisi pystyä puristamaan magmaa ja käyttämään sitä viimeinkin hyytämökutemon pyyhkimiseksi - lopullisesti.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Magmakairan alusta rakennetaan 33 metrin neliön muotoon, 3 metriä korkeaksi. Kun tämä on tehty, tukikehikko yrittä pystyttää itsensä. Tämä vaatii 12 lisämetriä; raivattava alue merkitään punaisella laatikolla. Raivaa tämä alue pääkehikon digiluonnin jatkamiseksi.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Pääosa magmakairasta vaatii vielä 64 metriä vapaata, yhteensä 33x80x33 tilaa. Taaskin kaikki esteeet siniseltä laatikolta pitää raivata viimeiseen vaiheeseen etenemiseksi. Tarvitsemme eeppistä määrää virtaa kirjaimellisesti luodaksemme tämän poran puhtaasta energiasta.</Text>
+				</Paragraph>
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			
+			<Paragraphs>
+			<Title>
+				<Text>Magmakairan käyttö</Text>
+				</Title>
+				<Icon>
+					<Name>MagmaBore Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kun pora on täysin digiluotu kairaaminen voi alkaa. Arvioimme että ainakin 100k virtaa sekunnissa - ehkä paljon enemmän! Mitä enemmmän virtaa on saatavilla sitä nopeampi etenemisemme on. Kun olemme osuneet magmaluoliin voimme aloittaa magman pumppaamisen ja sen käyttämisen!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Magma pitäisi pumpata magmavarastoyksikköön perusnesteputkella. Tämä voi sijaita jopa 256 metrin päässä magmakairasta. Magmavarasto voidaan sitten yhdistää maksimikantamana 512m aktiiviseen hyytämöpätsikanuunaan. Tämä hoitaa hyytämökutemon uhan lopullisesti.</Text>
+				</Paragraph>
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

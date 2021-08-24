@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>RuinedStinger</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ruinierter Stinger</Text>
+				</Title>
+				<Icon>
+					<Name>WaspStingerRuined</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Dieser Stinger ist außergewöhnlich scharf, aber zu stark beschädigt, um von Nutzen zu sein.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

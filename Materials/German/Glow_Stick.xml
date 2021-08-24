@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>GlowStick</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Leuchtstab</Text>
+				</Title>
+				<Icon>
+					<Name>Glow Stick</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Leuchtstäbe werden automatisch von deinem Anzug für 5 Energie hergestellt. Drücke G um einen Leuchtstab zu werfen!</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

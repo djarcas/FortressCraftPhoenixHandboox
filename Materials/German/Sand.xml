@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SandNonFluid</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rieselsand</Text>
+				</Title>
+				<Icon>
+					<Name>Sand</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Sand ist ein Block, der natürlich in der Welt gefunden wird. Sand scheint sich ähnlich wie eine Flüssigkeit zu verhalten, da der umliegende Sand jeden entfernten Sand ersetzt, wenn der entfernte Sand sich auf einer niedrigeren Höhe befindet als der ihn umgebende Sand.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

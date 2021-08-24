@@ -1,0 +1,50 @@
+﻿<Chapter>
+	<Handle>T4_start</Handle>
+	<Title>Морозная Фабрика!</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Местные формы жизни</Text>
+				</Title>
+				<Icon>
+					<Name>MagmaBore Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Результаты исследования дают возможность продвинуться в создании Центра Климатического Контроля Холодных Пещер (ЦКК для краткости!). Нужно построить это оборудование в холодной пещере, обеспечить энергией, и затем она должна просто постепенно превратить холодную пещеру в замечательную область, где можно будет и ждать спасения.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Это новое оборудование значительно сложнее (и легче ломается!), чем старый ЦЭК, - необходимо спроектировать, исследовать и создавать гораздо более объемное, более быстрое и более сложное оборудование для добычи и обработки ресурсов. Во-первых, нам понадобятся более продвинутые материалы, соответственно, нужна специальное оборудование для обработки сверхтвердых руд.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Если построить Дробилку Твердой Породы на подходящей площадке 3х3 Хромовой или Молибденовой жилы, то в дальнейшем можно будет создать новый тип бура.</Text>
+  
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Hard Rock Grinder</Material>
+					</Target>
+					<Text>Hard Rock Grinder</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>NanoDisintegrator</Material>
+					</Target>
+					<Text>NanoDisintegrator</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>CCCCC_Placement</Material>
+					</Target>
+					<Text>Cold Cavern Climate Control Centre</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

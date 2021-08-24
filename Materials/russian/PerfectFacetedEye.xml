@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>PerfectFacetedEye</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Идеальный Фасетчатый Глаз</Text>
+				</Title>
+				<Icon>
+					<Name>WaspEyePerfect</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Из глаз местных летающих форм жизни получается отличная оптика. Этот глаз сохранился достаточно хорошо, чтобы его можно было использовать.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

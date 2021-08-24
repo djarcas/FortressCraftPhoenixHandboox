@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T1 Power</Handle>
+	<Title>Energienetz</Title>
+	<Icon>Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Energienetz</Text>
+				</Title>
+				<Icon>
+					<Name>Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Unser Zentraler Energieverteiler (ZEV) kann uns nicht auf ewig genug Energie liefern. Um die Erweiterung der Basis voranzutreiben, müssen wir neue Wege finden Energie zu produzieren und zu übertragen. Damit wird es uns möglich sein tiefere Grabungen zu betreiben, ohne diese manuell mit Energie versorgen zu müssen.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

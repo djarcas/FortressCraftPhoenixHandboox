@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T5 Power</Handle>
+	<Title>顶级能量块</Title>
+	<Icon>Ultimate Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>顶级能量块</Text>
+				</Title>
+				<Icon>
+					<Name>Ultimate Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>成功了！ 我们可能需要的最大的电力存储设备现在在我们的制造能力范围内。 作为一个额外的好处，我们还设计了一个更好的太阳能电池板，我们可以直接放在我们的大型结构之上，如实验室，MK4和新的MK5电池。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

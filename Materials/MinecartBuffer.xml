@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Key>MinecartBuffer</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Minecart Buffer</Text>
+				</Title>
+				<Icon>
+					<Name>MinecartBuffer</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Turns Minecarts around.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

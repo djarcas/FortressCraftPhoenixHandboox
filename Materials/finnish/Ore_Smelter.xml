@@ -1,0 +1,58 @@
+﻿<MaterialEntry>
+	<Key>StandardOreSmelter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Malmisulattamo</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Sulattamo muuntaa raakamalmin harkoiksi joita voi käyttää valmistusasemalla ja muualla uusien koneiden ja esineiden tekemiseen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Aluksi sulattamoa täytyy syöttää käsin. Tämän voi tehdä painamalla &apos;vuorovaikuta&apos; nappia (oletus &apos;E&apos;) sulattamon ohjauspaneelin avaamiseksi. Voit sitten lisätä malmia painamalla &apos;Syötä malmia&apos; nappia tai raahaamalla tietyn tyyppistä malmia sulattamooon. Ohjauspaneeli näyttää kuinka monta malmia tarvitaan harkkoa kohti kun se on tyhjä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Kun sulattamolla on tarpeeksi malmia se alkaa lämmeta, tämä vaatii virtaa liitetystä virtavarastolohkosta tai voimalasta. Kun se saavuttaa oikean lämpötilan se muuntaa malmia harkoiksi joita voi kerätä painamalla ulostulo koloa ohjauspaneelin alaosasssa.</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>Automatisointi</Text>
+				</Header>
+			
+				<Paragraph>
+					<Text>Sulattamo pitäisi automatisoida mahdollisiman nopeasti syöttö- ja ulostulohypyttimien kera. Syöttöhypytin pitäisi asettaa tilaan \&apos;Vain poisto\&apos;. Syöttöhypyttimen tulee olla tarpeeksi iso sisältääkseen malmivaatimuksen.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+					
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Päivitykset</Text>
+				</Header>
+			
+				<Paragraph>
+					<Text>Sulattamon nopeutta (ja virrankulutusta) voi nostaa ahtimilla joita voi kehittää. Päivitykset tulisi asettaa sulattamon päälle.</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>Lisäsulattamot</Text>
+				</Header>
+			
+				<Paragraph>
+					<Text>Aloitussulattamo on kehittynyt paketti jota on vaikea kopioda. Tämä vaatii paljon kehitystyötä ja joitain kehittyneitä materiaaleja onnistuakseen. Perussulattamo on myös saatavilla pullonkaulojen helpottamiseen. Se on kuitenkin hidas, tehoton eikä sitä voi päivittää.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+	
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 4</Handle>
+	<Title>Keskitason louhintapäivitykset II</Title>
+	<Icon>Enhanced Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Keskitason louhintapäivitykset II</Text>
+				</Title>
+				<Icon>
+					<Name>Enhanced Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Lisäpäivityksiä malmilouhimiin on nyt saatavilla. Olemme myös kehittäneet maamittarin jolla voi tunnistaa rikkaat malmiesiintymät. Meidän pitäisi tunnistaa muutama hyvä paikka samalla kun jatkamme uuden kaivosjärjestelmän kehittämistä.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

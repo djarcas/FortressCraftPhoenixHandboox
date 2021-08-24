@@ -1,0 +1,156 @@
+﻿<Chapter>
+	<Handle>first night</Handle>
+	<Title>Přežití První Noci</Title>
+	<Icon>Torch</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Přežití první Noci</Text>
+				</Title>
+				<Paragraph>
+					<Text>Tato příručka je o přežití První Noci krok za krokem. Pokud nechcete přijít o překvapení, přestaňte nyní číst!</Text>
+				</Paragraph>
+				<Header>
+					<Text>Dokončení tutoriálu</Text>
+				</Header>
+				<Paragraph>
+					<Text>Probouzíte se u malé základny, vedle vás je kráter který vznikl při havárii vaší lodě. Vaším prvním úkolem bude dokončit úvodní tutoriál. Po jeho splnění bude silové pole odstraněno.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Inventář a získání tepla</Text>
+				</Header>
+				<Paragraph>
+					<Text>Otevřete svůj inventář stisknutím tlačítka \&quot;i\&quot;. Za začátku máte 5 pochodní a 3 Extraktory Rudy. To druhé jsou cenné stroje pro těžbu rudných žil, nikoliv však pro okamžité přežití. Ty první jsou naprosto nezbytné.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Vyberte v rychlém menu pozici obsahující Pochodeň a umístěte jednu na zem ve vzdálenosti několika bloků od vašich strojů. Pochodeň Vám poskytne nejen světlo ale i teplo, pokud se k ní dostatečně přiblížíte. Indikátor v pravém horním rohu obrazovky označuje vnější teplotu a vnitřní teplotu obleku. Skafandr Vás automaticky udržuje v teple, ale stojí to energií. Pokud stojíte blízko Pochodně, uvidíte jak vnější teplota stoupá, což znamená, že váš oblek používá méně energie, na to aby vás udržoval v teple. Dávejte ale i pozor , aby jste se příliš nezahřáli. Skafandr by totiž začal spotřebovávat více energie k tomu aby Vás ochladil!</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Získání Paliva</Text>
+				</Header>
+				<Paragraph>
+					<Text>Stroj s tím velkým laserovým zařízením je váš Centrální Energetický Hub. Jedná se o generátor energie, který shromažďuje solární energii a obsahuje i malý generátor který může spalovat různé materiály pro dodatečný přísun energie. Napájí také energií blízké stroje a Napájecí Bloky.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Můžete získat energii přímo z Hubu interakcí s ním (\&apos;e\&apos;) a stisknutím tlačítka \&apos;Odčerpat Energii\&apos;. Ložisko uhlí které máte na začátku hry k dispozici je velmi malé, a nebude trvat dlouho než je zcela vyčerpáte. Vaším dalším krokem by tedy mělo být zajištění dalších zdrojů paliva.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>&quot;Pokud jste se rozhodli hrát na lehkou obtížnost, budete mít na začátku hry k dispozici uhelnou žílu a extraktor, jinak budete muset hledat palivo. Máte-li extrémní štěstí, bude kráter po dopadu vaší lodi obsahovat uhelnou žílu. Mnohem pravděpodobněji se ale budete muset spokojit se stromy které rostou kolem kráteru. Pokácejte stromy a sesbírejte dřevo. Dojděte k Hubu stiskem (\&apos;e\&apos;) otevřete ovládací panel Hubu a stiskněte \&apos;přidat suroviny\&apos;. Tím začnete spalovat jeden z kusů dřeva který máte v inventáři. Palivo budete muset doplňovat ručně, dokud nebudete  mít dostatek surovin aby jste tento proces mohli automatizovat.&quot;</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Dokud Hub spaluje dřevo, můžete si všimnout jak grafika na Napájecím Bloku začne rotovat, to znamená že blok sbírá energii. Energii můžete načerpat z bloku nebo můžete počkat, až bude Energetický blok plný a energie se začne hromadit v Hubu.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Prozkoumejte své okolí</Text>
+				</Header>
+				<Paragraph>
+					<Text>Nyní, když máte nízkou, ale stabilní dodávku energie, můžete začít zkoumat vaše okolí. Energii kterou odčerpá skafandr aby vás udržel v teple, můžete doplnit v Hubu. Dávejte pozor na úroveň energie vlevo nahoře. Pokud je lišta prázdná, rychle se začnete ochlazovat až k bodu, kdy můžete dostat hypotermii.</Text>
+				</Paragraph>
+	
+			</Paragraphs>
+				
+		</Page>
+		<Page>				
+			<Paragraphs>
+				<Paragraph>
+					<Text>&quot;Hlídejte si stav energie aby jste měli jistotu že Vám vystačí na zpáteční cestu k Hubu.
+ &quot;</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Váš skafandr je vybaven skenovacím zařízením, které je neocenitelné pro vaše přežití. Nástroj můžete vybrat stisknutím tlačítka \&quot;M\&quot;. Nyní můžete skenovat pomocí pravého tlačítka myši nebo zapnout vyhledávání materiálu levým tlačítkem. Dávejte pozor na to, aby jste hledání materiálu nepoužívali zbytečně, má velkou spotřebu energie.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Vaším dalším úkolem bude skenovat okolí. Zaměřte se na blok, který jste ještě nezačali naskenovat a podržte pravé tlačítko myši, dokud se v dolním levém okně nezobrazí, že je skenování dokončeno. Zkuste skenovat všechny bloky v okolí, včetně sněhu, hlíny, dřeva a listů!</Text>
+				</Paragraph>
+				<Header>
+					<Text>Prozkoumejte své okolí</Text>
+				</Header>
+				<Paragraph>
+					<Text>Nyní, když máte bloky naskenované, je čas zpracovat skenování na výzkumné stanici. Otevřete rozhraní stisknutím tlačítka \&quot;e\&quot;. V okně se zobrazí seznam vašich nezpracovaných skenů, po kterých následuje počet výzkumných bodů, které vám budou poskytnuty po zpracování. Výzkumné body nejsou prozatím důležité, takže je ignorujte. Proveďte všechny kontroly, které máte ve svém seznamu. Zpracování každého skenu vyžaduje energii, pokud jste ale udržovali svůj Hub naplněný dřevem nebo uhlím, měla by být jeho zásoba energie dostatečná pro zpracování všech vašich skenů.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Zpracování skenů může vést k odemčení výzkumných projektů, ale o to se prozatím nemusíte starat, skenování vašeho okolí je mnohem důležitější úkol.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Průzkum okolí</Text>
+				</Header>
+				<Paragraph>
+					<Text>Nyní když máte bloky ve svém okolí naskenované a zpracované, můžete použít detektor materiálů s větší efektivitou.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Nyní se vydáme hledat vaší první rudnou žílu. Na Skeneru si nastavte volbu \&quot;Neznámý materiál\&quot; a stiskněte levé tlačítko myši. Skener zvýrazní všechny neznámé bloky v dosahu.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>&quot;Pokud jste nenaskenovali všechny neznámé bloky ve vašem okolí, vyhledávání zobrazí bloky kolem místa havárie jako jsou hlína nebo kámen. Pokud k tomu dojde, naskenujte a zpracujte tyto bloky a zkuste to znovu. &quot;</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Pokud byste byli úspěšní, měli byste vidět hromadu neznámých ložisek někde pod zemí nebo v nedalekých kopcích. Stále si ale hlídejte úroveň energie vašeho skafandru, není nutné někde zbytečně umrznout!</Text>
+				</Paragraph>
+				<Header>
+					<Text>Těžba ložiska</Text>
+				</Header>
+				<Paragraph>
+					<Text>Nyní si budete muset vykopat cestu k těmto znamením a zjistit co znamenají. Oskenujte žílu a zpracujte ji. Všimnete si, že za jejich zpracování získáváte více výzkumných bodů než za běžné materiály. Jakmile novou rudu zpracujete ve Výzkumném Centru, můžete se vrátit zpět k ložisku rudy a znovu je naskenovat. Nástroj vám poskytne informace o tomto konkrétním ložisku; jak velké je a kolik rudy obsahuje (Velikost ložiska a obsah rudy je něco jiného).</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Použijte Vrhací Kotvu (\&apos;F\&apos;), abyste se rychle dostali zpět z díry, kterou jste vykopali.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Paragraph>
+					<Text>Pokud nehrajete na jednoduchou obtížnost, je nejdůležitější nalézt nějaké uhlí. Měď, cín nebo železo, se bude později také hodit ale bez uhlí Vám k ničemu nebude. Pokuste se zapamatovat si polohu, jednotlivých nalezišť ať se k nim můžete později vrátit. Když si je nezapamatujete , nic se neděje. Později můžete použít Vyhledávač Rud aby jste je opět našli.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Těžba Uhlí</Text>
+				</Header>
+				<Paragraph>
+					<Text>Rudné žíly ve FortressCraft Evolved mohou být masivní, někdy obsahují až milióny jednotek rudy. Vykopat takovou žílu není záležitost několika kliknutí; na takovou práci budete potřebovat stroje a hodně energie.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Nyní když jste našli svou první uhelnou žílu, bude potřeba věnovat jí trochu času. Jako první si vytvořte bezpečnou cestu zpět k Hubu. Po této cestě budete chodit velmi často, takže čas který tomu věnujete, se Vám určitě vrátí.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Nyní si z Hubu doplňte energii ve skafandru a vraťte se zpět k uhelné žíle. Umístěte zde jednu Pochodeň, to by mělo pomoci snížit spotřebu energie za vyhřívání skafandru zatím co zde budete čekat. Nyní se zaměřte na uhelný blok a použijte veškerou energii na Super Dig. Super Dig provedete stisknutím klávesy CTRL podržením pravého tlačítka. Jedná se o neefektivní způsob těžby, ale dostanete za to malé množství uhlí.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>V tomto okamžiku už budete mít buď velmi málo a nebo vůbec žádnou energii. Vydejte se tedy co nejrychleji zpět k Hubu a doplňte si energii. Nyní jíž ale budete mít pro Hub mnohem lepší palivo než předtím: Uhlí! Při příštím stisknutí tlačítka \&quot;Přidat zdroje\&quot; byste měli místo dřeva vložit blok uhlí. Spalováním uhlí vznikne větší množství energie, budete mít tedy o trochu méně starostí s udržením potřebné úrovně energie.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Výroba</Text>
+				</Header>
+				<Paragraph>
+					<Text>&quot;Uhelnou Rudu  můžet také  použít pro výrobu Pochodní. Stisknutím tlačítka C otevřete okno Ruční Výroby. Zobrazí se vám všechny recepty, které můžete použít, a mezi nimi jsou pochodně. Vyberte si Pochodně ze seznamu, okno na pravé straně vám ukáže, že na výrobu jedné Pochodně je potřeba 5 kusů uhlí. Stiskněte tlačítko \&quot;Vyrobit\&quot; a pochodeň se vám objeví v inventáři.&quot;</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>&quot;Svítilny mohou být také vyráběny automaticky tak dlouho, jak dlouho budete mít alespoň 5 uhlí v inventáři. Zkuste jeden někam umístit  a jeden nový pro vás bude vytvořen.&quot;</Text>
+				</Paragraph>
+				<Header>
+					<Text>Úkol Splněn!</Text>
+				</Header>
+				<Paragraph>
+					<Text>&quot;S uhelnou žílou, která vám zajišťuje palivo pro Centrální Hub a poskytuje vám dostatek materiálu pro výrobu Pochodní, máte nyní vše aby  jste mohli na povrchu přežít velmi dlouhou dobu. Od tohoto okamžiku můžete zahájit dobývání ostatních rud, které jste našli, nebo můžete vyrazit na výpravu za jejich nalezením, pokud jste je zatím nenašli. Následně můžete začít se zpracováním rud v Tavící Peci 
+aby jste získali ingoty potřebné pro další výrobu pomocí Výrobny.&quot;</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Můžete také přemýšlet o využití extraktorů rudy pro automatizaci těžby. Nebo můžete použít výzkumné body na některý projektů, abyste zjistili, co se vlastně stalo, že jste se dostali na tuto planetu. Nebo můžete vyrazit na výpravu do hlubiny a zjistit, jaké zajímavé věci zde lze nalézt. Je to na tobě!</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</Chapter>

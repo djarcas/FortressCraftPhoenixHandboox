@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Dirt</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Erde</Text>
+				</Title>
+				<Icon>
+					<Name>Dirt</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Block der üblicherweise direkt unter Oberfläche gefunden werden kann. Kann im Zerkleinerer zerkleinert werden, um möglicherweise nützliches Erz zu gewinnen.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

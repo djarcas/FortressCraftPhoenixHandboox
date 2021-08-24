@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>RoomLight_4</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>RoomLight #4</Text>
+				</Title>
+				<Icon>
+					<Name>RoomLight #4</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A long and thin light that spans 3 blocks. Paintable and rotatable.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

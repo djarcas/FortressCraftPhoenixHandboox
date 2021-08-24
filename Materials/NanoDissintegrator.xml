@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>NanoDisintegrator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>NanoDisintegrator</Text>
+				</Title>
+				<Icon>
+					<Name>NanoDisintegrator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Use this to perfectly excavate a 3x3x3 area of even the very hardest material. Use with care.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

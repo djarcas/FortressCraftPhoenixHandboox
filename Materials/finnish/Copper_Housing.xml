@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>CopperHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kuparikotelo</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen kuparikotelo on tehty kuparilaatoista.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

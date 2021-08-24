@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>LithiumHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Литиевый Корпус</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Простой литиевый корпус, созданный из литиевых пластин.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

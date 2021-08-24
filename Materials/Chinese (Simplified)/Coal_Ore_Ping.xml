@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>CoalOrePing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>煤矿扫描</Text>
+				</Title>
+				<Icon>
+					<Name>Coal Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>如果以前发现的煤矿矿脉快要耗尽或太小而无法使用，则可用于寻找额外的煤矿脉。 有关更多信息，请参阅空白矿石ping的帮助指南。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Blank Ore Ping</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

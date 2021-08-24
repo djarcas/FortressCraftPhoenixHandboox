@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>PristineStinger</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Turmeltumaton pistin</Text>
+				</Title>
+				<Icon>
+					<Name>WaspStingerPristine</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tämä pistin on erityisen terävä mutta kohtalaisen hauras. Sillä voi olla käyttöä louhinnan saralla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SolarCellMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 1 aurinkokenno</Text>
+				</Title>
+				<Icon>
+					<Name>Solar Cell MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ensimmäisiä päivityksiä joita tulisi kehittää, tuottaa ja pukea, mallin 1 aurinkokenno tarjoaa huomattavasti enemmän virtatuotantoa turbapukuun planeetan pinnalla.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,22 @@
+<MaterialEntry>
+	<Key>ThreatScanner</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Threat Scanner</Text>
+				</Title>
+				<Icon>
+					<Name>Threat Scanner</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Threat Scanner has two modes, a scanning mode, and an active mode. When in scanning mode the scanner will display the amount of threat the base produces and an estimated time till the next attack starts. At that point a siren will sound, and the readout will show the composition of the attacking force and the approximate time till the next wave of hostiles spawn.</Text>
+				</Paragraph>
+				<Spacer/>
+			
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

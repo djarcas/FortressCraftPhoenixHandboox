@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>IronPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rautaputki</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen rautaputki tehdään rautaharkoista putkenvenetysasemalla. Vaaditaan tyhjien polttoainekanisterien teossa.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

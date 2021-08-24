@@ -1,0 +1,41 @@
+﻿<Chapter>
+	<Handle>T1 Power</Handle>
+	<Title>Energienet</Title>
+	<Icon>Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Energienet</Text>
+				</Title>
+				<Icon>
+					<Name>Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>We hebben nu een nieuwe methode om energie te genereren en te transporteren. Dit project heeft ook nieuwe upgrades ontworpen voor ARTHER en een nieuwe machine, de \&apos;Matter Mover\&apos;, die materialen van de ene opslagtrechter naar de andere kan teleporteren.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Pyrothermische Generator</Text>
+</Header>
+				<Icon>
+					<Name>Pyrothermic Generator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Deze machine zal brandbare bronnen in een aangesloten opslagkist omzetten in energie. Het vereist veel frisse lucht, dus verliest efficiëntie met diepte.</Text>
+				</Paragraph>
+				<Header><Text>Laser Energiezender</Text>
+</Header>
+				<Icon>
+					<Name>Laser Energy Transmitter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Plaats dit naast een energiegenerator of batterij om energie tot 64m te verzenden naar een batterij, energieverbruiker of een andere Laser Energiezender. We kunnen dit gebruiken om energie te sturen naar onze diepere mijnbouwactiviteiten.</Text>
+				</Paragraph>
+					
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

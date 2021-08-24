@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Key>CopperOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Медная Руда</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Обнаруживаемая у поверхности Медная Руда может быть переплавлена в Медные Слитки в Плавильне. Медные Слитки обычно используются в широком спектре машин с электрическими компонентами.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Медную Руду можно добыть с помощью Экстрактора Руды.</Text>
+				</Paragraph>
+        <Icon>
+          <Name>Ore Extractor</Name>
+          <Target>
+            <Material>OreExtractor</Material>
+          </Target>
+        </Icon>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

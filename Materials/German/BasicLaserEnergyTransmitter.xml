@@ -1,0 +1,44 @@
+<MaterialEntry>
+	<Key>BasicLaserEnergyTransmitter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Einfacher Laser Energie Transmitter</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Laser Energy Transmitter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Als der einfachste und billigste Transmitter ist dieser einfache Laser für jedwede Aufgabe ungeeignet und sollte nur verwendet werden wenn sonst keine Alternative besteht.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Der einfache Laser Energie Transmitter kann nur zwei unaufgerüstete Erzbohrer betreiben. Wegen seiner außerordentlich niedrigen Übertragungsgeschwindigkeit wird ein Upgrade auf fortschrittlichere Transmitter empfohlen sobald dies möglich ist.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Drücke \&#34;Interagieren\&#34; (Standard [E]) um den Transmitter zu konfigurieren. Dort kannst du Linsen in den Transmitter einzusetzen, um die Übertragungsgeschwindigkeit zu erhöhen. Es ist auch möglich den Modus des Transmitters zu verändern, um auf einen vollen Speicher zu warten bevor Energie übertragen wird. Laser Transmitter haben außerdem einen kleinen internen Speicher. Du solltest erwägen, die Laser Transmitter mit Energiespeichern zu kombinieren um eine zuverlässige Energieversorgung zu gewährleisten, da Angebot und Nachfrage variieren.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Energie-Paketgröße:
+ Max. Paketrate:
+ Max. Energietransferrate:
+ Energiekapazität:
+ Reichweite:</Left>
+					<Right>0,9
+ 1 pro Sekunde
+ 0,9 pro Sekunde
+ 18
+ 32 Meter</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>TreeTrunk</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Baumstamm</Text>
+				</Title>
+				<Icon>
+					<Name>Tree Trunk</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Grundzutat für Holzbohlen. Du kannst sie bekommen, indem du Bäume fällst. Der Block kann platziert werden. Keine Herstellungsfabrik erforderlich, um Holzbohlen herzustellen.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

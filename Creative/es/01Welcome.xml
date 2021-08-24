@@ -1,0 +1,297 @@
+<Chapter>
+	<Handle>welcome</Handle>
+	<Title></Title>
+	<Icon>Grass</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<HelpImage>
+					<Name>FCevolvelogo-01</Name>
+				</HelpImage>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Chapter>findingSurvival</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Looking for Survival Mode?</Text>
+				</Link>
+				<Spacer/>
+				<Header>
+					<Text></Text>
+				</Header>
+				<TwoColumnParagraph>
+<Left></Left>
+<Right></Right>
+				</TwoColumnParagraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Icon>
+					<Name>Build Gun V2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Icon>
+					<Name>Workshop Placement</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Quote>
+					<Text>Workshop Placement block</Text>
+				</Quote>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>				
+				<Spacer/>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<!--
+				<HelpImage>
+					<Name>Workshop Overlay</Name>
+				</HelpImage>
+				-->
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Spacer/>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+		
+<!--				
+				<HelpImage>
+					<Name>Detail Block example</Name>
+				</HelpImage>
+				-->
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text></Text>
+				</Header>
+		
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<!--
+				<HelpImage>
+					<Name>Super Build panel</Name>
+				</HelpImage>
+				-->
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text></Text>
+				</Header>
+		
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header>
+					<Text></Text>
+				</Header>
+		
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<!--
+				<HelpImage>
+					<Name>Paint Gun window</Name>
+				</HelpImage>
+				-->
+				<Header>
+					<Text></Text>
+				</Header>
+		
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text></Text>
+				</Header>
+		
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text></Text>
+				</Header>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</Chapter>

@@ -1,0 +1,35 @@
+<MaterialEntry>
+	<Key>ForcedInductionMK5</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Усиливающий Индуктор МК5</Text>
+				</Title>
+				<Icon>
+					<Name>Forced InductionT5</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Усиливающие Индукторы являются модулями, увеличивающими скорость плавки руда за счет значительного увеличения потребления энергии. Чтобы использовать модуль, поместите его поверх Плавильни.
+
+ Усиливающий Индуктор МК5 повышает в 4 раза скорость загрузки руды из Бункера.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Базовая Плавильня не поддерживает установку Усиливающего Индуктора.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&#34;Скорость литья:
+  Потребление энергии:&#34;</Left>
+					<Right>400%
+ 3200%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

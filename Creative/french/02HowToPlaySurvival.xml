@@ -1,0 +1,44 @@
+﻿<Chapter>
+	<Handle>findingSurvival</Handle>
+	<Title>Comment jouer en mode survie</Title>
+	<Icon>Unknown</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Comment jouer en mode survie</Text>
+				</Title>
+				<Paragraph>
+					<Text>C\&apos;est le mode créative. Pour commencer un mode survie :</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Retourner au menu principal. Entrer dans la sale des mondes et choisissez un emplacement vide (flèche droite ou cliquer sur la table). À côté de l\&apos;indicateur du mode de jeux il y a des flèches qui permet de changer le mode de jeux en survie. Appuyer sur crée monde pour commencer à jouer</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Spacer/>
+				<Header>
+					<Text>Je peux pas sélectionner de mode de jeux ?</Text>
+				</Header>
+				<Paragraph>
+					<Text>Vous ne pouvez pas changer le mode de jeux sur un monde existant. Sélectionner un emplacement vide.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Tout mes emplacements de monde sont plein !</Text>
+				</Header>
+				<Paragraph>
+					<Text>Vous pouvez réinitialiser un monde depuis la sélection de monde, toute les données lié à ce monde seront supprimer. Si vous voulez récupérer votre monde, sur les versions récente de Windows, ils peuvent être trouvé dans le dossier suivant: %AppData%.ocalLowrojectorGamesortressCraftorlds.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Ça ne fonctionne pas !</Text>
+				</Header>
+				<Paragraph>
+					<Text>Si vous avez encore des problèmes pour commencer un mode survie, s\&apos;il-vous-plaît postez un message sur le forum de steam.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

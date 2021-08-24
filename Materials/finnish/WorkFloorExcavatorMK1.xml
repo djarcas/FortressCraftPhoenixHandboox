@@ -1,0 +1,34 @@
+﻿<MaterialEntry>
+	<Key>WorkFloorExcavator_MK1_Key</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 1 työtasokaivin</Text>
+				</Title>
+				<Icon>
+					<Name>&gt;Workfloor Excavator MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Peruskaivosaseman tekeminen on vaivalloista jos se tehdään käsin. Tämä kone raivaa 3 metrin korkean tunnelin 32m säteellä. Se ei vaikuta malmeihin tarkoittaen että voit käyttää tätä malmilouhimesi vieressä ympäristön raivaamiseen. Avoimet työskentelytilat ovat oivallisia organisoitujen tukikohtien rakentamiseen!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Alignment>Center</Alignment>
+					<Left>Kantama:
+					Virta palikkaa kohden:
+					Tuhoaa malmeja:
+					</Left>
+					<Right>32m
+					64
+					Ei
+					</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

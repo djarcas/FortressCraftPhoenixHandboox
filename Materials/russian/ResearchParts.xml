@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Key>DeOrbitContainerContennts</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Исследовательские Компоненты</Text>
+				</Title>
+				<Icon>
+					<Name>Lightweight PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>В поврежденной грузовой капсуле, как оказалось, находятся схемы, которые мы просто не можем воспроизвести на планете. Забрав их в Лабораторию и использовав режим Анализа, когда они находятся в подсоединенном Бункере, можно получить результаты!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

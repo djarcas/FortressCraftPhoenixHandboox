@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Key>ChromiumBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Chromium Bars</Text>
+				</Title>
+				<Icon>
+					<Name>Chromium Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Chromium bars are used in cold resistant machinery.
+					Required in large amounts for all kinds of cold cavern machinery.
+					They are crafted from Chrome Ore, found at least 700m below the surface. </Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

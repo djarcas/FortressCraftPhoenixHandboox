@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>WhiteCanvas</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Белый Холст</Text>
+				</Title>
+				<Icon>
+					<Name>White Canvas</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Полностью белый декоративный блок.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

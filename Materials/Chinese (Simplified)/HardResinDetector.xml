@@ -1,0 +1,22 @@
+﻿<MaterialEntry>
+	<Key>HardResinDetector</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>硬化树脂探测器</Text>
+				</Title>
+				<Icon>
+					<Name>Hard Resin Detector</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>这种基本的早期预警系统将探测硬化树脂。 我们已经检测到整个星球上的这些生长状态，大多处于休眠状态。 来自我们基地的热和振动似乎吸引了他们，我们的机器越来越多，风险越来越高。 这些探测器能指出增长方向的来源，好让您来调查，如有必要，解决他们。</Text>
+				</Paragraph>
+				<Spacer/>
+
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

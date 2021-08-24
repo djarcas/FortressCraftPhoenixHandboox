@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Key>BFL9000</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>БЕЛ-9000</Text>
+				</Title>
+				<Icon>
+					<Name>BFL-9000</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Это большой туннельный лазер, копает горизонтальную шахту 5х5 блоков. Потребляет много энергии. Уничтоженные блоки падают на землю.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&#34;Размер туннеля:
+  Максимальная длина туннеля:
+  Требуемая энергия:
+  Энергоёмкость:
+  Скорость перезарядки:
+  Скорость бурения:&#34;</Left>
+					<Right>&#34;5м x 5м
+  неограниченно
+  1280 за метр
+  2560
+  2560 в секунду
+  0,2 метра в секунду&#34;</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

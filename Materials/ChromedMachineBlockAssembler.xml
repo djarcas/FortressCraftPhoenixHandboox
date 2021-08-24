@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Key>ChromedMachineBlockAssembler</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Chromed Machine Block Assembler</Text>
+				</Title>
+				<Icon>
+					<Name>ChromedMachineBlockAssembler</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Uses multiple Chrome Bars to plate Imbued Machine Blocks in chrome.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>This machine requires hoppers holding at least 1 Imbued Machine Block and 8 Chromium Bars to start the plating process.</Text>
+				</Paragraph>
+
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Manufacturing Time:
+					Power Required:
+					Power Capacity:
+					Max. Power Recharge Rate:</Left>
+					<Right>5 seconds
+					50 per second
+					500
+					100 per second</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

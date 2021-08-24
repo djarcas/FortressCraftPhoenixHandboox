@@ -1,0 +1,28 @@
+<MaterialEntry>
+	<Key>MassStorageStockingPortMK3</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Bulk Mass Storage Stocking Port</Text>
+				</Title>
+				<Icon>
+					<Name>Mass Storage Input PortMK3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+          <Text>Use this to stock specific resources to a specified limit in Mass Storage. Carries 25 identical resources at a time. If partially-stocked and another type of item is supplied, will drop off the current stack first. Pre-sort for maximum efficiency!</Text>
+				</Paragraph>
+        <Spacer/>
+        <Link>
+          <Target>
+            <Material>MassStorageBlock</Material>
+          </Target>
+          <Text>Mass Storage</Text>
+        </Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

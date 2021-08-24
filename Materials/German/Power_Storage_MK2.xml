@@ -1,0 +1,33 @@
+﻿<MaterialEntry>
+	<Key>PowerStorageMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Energiespeicher MK2</Text>
+				</Title>
+				<Icon>
+					<Name>PowerStorageBlockT2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Energiespeicher MK 2 kann eine Reserve von bis zu 1500 Energie speichern. Es wird Energie von einem angeschlossenen Generator aufnehmen und an angeschlossene Maschinen oder Laserernergietransmitter liefern. Mehrere Energiespeicher teilen sich Energie untereinander. Dies ist jedoch für eine Übertragung von Energie über mehr als ein paar Blöcke nicht effizient. Stattdessen sollten Laserenergietransmitter für diesen Zweck verwendet werden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Energie kann aus dem Energiespeicher durch Drücken der Taste \&quot;Extrahieren\&quot; (Standard \&quot;Q\&quot;) entnommen und mit der Interact-Taste (Standard \&quot;E\&quot;) eingefügt werden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Leistungskapazität:
+ Maximale Leistungsübertragungsrate:</Left>
+					<Right>1500
+ Keine</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

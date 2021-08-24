@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>BlueGlowPod</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Plante Bioluminescente Bleue</Text>
+				</Title>
+				<Icon>
+					<Name>Blue GlowPod</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Cette espèce végétale native émet une lueur persistante bleue due à une réaction chimique juste sous la plante.</Text>
+				</Paragraph>
+		
+				<Spacer/>
+				<Paragraph>
+					<Text>Cette plante peut être brulée pour fournir de l\&apos;énergie.</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

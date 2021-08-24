@@ -1,0 +1,29 @@
+﻿<MaterialEntry>
+	<Key>CoilerPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>绕线机</Text>
+				</Title>
+				<Icon>
+					<Name>Coiler Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>绕线机是一种常规传送带设备，将挤出的线材绕成线圈。</Text>
+				</Paragraph>
+				<Header>
+					<Text>用法</Text>
+				</Header>
+				<Paragraph>
+					<Text>从另一传送带（设备）进料，将金属线材送入绕线机。 绕线机会将电线转换为线圈，可用于其他工序。</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>绕线机厂对实验室研究的自动化至关重要。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

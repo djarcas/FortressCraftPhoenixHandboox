@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Key>MassStorageIO</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mass Storage I/O Port</Text>
+				</Title>
+				<Icon>
+					<Name>Mass Storage IO Port</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A way to input and output items at a insanely fast speed. Requires a Mass Storage Controller attached to the Mass Storage Crates that this is attached to.
+					Mass Storage I/O Ports will draw power from the attached controller whenever inputting or outputting items.
+					</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Header><Text>Specifications</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Maximum Transport Rate:
+					Power Required:</Left>
+					<Right>250 items per second
+					64 per item</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

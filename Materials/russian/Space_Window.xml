@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SpaceWindow</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Космическое Окно</Text>
+				</Title>
+				<Icon>
+					<Name>Space Window</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Базовый строительный блок, который можно изготовить в любое время, не требуя участия Завода. Откройте интерфейс Производства Вручную (по умолчанию «C») для изготовления.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

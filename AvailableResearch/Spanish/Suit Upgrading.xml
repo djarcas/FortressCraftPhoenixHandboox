@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>suit upgrades</Handle>
+	<Title>Actualización de traje</Title>
+	<Icon>Suit Upgrading</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Actualización de traje</Text>
+				</Title>
+				<Icon>
+					<Name>SuitUpgrades</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Su traje ambiental es la pieza más avanzada de la ingeniería de exploración conocida por el hombre. Desafortunadamente, su utilidad depende de un sistema de actualización modular actualmente más allá de nuestras capacidades de fabricación. Es hora de mirar en cómo usted puede crear sus propias mejoras lejos de las fábricas en casa. Usted puede usar un poco de ayuda para sobrevivir en este ambiente áspero.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

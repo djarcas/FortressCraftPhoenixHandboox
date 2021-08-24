@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>PristineFacetedEye</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Turmeltumaton verkkosilmä</Text>
+				</Title>
+				<Icon>
+					<Name>WaspEyePristine</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Paikallisen lentävän eliön silmistä tulee erinomainen optinen osa. Tämä on tarpeeksi hyvässä kunnossa käytettäväksi.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

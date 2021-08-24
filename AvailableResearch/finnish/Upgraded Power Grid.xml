@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T2 Power</Handle>
+	<Title>Päivitetty voimaverkko</Title>
+	<Icon>Upgraded Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Päivitetty voimaverkko</Text>
+				</Title>
+				<Icon>
+					<Name>Upgraded Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Voimaverkkomme kasvaa nätisti. Akkuteknologiamme on kuitenkin hyvin rajallista. Tämä projekti yrittää kehittää paremman akun, joka voi varastoida enemmän voimaa antaen isomman puskurin.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>MassStorageInputPortMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Massenspeichereingang</Text>
+				</Title>
+				<Icon>
+					<Name>Mass Storage Input Port</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Platziere diesen Block neben einem Hochregallager um Gegenstände in das Lager einzufügen. Dieser Eingang kann direkt mit einem Förderband um ein Gegenstand nach dem anderen einzufügen. Verschiedene Gegenstände können eins ums andere mit dem selben Eingang eingelagert werden. Den Eingang jedoch zu filtern erlaubt es der Drohne bis zu 5 Gegenstände gleichen Typs zu tragen.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Vorsicht!</Text>
+				</Header>
+				<Paragraph><Text>Hat nichts mit dem Lagercontainer zu tun!</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 1</Handle>
+	<Title>Melhoria de Mineração Básica I</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Melhoria de Mineração Básica I</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Precisamos melhora a velocidade que coletamos e fundimos o minério. Este projeto irá focar na melhoria da performance dos extratores e fundição de minério.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

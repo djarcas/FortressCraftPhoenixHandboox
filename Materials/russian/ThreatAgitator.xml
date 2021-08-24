@@ -1,0 +1,40 @@
+<MaterialEntry>
+	<Key>ThreatAgitator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Усилитель Угрозы</Text>
+				</Title>
+				<Icon>
+					<Name>Threat Agitator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&#34;Схема воздействия Усилителя Угрозы схожа с Успокоителем. Каждый Усилитель Угрозы увеличивает Угрозу базы на 10% и привлекает 5 дополнительных инсектоидов. Это 10-процентное усиление не складывает экспоненциально. Усилитель потребляет в 4 раза больше энергии, чем Успокоитель. &#34;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Threat Reducer</Material>
+					</Target>
+					<Text>Threat Reducer</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Threat Scanner</Material>
+					</Target>
+					<Text>Threat Scanner</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Потребление энергии:</Left>
+					<Right>20 Э/с</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

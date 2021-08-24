@@ -1,0 +1,32 @@
+﻿<Chapter>
+	<Handle>black box</Handle>
+	<Title>Mustan laatikon tiedot</Title>
+	<Icon>Black Box Data</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mustan laatikon tiedot</Text>
+				</Title>
+				<Icon>
+					<Name>Black Box Data</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>																																																																	  			
+					<Text>Perinpohjainen analyysi mustan laatikon tiedoista on nyt tehty. Se vahvistaa visuaalisen havaintosi siitä, että tuntematon esine, jonka uskotaan olevan meteori, osui asemaan kun valmistauduit telakoitumaan. Seurauksena tapahtunut räjähdys vahingoitti aluksesi ohjausmottoreita aiheuttaen pakkolaskun tälle muukalaisplaneetalle. Muita selvityijiä ei tällä hetkellä ole tiedossa.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Vielä ei tiedetä miksi meteori pysyi huomaamattomana aseman pitkänmatkanluotaimilta. Mahdollisia syitä ovat järjestelmävirhe ja tihutyö.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Onneksi tukikohdanrakennuskapseli selvisi räjähdyksestä ja lukittui aluksesi hätäsignaaliin. Se on laskeutunut törmäysalueen viereen. Se on perusmallin 5 X103 -kapseli sisältäen päävirtakeskuksen, jonka ympärillä on malmisulattamo, valmistusasema ja tutkimuskeskus. Mukana tulee Autonominen Robottipuolustus Järjestelmä, jonka pitäisi auttaa selviämään mahdollisista aikaisista hyökkäyksistä, jos sattuisimme löytämään vihamielistä elämää planeetalta.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>FreezonInjector</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>寒霜注入器</Text>
+				</Title>
+				<Icon>
+					<Name>Freezon Injector</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>寒霜注入器使用低温罐对于适合的机器用处非凡。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>效果</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;地热工厂
+  枪骑兵
+  树脂消除器
+  树脂液体
+ &quot;</Left>
+					<Right>10倍发电
+  28倍清除率
+  54倍速率提升
+  54倍速率提升</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

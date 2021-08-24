@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Key>WarheadImbuer</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Warhead Imbuer</Text>
+				</Title>
+				<Icon>
+					<Name>Warhead Imbuer</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Charges up Basic Missiles with a lot of energy causing a much stronger blast. Increases damage 3 fold.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>This machine requires a hopper holding at least 1 Basic Missile to start the imbuing process.</Text>
+				</Paragraph>
+
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Manufacturing Time:
+					Power Required:
+					Power Capacity:
+					Max. Power Recharge Rate:</Left>
+					<Right>60 seconds
+					512 per second
+					2048
+					4096 per second</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

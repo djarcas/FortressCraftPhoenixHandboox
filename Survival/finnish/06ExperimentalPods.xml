@@ -1,0 +1,82 @@
+﻿<Chapter>
+	<Handle>experimental pods</Handle>
+	<Title>Koekapselit</Title>
+	<Icon>ResearchPod_Basic</Icon>
+	<ResearchRequirements>
+		<Research>Advanced Research</Research>
+	</ResearchRequirements>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Koekapselit</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Basic</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Koekapseleitä käytetään laboratoriossa kokeiden ja tutkimusprojektien tekemiseen. Lisätietoa laboratoriotutkimuksesta sen opassivulla.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+						
+				<Header>
+					<Text>Mitä ovat koekapselit?</Text>
+				</Header>
+				<Paragraph>
+					<Text>Koekapselit ovat resurssi joita laboratorio käyttää kokeiden tekemiseen. Jokainen kapseli on älykäs varasto joka pystyy säilömään ja valvomaan monenlaisia aineita. Laboratio vastaa näiden hallinnoinista; sinun täytyy vain antaa sille tyhjiä kapseleita.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Koekapselien tekeminen</Text>
+				</Header>
+				<Paragraph>
+					<Text>Koekapseli avataan laboratorion yhteydessä, vain kaikkein yksinkertaisimmat voidaan tehdä valmistusasemalla. Muut vaativat erikoistunutta koneistoa. Jokainen kapselityyppi vaatii eri raaka-ainetta mutta kaikki käyttävät samaa koneistoa rakentamiseen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Jokainen kapseli rakennetaan metallilaatoista ja piirilevyistä jotka tehdään samasta materiaalista. Katso lisätietoa tietyn kapselin apulistauksesta.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Metallilaattojen teko</Text>
+				</Header>
+				<Icon>
+					<Name>Stamper Plant</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Metallilaatat tehdään leimausasemmalla. Tämä on erikoistunut kuljetin leimauskoneistolla ja voidaan tehdä valmistusasemlla. Raakamateriaalina ovat metalliharkot.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Piirilevyjen teko</Text>
+				</Header>
+				<Icon>
+					<Name>PCB Assembling Plant</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Piirilevyjen teko on moniosainen prosessi ja vaatii kolmen koneen käyttöä. Ensin käytä \&apos;pursotusasemaa\&apos; muuntaaksesi metalliharkot johdoiksi. Seuraavaksi \&apos;kelausasema\&apos; muntaa johdot keloiksi ja lopuksi \&apos;piirilevyasema\&apos; muntaa kelat piirilevyiksi.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Kapselien valmistus</Text>
+				</Header>
+				<Icon>
+					<Name>Research Assembler</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Viimein käytä tutkimuskokoajaa yhdistääksesi laatat ja piirilevyt koekapseliksi. Tämä ei ole kuljetinpohjainen kone ja vaatii virtaa ja sisään- ja ulostulovarastohypyttimet. Suosittelemme käyttämään kahta sisääntulohypytintä sekä laattojen että piirilevyjen saatavuuden takaamiseksi. Valmiit kapselit ovat sitten valmiita laboratorioon vietäviksi.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

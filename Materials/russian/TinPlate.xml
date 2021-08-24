@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>TinPlate</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Оловянная Пластина</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Простая оловянная пластина, изготовленная в Штампе из оловянных слитков.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

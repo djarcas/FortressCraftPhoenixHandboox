@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>EnrichedCoal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Обогащенный уголь</Text>
+				</Title>
+				<Icon>
+					<Name>Enriched Coal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Обогащенный Уголь - продукт получаемый в Обогатителе Угля, путем обогащения простого Угля. По сравнению с простым Углем производит в 2 раза больше энергии за тот же отрезок времени.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Coal Enricher</Material>
+					</Target>
+					<Text>Organic Coal Enricher</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

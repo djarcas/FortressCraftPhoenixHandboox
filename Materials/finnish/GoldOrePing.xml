@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>GoldOrePing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kultamalmisysäys</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Ore Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kultamalmisysäystä käytetään lisäkultamalmisuonien löytämiseen kun edellinen löydetty on loppumassa tai on liian pieni hyödynnettäväksi. Lisätietoa tyhjän malmisysäyksen oppaassa.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Blank Ore Ping</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

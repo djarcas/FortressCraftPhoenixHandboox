@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERPowerCore</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Batteri kjerne</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Power Core</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>fikser skadene til ARTHER slik at han kan røre seg pålitelig. Du trenger ein av desse og den må vere i inventaret ditt for å fungere.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

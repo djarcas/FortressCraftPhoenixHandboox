@@ -1,0 +1,38 @@
+﻿<MaterialEntry>
+	<Key>BFL9000</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>BFL-9000</Text>
+				</Title>
+				<Icon>
+					<Name>BFL-9000</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Cette foreuse laser massive creusera un tunnel horizontal de 5x5 mètres. A besoin d\&apos;énormes quantités d\&apos;énergie pour fonctionner. Ne renvoie aucune ressources utiles.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Taille du Tunnel:
+ Longueur Maximale de Tunnel:
+ Énergie requise:
+ Capacité énergétique maximum:
+ Taux maximal de recharge d\&apos;énergie:
+ Taux maximal d\&apos;excavation :</Left>
+					<Right>5m x 5m
+ Illimitée
+ 1280 par mètre
+ 2560
+ 2560 par seconde
+ 0.2 mètres par seconde</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

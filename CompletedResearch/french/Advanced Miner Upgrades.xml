@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 5</Handle>
+	<Title>Amélioration de Minage Avancé</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Amélioration de Minage Avancé</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>D\&apos;autres améliorations à l\&apos;extraction et à la fonte du minerai sont maintenant disponibles. En outre, nous avons finalement perfectionné le système Carrière . Utilisez le géologue pour identifier un emplacement privilégié puis placez la carrière pour commencer les opérations minières.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

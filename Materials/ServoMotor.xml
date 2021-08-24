@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>ServoMotor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Servo Motor</Text>
+				</Title>
+				<Icon>
+					<Name>Servo Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Accurate and fast motor.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

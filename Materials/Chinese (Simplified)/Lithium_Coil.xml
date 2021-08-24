@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>LithiumCoil</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>锂线圈</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>一个简单的锂线圈，由锂线在绕线机制造。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

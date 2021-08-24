@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ARTHERDapperHat</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>AVUTIN-silotteluhattu</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Dapper Hat</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Pitää AVUTIN:n siistinä JA kuivana! Toimii vain silottelupakkauslataussisällön yhteydessä. Tarvitset vain yhden ja täytyy pitää tavaraluettelossa toimiakseen.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

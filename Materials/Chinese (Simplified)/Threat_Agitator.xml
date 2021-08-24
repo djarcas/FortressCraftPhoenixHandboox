@@ -1,0 +1,40 @@
+﻿<MaterialEntry>
+	<Key>ThreatAgitator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>威胁振荡器</Text>
+				</Title>
+				<Icon>
+					<Name>Threat Agitator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;使用与威胁度降低器类似的技术，每种威胁振荡器增加了基础威胁的10％，并吸引了额外5种昆虫。 10％的威胁增加并非指数增长。威胁度振荡器使用威胁平静仪的四倍能量，每秒二十的能耗。 &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Threat Reducer</Material>
+					</Target>
+					<Text>Threat Reducer</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Threat Scanner</Material>
+					</Target>
+					<Text>Threat Scanner</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>能源需求：</Left>
+					<Right>是</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Rock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>岩石</Text>
+				</Title>
+				<Icon>
+					<Name>Rock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>石头通常在峰顶被发现。 可在粉碎机中粉碎，以提取有用的矿石。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

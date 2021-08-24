@@ -1,0 +1,31 @@
+﻿<MaterialEntry>
+	<Key>SpiderBotBlaster</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Бластер ПаукоБота</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot Defences 3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Это свешивающееся оружие может нацелиться на одного врага и обеспечить небольшую защиту от быстрых и малых целей. Имейте в виду, что это может привести к серьезному повреждению верхнего слоя почвы и снега. Убедитесь, что вы готовы оказаться в боевой зоне, прежде чем приступать к установке оружия!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Достаточно создать и установить только одно такое устройство!</Text>
+				</Header>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SpiderBot Base Component</Material>
+					</Target>
+					<Text>More information regarding SpiderBot!</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

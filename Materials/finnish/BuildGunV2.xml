@@ -1,0 +1,35 @@
+<MaterialEntry>
+	<Key>BuildGunV2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 2 rakennuspyssy</Text>
+				</Title>
+				<Icon>
+					<Name>Build Gun V2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&#34;Mallin 2 rakennuspyssy on muukalisympäristöön paremmin sopiva päivitys. Päivitykset peruspyssyyn mahdollistavat sen louhivan kovempia materiaaleja ja kehittyneempiä koneita. Päivityksestä huolimatta jäähdytysjärjestelmät ovat silti riittämättömät ja nopea käyttö kylmäluolissa ja muualla huonon ilmanlaadun alueilla vaatisi paremman lämpöjohtimen. Vain yksi päivityksistä tarvitaan rakennuspyssyn toiminnallisuuden päivittämiseen. Lisäpäivitykset eivät nyt näytä olevan hyödyllisiä ilman äärimmäisiä menetyksiä. &#34;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V1</Material>
+					</Target>
+					<Text>Build Gun V1</Text>
+				</Link>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V3</Material>
+					</Target>
+					<Text>Build Gun V3</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

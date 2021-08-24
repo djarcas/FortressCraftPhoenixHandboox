@@ -1,0 +1,66 @@
+﻿<MaterialEntry>
+	<Name>SpiderBot Base Component</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Spiderbot Basis</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot Core Charger</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Die SpiderBot Basis ist Ihre primäre Methode der Interaktion mit Ihrem mobilen Basis-Verteidigungsroboter, bekannt als SpiderBot, SpiderBro oder Henrietta, je nachdem, welches Geschlecht Sie ausgewählt haben.
+
+ Alle Power und Upgrades werden über Lagercontainer an deine Spiderbot-Basis geliefert. Jeder angebaute Container kann alle 1,2 Sekunden einen Gegenstand an den SpiderBot liefern; Nutzen Sie viel Platz an den Seiten für maximalen Durchsatz.
+
+ SpiderBot selbst kann 150.000 Strom halten. Die Stromversorgung erfolgt über den SpiderBot Basis Ladegerät, wodurch SpiderBot Stromspeicher entstehen. Diese werden in angehängte Lagercontainer gelegt.
+
+ SpiderBot hat 3 Stufen Waffenupgrades. Jeder von diesen muss von Hand gefertigt und in einen angehängten Lagercontainer gelegt werden. SpiderBot kehrt dann automatisch zum Dock zurück und sammelt den Gegestand ein und passt diesen an.
+
+ Nur eines der Waffenaufrüstungsgegenstände ist erforderlich. Duplikate werden ignoriert.
+ &quot;</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Verfügbare angepasste Upgrades</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SpiderBot Core Charger</Material>
+					</Target>
+					<Text>SpiderBot Core Charger</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>SpiderBot Blaster</Material>
+					</Target>
+					<Text>SpiderBot Blaster</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>SpiderBot Cannon</Material>
+					</Target>
+					<Text>SpiderBot Cannon</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>SpiderBot Particle Rifle</Material>
+					</Target>
+					<Text>SpiderBot Particle Rifle</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

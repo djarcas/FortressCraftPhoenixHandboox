@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>PristineFacetedEye</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Makelloses facettiertes Auge</Text>
+				</Title>
+				<Icon>
+					<Name>WaspEyePristine</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die Augen der lokalen fliegenden Lebensformen bilden eine hervorragende optische Komponente. Dieser ist in einem guten Zustand, um verwendet zu werden.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

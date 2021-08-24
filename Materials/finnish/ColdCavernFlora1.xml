@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Key>ColdCavernFlora1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kylmäluolakasvi 1</Text>
+				</Title>
+				<Icon>
+					<Name>Cold Cavern Flora 1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tämä ihmeellinen kasvi selviää kylmäluolan äärimmäisissä oloissa.</Text>
+				</Paragraph>
+		
+				<Spacer/>
+				<Paragraph>
+					<Text>Tämä kasvi voidaan polttaa virran tuotannossa.</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

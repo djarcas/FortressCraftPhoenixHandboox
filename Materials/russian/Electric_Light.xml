@@ -1,0 +1,24 @@
+﻿<MaterialEntry>
+	<Key>ElectricLight</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Электрический Светильник</Text>
+				</Title>
+				<Icon>
+					<Name>Electric Light</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Электрический Светильник подключается к источнику энергии и излучает холодный синий свет на большее расстояние, по сравнению с Факелом.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Доступны три типа проецирования: Прожектор, Точечный источник и Затененный Точечный источник.</Text>
+				</Paragraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

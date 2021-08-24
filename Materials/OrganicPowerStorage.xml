@@ -1,0 +1,37 @@
+<MaterialEntry>
+	<Key>OrganicPowerStorage</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Organic Power Storage Block</Text>
+				</Title>
+				<Icon>
+					<Name>Organic Power Storage</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Organic Power Storage block Ban hold up to 12500 energy. It will take energy from an attached generator and provide it to any attached machines or power transmitters. Multiple power storage blocks will share energy between themselves however this is not efficient for transmission of energy across more than a few blocks.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Energy can be extracted from the power storage block by pressing the &#39;Extract&#39; key (default &#39;Q&#39;), and inserted using the &#34;Interact&#34; key (default &#39;E&#39;).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>The Organic PSB has the densest available energy storage, but has limited transfer speed.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Power Capacity:
+					Max. Power Transfer Rate:</Left>
+					<Right>12500
+					100 per second</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

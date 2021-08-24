@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Key>MassStorageControllerMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mass Storage Controller</Text>
+				</Title>
+				<Icon>
+					<Name>Mass Storage Controller</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Mass Storage Controller has two purposes. Once built, powered and connected to a Mass Storage, you can simply scan it, and you'll be presented with the contents of the attached Mass Storage.
+          
+          Once researched and unlocked, the Mass Storage I/O port will only function on Mass Storage setups with a powered and attached Mass Storage Controller.
+          </Text>
+				</Paragraph>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Power Capacity:
+					Max. Power Recharge Rate:</Left>
+					<Right>5000
+					Unlimited</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

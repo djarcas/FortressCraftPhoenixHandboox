@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ChevronSign2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Шеврон 2</Text>
+				</Title>
+				<Icon>
+					<Name>Chevron Sign 2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Желто-черный блок, обозначающий опасность, который можно сделать в любое время. Откройте интерфейс изготовления вручную (по умолчанию «C») для изготовления этих блоков.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

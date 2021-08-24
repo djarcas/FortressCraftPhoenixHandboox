@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Key>TrackCorner</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Corner Minecart Track</Text>
+				</Title>
+				<Icon>
+					<Name>Track Corner</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Allows Minecarts to travel around corners.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

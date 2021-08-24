@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>CopperPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>铜管</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>在管道挤压机中由铜锭制成的简单铜管。 可用于制造基本导弹。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

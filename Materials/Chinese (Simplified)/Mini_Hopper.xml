@@ -1,0 +1,32 @@
+﻿<MaterialEntry>
+	<Key>MiniHopper</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>迷你料斗</Text>
+				</Title>
+				<Icon>
+					<Name>MiniHopper</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>迷你料斗是标准储存料斗的便宜版本，可以存储10个物品，处理每个物品需要30秒的时间。 迷你料斗适用于CPH的输入，热能发电机或其他长时间工作的机器的输入料斗。 如果成为瓶颈，应该考虑升级。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>关于存储料斗的更多信息请参阅标准存储料斗指南。</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Page>0</Page>
+						<Material>StorageHopper</Material>
+					</Target>
+					<Text>Storage Hopper</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

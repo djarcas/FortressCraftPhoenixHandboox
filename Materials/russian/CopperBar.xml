@@ -1,0 +1,25 @@
+<MaterialEntry>
+	<Key>CopperBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Медный Слиток</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Copper Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Медные Слитки широко используются в различных машинах и оборудовании с электронными компонентами. Эти Слитки льются из Медной Руды, которую можно найти вблизи поверхности планеты.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

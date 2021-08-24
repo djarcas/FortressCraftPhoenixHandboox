@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>LithiumWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Литиевый Провод</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Wire</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Простой литиевый провод, изготовляемый из литиевых слитков в Экструдере.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

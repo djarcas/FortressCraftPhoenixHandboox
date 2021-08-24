@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>SapphireCrystal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Сапфировый Кристалл</Text>
+				</Title>
+				<Icon>
+					<Name>Sapphire Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Сапфировый Кристалл - редкий материал, ингредиент для создания улучшений. Может быть обнаружен в пещерах на глубине от -225 до -300.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

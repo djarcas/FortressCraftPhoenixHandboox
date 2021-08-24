@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>HardenedPCB</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Gehärtete Platine</Text>
+				</Title>
+				<Icon>
+					<Name>Hardened PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Eine aus Eisen bestehende Platine. Sie wird aus Eisenspulen in der Leiterplatten Montagemaschine hergestellt.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

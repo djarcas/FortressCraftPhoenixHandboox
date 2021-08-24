@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>RedCanvas</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Красный Холст</Text>
+				</Title>
+				<Icon>
+					<Name>Red Canvas</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Полностью красный декоративный блок.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

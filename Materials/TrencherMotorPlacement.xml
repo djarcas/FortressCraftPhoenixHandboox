@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>TrencherMotorPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Trencher Motor Component</Text>
+				</Title>
+				<Icon>
+					<Name>Trencher Motor component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Forms the motor of a Trencher Drill. Build in a 3wx3hx3d configuration behind a drill head. (27 in total)</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

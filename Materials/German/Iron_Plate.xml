@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>IronPlate</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Eisenplatte</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Eine Eisenplatte aus der Stanze. Dies war mal ein Barren.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

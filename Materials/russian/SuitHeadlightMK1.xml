@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>SuitHeadlightMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Фонарь для Костюма МК1</Text>
+				</Title>
+				<Icon>
+					<Name>Suit Headlight MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Галогенная технология позволяет светить фонарём на полную мощность с более эффективным использованием энергии. Достаточно создать один - держите его в инвентаре, чтобы он функционировал.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

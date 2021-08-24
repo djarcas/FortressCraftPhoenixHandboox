@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>DapperFrame</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Dapper 框架</Text>
+				</Title>
+				<Icon>
+					<Name>DapperFrame</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>来自DAPPER Indie Support Pack的美化方块。 感谢支持FortressCraft！</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

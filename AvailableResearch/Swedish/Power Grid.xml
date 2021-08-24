@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T1 Power</Handle>
+	<Title>Elnät</Title>
+	<Icon>Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Elnät</Text>
+				</Title>
+				<Icon>
+					<Name>Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Vi kan inte överleva på bara den kraft som produceras av vår Centrala El Hub så länge till. Medan vår bas expanderar måste vi hitta nya sätt att generera ström och överföra det till avlägsna gruvoperationer, så att vi inte behöver springa runt och driva dem manuellt.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

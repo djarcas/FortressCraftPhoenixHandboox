@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>IronHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>铁质外壳</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>一个由铁板制造的简单的铁质外壳。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Bedrock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Berggrund</Text>
+				</Title>
+				<Icon>
+					<Name>Bedrock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

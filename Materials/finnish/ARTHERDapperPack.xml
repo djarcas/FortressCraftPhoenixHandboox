@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ARTHERDapperPack</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>AVUTIN-silottelupaketti</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Dapper Pack</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Täysin siloiteltu! Käytä tätä säästämäään tavaraluettelon tilaa yhdistämällä aikaisemmat silottelupäivitykset yhteen esineeseen. Täytyy pitää tavaraluettelossa päivityksien hyödyntämiseksi.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

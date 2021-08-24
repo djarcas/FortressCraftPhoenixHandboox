@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 3</Handle>
+	<Title>Tussenliggende Mijnbouwverbeteringen I</Title>
+	<Icon>Ore Smelter</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tussenliggende Mijnbouwverbeteringen I</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Het is tijd om onderzoek te starten over hoe we de geavanceerde mogelijkheden van de Ertssmeltoven die bij onze \&apos;Central Power Hub\&apos; geleverd is kunnen dupliceren. De eenvoudige smeltovens die we konden maken zijn te langzaam en verspillen waardevolle grondstoffen.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

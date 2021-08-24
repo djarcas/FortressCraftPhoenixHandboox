@@ -1,0 +1,31 @@
+﻿<MaterialEntry>
+	<Key>SpiderBotCannon</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>SpiderBot Kanonen</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot Defences 2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Dieses Paar von vorne montierten Kanonen ist in der Lage, mit mittleren bis großen Zielen umzugehen. Sie zielen unabhängig voneinander und werden kleinere Ziele intelligent ignorieren und sich auf größere, gepanzerte Ziele konzentrieren.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Sie müssen nur eines von ihnen herstellen und anpassen - sie kommen als Set!</Text>
+				</Header>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SpiderBot Base Component</Material>
+					</Target>
+					<Text>More information regarding SpiderBot!</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

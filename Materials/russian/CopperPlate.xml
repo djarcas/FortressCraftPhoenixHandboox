@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>CopperPlate</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Медная Пластина</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Простая медная пластина, изготовленная в Штампе из медных слитков.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

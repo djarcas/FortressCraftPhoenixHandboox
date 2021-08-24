@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>ConductivePCB</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>可导PCB</Text>
+				</Title>
+				<Icon>
+					<Name>Conductive PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>金质PCB，产自PCB组装厂，原料金线卷。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

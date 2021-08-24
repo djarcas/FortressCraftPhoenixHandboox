@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Key>TrencherDrillPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Grabenbohrer</Text>
+				</Title>
+				<Icon>
+					<Name>Trencher Drill component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Mit diesen massiven Multiblockbohrmaschinen können alle bekannten Materialien sehr schnell abgebaut werden. Um einen zu bauen, müssen Sie den Bohrkopf in einem 3x3x3-Layout erstellen, dann den Motor in einer 3x3x3-Art an den Bohrer. Die Vorderseite des Bohrers wird automatisch gedreht, sodass der Motor immer hinten steht. Sie können dies verwenden, um Bohrer in jedem Winkel bauen, einschließlich gerade nach oben!</Text>
+				</Paragraph>
+	
+				<Spacer/>
+			
+				<Paragraph>
+					<Text>Seien Sie sich bewusst, dass diese neuen Bohrer sehr leistungshungrig sind und Hunderte von Erzen pro Minute abwerfen können. Du wirst viel darüber nachdenken müssen, wenn es darum geht, dieses Zeug zum Schmelzen in die kalten Höhlen zu transportieren - Frachtaufzüge und Minenschlepper sind das Gebot der Stunde!</Text>
+				</Paragraph>
+				
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

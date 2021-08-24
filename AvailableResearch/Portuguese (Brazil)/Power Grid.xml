@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T1 Power</Handle>
+	<Title>Rede Elétrica</Title>
+	<Icon>Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rede Elétrica</Text>
+				</Title>
+				<Icon>
+					<Name>Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Não podemos sobreviver apenas com a energia produzida pela Central de Energia(CPH) por muito tempo. A medida que nossa base se expande, temos que encontrar novas formas de gerar energia para serem usadas em operações de mineração distantes, sem precisar adicionar energia manualmente.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

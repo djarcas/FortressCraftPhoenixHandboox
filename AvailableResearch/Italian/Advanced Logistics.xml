@@ -1,0 +1,26 @@
+﻿<Chapter>
+	<Handle>T2 assist machines</Handle>
+	<Title>Logistica Avanzata</Title>
+	<Icon>mk1 robot arm</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Logistica Avanzata</Text>
+				</Title>
+				<Icon>
+					<Name>mk1 robot arm</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>L\&apos;ottimizzazione delle nostre operazioni di scavo richiede uno scalpello, non un martello. (i martelli sono disponibili come upgrade separato, naturalmente).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Questo progetto di ricerca si concentrerà sui miglioramenti nello stoccaggio, riordinamento e strumenti aggiuntivi di costruzione della base.</Text>
+				</Paragraph>
+			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

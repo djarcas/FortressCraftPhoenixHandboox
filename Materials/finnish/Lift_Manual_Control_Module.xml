@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>LiftManualControlModule</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hissin käsiohjausyksikkö</Text>
+				</Title>
+				<Icon>
+					<Name>Lift Manual Control Module</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kiinnitä mäntähissin kantaan mahdollistaaksesi hissin nopeuden käsiohjauksen pukusi langattomalla yhteydellä. Käytä &apos;Home&apos; ja &apos;End&apos; näppäimiä lisätäksesi ja vähentääksesi hissin nopeutta.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

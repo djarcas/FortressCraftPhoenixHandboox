@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>TinPlate</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Zinnplatten</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Eine einfache Zinnplatte aus Zinnbarren in einer Stanze hergestellt.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

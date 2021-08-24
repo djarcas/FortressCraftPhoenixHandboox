@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>RedCanvas</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Punainen kangas</Text>
+				</Title>
+				<Icon>
+					<Name>Red Canvas</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Täysin punainen kaunistuspalikka.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

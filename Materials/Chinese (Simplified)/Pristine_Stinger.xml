@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>PristineStinger</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>原生刺</Text>
+				</Title>
+				<Icon>
+					<Name>WaspStingerPristine</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>这种毒刺是非常锋利但相对较脆的。 它可能在矿石开采领域获得应用。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

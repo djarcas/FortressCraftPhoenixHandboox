@@ -1,0 +1,27 @@
+﻿<Chapter>
+	<Handle>Base Defence</Handle>
+	<Title>Défense de la Base</Title>
+	<Icon>&gt;ARTHER Turret</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Défense de la Base</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nous pouvons maintenant amener la LIBERTÉ à cette planète !</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Notre recherche de défense de base a été couronnée de succès, nous avons maintenant trois tourelles disponibles à la fabrication. La tourelle ARTHER est économe en énergie et a une longue portée, mais doit être exploitée par ARTHER afin que nous puissions la positionner soigneusement pour protéger notre infrastructure de ressources tout en rassemblant les matériaux nécessaires pour construire et alimenter les tourelles autonomes.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

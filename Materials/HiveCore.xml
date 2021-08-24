@@ -1,0 +1,37 @@
+<MaterialEntry>
+	<Key>HiveCore</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hive Mind</Text>
+				</Title>
+				<Icon>
+					<Name>Brain Matter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Hiveminds are present throughout the world, and are capable of growing Mynocks throughout the world to steal resources. Whilst the Mynocks themselves are easily dealt with by low-level turrets, the HiveMinds can provide a substantial challenge to your base.
+          
+					You can force them to grow using Agitators, and there are Liquidfiers, Ablators and good-old-fashioned Explosives to deal with any overgrowth.
+					</Text>
+				</Paragraph>
+        <Icon>
+          <Name>Hivemind Agitator</Name>
+          <Target>
+            <Material>HiveAgitator</Material>
+          </Target>
+        </Icon>
+        <Spacer/>
+        <Link>
+          <Target>
+            <Material>Refined Liquid Resin</Material>
+          </Target>
+          <Text>Refined Liquid Resin</Text>
+        </Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

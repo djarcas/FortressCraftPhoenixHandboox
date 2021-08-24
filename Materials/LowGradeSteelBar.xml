@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>LowGradeSteelBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Low Grade Steel Bar</Text>
+				</Title>
+				<Icon>
+					<Name>Steel Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Low Grade Steel Bar is created from a combination of Iron and Nickel in a Steel Alloy Smelter and is an essential component for many high end manufacturing recipes.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

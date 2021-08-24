@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERSolarPanel</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Solpanel</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Solar Panel</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>AIMoverControl</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>K.I. Butler</Text>
+				</Title>
+				<Icon>
+					<Name>AI Mover Control</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Dieser kleine Roboter transportiert ein einzelnes Objekt zwischen zwei Containern. Die gegebenen Container-Einstellungen werden dabei berücksichtigt.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

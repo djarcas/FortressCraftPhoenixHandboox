@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>GreenCanvas</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>绿色帆布</Text>
+				</Title>
+				<Icon>
+					<Name>Green Canvas</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>完全绿色的美化用方块。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,53 @@
+﻿<MaterialEntry>
+	<Key>CargoLiftBasic</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>基本款货梯</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Cargo Lift</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>最小的货物升降机，这是大量交付材料如铁和锂的理想选择。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>&quot;最大范围：
+  最大速度：
+ 加速度：
+  最大容量：
+  电力使用（运行期间）：
+ &quot;</Left>
+					<Right>&quot;无限制
+ 5 m/s
+ 0.5 m/s^2
+ 300
+ 35 PPS
+ &quot;</Right>
+				</TwoColumnParagraph>
+
+				<Icon>
+					<Name>Cargo Lift Controller</Name>
+					<Target><Material>Cargo Lift Controller</Material>
+</Target>
+				</Icon>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Cargo Lift Controller</Material>
+					</Target>
+					<Text>CargoLift Controller</Text>
+				</Link>
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

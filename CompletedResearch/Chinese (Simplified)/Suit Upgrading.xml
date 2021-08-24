@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>suit upgrades</Handle>
+	<Title>防护服升级</Title>
+	<Icon>Suit Upgrading</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>防护服升级</Text>
+				</Title>
+				<Icon>
+					<Name>SuitUpgrades</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>经过一些细微的调整，有了基本的机械设计，小型化使得生产可穿戴的防护服升级成为可能。 在这个充满了敌意的星球上，最明显的升级是更好的太阳能电池和冷绝缘。您将需要在您的制造工厂使用Hydrojet Cutter升级！</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>要使用防护服升级，只需手工制作，并将其保存在库存中。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

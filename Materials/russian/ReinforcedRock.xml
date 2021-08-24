@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ReinforcedRock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Усиленный Камень</Text>
+				</Title>
+				<Icon>
+					<Name>Reinforced Rock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Базовый строительный материал, который можно сделать в любом месте без использования Завода. Откройте интерфейс производства вручную (по умолчанию «C») для изготовления.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

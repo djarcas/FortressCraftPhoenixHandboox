@@ -1,0 +1,130 @@
+﻿<MaterialEntry>
+	<Key>BasicMinecart</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Wagon Basique</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Les Wagons sont destinés pour le transfert en masse d\&apos;objets à vitesse moyenne.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;Vitesse Maximale:
+ Stockage Maximal:
+ Accélération:
+ &quot;</Left>
+					<Right>1m/s
+ 25
+ 0.5m/s/s
+</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>L\&apos;utilisation des wagons est évidente, et suit le paradigme Trémie -&gt; Convoyeur qui a été utilisé jusqu\&apos;à maintenant. Les wagons sont placés sur votre réseau de wagons via un Dépôt à Wagons.</Text>
+&gt;
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Minecart Depot</Material>
+					</Target>
+					<Text>Minecart Depot</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Gestion des Ressources des Wagons</Text>
+				</Title>
+
+				<Paragraph>
+					<Text>Une fois sur votre réseau de wagons, les Wagons s’arrêteront aux Stations de Chargement et Déchargement, et prendront ou laisseront leur ressources transportées.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Icon>
+					<Name>Minecart Load</Name>
+					<Target><Material>MinecartLoadStation</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>MinecartLoadStation</Material>
+					</Target>
+					<Text>Minecart Load</Text>
+				</Link>
+				<Icon>
+					<Name>Minecart Unload</Name>
+					<Target><Material>MinecartUnloadStation</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>MinecartUnloadStation</Material>
+					</Target>
+					<Text>Minecart Unload</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+			<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Contrôles Avancés de Wagon</Text>
+				</Title>
+				<Spacer/>
+				<Paragraph>
+					<Text>Pour un meilleur contrôle sur le mouvement et le transport de minerai de vos Wagons, vous avez un nombre d\&apos;outils disponibles pour changer le comportement et la prise de décision.</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Minecart Turbo Rail</Name>
+					<Target><Material>Minecart Turbo Rail</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Turbo Rail</Material>
+					</Target>
+					<Text>Minecart Turbo Rail</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>MinecartBufferFull</Name>
+					<Target><Material>MinecartBufferFull</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Full Gate</Material>
+					</Target>
+					<Text>Minecart Full Gate</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>MinecartBufferEmpty</Name>
+					<Target><Material>MinecartBufferEmpty</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Empty Gate</Material>
+					</Target>
+					<Text>Minecart Empty Gate</Text>
+				</Link>
+				<Spacer/>
+
+		
+			</Paragraphs>
+		</Page>
+	
+	</Pages>
+</MaterialEntry>

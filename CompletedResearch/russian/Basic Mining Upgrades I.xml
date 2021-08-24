@@ -1,0 +1,57 @@
+﻿<Chapter>
+	<Handle>mining upgrade 1</Handle>
+	<Title>Базовые улучшения добычи I</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Базовые улучшения добычи I</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Мы успешно исследовали ряд улучшений добычи ресурсов.</Text>
+				</Paragraph>
+				<Header><Text>Базовая Плавильня</Text>
+</Header>
+				<Icon>
+					<Name>Basic Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Теперь можно построить Базовую Плавильню. Она не поддерживает какие-либо обновления и работает медленнее и менее эффективно, чем простая Плавильня, поставляемая с Концентратором. Так или иначе, она сгодится на первое время.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Большинство ресурсов, обнаруженных вблизи уровня поверхности, плохо подходит для строительства плавилен, однако сканирование показало небольшие скальные образования, которые могут обладать требуемыми свойствами.</Text>
+				</Paragraph>
+				<Header><Text>Усиливающий Индуктор</Text>
+</Header>
+				<Icon>
+					<Name>Forced Induction</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Модуль Усиливающего Индуктора размещает на верху Плавильни для ускорения выплавки при увеличении затрат энергии. Базовая Плавильня не совместима с Индукторами.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header><Text>Буровой Привод</Text>
+</Header>
+				<Icon>
+					<Name>Basic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Буровой Привод вставляется в Экстрактор Руды для ускорения добычи при повышении затрачиваемой энергии.</Text>
+				</Paragraph>
+					
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERUpgradePack</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER oppgraderings pakke</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Upgrade Pack</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>kombiner effekten til sol panelet, batteri kjernen og batteriet. bruk denne for å spare plass i inventaret ditt. Du trenger bare ein av desse og den må vere i inventaret ditt for å funke.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>HardenedPCB</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>硬化电路板</Text>
+				</Title>
+				<Icon>
+					<Name>Hardened PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>在PCB组装厂中由铁线圈制成的铁基PCB。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

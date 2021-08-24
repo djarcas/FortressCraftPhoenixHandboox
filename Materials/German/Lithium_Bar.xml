@@ -1,0 +1,25 @@
+﻿<MaterialEntry>
+	<Key>LithiumBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lithiumbarren</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Lithium Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Lithiumbarren werden für den Bau von energierelevanten Maschinen wie Batterien oder Übertragern benötigt. Lithiumerz kann ab 120m Tiefe gefunden werden.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

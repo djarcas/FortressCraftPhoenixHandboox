@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>SpiderBotPowerCore</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Charged Lithium Coils</Text>
+				</Title>
+				<Icon>
+					<Name>Charged Lithium Coils</Name>
+ 					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Charged Lithium Coils are made by using the Lithium Coil Charger and charging 5x Lithium Coils. They are used by many energy handling machines. </Text>
+				</Paragraph>
+							</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

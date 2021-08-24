@@ -1,0 +1,66 @@
+﻿<MaterialEntry>
+	<Key>BasicConveyorBelt</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tapis Roulant Basique</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Conveyor Belt</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Les Tapis Roulants Basiques sont relativement peu cher et une façon facile de déplacer des ressources. Votre première utilisation pour eux sera probablement pour déplacer des matériaux depuis une trémie rattachée à un extracteurs de minerai ou de charbon vers une autre rattachée à une fonderie ou une générateur d\&apos;énergie tel que le Hub Central Énergétique ou un Générateur Pyrothermique.</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>Utilisation</Text>
+				</Header>
+				<Paragraph>
+					<Text>Les Tapis Roulants prennent automatiquement les ressources depuis une trémie adjacente s\&apos;ils font face à une direction opposée à la trémie et les déplacent vers leur direction avant pour les placer dans une trémie en face d\&apos;eux, à condition qu\&apos;il y ai de la place disponible. Vous pouvez changer la direction de la ligne de tapis roulants en tournant un tapis ou en les plaçant sur un mur pour déplacer les ressources verticalement. Les trémies sont seulement nécessaires pour interagir avec les machines adjacentes en fin de ligne.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Limites</Text>
+				</Header>
+				<Paragraph>
+					<Text>Les tapis roulants sont peu cher et n\&apos;ont pas besoin d\&apos;énergie, toutefois ils ont un certain nombre inconvénients. Ils sont vulnérables aux environnements froids/toxiques extrêmes et leur design ouvert les rends particulièrement susceptibles d\&apos;être attaqués. Des méthodes de transport alternatives devraient être recherchées.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Le Tapis Roulant Basique est bien moins cher que le tapis roulant normal mais BEAUCOUP plus lent. Utilisez-le pour vos premières automatisations ou aux endroits ou un débit élevé n\&apos;est pas requis.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Header><Text>Filtrage</Text>
+</Header>
+				<Icon>
+					<Name>Conveyor Belt Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;L\&apos;utilisation d\&apos;un Tapis Roulant Filtrant vous permet d\&apos;avoir un contrôle accru sur la distribution des ressources. Ce type de filtre est utilisé pour contrôler le type de matériau éjecté depuis une trémie vers un réseau de tapis roulants. Vous pouvez configurer le filtre pour retirer ORDURES, MINERAI, ORGANIQUE, GEMMES, CHARBON, BIOMASSE, POUVANT ÊTRE FONDU, COMBUSTIBLE, ARTICLES FABRIQUES, CRISTAUX et LINGOTS SEULEMENT. &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Taux de Transport Maximal (rapide):
+ Taux de Transport Maximal (lent):
+ Énergie Requise:
+ Portée Maximale :</Left>
+					<Right>18 objets par minute
+ 9 objets par minute
+ Aucune
+ 1m</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+					
+	</Pages>
+</MaterialEntry>

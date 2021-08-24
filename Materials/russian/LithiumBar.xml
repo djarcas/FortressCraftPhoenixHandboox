@@ -1,0 +1,25 @@
+<MaterialEntry>
+	<Key>LithiumBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Литиевый Слиток</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Lithium Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Из Литиевых Слитков зачастую изготавливают устройства для передачи и хранения энергии. Эти Слитки льются из Литиевой Руды, которую можно найти на глубинах ниже 120 метров.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

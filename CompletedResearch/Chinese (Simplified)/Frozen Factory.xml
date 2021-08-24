@@ -1,0 +1,50 @@
+﻿<Chapter>
+	<Handle>T4_start</Handle>
+	<Title>冰封工厂！</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>本地生物形态</Text>
+				</Title>
+				<Icon>
+					<Name>MagmaBore Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>研究现已完成，我们可以进一步建设冷藏室气候控制中心（简称CCCCC或C5）。 我们需要在寒冷的洞穴里建造这台机器，给它充电，然后慢慢的将洞穴转化成一个鸟语花香的区域，在那里我们可以好好地建建建并等待救援。</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>这种新机器比旧的CPH更先进（更脆弱！） - 我们应该能够设计，研究和构建更大，更快，更复杂的挖掘和资源设备。 首先，我们将需要一些更先进的材料，为此，我们需要一台特殊的机器来处理超硬化的矿石。</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>如果我们在合适的3x3铬和钼上构造硬质研磨机，我们应该能够构建一种新型的钻头。 纳米崩解剂将是平整地块的理想选择。</Text>
+  
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Hard Rock Grinder</Material>
+					</Target>
+					<Text>Hard Rock Grinder</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>NanoDisintegrator</Material>
+					</Target>
+					<Text>NanoDisintegrator</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>CCCCC_Placement</Material>
+					</Target>
+					<Text>Cold Cavern Climate Control Centre</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

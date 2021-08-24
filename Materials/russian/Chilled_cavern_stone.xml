@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>ChilledCavernStone</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Холодный Камень</Text>
+				</Title>
+				<Icon>
+					<Name>Chilled Cavern Stone</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Такой блок находится между на глубине между -215 и -270 метрами. Сам-то камень не холодный, хотя пещеры, в которых вы их находите, очень холодные. Может быть измельчён в Измельчителе с шансом извлечь полезную руду. Блок может быть размещен для строительства.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

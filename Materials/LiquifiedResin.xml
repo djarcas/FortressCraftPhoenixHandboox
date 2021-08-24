@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>LiquifiedResin</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Liquified Resin</Text>
+				</Title>
+				<Icon>
+					<Name>Liquified Resin</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The resin has now been liquified, and can be collected.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

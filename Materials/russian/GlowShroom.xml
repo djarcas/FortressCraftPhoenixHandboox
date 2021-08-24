@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>GlowShroom</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Светогриб</Text>
+				</Title>
+				<Icon>
+					<Name>GlowShroom</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Светящийся гриб обнаруженный на поверхности планеты. Не употреблять в пищу!</Text>
+				</Paragraph>
+		
+				<Spacer/>
+				<Paragraph>
+					<Text>Этот гриб можно сжечь для выработки энергии.</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

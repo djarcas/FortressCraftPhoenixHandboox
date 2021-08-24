@@ -1,0 +1,25 @@
+<MaterialEntry>
+	<Key>NickelBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Nikkeliharkko</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Nickel Ore</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nikkeliharkkoja käytetään yleensä kehittyneissä koneissa. Niitä tehdään nikkelimalmista jota voi löytää ainakin 400m pinnan alta.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

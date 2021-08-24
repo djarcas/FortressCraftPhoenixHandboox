@@ -1,0 +1,34 @@
+﻿<MaterialEntry>
+	<Key>BlankOrePing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>空白矿石扫描脉冲</Text>
+				</Title>
+				<Icon>
+					<Name>Blank Ore Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>空白矿石扫描脉冲与矿石样品一起使用以制造矿石扫描脉冲筛选器。 如果先前发现的矿脉快要耗尽或太小而无法使用，这些过滤器扫描脉冲被设计用来找到更多相同类型的矿脉。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>用法</Text>
+</Header>
+				<Paragraph>
+					<Text>1.在制造工厂生产适量的空白矿石扫描脉冲。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>2.当需要筛选扫描脉冲时，请使用您的防护服的手工制作（默认为“C”）将 空白矿石扫描脉冲 与 矿石样品 相结合。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>3.将矿石扫描脉冲过滤器放入您的快捷栏并选择它。 按“Build”按钮（默认为鼠标左键）发送扫描脉冲。 这将送入矿石扫描仪，扫描仪将发出一个过滤的扫描脉冲，并显示在全息视图上。 该扫描脉冲在使用过程中被消耗。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

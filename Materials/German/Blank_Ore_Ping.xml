@@ -1,0 +1,34 @@
+﻿<MaterialEntry>
+	<Key>BlankOrePing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Erzping</Text>
+				</Title>
+				<Icon>
+					<Name>Blank Ore Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Erzping wird in Verbindung mit beliebigen Roherzen verwendet um eine spezifische Erzader lokalisieren zu können. Das erlaubt uns, neue Vorkommen zu erschließen, wenn unsere alten kurz vor der Erschöpfung stehen oder schlichtweg zu klein sind.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Verwendung</Text>
+</Header>
+				<Paragraph>
+					<Text>1. Fertige eine geeignete Menge Erzpings.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>2. Wenn du einen bestimmten Erzping herstellen möchtest, musst du ihn mit dem jeweiligen Erz kombinieren. Öffne dafür die integrierte Werkbank deines Anzuges (Standard [C]).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>3. Lege den Erzping auf deine Schnellleiste und wähle ihn aus. Drücke \&quot;Bauen\&quot; (Standard [Linke Maustaste]). Dadurch wird der Erzping in den Scanner eingelesen und ein gefiltertes Signal entsprechend der Erz-Probe ausgegeben, welches auch auf der Holobase angezeigt wird. Der Erzping wird dabei verbraucht.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

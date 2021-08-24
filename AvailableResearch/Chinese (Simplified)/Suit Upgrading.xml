@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>suit upgrades</Handle>
+	<Title>防护服升级</Title>
+	<Icon>Suit Upgrading</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>防护服升级</Text>
+				</Title>
+				<Icon>
+					<Name>SuitUpgrades</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>你的环保防护服是人类已知的最先进的勘探工程产物。 不幸的是，它的效用取决于目前超出我们制造能力的模块化升级系统 现在是时候研究如何在远离工厂的条件下自己回家升级。 您可以在这严苛的环境中靠它幸存下来。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

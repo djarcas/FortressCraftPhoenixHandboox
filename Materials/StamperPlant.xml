@@ -1,0 +1,30 @@
+<MaterialEntry>
+	<Key>StamperPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Stamper Plant</Text>
+				</Title>
+				<Icon>
+					<Name>Stamper Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Stamper Tlant is a regular Conveyor fitted with a machine for stamping metal Bars into Plates, and behaves like a Conveyor in all circumstances. It runs at the same speed as a Basic Conveyor, except on Rapid mode, where it runs at 3x the speed of a Basic Conveyor. Fast Conveyors does not affect this. </Text>
+				</Paragraph>
+        <Spacer/>
+				<Header>
+					<Text>Usage</Text>
+				</Header>
+				<Paragraph>
+					<Text>Feed metal bars into the Stamper from another Conveyor, Conveyor-based machine, or Conveyor Turntable. The Stamper will convert the Bars into Plates which can be used in additional recipes.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>The Stamper is essential for the automation of Laboratory Research.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>HydrojetCutter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Гидроабразивный Резак</Text>
+				</Title>
+				<Icon>
+					<Name>Hydrojet Cutter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Разместите этот модуль на верх Завода, чтобы он мог производить улучшения для костюма.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

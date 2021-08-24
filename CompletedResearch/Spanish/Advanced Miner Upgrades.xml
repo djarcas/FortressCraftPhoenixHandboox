@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 5</Handle>
+	<Title>Mejoras de Minería Avanzada</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mejoras de Minería Avanzada</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nuevas mejoras para el extractor de mineral y el horno de fundición están disponibles. Además, por fin hemos perfeccionado el sistema de la Cantera. Usa el Topógrafo Geológico para identificar una localización principal para poner la cantera para que empiece las operaciones mineras.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

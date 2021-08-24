@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>OrangeGlowPod</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Оранжевый световой стручок</Text>
+				</Title>
+				<Icon>
+					<Name>Orange GlowPod</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Этот местный вид флоры стабильно испускает оранжевое свечение из-за химической реакции, происходящей непосредственно под оболочкой растения.</Text>
+				</Paragraph>
+		
+				<Spacer/>
+				<Paragraph>
+					<Text>Это растение можно сжечь для выработки энергии.</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

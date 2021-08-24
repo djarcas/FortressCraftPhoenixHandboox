@@ -1,0 +1,52 @@
+﻿<MaterialEntry>
+	<Key>CargoLiftImproved</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Verbesserter Lastenaufzug</Text>
+				</Title>
+				<Icon>
+					<Name>Improved Cargo Lift</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Dieser Warenlift ist um einiges schneller und größer als das Vorgängermodell. Dadurch ist es wunderbar geeignet für den Transport tiefer liegender Ressourcen, Wie Nickel, Kristall oder Biomasse.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>&quot;Maximale Reichweite:
+Maximale Geschwindigkeit
+Bescheunigung:
+Maximale Tragekapazität
+ &quot;</Left>
+					<Right>&quot;Unbegrenzt
+10 Meter/Sek
+0,5 Meter/Sek/Sek
+1000
+250 EPS
+ &quot;</Right>
+				</TwoColumnParagraph>
+
+				<Icon>
+					<Name>Cargo Lift Controller</Name>
+					<Target><Material>Cargo Lift Controller</Material>
+</Target>
+				</Icon>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Cargo Lift Controller</Material>
+					</Target>
+					<Text>CargoLift Controller</Text>
+				</Link>
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

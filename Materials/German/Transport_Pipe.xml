@@ -1,0 +1,37 @@
+﻿<MaterialEntry>
+	<Key>TransportPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Transportrohr</Text>
+				</Title>
+				<Icon>
+					<Name>Transport Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Transportrohre sind viel teurer als normale Förderer, jedoch sind sie viel schneller, immun gegen extreme Kälte und weit weniger anfällig für Angriffe aufgrund ihrer geschlossenen Natur. Wie das Förderband benötigen sie auch keine externe Energie.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Die Aktualisierung Ihres Netzwerks zur Verwendung von Transportrohren sollte als langfristiges Projekt betrachtet werden. Konzentrieren Sie sich zunächst auf die Engpässe.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Verwendung</Text>
+				</Header>
+				<Paragraph>
+					<Text>Transportrohre folgen den gleichen Regeln wie die normalen Förderbänder.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Conveyor Belt</Material>
+					</Target>
+					<Text>Conveyor Belt</Text>
+				</Link>
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

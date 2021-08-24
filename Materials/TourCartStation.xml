@@ -1,0 +1,25 @@
+<MaterialEntry>
+	<Name>Tour Cart Station</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tour Cart Station</Text>
+				</Title>
+				<Icon>
+					<Name>Tour Cart Station</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tour cart stations provide for intelligent navigation within your fortress.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+				<Text>A Tour Cart Station will take a tour cart from either your inventory or from an adjacent hopper for you to ride.  The destination must be another tour cart station on the same freight track system.
+				
+				Each station must be named which can be configured in the station interface.  Once named you will use the name to choose your destination station.  Simply open the station interface by pressing E, choose your destination, and off you go!</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

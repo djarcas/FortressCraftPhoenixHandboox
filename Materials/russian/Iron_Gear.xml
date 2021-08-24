@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>IronGear</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Железная Шестерня</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Gear</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Шестерня, применяющаяся в различных приводах и передачах.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

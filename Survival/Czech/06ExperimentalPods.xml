@@ -1,0 +1,82 @@
+﻿<Chapter>
+	<Handle>experimental pods</Handle>
+	<Title>Experimentální Moduly</Title>
+	<Icon>ResearchPod_Basic</Icon>
+	<ResearchRequirements>
+		<Research>Advanced Research</Research>
+	</ResearchRequirements>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Experimentální Moduly</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Basic</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Experimentální moduly jsou používány v laboratoři k provádění experimentů a dokončení výzkumných projektů. Více informací o laboratorním výzkumu naleznete v následující příručce.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+						
+				<Header>
+					<Text>Co jsou to Experimentální moduly?</Text>
+				</Header>
+				<Paragraph>
+					<Text>&quot;Experimentální moduly jsou zdrojem, které laboratoř potřebuje k provádění experimentů. Každý modul  je inteligentní paměťové zařízení, které umožňuje monitorovat různé látky. Laboratoř je zodpovědná za jejich správu, je třeba jí pouze zásobovat prázdnými moduly.&quot;</Text>
+				</Paragraph>
+				<Header>
+					<Text>Vytváření Experimentálních Modulů</Text>
+				</Header>
+				<Paragraph>
+					<Text>Experimentální Moduly jsou odemčeny v okamžiku kdy odemknete Laboratoř, pouze ty nejzákladnější z nich mohou být zpracovány ve Výrobně. Zbytek vyžaduje speciální strojní zařízení. Každý typ modulů vyžaduje jinou surovinu, ale všechny se vyrábějí ve stejném stroji.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Každý Modul je vyroben z kovových plátů a Plošných Spojů (PCB) vyrobených ze stejného materiálu. Pro více informací si prosím přečtěte nápovědu pro konkrétní modul, který potřebujete.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Vytváření kovových Plátů</Text>
+				</Header>
+				<Icon>
+					<Name>Stamper Plant</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Kovové Pláty jsou vytvářeny v Lisovně. Jedná se o specializovaný typ dopravníku s připojeným lisem a může být vyroben ve Výrobně. Požadovaná surovina je kovový ingot.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Výroba Plošných Spojů (PCB)</Text>
+				</Header>
+				<Icon>
+					<Name>PCB Assembling Plant</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Výroba PCB je vícestupňový proces a vyžaduje použití tří strojů. Nejprve použijte \&quot;Průtlačný lis\&quot;, na přetvoření kovových Ingotů na dráty. Další bude \&quot;Navíjecí Stroj\&quot;, který přeměňuje dráty na Cívky a nakonec \&quot;Montážní Zařízení PCB\&quot; pro přeměnu Cívek na Plošné Spoje.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Výroba Modulů</Text>
+				</Header>
+				<Icon>
+					<Name>Research Assembler</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Nakonec použijte Výzkumný kombinátor, aby jste spojili pláty a Plošné Spoje do Experimentálního Modulu. Tento stroj nepracuje na principu dopravníku a vyžaduje napájení a vstupní i výstupní Zásobníky. Doporučujeme použít dva vstupní zásobníky pro zajištění dostupnosti jak desek, tak plošných spojů. Dokončené moduly mohou být dodány do laboratoře.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

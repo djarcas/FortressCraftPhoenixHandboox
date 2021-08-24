@@ -1,0 +1,66 @@
+<MaterialEntry>
+	<Key>BasicConveyorBelt</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Peruskuljetinhihna</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Conveyor Belt</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kuljetinhihnat ovat melko halpoja ja helppo tapa pitää resurssit liikkeessä. Ensimmäinen käyttösi niille on luultavasti materiaalien kuljetus malmi- tai hiililuohijaan liiitetystä hypyttimestä sulattamoon tai voimalaan liitettyyn hypyttimeen kuten keskusvoimalaan tai polttovoimalaan.</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>Käyttö</Text>
+				</Header>
+				<Paragraph>
+					<Text>Kuljetinhihnat ottavat automattisesti resursseja viereisistä varastohypyttimistä jos ne suuntautuvat pois siitä ja liikuttavat niitä etusuuntaansa asettamalla sen edessä olevalle kuljettimelle tai varastohypyttimelle edellyttäen että siellä on tilaa. Voit vaihtaa suuntaa pyörittämällä kuljetinta tai asettamalla sen seinälle kuljettaksesi resursseja pystysuuntaisesti. Varastohypyttimiä tarvitaan vain linjan päässä olevien koneiden kanssa vuorovaikuttamiseen.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Rajoitukset</Text>
+				</Header>
+				<Paragraph>
+					<Text>Kuljettimet ovat halpoja ja ne eivät tarvitse ulkopuolista voimaa. Niillä on kuitenkin lukuisia huonoja puolia. Ne ovat herkkiä äärimmäisille olosuhteille ja niiden avoin luenne tekee ne hyökkäykselle alttiiksi. Vaihtoehtoisia kuljetustapoja tulisi tutkia.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Peruskuljetinhihnat ovat halvempia kuin tavalliset hihnat mutta PALJON hitaampia. Käytä aikaiseen automatisoimiseen tai kun ei tarvitse kuljettaa suuria määriä.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Header><Text>Suodatus</Text>
+</Header>
+				<Icon>
+					<Name>Conveyor Belt Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&#34;Käytä kuljetinhihnasuodatinta saadaksesi tarkemman otteen resurssien jakautumisesta. Tälläistä suodatinta käytetään jallitsemaan millaisia materiaaleja hypyttimistä menee kuljetinverkkoon. Voit asettaa suodattimen poistamaan ROSKAA, MALMIA, ORGAANISTA, JALOKIVIÄ, HIILTÄ, BIOMASSAA, SULATETTAVAA, SYTTYVÄÄ, VALMISTTETTUJA ESINEITÄ, KRISTALLEJA tai VAIN HARKKOJA. &#34;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Maksimi kuljetusnopeus (nopea):
+					Maksimi kuljetusnopeus (hidas):
+					Vaadittu virta:
+					Maksimikantama:</Left>
+					<Right>18 esinettä minuutissa
+					9 esinettä minuutissa
+					Ei
+					1m</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+					
+	</Pages>
+</MaterialEntry>

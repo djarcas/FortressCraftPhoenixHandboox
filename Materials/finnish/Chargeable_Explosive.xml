@@ -1,0 +1,54 @@
+﻿<MaterialEntry>
+	<Key>ChargeableExplosive</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ladattava räjähde</Text>
+				</Title>
+				<Icon>
+					<Name>Chargeable Explosive</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ladattava pommi lataustason mukaan laajenevalla säteellä. Tämä räjähde voidaan ladata viereisestä virtavarastolohkosta, voimalasta tai laaserenergialähettimellä. Se säilyttää latauksensa kannettaessa vaihtoehtoiseen paikaan, jolloin se voidaan räjäyttää vaihtoehtoista vuoropaikutus nappia (oletus \&apos;Shift+E\&apos;) painamalla.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Joka kerta kun varastoitu virtaa kertautuu 10:llä lataustaso nousee yhdellä! </Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Vihjeitä ja temppuja!</Text>
+				</Header>
+				<Paragraph><Text>- Tämä kone tarvitsee enenevässä määrin virtaa!</Text>
+</Paragraph>
+				<Paragraph><Text>- Taso 1 = 100 energiaa.</Text>
+</Paragraph>
+				<Paragraph><Text>- Taso 2 = 1000 energiaa.</Text>
+</Paragraph>
+				<Paragraph><Text>- Taso 3 = 10 000 energiaa.</Text>
+</Paragraph>
+				<Paragraph><Text>- Taso 4 = 100 000 energiaa.</Text>
+</Paragraph>
+				<Paragraph><Text>- Taso 5 = 1 000 000 energiaa.</Text>
+</Paragraph>
+				<Paragraph><Text>- Taso 6 = 10 000 000 energiaa.</Text>
+</Paragraph>
+				<Paragraph><Text>- Ja niin eddelleen!</Text>
+</Paragraph>
+				<Paragraph><Text>- Välitasot eivät anna lisäräjähdyssädettä!</Text>
+</Paragraph>
+				<Paragraph><Text>- Tason 6 saavuttaminen nykyisillä toteutetuilla enegiatuotannolla on jo aikamoinen haaste!</Text>
+</Paragraph>
+				<Header>
+					<Text>Varoitus!</Text>
+				</Header>
+				<Paragraph><Text> Sytytyslanka on lyhyt! Tukikohtasi räjäyttäminen vahingossa on juttu!</Text>
+</Paragraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

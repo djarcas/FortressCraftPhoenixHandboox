@@ -1,0 +1,41 @@
+<MaterialEntry>
+	<Key>IronOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Iron Ore</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Found around 65m under the surface and below, Iron Ore can be smelted into Iron Bars using the smelter. Iron Bars are used in a wide variety of machines.</Text>
+			</Paragraph>
+				<Spacer/>
+				<Header><Text>Short Facts</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Occurrence:
+					Ping Color:
+					1st Stage of Extraction:
+					2nd Stage of Extraction:
+					
+					1st Stage of Smelting:
+					2nd Stage of Smelting:</Left>
+					<Right>-65 to -850m
+					Red-Orange
+					Build Gun MK1
+					Ore Extractor
+					
+					Ore Smelter
+					Blast Furnace setup</Right>
+				</TwoColumnParagraph>
+			
+
+				
+			</Paragraphs>
+							</Page>
+				
+	</Pages>
+</MaterialEntry>

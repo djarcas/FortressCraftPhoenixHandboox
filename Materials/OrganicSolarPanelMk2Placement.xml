@@ -1,0 +1,45 @@
+<MaterialEntry>
+	<Key>OrganicSolarPanelMK2Placement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>MK2 Organic Solar Panel</Text>
+				</Title>
+				<Icon>
+					<Name>MK2 Organic Solar Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The MK2 Organic Solar Panel is a power generator 3m wide, 3m long and 1m tall. Place 9 solar panel components in this layout to construct the machine. It must have direct access to sky above it.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>This power generation machine can only be placed on top of advanced machines such as the Research Laboratory, Refinery, Cargo Lifts and MK4 &amp; MK5 Power Storage Systems.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Peak Power (rush):
+					Peak Power (plentiful):
+					Peak Power (scarce):
+					Power Capacity:
+					Max. Power Transfer Rate:
+					Burn Time:
+					Fuel:</Left>
+					<Right>756 per second
+					540 per second
+					216 per second
+					1500
+					Unlimited
+					n/a
+					Sunlight/Novalight</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

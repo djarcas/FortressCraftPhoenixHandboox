@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>TitaniumCoil</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>钛线圈</Text>
+				</Title>
+				<Icon>
+					<Name>Titanium Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>一个简单的钛线圈，由钛线在绕线机制造。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

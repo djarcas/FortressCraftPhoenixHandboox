@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>T3 Power</Handle>
+	<Title>Продвинутая энергетическая сеть</Title>
+	<Icon>Advanced Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Продвинутая энергетическая сеть</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Улучшена энергетическая инфраструктура, включающая в себя Энергохранилище и Лазерный ЭнергоПередатчик.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>У нас есть предварительный проект для нового типа генератора энергии, однако для завершения этого исследования потребуется найти источник более энергонасыщенный, чем Уголь.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

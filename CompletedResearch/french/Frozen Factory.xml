@@ -1,0 +1,50 @@
+﻿<Chapter>
+	<Handle>T4_start</Handle>
+	<Title>L\&apos;Usine de Congélation !</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Formes de Vies Locales</Text>
+				</Title>
+				<Icon>
+					<Name>MagmaBore Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Maintenant, cette recherche est terminée, nous pouvons progresser sur la construction du Centre de Contrôle du Climat de la Caverne Gelée (CCCCG ou C4G pour faire court !). Nous devrons construire cette machine dans la Caverne Gelée, l\&apos;alimenter ensuite, cela suffit pour simplement, lentement, convertir la caverne en une merveilleuse zone douce, où nous pouvons nous préparer correctement et attendre un sauvetage.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Cette nouvelle machine est nettement plus avancée (et fragile !) Que l\&apos;ancien CÉC - nous devrions être en mesure de concevoir, de rechercher et de construire des machines d\&apos;extraction et de ressources beaucoup plus grandes, plus rapides et plus complexes. Tout d\&apos;abord, nous aurons besoin de matériaux plus avancés, et pour cela, nous aurons besoin d\&apos;une machine spéciale pour faire face aux minerais super durs.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Si nous construisons le Broyeur de Roches Dures sur une zone de Chrome et de Molybdène de 3x3, nous devrions pouvoir construire un nouveau type de forêt. Les nano-désintégrants seront idéaux pour rendre la surface plane.</Text>
+  
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Hard Rock Grinder</Material>
+					</Target>
+					<Text>Hard Rock Grinder</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>NanoDisintegrator</Material>
+					</Target>
+					<Text>NanoDisintegrator</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>CCCCC_Placement</Material>
+					</Target>
+					<Text>Cold Cavern Climate Control Centre</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

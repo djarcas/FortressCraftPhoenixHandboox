@@ -1,0 +1,54 @@
+﻿<MaterialEntry>
+	<Key>ChargeableExplosive</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>可充能爆炸物</Text>
+				</Title>
+				<Icon>
+					<Name>Chargeable Explosive</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>充电式炸弹的爆炸半径取决于充能水平。 该炸药可以使用相邻的能量块，发电机或激光输电器进行充电。 将其运送到另一个位置时将保持充能，此时可以使用交互键（默认为“Shift + E”）进行引爆。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>&quot;蓄能*10，能级+1！ &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>技巧与窍门！</Text>
+				</Header>
+				<Paragraph><Text>-这机器需要超多的能量！</Text>
+</Paragraph>
+				<Paragraph><Text>- 等级1 = 100单位能量。</Text>
+</Paragraph>
+				<Paragraph><Text>- 等级2 = 1000单位能量。</Text>
+</Paragraph>
+				<Paragraph><Text>- 等级3 = 10000单位能量。</Text>
+</Paragraph>
+				<Paragraph><Text>- 等级 4 = 10 0000单位能量。</Text>
+</Paragraph>
+				<Paragraph><Text>- 等级5 = 100 0000单位能量。</Text>
+</Paragraph>
+				<Paragraph><Text>- 等级6 = 1000 0000单位能量。</Text>
+</Paragraph>
+				<Paragraph><Text>- 以此类推！</Text>
+</Paragraph>
+				<Paragraph><Text>- 中等水平的能级没有额外的爆炸半径！</Text>
+</Paragraph>
+				<Paragraph><Text>- 达到6级已经是一个能源生产的严峻挑战！</Text>
+</Paragraph>
+				<Header>
+					<Text>警告！</Text>
+				</Header>
+				<Paragraph><Text>&quot; 保险丝非常短！！一不小心把你的基地化成灰分分钟的事！！&quot;</Text>
+</Paragraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

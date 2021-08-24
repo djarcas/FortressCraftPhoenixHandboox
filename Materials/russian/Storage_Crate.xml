@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>StorageCrate</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ящик</Text>
+				</Title>
+				<Icon>
+					<Name>StorageCrate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Фактически, это «сундук». Размещение ящиков для хранения предметов рядом друг с другом создаст более объёмное хранилище. Один ящик = 2 слота.</Text>
+				</Paragraph>
+        </Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

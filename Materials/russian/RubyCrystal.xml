@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>RubyCrystal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Рубиновый Кристалл</Text>
+				</Title>
+				<Icon>
+					<Name>Ruby Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Рубиновый Кристалл - редкий компонент, используемый для улучшений. Обнаруживается на глубинах от -150 до -225.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

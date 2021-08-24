@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>IronGear</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>铁质齿轮</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Gear</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>斜齿轮，广泛应用于各类电机和结合处。具有低噪音、体积小、重量轻、传递转矩大、起动平稳等优点。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

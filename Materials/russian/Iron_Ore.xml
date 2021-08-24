@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>IronOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Железная Руда</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Обнаруживаемая на глубинах ниже 65 метров Железная Руда может быть переплавлена в Железные Слитки в Плавильне. Железные Слитки обычно используются в создании разного оборудования.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Железо можно добыть с помощью Экстрактора Руды.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

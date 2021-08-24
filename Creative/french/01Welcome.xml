@@ -1,0 +1,325 @@
+﻿<Chapter>
+	<Handle>welcome</Handle>
+	<Title>Guide de démarrage</Title>
+	<Icon>Grass</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<HelpImage>
+					<Name>FCevolvelogo-01</Name>
+				</HelpImage>
+				<Title>
+					<Text>Bienvenu dans FortressCraft Evolved</Text>
+				</Title>
+				<Header>
+					<Text>Mode Créative</Text>
+				</Header>
+				<Paragraph>
+					<Text>Bienvenu dans notre mode créative ! Les contrôle sont ci-dessous, Le guide pour les outils est sur la page suivante.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Chapter>findingSurvival</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Looking for Survival Mode?</Text>
+				</Link>
+				<Spacer/>
+				<Header>
+					<Text>Contrôles</Text>
+				</Header>
+				<TwoColumnParagraph>
+<Left>&quot;W,A,S,D : ce déplacer
+Espace : Sauter
+Espace x 2 : activer le mode JetPack
+Q : Voler plus bas
+Maj : Boost
+Toucher le sol pour désactiver
+Echap : Menu pause
+H :  Ecran d\&apos;aide&quot;</Left>
+<Right>Z : Zoomer
+X : Fusil de construction
+C : Bâton météo
+N : Pistolet à peinture
+F10 :Entrer en mode super construction
+F11 : Entrer en mode copier/coller
+= : Écran de sélection de bloc
+F1-F7 : Sélection d\&apos;attache rapide
+1-10 : Sélection d\&apos;emplacement rapide</Right>
+				</TwoColumnParagraph>
+				<Paragraph>
+					<Text>Clique gauche : Construire/Fonction principale de l\&apos;outil
+Clique droit : Supprimer/Fonction alternative de l\&apos;outil
+Clique molette : Bloc échantillon actuelle
+Molette : Suivant/Précédent bloc ou fonction cycle de l\&apos;outil
+CTRL + Clique gauche : Construire jusqu’à moi
+CTRL + Clique droit : Super construction</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Outil de construction créative</Text>
+				</Title>
+				<Paragraph>
+					<Text>Dans FortressCraft Evolved, vous avez plusieurs outil puissant pour construction en créative. Plus bas nous allons décrire brièvement chaque outil et dans le futur fournir un lien pour un guide spécifique de chaque outil.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Fusil de construction</Text>
+				</Header>
+				<Icon>
+					<Name>Build Gun V2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Quand le fusil de construction est utilisé (sélectionner en appuyant sur \&quot;X\&quot;), Le clique gauche construis le bloc sélectionner et le clique droit les supprime. Vous avez une long portée, vous pouvez construire des bloc a 64m de distance.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Super creusage</Text>
+				</Header>
+				<Paragraph>
+					<Text>Maintenir CTRL pendant que vous creuser activera le mod super creusage. Cela va grandement augmenter la vitesse de minage, ce qui est bien pour rapidement faire de la place. Faite attention ou vous viser il est très facile d’accidentellement creuser votre travaille.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Construis jusqu\&apos;à moi</Text>
+				</Header>
+				<Paragraph>
+					<Text>Maintenir CTRL pour activer \&quot;construis jusqu\&apos;à moi\&quot;. le bloc sélectionner va être construis et va faire face à votre position dans une ligne droite.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>L’atelier</Text>
+				</Header>
+				<Paragraph>
+					<Text>L\&apos;atelier est l\&apos;outil le plus puissant dans l\&apos;arsenal de FortressCrat Evolved pour construire des création détaillé.Vous pouvez concevoir vos propre bloc par construire des modèles à grande échelle qui diminuent jusqu\&apos;à la taille d\&apos;un bloc.
+L\&apos;atelier peut être construit n\&apos;importe ou dans le monde. pour en faire un, commencer par ouvrir le panneau de sélection des blocs (presse \&quot;=\&quot;) et sélectionner le bloc de placement d\&apos;atelier :</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Workshop Placement</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Quote>
+					<Text>Workshop Placement block</Text>
+				</Quote>
+				<Paragraph>
+					<Text>Puis vous choisissez un emplacement pour construire l\&apos;atelier. Pour définir un atelier vous avez besoin de seulement 2 blocs atelier. Vous les placer de façon à qu\&apos;il soi dans les coins opposer et sur le sol ou vous voulez que l\&apos;atelier soit. Pour faire ça des instruction simple :</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>1. Choisissez une zone plate. Placer le premier bloc de placement d\&apos;atelier.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>2. De la, déplacer vous diagonalement dans n\&apos;importe qu\&apos;elle direction tout en rester au même niveau.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>3. Placer le deuxième bloc ou vous voulez qu\&apos;un autre coin de l\&apos;atelier soit.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>4. Si les 2 blocs sont en diagonale et à moin de 7 blocs l\&apos;un de l\&apos;autre, un atelier sera crée utilisant de la pierre et du bois renforcé</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>				
+				<Spacer/>
+				<Paragraph>
+					<Text>L\&apos;atelier peut être construis en taille allant de 2x2 (deux bloc en diagonale) à 8x8 (6 blocs vide entre le premier et le second bloc).</Text>
+				</Paragraph>
+				<Header>
+					<Text>Crée un bloc détailler dans l\&apos;atelier</Text>
+				</Header>
+				<Paragraph>
+					<Text>Une fois que vous avez construit votre premier atelier, Rentrez dedans pour commencer votre premier bloc détailler.Quand vous êtes dans le Workshop, Deux choses arrive : Le contour de l\&apos;atelier s\&apos;illumine avec des particules étincelantes, et la superposition de l\&apos;atelier apparaît.</Text>
+				</Paragraph>
+				<!--
+				<HelpImage>
+					<Name>Workshop Overlay</Name>
+				</HelpImage>
+				-->
+				<Paragraph>
+					<Text>Il y a certaine touches qui sont utiliser pour sélectionner des fonctions de l\&apos;atelier :
+Y : Commencer un nouveau plan
+U : Utiliser actuel
+I : Montrer les détail de la fenêtre
+O : Montrer la fenêtre du comportement
+[ : Plan précédent
+] : plan suivant</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Quand vous entrez dans un atelier, un nouveau plan est crée automatiquement, appuyer sur \&quot;Y\&quot; va faire qu\&apos;elle que chose seulement quand vous aurez crée votre premier plan.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Spacer/>
+				<Paragraph>
+					<Text>Pour concevoir votre premier bloc détailler, commencer simplement par construire à l\&apos;intérieure de la zone désigné dans l\&apos;atelier. Les murs fait de bois renforcé vont être la façade de votre bloc. Vous pouvez utiliser le bloc que vous voulez pour le plan, cependant n\&apos;importe qu\&apos;elle bloc aillant un model ne sera pas montré dans les détails du bloc. Les blocs peins vont rester peins.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Une fois que vous êtes content de votre plan, quitter l\&apos;atelier pour le sauvegarder et crée le bloc détaillé pour construire avec. Pour le sélectionner, ouvrez votre fenêtre de sélection de bloc (\&quot;=\&quot;) et sélectionner votre nouveau plan dans la barre de sélection rapide. Vous pouvez rapidement trouver tout les détailles des blocs désigné en filtrant \&quot; Bloc désigné\&quot; dans la liste des filtres. Vous pouvez maintenant commencer un nouveau plan dans l\&apos;atelier en pressant \&quot;Y\&quot;, ou en construisant un nouveau atelier. Vous pouvez avoir 16384 bloc détaillé dans un monde !</Text>
+				</Paragraph>
+				<Header>
+					<Text>Place blocs détailler</Text>
+				</Header>
+				<Paragraph>
+					<Text>Pour placer un bloc détaillé, Construisez le comme n\&apos;importe qu\&apos;elle bloc. Le plan va s\&apos;attacher à la face que vous avez sélectionner, et va être tourner pour faire face à vous. Cela va vous permettre de placer les blocs détaillé dans l\&apos;orientation que vous voulez.</Text>
+				</Paragraph>
+		
+<!--				
+				<HelpImage>
+					<Name>Detail Block example</Name>
+				</HelpImage>
+				-->
+				<Paragraph>
+					<Text>Si vous utilisez plusieurs centaines de blocs détaillé dans la même zone, vous allez remarquer des diminutions de performance. C\&apos;est à cause de tout les blocs détaillé qui sont rendus par votre carte graphique. Pour éviter cela, utiliser les blocs détaillé de basse résolution et les blocs normal autant que possible.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Super construction</Text>
+				</Header>
+		
+				<Paragraph>
+					<Text>En appuyant sur F8 vous allez ouvrir le panneau de super construction qui sera afficher sur le côté droit de votre écran</Text>
+				</Paragraph>
+				<!--
+				<HelpImage>
+					<Name>Super Build panel</Name>
+				</HelpImage>
+				-->
+				<Paragraph>
+					<Text>Cela va rapidement permettre de construire de simple forme géométriques utilisant n\&apos;importe quelle bloc sélectionné. Pour utiliser la super construction, sélectionner d\&apos;abord la forme à construire avec F9. Avec F10 vous pouvez sélectionner si il sera de formes solide ou fantôme. Avec F11 vous basculez le mode de construction. Instantané va vous donnez un résultat rapide, mais peut avoir des trou dans les très grande tailles. Fin bascule entre l\&apos;ancrage de la forme qui est au centre ou en bas de celle ci.</Text>
+				</Paragraph>
+				
+				<Paragraph>
+					<Text>X, Y et Z vous permet de changer la taille de la forme. Appuyer dessus va augmenter la taille de 1. Maintenir maj et appuyer sur X, Y et Z va les réduire de 1. Vous pouvez aussi maintenir ALT pour changer la taille de 16 à la fois.</Text>
+				</Paragraph>
+				
+				<Paragraph>
+					<Text>Une fois que vous avez choisis une forme, taille et emplacement, appuyer sur Ins pour construire ou Del pour la creuser. Vous avez besoin de re sélectionné une forme pour construire ou creuser.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Copier coller</Text>
+				</Header>
+		
+				<Paragraph>
+					<Text>L\&apos;outil de copier coller permet de rapidement copier, tourner ou un petit coup de certaine partie du plan que vous avez fait et de la coller peut importe où dans le monde. Ouvré la panneau de copier coller en appuyant sur F11. 
+La fonction de copier coller est EN CONSTRUCTION, c\&apos;est pourquoi l\&apos;interface n\&apos;est pas comme les autres.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Contrôle de copier coller</Text>
+				</Header>
+				<Paragraph>
+					<Text>Appuyer sur Inser pour placer le premier coin de la partie rectangulaire que vous voulez copier.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Appuyer sur Suppr pour placer le deuxième coin de la partie rectangulaire que vous voulez copier. La partie copier va être affiché.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Une fois la zone sélectionner, vous pouvez appuyer sur Suppr pour l\&apos;attraper. A ce point, une copie de la zone précédente va être montrer au dessus de votre sélection de bloc.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Avec une zone attrapé, il y a trois choses que pouvez faire pour altéré la façon dont il est coller: tourne avec R, déplace le point d\&apos;anchrage avec maj basculer avec CTRL.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>\&apos;R\&apos; va tourner la zone attrapé de 90 degrés dans le sens des aiguille d\&apos;une montre.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Appuyer sur maj va permettre de changer le point d\&apos;anchrage avec les touches X,Y et Z. Maintenir maj et appuyer sur X, Y, ou Z va diminuer ma position du point d\&apos;anchrage</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Appuyer sur CTRL une fois va permettre d\&apos;étendre le modèle avec les touches X, Y ou X. Chaque touche va étendre le modèle celon cette axe.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Et pour finir, appuyer sur \&quot;début\&quot; va copier la zone dans la zone sélectionner.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Enregistrement des schémas de copier coller</Text>
+				</Header>
+				<Paragraph>
+					<Text>Il est aussi possible de stocker des schémas pour un usage ultérieure, utiliser avec la touche \&quot;&lt;\&quot; et charger les avec \&quot;?\&quot;. Vous pouvez échangé les schémas sauvegarder avec d\&apos;autres personnes. Mais cette fonctionnalité est encore en développement, nous ne pouvons garantir qu\&apos;elle fonctionnera.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header>
+					<Text>Fusil à Peinture</Text>
+				</Header>
+		
+				<Paragraph>
+					<Text>Vous pouvez sélectionnée le Fusil à Peinture en appuyant sur \&quot;N\&quot;. Cela va vous permettre de peindre certains matériaux dans la couleur que vous voulez. Avec le fusil à peinture en main, clique gauche peint le bloc visé, clique droit ouvre la fenêtre de sélection des couleurs et le clique milieu prélève la couleur du bloc sélectionné, si le bloc peut être peint. Le fusil à peinture va montrer qu\&apos;elle couleur est sélectionné sur le fusil à peinture.</Text>
+				</Paragraph>
+				<!--
+				<HelpImage>
+					<Name>Paint Gun window</Name>
+				</HelpImage>
+				-->
+				<Header>
+					<Text>Trouver des matériaux à peindre</Text>
+				</Header>
+		
+				<Paragraph>
+					<Text>Seulement certains blocs peuvent être peint. Pour rapidement trouver les qu\&apos;elle, ouvrez l\&apos;ecran de sélection des blocs \&quot;=\&quot; et vérifier le filtre \&quot;à peindre\&quot;. Tout les blocs montré ici peuvent être placé dans le monde et peint.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Bâton de la météo</Text>
+				</Header>
+		
+				<Paragraph>
+					<Text>Le bâton de la météo vous permet de contrôler la météo, l\&apos;heure actuelle, et de lancer des météorites. Sélectionner le et appuyer sur \&quot;C\&quot;. Quand vous entrez dans le monde, une des statistique montré est le nombre total de météorite que les joueur on lancer dans FortressCraft Évolués.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Modes du bâton à météo</Text>
+				</Header>
+				<Paragraph>
+					<Text>eSun: la pluie/neige actuelle s\&apos;arrête et fait le soleil brillé (ou la lune, si c\&apos;est la nuit)</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>eLightning: crée un gros orage. Clique gauche déclenche des éclairs</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>eSnow: crée des chutes de neiges</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>eRain: crée de la pluie</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>eDayNight: invoque le jour où la nuit suivant le temps actuelle</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>eMeteor: invoque des météorites. Clique gauche pour invoquer une météorite haut dans le ciel pour frapper proche de vous. Clique droit invoque une météorite (grâce au bâton de la météo) sur le bloc visé. Il y a un faible temps de refroidissement sur ces deux action, spamer les cliques peut ne pas invoquer autant de météorites voulus :). Quand vous invoquer des météorites faite attention au station orbitale !</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</Chapter>

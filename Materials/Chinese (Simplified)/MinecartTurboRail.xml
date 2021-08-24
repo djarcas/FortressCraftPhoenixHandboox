@@ -1,0 +1,128 @@
+﻿<MaterialEntry>
+	<Key>MinecartTurboRail</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>基础矿车</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>矿车用于以中等速度批量转移物品。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;最大速度：
+最大存储空间：
+加速度：
+ &quot;</Left>
+					<Right>1m/s
+ 25
+ 0.5m/s^2
+ 16
+ 15 s</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>矿车的使用是直截了当的，只是简单的对现有的料斗-&gt;传送带模式的扩展。矿车通过矿车车库（Minecart Depot）加入你的矿车网络。</Text>
+&gt;
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Minecart Depot</Material>
+					</Target>
+					<Text>Minecart Depot</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>基础矿车</Text>
+				</Title>
+				<Paragraph>
+					<Text>一旦进入您的矿车网络，矿车将会在车站（Load and Unload stations）载货卸货。</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Minecart Load</Name>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Load Station</Material>
+					</Target>
+					<Text>Minecart Load</Text>
+				</Link>
+				<Icon>
+					<Name>Minecart Unload</Name>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Unload Station</Material>
+					</Target>
+					<Text>Minecart Unload</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+			<Page>
+			<Paragraphs>
+				<Title>
+					<Text>高级矿车控制</Text>
+				</Title>
+				<Paragraph>
+					<Text>为了更好地控制您的矿车和矿石，您有几样工具可用于改变矿车的行为和决策。</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Minecart Turbo Rail</Name>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Turbo Rail</Material>
+					</Target>
+					<Text>Minecart Turbo Rail</Text>
+				</Link>
+				<Spacer/>
+				<Icon><Name>MinecartBufferFull</Name>
+</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Full Gate</Material>
+					</Target>
+					<Text>Minecart Full Gate</Text>
+				</Link>
+				<Spacer/>
+				<Icon><Name>MinecartBufferEmpty</Name>
+</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Empty Gate</Material>
+					</Target>
+					<Text>Minecart Empty Gate</Text>
+				</Link>
+				<Spacer/>
+
+		
+			</Paragraphs>
+		</Page>
+		<Page>
+		<Paragraphs>
+				<Icon>
+			     <Name>Minecart</Name>
+			     <Link>
+			      <Target>
+			       <Text>Minecart Turbo Rail</Text>
+			      </Target>
+			     </Link>
+			    </Icon>
+
+		</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

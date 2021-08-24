@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>OrangeWarningLight</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Orange Warning Light</Text>
+				</Title>
+				<Icon>
+					<Name>Orange Warning Light</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Attach to a machine to monitor it.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

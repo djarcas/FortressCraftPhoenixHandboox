@@ -1,0 +1,28 @@
+<MaterialEntry>
+	<Key>ConstructionPasteGrinder</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rakennustahnajauhaja</Text>
+				</Title>
+				<Icon>
+					<Name>ConstructionPasteGrinder</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Rakennnustahnajauhaja käyttää yksinkertaista versiota pukusi epäorgaanisesta uudelleenkokoajasta tehdäkseen rakennustahnaa turhasta materiaalista kuten kivistä ja mullasta joita planeetalta löytyy. Itse kone voidaan tehdä planeetan pinnan mineraaleista. Koneen tuottamisen pienet kustannukset ja olemattomat virtavaatimukset mahdollistavat monen rinnakkain käytön. Roskavarkaan asettaminen useinkäytettyyn käytävään liitettynä moneen näistä koneista on hyvä tapa tehdä paljon rakennustahnaa aikaisin pelissä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Construction Paste</Material>
+					</Target>
+					<Text>Construction Paste</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

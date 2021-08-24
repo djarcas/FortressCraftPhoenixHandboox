@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>GreenCanvas</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Grüne Leinwand</Text>
+				</Title>
+				<Icon>
+					<Name>Green Canvas</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein grüner Leinwandblock. Ideal zum dekorieren.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Sign</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Schild</Text>
+				</Title>
+				<Icon>
+					<Name>Sign</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Mit einer Technologie, die an das abgestürzte Schiff angepasst wurde, wurden weitere Verbesserungen am Cyberdyne EZ-Schild vorgenommen. Dieses neue Schild kann platziert und bearbeitet werden. Das Schild sollte in der Lage sein, alle Standardzeichen anzuzeigen, die der Spieler auf einer internationalen Tastatur eingeben kann.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

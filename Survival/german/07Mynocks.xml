@@ -1,0 +1,26 @@
+﻿<Chapter>
+	<Handle>Mynocks</Handle>
+	<Title>Mynock Befall</Title>
+	<Icon>Local Life Forms</Icon>
+	<Hidden>true</Hidden>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mynock Befall</Text>
+				</Title>
+				<Icon>
+					<Name>Local Life Forms</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Dieses Förderband wurde von einer fremden Lebensform befallen. Wir haben gesehen, dass es die Ressourcen vom Förderband stiehlt. Aber diese Ressourcen scheinen nicht im Körper der Lebensform selbst zu verbleiben. Scheinbar sind sie mit einem wurzelartigen Netzwerk verbunden. Unsere Scanner zeigen, dass diese Wurzeln auf einen zentralen Kern zu gehen.Wir sollten das vorrangig untersuchen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Unabhänig davon, was auch immer das endgültige Ziel dieser gestohlenen Ressourcen sein mag, sollten wir es Stoppen! Diese fremden Strukturen scheinen anfällig für Energiewaffen zu sein. Wir sollten ihre Schwachstellen erforschen, die es uns erlaubt, automatisierte Basisverteidigung zu bauen um sie aufzuhalten. Längerfristig sollten wir uns auf die Suche nach verbesserten Methoden der Ressourcenverteilung machen, die weniger anfällig für Angriffe sind. Übergangsweise können wir sie mit unserer Strahlenkanone [V] töten. Aber sie werden sicherlich schnell zurück kommen.</Text>
+				</Paragraph>
+			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

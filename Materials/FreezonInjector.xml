@@ -1,0 +1,39 @@
+<MaterialEntry>
+	<Key>FreezonInjector</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Freezon Injector</Text>
+				</Title>
+				<Icon>
+					<Name>Freezon Injector</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Freezon Injectors use Freezon Canisters to give large benefits to compatible machines.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Effects</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>  Lancers
+  Melters
+  Resin Ablator
+  Resin Liquifier
+					</Left>
+					<Right>28x Clear rate
+2x Range 
+4x Rate Boost
+4x Rate Boost</Right>
+				</TwoColumnParagraph>
+        <Paragraph>
+          <Text>Freezon can be used to boost Geothermals Power Generation 20-fold, which internally include an injection interface via Storage Hoppers, so an Injector is not needed.</Text>
+        </Paragraph>
+			</Paragraphs>
+ 
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

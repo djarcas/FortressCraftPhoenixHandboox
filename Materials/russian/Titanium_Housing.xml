@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>TitaniumHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Титановый Корпус</Text>
+				</Title>
+				<Icon>
+					<Name>Titanium Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Простой титановый корпус, созданный из титановых пластин.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

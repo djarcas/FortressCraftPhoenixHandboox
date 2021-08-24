@@ -1,0 +1,42 @@
+﻿<MaterialEntry>
+	<Key>SolarPanelMk1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Aurinkopaneeli</Text>
+				</Title>
+				<Icon>
+					<Name>Solar Panel</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Aurinkopaneelit ovat alhaisen ylläpidon uusiutuva virtalähde. Ne täytyy asettaa avotaivaalle ja tuottavat virtaa vain päivällä. Ne jakavat virtaa liitettyihin koneisiin, virtavarastolohkoihin ja laaserenergialähettimiin.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Aurinkopaneeleilla on pieni sisäinen varaaja ja niitä pitäisi tukea sopivalla määrällä virtavarastolohkoja luotettavan virtalähteen takaamiseksi kaikkina aikoina.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Huippuvirta (runsas):
+					Huippuvirta (kitsas):
+					Virtakapasiteetti:
+					Maksimivirtasiirtonopeus:
+					Polttoaika:
+					Polttoaine:</Left>
+					<Right>22.5 sekunnissa
+					9 sekunnissa
+					64
+					32 sekunnisa
+					rajaton
+					Auringonvalo</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

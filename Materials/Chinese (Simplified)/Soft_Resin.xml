@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SoftResin</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>软树脂</Text>
+				</Title>
+				<Icon>
+					<Name>Soft Resin</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>软树脂似乎是虫巢视图到达CPH的一种副产品。它通常位于基地下发斜对角处（It\&apos;s most usually located diagonally from our base），在地表。那里有很多有机岩石。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

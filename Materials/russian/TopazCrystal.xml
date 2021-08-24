@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>TopazCrystal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Топазовый Кристалл</Text>
+				</Title>
+				<Icon>
+					<Name>Topaz Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Топазовый Кристалл - редкий материал, ингредиент для создания улучшений. Может быть обнаружен в пещерах на глубине от -300 до -375.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

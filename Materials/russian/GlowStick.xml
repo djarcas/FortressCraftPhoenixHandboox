@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>GlowStick</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Светящаяся палочка</Text>
+				</Title>
+				<Icon>
+					<Name>Glow Stick</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Светящаяся палочка автоматически генерируются вашим костюмом и потребляют 5 энергии, нажмите \&#34;G\&#34; чтобы бросить!</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

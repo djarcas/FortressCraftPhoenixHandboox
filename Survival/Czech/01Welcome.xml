@@ -1,0 +1,249 @@
+﻿<Chapter>
+	<Handle>welcome</Handle>
+	<Title>Úvodní příručka</Title>
+	<Icon>Solar Panel-old</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Vítejte u hry FortressCraft Evolved</Text>
+				</Title>
+				<Header>
+					<Text>Režim přežití</Text>
+				</Header>
+				<Paragraph>
+					<Text>Právě jste unikl z Orbitální stanice na poškozeném záchranném člunu. Během přistání byl člun zničen ale naštěstí se vám podařilo bezpečně katapultovat. Nyní budete muset přežít na této hrozné cizí planetě!</Text>
+				</Paragraph>
+				<Header>
+					<Text>Začínáme</Text>
+				</Header>
+				<Paragraph>
+					<Text>Skafandr který máte na je vybaven tou nejlepší technologií. Dokáže Vás udržet v teple i v těchto chladných podmínkách, potřebuje k tomu ale dostatek energie. Okolí havárie by Vám mělo poskytnout nějaké suroviny do začátku, je ale potřeba co nejdříve začít hledat další zdroje.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Ovládání</Text>
+				</Header>
+				<Paragraph>
+					<Text>Ovládací prvky hry jsou uvedeny v samostatné příručce níže.</Text>
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<Chapter>controls</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Controls Guide</Text>
+				</Link>
+
+				<Link>
+					<Target>
+						<URL>www.youtube.com/tv#/watch?v=KT_eI01IKDE</URL>
+<!-- Full screen, auto-playing URL-->
+					</Target>
+					<Text>Prefer a video? Click here for the FortressCraft Tutorial</Text>
+				</Link>
+				<Link>
+					<Target>
+						<URL>www.youtube.com/tv#/watch?v=1MLHgXDFczo</URL>
+<!-- Full screen, auto-playing URL-->
+					</Target>
+					<Text>Click here to watch a tutorial on the Crystal Scanner</Text>
+				</Link>
+
+			</Paragraphs>
+		</Page>
+			<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Tipy na přežití</Text>
+				</Header>
+
+			
+
+				<Paragraph>
+					<Text>Pro ty z Vás co nechcete číst celou příručku, zde máme pár rychlých rad.
+Následující stránky budou obsahovat podroběnší informace o tom jak začít.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>&quot;- Váš skafandr je navržen tak, aby se během dne nabíjel pomocí solární energie
+- V startovací oblasti se nachází Centrální Energetický Hub. Použijte ho k výrobě energie potřebné pro nabíjení sousedních strojů.
+- Energii skafandru můžete doplnit pomocí Centrálního Energetického Hubu nebo stiskem \&apos;Q\&apos; na napájecím bloku.
+- Stiskněnte (\&quot;E\&quot;) na Výrobně, abyste zjistili co můžete vyrobit.
+- Pro zahřátí je možné použít i Lampy. Vyrobit je lze v okně Ruční Výroby (\&quot;C\&quot;).
+- Používejte skenovací nástroj (\&apos;M\&apos;) ke skenování bloků. Jejich zpracováním ve Výzkumné stanici odemknete nové recepty.
+- Skenovací nástroj lze použít pro Vyhledání neznámých bloků. Díky tomu můžete nalézet nové suroviny.
+- Věnujte velkou pozornost rychlosti vybíjení baterie na obleku, modrý text označuje, že váš oblek ovlivňuje extrémní chlad a červený text znamená extrémní teplo.
+- Světlomet na skafandru vyžaduje energii. Je to skvělý pomocník pro průzkum ale nezapomínejte ho vypnout.
+- Uhlí je pro začátek nejlepší palivo. V případě krize je však možné k výrobě energie použít i místní flóru.
+- Je možné že budete muset kopat velmi hluboko aby jste našli rudy které hledáte.
+- Stavět můžete na poměrně velkou vzdálenost. Je to výhodné například při  osvětlení velkých jeskyní.&quot;</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Vybavení v místě havárie</Text>
+				</Header>
+				<Icon>
+					<Name>Central Power Hub</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Centrální Energetický Hub je váš první generátor. Má solární panely a může vyrábět energii i spalováním paliva. Skladovací kapacitu má pouze na jeden kus paliva. Je tedy velmi důležité dodávku paliva automatizovat. Má velkou vnitřní kapacitu pro ukládání energie.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Central Power Hub</Material>
+					</Target>
+					<Text>Central Power Hub</Text>
+				</Link>
+				<Spacer/>
+<Spacer/>
+<Spacer/>
+				<Icon>
+					<Name>PowerStorageBlock</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Napájecí Blok může uchovat až 250 energie a distribuovat jí k sousedním strojům.</Text>
+				</Paragraph>
+					<Link>
+					<Target>
+						<Material>PowerStorageBlock</Material>
+					</Target>
+					<Text>PowerStorageBlock</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Icon>
+					<Name>Ore Smelter</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Chcete-li získat Ingoty potřebné pro výrobu nových strojů, budete muset zpracovávat rudy v Tavící Peci. Rudy k vypálení můžete do pece dávat ručně, nebo můžete zpracování rudy automatizovat. Zpracování suroviny se zahájí, jakmile Tavící Pec obdrží dostatek materiálu k tavení alespoň jednoho ingotu a pec dosáhne potřebné teploty.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Ore Smelter</Material>
+					</Target>
+					<Text>Ore Smelter</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Icon>
+					<Name>Manufacturing Plant</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Jednoduché věci můžete provádět sami pomocí Ruční Výroby, která se otevřete stiskem \&quot;c\&quot;. U složitějších strojů a komponentů budete muset použít Výrobnu. Recepty jsou rozděleny do kategorií, které můžete najít kliknutím na barevné čtverce. V tomto okamžiku může Výrobna používat pouze položky které máte ve vašem inventáři. Vyrobené věci se Vám umístí do inventáře.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Manufacturing Plant</Material>
+					</Target>
+					<Text>Manufacturing Plant</Text>
+				</Link>
+				<Icon>
+					<Name>Research Station</Name>
+				</Icon>
+				<Paragraph>
+					<Text>V počátku hry, váš skener nemá znalosti o žádném materiálu který se nachází na planetě. Každý nový materiál který naleznete je potřeba zpracovat ve výzkumné stanici. Za zpracování dostanete výzkumné body které můžete investovat do nových výzkumných projektů nebo receptů pro Výrobnu. Výzkumná stanice potřebuje k provozu přísun energie.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Research Station</Material>
+					</Target>
+					<Text>Research Station</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Hledání prvních surovin</Text>
+				</Header>
+				<Paragraph>
+					<Text>Skener má schopnost nalézt známý typ rudy, nejprve je ale potřeba je nalézt. Klíčem k nalezení nových rud je použití volby Hledání Neznámého materiálu na skeneru. Při prvním použití vám nejprve zobrazí všechny bloky kolem vás, protože o nich neví.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Takže vaším prvním úkolem bude skenovat okolí a zpracovat tyto kontroly na výzkumné stanici. Jakmile prozkoumáte hlínu, kamení a sníh kolem vás, začne Vám Hledání Neznámých Materiálu zobrazovat užitečné věci ve vašem okolí.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Jakmile najdete ve vašem okolí rudnou žílu, je potřeba jí naskenovat a zpracovat ve Výzkumné Stanici, abyste jí nahráli do skeneru. Od toho okamžiku se při Vyhledávání Rudy vaším skenerem budou zobrazovat rudné žíly tohoto druhu.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Těžba Rudy</Text>
+				</Header>
+				<Paragraph>
+					<Text>Nyní, když jste našli svou první rudou žílu, je potřebovat z ní extrahovat rudu. Můžete jí natěžit kliknutím pravým tlačítkem myši, získáte tím ale pouze jeden kus rudy na každé stisknutí.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Lepší možností je použít režim Super Dig, který aktivujete stisknutím klávesy CTRL při kopání. Tím rychle vykopnete velké množství rudy, ale vyčerpáte zásoby energie vysokou rychlostí.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Při používání Super Dig je potřeba hlídat si množství energie. Skafandr také potřebuje přísun energie aby Vás dokázal udržet v teple! Snažte se vytvořit si bezpečnou zpáteční cestu k Hubu , která bude osvětlena pochodněmi aby vás dokázali zahřát.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Automatizace Těžby</Text>
+				</Header>
+				<Icon>
+					<Name>Ore Extractor</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Z dlouhodobého hlediska je výhodnější pro těžbu rudy využívat Extraktor Rudy. Několik jich máte v počáteční výbavě a můžete tedy jeden z nich umístit vedle ložiska a nabít ho energií potřebnou pro provoz. Disponuje malým vnitřním úložným prostorem, takže se můžete vydat na další průzkum a pro natěženou rudu se vrátit později.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Extraktor dokáže vytěžit celé ložisko rudy z jednoho místa. Bude tedy potřeba ho přesunout na nové místo až v okamžiku kdy bude celé ložisko spotřebované.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Ore Extractor</Material>
+					</Target>
+					<Text>Ore Extractor</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>StorageHopper</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Zásobníky mohou přijímat rudy a výrobky od strojů a zásobovat jimi jiné stroje. To z nich dělá nezbytnou součást v automatizaci těžby a zpracování surovin.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Storage Hopper</Material>
+					</Target>
+					<Text>Storage Hopper</Text>
+				</Link>
+			</Paragraphs>
+			</Page>
+			<Page>
+			<Paragraphs>
+				<Icon>
+					<Name>Conveyor Belt</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Jakmile budete mít nějaké suroviny navíc, můžete je využít ke stavbě Dopravníků. S jejich pomocí můžete snadno dopravit natěženou rudu od Extraktoru do Pece k vypálení. Jsou levné ale k propojení místa těžby se základnou jich bude potřeba velké množství. Pro fungování nevyžadují přísun energie.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Conveyor Belt</Material>
+					</Target>
+					<Text>Conveyor Belt</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</Chapter>
+
+		

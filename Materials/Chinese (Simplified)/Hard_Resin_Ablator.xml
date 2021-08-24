@@ -1,0 +1,50 @@
+﻿<MaterialEntry>
+	<Key>LaserResinAblator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>激光树脂烧蚀器</Text>
+				</Title>
+				<Icon>
+					<Name>Laser Resin Ablator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+				<Paragraph>
+					<Text>这是使用和清除母巢（Hiveminds）在其周围排出的硬化树脂的三步走的第一步。
+
+  烧蚀器使用聚焦激光能量来加热和剥离树脂的硬表面。
+
+  一旦完成，可以使用液化器煮沸并提取内部。
+
+  然后，您可以使用液体树脂精炼机将其转换为精制液体树脂。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>&quot;烧蚀：由热或摩擦引起的表面材料损失 &quot;</Text>
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<Material>Laser Resin Liquifier</Material>
+					</Target>
+					<Text>Laser Resin Liquifier</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Liquid Resin Refiner</Material>
+					</Target>
+					<Text>Liquid Resin Refiner</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>Refined Liquid Resin</Material>
+					</Target>
+					<Text>Refined Liquid Resin</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

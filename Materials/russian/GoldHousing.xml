@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>GoldHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Золотой Корпус</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Простой золотой корпус, созданный из золотых пластин.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

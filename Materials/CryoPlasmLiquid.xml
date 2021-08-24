@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Key>ColdCreepFluid</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>CryoPlasm Fluid</Text>
+				</Title>
+				<Icon>
+					<Name>ColdCreep</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This incredibly hard organic non-newtonian liquid has been awoken by our Climate Control Centre! We'll need specialist weaponry to deal with this!
+					Obeys gravity and falls of ledges.
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

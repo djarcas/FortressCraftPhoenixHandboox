@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>BiomassGrowthPing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Biomasseping</Text>
+				</Title>
+				<Icon>
+					<Name>Biomass Growth Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Biomasseping wird verwendet um neue oder zusätzliche Vorkommen zu finden. Weitere Informationen findest du in der Anleitung zum Erz Radar.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Blank Ore Ping</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

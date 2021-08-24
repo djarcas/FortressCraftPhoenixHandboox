@@ -1,0 +1,190 @@
+﻿<Chapter>
+	<Handle>controls</Handle>
+	<Title>Ohjaimet</Title>
+	<Icon>Build Gun V2</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ohjaimet</Text>
+				</Title>
+				<Paragraph>
+					<Text>Tämä opas listaa kaikki käytössä olevat ohjaimet FortressCraft Evolved:ssa. Älä välitä vaikka ne tuntuisivat ylenpalttisilta, tarkista vain oleelliset ohjaimet aloittaaksesi.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Jotkin ohjaimet ovat lukittuja opastuksen aikana.</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>Oleelliset ohjaimet</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;W, A, S &amp; D: Liikkuminen
+ Välilyönti: Hyppy
+ H: Tämä opaste
+ Escape: Päävalikko
+ 
+ X: Vaihda rakennuspyssyyn
+ VHN: Rakenna palikka
+ OHN: Poista palikka
+ 
+ M: Vaiha luotaustyökaluun
+ VHN: Materiaalisysäys
+ OHN: Luotaa palikka
+ &quot;</Left>
+					<Right>&quot;I: Avaa tavaravalikko
+ C: Avaa itsevalmistus
+ F: Ammu tartuntakoukku
+ G: Heitä valotikku
+ 
+ E: Vuorovaikuta koneen kanssa
+ Q: Ota koneesta
+ R: Pyöritä konetta
+ 
+ V: Vaihda sädepyssyyn
+ VHN: Ammu
+ OHN: Ladattu laukaus
+ &quot;</Right>
+				</TwoColumnParagraph>
+				<Paragraph>
+					<Text>(VHN = Vasen hiiren nappi, OHN = Oikea hiiren nappi)</Text>
+				</Paragraph>
+				<Header>
+					<Text>Ohjaimien vaihto</Text>
+				</Header>
+				
+				<Paragraph>
+					<Text>Useimmat ohjaimet voidaan vaihtaa laukaisimesta. Pelin sisäiset vinkit eivät noudata näitä muutoksia.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Liikkuminen &amp; katseleminen</Text>
+				</Header>
+		
+				<TwoColumnParagraph>
+					<Left>W: Liiku eteenpäin
+					S: Liiku taaksepäin
+					A: Liiku sivuttain vasemmale
+					D: Liiku sivuttain oikealle</Left>
+					<Right>Välilyönti: Hyppy
+					Hiiri: Katso ympäriinsä
+					U: Matkusta kaivosvaunulla
+					Z: Lähennä</Right>
+				</TwoColumnParagraph>
+				
+				<Header>
+					<Text>Aseet &amp; työkalut</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>X: Vaihda rakennuspyssyyn
+					V: Vaihda sädepyssyyn
+					B: Vaihda käsikameraan</Left>
+					<Right>N: Vaihda maalipyssyyn
+ M: Vaihda luotaustyökaluun
+ Shift + hiiren rulla: Kierrätä työkaluja</Right>
+				</TwoColumnParagraph>
+					
+				<Header>
+					<Text>Tavaraluettelo &amp; pikapalkki</Text>
+				</Header>
+	
+				<TwoColumnParagraph>
+					<Left>&quot;I: Avaa tavaraluettelo
+ F1-F7: Valitse pikapalkin välilehti
+ 1-9 &amp; 0: Valitse pikapalkin kolo
+ Q : Tiputa korostettu esine
+ &quot;</Left>
+					<Right>&quot;Shift + rahaa: Jaa nippu
+ Control + rulla: Kierrätä välilehtiä
+ Hiiren rulla: Kierrätä koloja
+ --
+ &quot;</Right>
+				</TwoColumnParagraph>
+					
+				<Header>
+					<Text>Puvun toiminnot</Text>
+				</Header>
+	
+				<TwoColumnParagraph>
+					<Left>C: Avaa itsevalmistus (Crafting)
+ L: Kytke otsalamppu (Light)
+ J: Kytke rakettireppu (jetpack, tarvitsee osan)
+ F: Ammu tartuntakoukku</Left>
+					<Right>G: Heitä valotikku (glowstick)
+ K: Kytke holotukikohtanäkymä
+ U: Kytke holotukikohtatapa
+ Välilyönti: Vapauta tartuntakoukku</Right>
+				</TwoColumnParagraph>
+		
+				<Header>
+					<Text>Koneet</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>E: Vuorovaikuta koneen kanssa
+ T: Varastoi koneeseen
+ R: Pyöritä konetta
+ ]: Pyöritä myötäpäivään</Left>
+					<Right>Q: Ota koneesta
+ Shift-T: Varastoi 10 esinettä
+ Shift-E: Hypyttimen imurikytkös
+ [: Pyöritä vastapäivään</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Moninpeli</Text>
+				</Header>
+	
+				<Paragraph>
+					<Text>Enter: Näytä jutteluikkuna
+ Oikea Shift: Näytä palvelintiedot
+ Oikea Shift + F1, F2 tai F3: Aseta verkkotahti</Text>
+				</Paragraph>
+				<Header>
+					<Text>Rakennuspyssy</Text>
+				</Header>
+	
+				<TwoColumnParagraph>
+					<Left>VHN: rakenna palikka
+					OHN: Poista palikka
+					KHN : Valitse nykyinen palikka</Left>
+					<Right>Control + VHN: Tänne-rakennus
+ Control + pidä OHN: Superkaivaminen</Right>
+				</TwoColumnParagraph>
+				
+				<Header>
+					<Text>Luotaintyökalu</Text>
+				</Header>
+	
+				<Paragraph>
+					<Text>Vasen hiiren nappi: Sysäytä ympäristöä
+					Oikea hiiren nappi: Luotaa palikka
+					Hiiren rulla: Vaihda sysäyksen asetusta</Text>
+				</Paragraph>
+				<Header>
+					<Text>Sädepyssy</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>VHN: Ammu yksittäinen laukaus</Left>
+					<Right>Pidä OHN: Ladattu ammus</Right>
+				</TwoColumnParagraph>
+	
+				<Header>
+					<Text>Muut</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Escape: Päävalikko
+					Ctrl-M: Kytke musiikki</Left>
+					<Right>Tab: Kytke AVUTIN:n etäisyys</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

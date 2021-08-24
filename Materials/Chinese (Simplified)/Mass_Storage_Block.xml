@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>MassStorageBlock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>大容量存储块</Text>
+				</Title>
+				<Icon>
+					<Name>Bound Metal Crate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>这是自动化大容量存储的基础。 无法手动访问。 每个块是可容纳25个物品的堆栈（自然只能在栈顶对项目进行插入和删除）。 并排放置大容量存储块可以创建更大的组合存储空间。</Text>
+				</Paragraph>
+				<Header>
+					<Text>警告！</Text>
+				</Header>
+				<Paragraph><Text>与储物箱无关！</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

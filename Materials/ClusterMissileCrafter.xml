@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Key>ClusterMissileCrafter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Cluster Missile Crafter</Text>
+				</Title>
+				<Icon>
+					<Name>ClusterMissileCrafter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Turns a single Imbued Missile into 8 rapid-fire missiles, each doing 1/4 of the original damage, for a total of double the damage.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>This machine requires a hopper holding at least 1 Plasma-Imbued Missile to start the refitting process.</Text>
+				</Paragraph>
+
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Manufacturing Time:
+					Power Required:
+					Power Capacity:
+					Max. Power Recharge Rate:</Left>
+					<Right>60 seconds
+					32 per second
+					2048
+					4096 per second</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

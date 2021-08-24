@@ -1,0 +1,33 @@
+﻿<MaterialEntry>
+	<Key>MassStorageOutputPortMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tukkuvarastohakuportti</Text>
+				</Title>
+				<Icon>
+					<Name>Mass Storage Output Port</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Aseta tämä palikka tukkuvarastolohkon viereen hakeaksesi esineitä tukkuvarastosta. Haettava esine pitää käsin määrittää. Jos määritetty esine on saatavilla tukkuvarastosta robotti hakee sen yksi kerrallaan ja asettaa sen sisäänrakennetulle kuljettimelle.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Vinkkejä ja temppuja!</Text>
+				</Header>
+				<Paragraph><Text>Ole tietoinen tämän palikan suunnasta! Kuten tavallinen kuljetin se liikuttaa tavaraa tiettyn suuntaan.</Text>
+</Paragraph>
+				<Paragraph><Text>Asettaaksesi haettavan esineen pidä haluttua esinettä pikapalkissa, katso hakuporttia ja paina &apos;E&apos;</Text>
+</Paragraph>
+				<Header>
+					<Text>Varoitus!</Text>
+				</Header>
+				<Paragraph><Text>Tällä ei ole mitään tekemistä varastohypyttimen kanssa!</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

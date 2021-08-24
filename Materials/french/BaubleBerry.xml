@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>BaubleBerry</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Baie Babiole</Text>
+				</Title>
+				<Icon>
+					<Name>BaubleBerry</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Une plante quelconque trouvée à la surface et dans les cavernes de cette planète.</Text>
+				</Paragraph>
+		
+				<Spacer/>
+				<Paragraph>
+					<Text>Cette plante peut être brulée pour fournir de l\&apos;énergie.</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

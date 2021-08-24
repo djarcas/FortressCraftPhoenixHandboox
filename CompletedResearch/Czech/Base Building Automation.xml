@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>T1 assist machines</Handle>
+	<Title>Automatizace Stavby Základny</Title>
+	<Icon>Base Building Automation</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Automatizace Stavby Základny</Text>
+				</Title>
+				<Icon>
+					<Name>Base Building Automation</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nyní máme k dispozici širokou škálu nových strojů pro automatizaci naší základny. Použijte Drtičku k rozdrcení nepotřebné horniny výměnou za příležitostnou užitečnou rudu. Auto-rýpadlo může vykopat šachty nad ním, zatímco auto-stavěč pro nás může konstruovat dlouhé dopravníkové pásy.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Použijte výtahy, abyste mohli bezpečně cestovat mezi vaší povrchovou základnou a hlubšími doly. Použijte výbušniny, abyste vyčistili velké plochy nebo zničili nepřátelské cíle.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

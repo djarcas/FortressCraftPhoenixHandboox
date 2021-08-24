@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERDapperMonocle</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Щегольский монокль АРЧЕРа</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Dapper Monocle</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Улучшает зрение АРЧЕРа! Работает только в том случае, если у вас есть Dapper Indie Supporter DLC. Вам нужен только один элемент, и он должен храниться в вашем инвентаре.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

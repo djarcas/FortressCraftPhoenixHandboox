@@ -1,0 +1,61 @@
+﻿<MaterialEntry>
+	<Key>MK1PowerBoosterCharger</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Зарядник Энергоячеек МК1</Text>
+				</Title>
+				<Icon>
+					<Name>MK1PowerBoosterCharger</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					<Text>Это оборудование автоматически изготавливает и заряжает Энергоячейки МК1. Использует Медные Катушки и потребляет энергию.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Хранимая Энергия:</Left>
+<Right>100</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK1</Material>
+					</Target>
+					<Text>ARTHER Power Booster MK1</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK2</Material>
+					</Target>
+					<Text>ARTHER Power Booster MK2</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK3</Material>
+					</Target>
+					<Text>ARTHER Power Booster MK3</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK4</Material>
+					</Target>
+					<Text>ARTHER Power Booster MK4</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK5</Material>
+					</Target>
+					<Text>ARTHER Power Booster MK5</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

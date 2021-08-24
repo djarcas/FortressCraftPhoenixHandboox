@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Window</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>창문</Text>
+				</Title>
+				<Icon>
+					<Name>Window</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

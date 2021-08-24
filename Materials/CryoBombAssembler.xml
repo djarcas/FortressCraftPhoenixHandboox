@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Key>CryoBombAssembler</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Cryo Bomb Assembler</Text>
+				</Title>
+				<Icon>
+					<Name>Cryo Bomb Assembler</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Uses an Imbued Machine Block, a Sulphur Canister and a huge amount of power to create a bombs. These bombs can then be delivered by Bomber FALCORs to defeat large quantities of long-range CryoPlasm.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>This machine requires hoppers holding at least 1 Sulphur Canisther and Imbued Machine Block to start the crafting process.</Text>
+				</Paragraph>
+
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Manufacturing Time:
+					Power Required:
+					Power Capacity:
+					Max. Power Recharge Rate:</Left>
+					<Right>5 seconds
+					1500 per second
+					7500
+					2500 per second</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

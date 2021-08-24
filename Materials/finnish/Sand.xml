@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SandNonFluid</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hiekka</Text>
+				</Title>
+				<Icon>
+					<Name>Sand</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Hiekka on palikka jota löytyy maailman luonnosta. Hiekka näyttää toimivan kuin neste kun vieressä oleva hiekka korvaa alempaa poistettavan ympäröivän hiekan.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

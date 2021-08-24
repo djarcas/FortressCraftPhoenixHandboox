@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SuitPowerPackMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Anzug Power Pack MK1</Text>
+				</Title>
+				<Icon>
+					<Name>Suit Power Pack MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Das Anzug Power Pack MK1 ist ein zusätzlicher montierbarer Akku, der den nativen internen Puffer des Anzugs von 256 Netzteilen auf 512 Netzteile erhöht. Dieses Upgrade ist primitiv und bietet Raum für weitere Verbesserungen. Eine weitere Verbesserung dieses Upgrades ist unmöglich, bis ein besseres wärmeleitendes Material gefunden werden kann, um die notwendige Kühltechnologie zu unterstützen, so dass die Umgebungswärme der Energiespeichereinheiten die Lebenserhaltungssysteme des Anzugs nicht beeinträchtigt.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

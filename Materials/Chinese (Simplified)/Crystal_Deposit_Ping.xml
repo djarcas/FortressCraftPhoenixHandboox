@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>CrystalDepositPing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>水晶矿床扫描</Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Deposit Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>当通过未知材料扫描脉冲找到的位置不足时，水晶矿床扫描脉冲（Crystal Deposit Ping）用于找到额外的水晶沉积矿床。 有关更多信息，请参阅空白矿石扫描脉冲的帮助指导。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Blank Ore Ping</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

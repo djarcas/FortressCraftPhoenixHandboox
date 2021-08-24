@@ -1,0 +1,42 @@
+﻿<MaterialEntry>
+	<Key>BasicQuarry</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Peruskaivos</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Quarry</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kaivos kaivaa maata allaan palauttaen kaikki löytämänsä resurssit. Täytyy rakentaa -25m yläpuolelle. Resurssit asetetaan liitettyihin varastohypyttimiin.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Kaivoksen koko:
+					Kaivoksen syvyys:
+					Virtavaatimus
+					Virtavaranto:
+					Maksimi lataustahti:
+					Maksimi kaivettu kovuus:
+					Maksimi kaivuutahti:
+					Malminlouhintatehokkuus:</Left>
+					<Right>9m x 9m
+					3950
+					150 1m kuutiota kohden
+					4096
+					1024 sekunnisa
+					250
+					5 kuutiometriä sekunnissa
+					10%</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

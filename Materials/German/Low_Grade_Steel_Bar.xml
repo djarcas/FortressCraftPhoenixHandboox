@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>LowGradeSteelBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Minderwertiger Stahlbarren</Text>
+				</Title>
+				<Icon>
+					<Name>Steel Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Geringwertige Stahlbarren werden aus einer Kombination von Eisen und Nickel in einem Stahllegierungsschmelzofen hergestellt. Sie sind eine wichtige Komponente für viele fortgeschrittene Herstellungsrezepte.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

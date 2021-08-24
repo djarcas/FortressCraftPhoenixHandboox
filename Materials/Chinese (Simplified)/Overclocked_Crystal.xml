@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>OverclockedCrystalClock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>超频水晶</Text>
+				</Title>
+				<Icon>
+					<Name>Overclocked Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;超频水晶是更先进的水晶钟，通过使用大量的电源超频正常的水晶钟来创造。 超频晶体被广泛用于各种各样的T4机器中。 &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>OverClocker</Material>
+					</Target>
+					<Text>OverClocker</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

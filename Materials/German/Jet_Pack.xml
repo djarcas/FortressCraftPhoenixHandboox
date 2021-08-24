@@ -1,0 +1,25 @@
+﻿<MaterialEntry>
+	<Key>JetPack</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Raketenrucksack</Text>
+				</Title>
+				<Icon>
+					<Name>Jet Pack</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Du hast einen Weg gefunden um kurze Strecken fliegen zu können. Leider scheint es aber die Batterie ziemlich schnell leer zu fressen...</Text>
+				</Paragraph>
+			
+				<Paragraph>
+					<Text>Wird durch [J] aktiviert. Es wird nur einmal im Inventar benötigt um zu funktionieren.</Text>
+				</Paragraph>
+			
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

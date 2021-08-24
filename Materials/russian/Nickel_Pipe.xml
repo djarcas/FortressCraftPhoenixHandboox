@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>NickelPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Никелевая Труба</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Простая никелевая труба, изготовляемая из никелевых слитков в Экструдере Труб.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>TransportPipeFilter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Transport Rohrfilter</Text>
+				</Title>
+				<Icon>
+					<Name>Transport Pipe Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Transportrohrfilter kann verwendet werden, um den Typ des Materials zu filtern, das vom Lagercontainer angeboten wird.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

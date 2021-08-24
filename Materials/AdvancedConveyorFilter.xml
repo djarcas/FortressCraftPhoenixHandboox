@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>AdvancedConveyorFilter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Advanced Conveyor Filter</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced Conveyor Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Filters specific items at T2 Pipe speeds</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

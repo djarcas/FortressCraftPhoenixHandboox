@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>RedCanvas</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>红色帆布</Text>
+				</Title>
+				<Icon>
+					<Name>Red Canvas</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>完全红色的装饰用方块。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

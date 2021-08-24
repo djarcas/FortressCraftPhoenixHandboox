@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Key>LensPolisher</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lens Polisher</Text>
+				</Title>
+				<Icon>
+					<Name>Lens Polisher</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Turns any lenses into useful Polished Lenses after a long time polishing.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>This machine requires a hopper holding at least 1 Lens to start the polishing process.</Text>
+				</Paragraph>
+
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Manufacturing Time:
+					Power Required:
+					Power Capacity:
+					Max. Power Recharge Rate:</Left>
+					<Right>300 seconds
+					64 per second
+					640
+					1024 per second</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

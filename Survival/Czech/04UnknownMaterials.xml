@@ -1,0 +1,57 @@
+﻿<Chapter>
+	<Handle>unknown materials</Handle>
+	<Title>Neznámé materiály</Title>
+	<Icon>Unknown</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Neznámé materiály</Text>
+				</Title>
+				<Header>
+					<Text>Co jsou neznámé materiály?</Text>
+				</Header>
+				<Icon>
+					<Name>Unknown</Name>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Zpočátku jsou všechny materiály na této planetě neznámé. Pokud některý z nich seberete, objeví se ve vašem inventáři jako otazník. Neznámé materiály se identifikují pomocí Výzkumné stanice , která je u Centrálního Hubu. Pokud chcete neznámý materiál zpracovat, je potřeba ho buď mít v inventáři a nebo naskenovaný (Skener - podržet pravé tlačítko myši) Dokud není neznámý materiál zpracovaný ve Výzkumné  Stanici, nelze ho použít pro zpracování nebo výstavbu.
+ &quot;</Text>
+				</Paragraph>
+				<Header>
+					<Text>Zpracování Neznámých Materiálů</Text>
+				</Header>
+				<Paragraph>
+					<Text>Vyberte první kartu Výzkumné stanice s označením \&quot;Skeny\&quot;; zde najdete seznam všech neznámých materiálů které jste našli, jejich hodnoty ve výzkumných bodech a kolik energie je potřeba k jejich zpracování. Stiskněte tlačítko \&quot;Zpracovat\&quot; pro zpracování materiálu, potřebná energie se odečte a získáte uvedený počet bodů. Body mohou být použity k odemknutí receptů a projektů pomocí druhé a třetí karty Výzkumné Stanice.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Postup</Text>
+				</Header>
+				<Paragraph>
+					<Text>Jakmile budou nové materiály naskenovány a zpracovány, odemknou se nové stroje, recepty a projekty.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Skenování neznámých materiálů je nejlepší způsob, jak získat více výzkumných bodů. Čím více se dozvíme více o této podivné, zablokované planetě, k tím lepšímu vybavení a strojům získáme přístup a tím větší šanci budeme mít, že přežijeme a povede se nám uniknout!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Pro více informací navštivte prosím nápovědu na Výzkumné stanici.</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Research Station</Name>
+				</Icon>
+				<Link>
+					<Target>
+						<Page>0</Page>
+						<Material>Research Station</Material>
+					</Target>
+					<Text>Research Station</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

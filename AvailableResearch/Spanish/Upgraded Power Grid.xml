@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T2 Power</Handle>
+	<Title>Red Eléctrica Actualizada</Title>
+	<Icon>Upgraded Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Red Eléctrica Actualizada</Text>
+				</Title>
+				<Icon>
+					<Name>Upgraded Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nuestra infraestructura de energía va muy bien. Nuestra tecnología de baterías es bastante limitada, sin embargo, este proyecto intentará diseñar una batería mejor que pueda almacenar más energía proporcionándonos un buffer más grande.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

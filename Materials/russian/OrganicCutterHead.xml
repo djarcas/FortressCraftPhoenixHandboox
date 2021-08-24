@@ -1,0 +1,35 @@
+<MaterialEntry>
+	<Key>OrganicCutterHead</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Органическая Режущая Головка</Text>
+				</Title>
+				<Icon>
+					<Name>Organic Cutter Head</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Уменьшает потери руды при добыче, повышая эффективность процесса экстракции. Добывает более твёрдые материалы. Изнашивается со временем.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Органическая Режущая Головка производится из жал местных форм жизни, она заметно эффективнее Стальной, но изнашивается значительно быстрее.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&#34;Эффективность:
+  Максимальная твердость:
+  Прочность:&#34;</Left>
+					<Right>50%
+ 250
+ 1500</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

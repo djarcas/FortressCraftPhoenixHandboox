@@ -1,0 +1,22 @@
+﻿<Chapter>
+	<Handle>T4_Particles</Handle>
+	<Title>Partikelfilterung</Title>
+	<Icon>Particulate Filtration</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Partikelfilterung</Text>
+				</Title>
+				<Icon>
+					<Name>Particulate Filtration</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					<Text>Durch das erforschen des Anzugspatikelfiltrationssystem können wir nun verschiedene Elemente aus der Luft filtern. Der Aufbau dieser Systeme in den verschiedenen Kavernen sollte es uns ermöglichen, verschiedene Elemente, die in der Luft gefunden werden, zu extrahieren, zu konzentrieren und zu füllen. Aufgrund der durchschnittlichen Größe dieser Kavernen und der Dichte der Partikel in der Luft, sollte es keine spürbaren langfristigen Auswirkungen aus diesem Prozess geben. Diese Systeme können die Feindseligkeit der Umwelt für die einheimische Flora und Fauna senken, dieser Effekt sollte vernachlässigbar sein, da es keine vorherrschende feindliche Flora oder Fauna gibt. Die kalten Höhlen werden uns kostenfrei einfrieren, die giftigen Höhlen Chlor und die Magma Höhlen, Schwefel.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

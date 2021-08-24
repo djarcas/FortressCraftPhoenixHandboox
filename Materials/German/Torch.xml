@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>Torch</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fackel</Text>
+				</Title>
+				<Icon>
+					<Name>Torch</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die Fackel ist wesentlich für Ihre frühen Überlebenschancen auf diesem Planeten und bietet sowohl Wärme als auch Licht. Das Licht wird tagsüber automatisch deaktiviert, sorgt aber trotzdem für Wärme.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Vorsicht! Feuer ist heiß! Der Schutzanzug ist nicht dafür ausgelegt, den Benutzer für längere Zeit in der Nähe einer Fackel zu schützen.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

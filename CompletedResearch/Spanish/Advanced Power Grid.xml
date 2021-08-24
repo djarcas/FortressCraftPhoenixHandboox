@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>T3 Power</Handle>
+	<Title>Red Eléctrica Avanzada</Title>
+	<Icon>Advanced Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Red Eléctrica Avanzada</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Hemos hecho nuevas mejoras en nuestra infraestructura energética incluyendo un nuevo Bloque de Almacenamiento de Energía y un Transmisor Láser de Energía.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Además también tenemos unos diseños provisionales para un nuevo tipo de Generador de Energía, de todas formas para completar esta investigación también tenemos que encontrar una forma de energía más densa que el carbón en el que tanto hemos confiado hasta ahora.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,32 @@
+﻿<MaterialEntry>
+	<Key>ARTHERChargingStation</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Laddningsstation</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Charging Station</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ladda om ARTHER snabbt från din bas kraftnätverk. Bäst när kombinerad med en ARTHER-batteriuppgradering.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifikationer</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>ARTHER Laddningshastighet:
+Stationens kraftkapacitet:
+Stationens Laddningshastighet:</Left>
+					<Right>25 per sekund
+1500
+10 per sekund</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

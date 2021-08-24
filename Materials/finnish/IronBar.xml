@@ -1,0 +1,25 @@
+<MaterialEntry>
+	<Key>IronBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rautaharkko</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Iron Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Rautaharkkoja käytetään yleensä vankan rakenteen koneissa. Ne tehdään rautamalmista jota voidaan löytää ainakin 65m pinnan alla.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>TreeTrunk</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Puun runko</Text>
+				</Title>
+				<Icon>
+					<Name>Tree Trunk</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Perusainesosa puulankkuihin. Voit saada niitä leikkaamalla puita. Tämä palikka voidaan asettaa. Puulankkuihin ei tarvita valmistusasemaa.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

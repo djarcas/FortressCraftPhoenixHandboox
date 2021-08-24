@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>OrganicCutterHead</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Orgaaninen poraterä</Text>
+				</Title>
+				<Icon>
+					<Name>Organic Cutter Head</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Vähentää hukattua malmia parantamalla malmilouhijan tehokkuutta. Mahdollistaa myös kovempien materiaalien louhimisen. Poraterät kuluvat ajan myötä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Orgaaninen poraterä on tehty paikallisten eliöiden pistimistä. Se on paljon tehokkampi kuin teräsporaterä mutta kuluu nopeammin.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Tehokkuus:
+					Maksimikovuus:
+					Kestävyys:</Left>
+					<Right>50%
+					250
+					1500</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

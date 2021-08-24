@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Truss</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ферма</Text>
+				</Title>
+				<Icon>
+					<Name>Truss</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Базовый строительный материал, который можно создать в любое время без использования Завода. Откройте интерфейс производства вручную (по умолчанию «C») для изготовления.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

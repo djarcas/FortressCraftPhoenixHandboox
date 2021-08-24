@@ -1,0 +1,75 @@
+﻿<MaterialEntry>
+	<Key>MissileTurretMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Raketenturm MK1</Text>
+				</Title>
+				<Icon>
+					<Name>Missile Turret MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					
+					<Text>Feuert Einwegraketen auf größere Ziele ab. Raketen sollten in einem benachbarten Lagercontainer gelagert werden. Geschosswaffentürme erfordern eine Sichtverbindung zu ihren Zielen und sollten so montiert werden, dass sie das beste Schussfeld haben.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Mindestbereich:
+ Maximale Reichweite:
+ Schaden (pro Rakete):
+ Raketen pro Salve:
+ Nachladezeit:</Left>
+					<Right>64m
+ 512m
+ 75k - 750k (basierend auf Rakete)
+ 1
+ 15 Sekunden</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Empty Missile Assembler</Material>
+					</Target>
+					<Text>Empty Missile Assembler</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Missile Fueller</Material>
+					</Target>
+					<Text>Missile Fueller</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Armour Piercing Warhead Fitter</Material>
+					</Target>
+					<Text>Armour Piercing Warhead Fitter</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Warhead Imbuer</Material>
+					</Target>
+					<Text>Warhead Imbuer</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>CryoChilled Missile Assembler</Material>
+					</Target>
+					<Text>CryoChilled Missile Assembler</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Mephitic Missile Assembler</Material>
+					</Target>
+					<Text>Mephitic Missile Assembler</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Key>TrencherDrillPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>挖沟机钻头</Text>
+				</Title>
+				<Icon>
+					<Name>Trencher Drill component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>这些大型多块钻孔机可用于以非常快速的方式收获所有已知材料。 要建一个，您需要以3x3x3的布局构建钻头，然后以3x3x3的方式构建电机，然后触摸它。 开沟机的朝向由此决定; 电机总是在后面。 您可以使用它来使开沟机朝向任何角度，包括朝上！</Text>
+				</Paragraph>
+	
+				<Spacer/>
+			
+				<Paragraph>
+					<Text>请注意，这些新钻头非常耗电，每分钟可以掉下数百矿石。 当将这些东西移到上方的寒冷洞窟的熔炉进行冶炼时，货梯矿车才是王道——这将杀死大量脑细胞！</Text>
+				</Paragraph>
+				
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

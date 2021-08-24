@@ -1,0 +1,29 @@
+﻿<Chapter>
+	<Handle>T1 assist machines</Handle>
+	<Title>Automatisatie Basisconstructie</Title>
+	<Icon>Base Building Automation</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Automatisatie Basisconstructie</Text>
+				</Title>
+				<Icon>
+					<Name>Base Building Automation</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Het bouwen van een enorme mijnbouwoperatie is het werk voor machines, en niet voor mensen!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Dit uitgebreide project zal machines ontwerpen voor geautomatiseerde uitgraving en constructie, daarnaast zullen de beschikbare mogelijkheden om uw basis te doorlopen verbeterd worden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Naast automatische uitgraving zal dit project proberen een explosief te ontwikkelen die gebruikt kan worden om een groot gebied vrij te maken.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

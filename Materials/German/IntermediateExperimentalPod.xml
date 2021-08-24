@@ -1,0 +1,40 @@
+<MaterialEntry>
+	<Key>IntermediateExperimentalPod</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mittlere Forschungskapsel</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Intermediate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die mittlere Forschungskapsel wird im Labor verwendet um die Forschung voranzutreiben. Sie wird aus Eisen hergestellt. Für weitere Informationen zum Labor klicke auf folgenden Link.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+				<Spacer/>
+				<Paragraph>
+					<Text>Für weitere Informationen zur Herstellung von Forschungskapseln klicke auf folgenden Link.</Text>
+				</Paragraph>
+				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Experimental Pods</Text>
+				</Link>
+		
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,32 @@
+﻿<MaterialEntry>
+	<Key>MeshWeaver</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>水晶网编织机(Crystal Mesh Weaver)</Text>
+				</Title>
+				<Icon>
+					<Name>Mesh Weaver</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>水晶网编织机(Crystal Mesh Weaver)在分子水平处理晶体沉积物以形成晶体网格。 该机消耗50单位能量持续工作8秒，将32单位晶矿结合到晶体网格中。</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Crystal Fiber Mesh</Material>
+					</Target>
+					<Text>Crystal Fiber Mesh</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Pipe Coater</Material>
+					</Target>
+					<Text>Pipe Coater</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

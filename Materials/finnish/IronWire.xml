@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>IronWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rautalanka</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Wire</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen rautalanka tehdään rautaharkoista venytysasemalla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

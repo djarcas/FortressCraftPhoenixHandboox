@@ -1,0 +1,23 @@
+﻿<MaterialEntry>
+	<Key>HardResinDetector</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Gehärtetes Harz Detektor</Text>
+				</Title>
+				<Icon>
+					<Name>Hard Resin Detector</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Dieses Frühwarnsystem erkennt Ansammlungen von gehärtetem Harz. Wir haben solche Ansammlungen über den kompletten Planeten verteilt gefunden. Die Hitze und Vibrationen unserer Basis scheint die Schwarmstöcke anzuziehen. Wenn wir nicht aufpassen werden die Stöcke unsere Maschinen überwachsen.
+Das Frühwarnsystem zeigt uns den Weg zu den nächsten Schwarmstöcken um uns, wenn nötig, frühzeitiger um das Problem kümmern zu können.</Text>
+				</Paragraph>
+				<Spacer/>
+
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

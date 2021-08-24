@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>OrganicSolarPanel</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Organic Solar Panel</Text>
+				</Title>
+				<Icon>
+					<Name>Organic Solar Panel</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Organic Solar Panels are a low maintenance source of renewable power. They must be placed with direct access to the sky above them and will generate power during the day and at a reduced rate during the night. They will distribute this power to any adjacent machine, Power Storage Block or Laser Power Transmitter.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Organic Solar Panels have decent internal power capacity but should still be backed up by a suitable number of Power Storage Blocks to ensure a reliable supply of power at all times.</Text>
+				</Paragraph>
+				<Header><Text>Specifications</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Peak Power (rush):
+					Peak Power (plentiful):
+					Peak Power (scarce):
+					Power Capacity:
+					Max. Power Transfer Rate:
+					Burn Time:
+					Fuel:</Left>
+					<Right>63 per second
+					45 per second
+					18 per second
+					512
+					128 per second
+					n/a
+					Sunlight/Novalight</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

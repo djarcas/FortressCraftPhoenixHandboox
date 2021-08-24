@@ -1,0 +1,25 @@
+﻿<MaterialEntry>
+	<Key>GoldBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Золотой Слиток</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Gold Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Золотые Слитки в основном используются в высокотехнологичном оборудованиие, где необходимы качественные электрические контакты. А ещё из Золота можно делать декоративные украшения. Эти Слитки отливаются из Золотой Руды, которую можно найти на глубинах ниже 250 метров.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

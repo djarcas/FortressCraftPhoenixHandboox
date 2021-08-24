@@ -1,0 +1,44 @@
+﻿<MaterialEntry>
+	<Key>ParticleStoragePlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>粒子存储器</Text>
+				</Title>
+				<Icon>
+					<Name>Particle Storage</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>粒子存储器用于存储最多4粒子压缩机的输出。 该多方块设备有助于装瓶之前收集并压缩的颗粒的储存。粒子存储器是以3x7x3的形式构建的。</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>T4_Particles</Chapter>
+					</Target>
+					<Text>Particulate Filtration System</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Filter</Material>
+					</Target>
+					<Text>Particle Filter</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Compressor</Material>
+					</Target>
+					<Text>Particle Compressor</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Gas Bottler</Material>
+					</Target>
+					<Text>Gas Bottler</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

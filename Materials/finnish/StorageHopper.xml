@@ -1,0 +1,65 @@
+<MaterialEntry>
+	<Key>StorageHopper</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Varastohypytin</Text>
+				</Title>
+				<Icon>
+					<Name>StorageHopper</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Varastohypytin on yksi tukikohtasi automatisoinnissa tärkeimmistä koneista. Se voi varastoida 100 esinenttä ja käsittelee esineitä hyvin nopeasti. Halvempia vaihtoehtoja pienemmällä varastolla ja pidemmällä käsittelyajalla on saatavissa ja voivat olla hyödyllisiä tukikohtaa pystyttäessä.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Siirtotila</Text>
+				</Header>
+				<Paragraph>
+					<Text>Varastohypytin voidaan asettaa yhteen neljästä siirtotilasta. Nämä ovat: Lisää/poista, Vain poisto, Vain lisäys ja Lukittu. Tilaa voi vaihtaa painamlla \&#39;vuorovaikuta\&#39; nappia (oletus \&#39;E\&#39;). Nämä tilat toimivat vain itsenäisiin koneisiin kuten sulattamoon tai kokoamisasemaan. Ne eivät päde kuljettimiin tai kuljetinkoneisiin sillä poikkeuksella että lukittu hypytin ei poista kuljettimeen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Kone poistaa hypyttimestä vain jos se on asetettu joko Lisää/poista tai Vain poisto -tilaan ja asettaa esineitä hypyttimeen jos se on asetettu Lisää/poista tai Vain Lisäys -tilaan. Koneille jotka sekä ottavat että antavat esineitä suositellaan liittettäväksi kaksi hypytintä. Yhden tulisi olla Vain poisto -tilassa ja sisältää raaka-aineet ja toinen Vain Lisäys -tilassa johon tuotetut esineet laitetaan. Tämä takaa että järjestelmä ei lukitu.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Kuljettimet</Text>
+				</Header>
+				<Icon>
+					<Name>Conveyor Belt</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Siirtotila ei päde kuljettimiin. Tämä mahdollistaa niiden lisätä raaka-aineita &#39;Vain poisto&#39; hypyttimiin ja toisinpäin. Hypyttimeen osoittava kuljetin lisää aina materiaalin siihen. Hypytin lisää esineen mihin tahansa, yllä, alla tai sivulla olevaan kuljettimeen paitsi jos hypytin on Lukittu.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Esineiden käsin lisääminen</Text>
+				</Header>
+				<Paragraph>
+					<Text>Vaikka hypytin on tarkoitettu automatisointiin on mahdollista käsin syöttää esineitä siihen painamalla \&#39;laita\&#39; nappia (oletus \&#39;T\&#39;). Valittu esine tai pino pikapalkissa varastoidaan hypyttimeen jos siinä on tilaa. Voit myös varastoida vain 10 esinettä pitämällä samalla shiftiä pohjassa. Varastoidaksesi tietyn määrän voit jakaa pinon tavaraluettelossasi (pidä shiftiä ja raahaa). Jokainen T painaminen asettaa viimeisen sopivan pinon tavaraluettelostasi.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Esineiden käsin hakeminen</Text>
+				</Header>
+				<Paragraph>
+					<Text>Kaikki hypyttimen esineet voi poistaa painamalla &#39;ota&#39; nappia (oletus &#39;Q&#39;).</Text>
+				</Paragraph>
+				<Header>
+					<Text>Imurin kytkeminen</Text>
+				</Header>
+				<Paragraph>
+					<Text>Imurin voi kytkeä muunnellulla vuorovaikutuksella (oletus shift+E). Kun imurin on päällä hypytin imee lähiesineet kunhan tilaa vain riittää.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>
+

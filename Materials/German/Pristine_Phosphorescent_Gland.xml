@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>PristinePhosphorescentGland</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Unberührte phosphoreszierende Drüse</Text>
+				</Title>
+				<Icon>
+					<Name>WaspGlandPristine</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Diese Drüsen der lokalen Lebensformen scheinen Eigenschaften aufzuweisen, die sie für die Energiespeicherung geeignet machen. Dieser ist in einem guten Zustand, um verwendet zu werden. Wenn wir einen Weg finden könnten, die Schleime auf diesem Planeten einzufangen und zu töten, könnten wir viele davon bewirtschaften.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

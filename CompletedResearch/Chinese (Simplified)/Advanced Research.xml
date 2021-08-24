@@ -1,0 +1,37 @@
+﻿<Chapter>
+	<Handle>advanced research</Handle>
+	<Title>高级研究</Title>
+	<Icon>Laboratory Component</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>高级研究</Text>
+				</Title>
+				<Icon>
+					<Name>Laboratory Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>我们现在有一个研究实验室和装配机器的设计，组装机器需要实验舱的支持。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>实验室需要研究先进的项目，提高您的技术水平，开启新项目和工序。 共需要27个实验室组件（每组9个，共3层），必须以3×3×3构成。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>有关实验室使用的更多信息，请参阅以下指南：</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research Guide</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

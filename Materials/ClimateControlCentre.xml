@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Key>CCCCC_Placement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Climate Control Centre</Text>
+				</Title>
+				<Icon>
+					<Name>Climate Control Centre</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Starts heating up the Cold Caverns to make them habitable for human life and allows many high tech machines to function inside. May also cause the awakening of something less desirable. Will start working once most of its internal buffer has been filled. Depends on the CPH for some key function and will stop functioning if it is destroyed.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Should be built in a 5x7x5.</Text>
+				</Paragraph>
+
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>
+					Power Required:
+					Power Capacity:
+					Max. Power Recharge Rate:</Left>
+					<Right>
+					25 per second
+					25000
+					10000 per second</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,32 @@
+﻿<MaterialEntry>
+	<Key>PipeCoater</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rohrbeschichter</Text>
+				</Title>
+				<Icon>
+					<Name>Pipe Coater</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Mit Hilfe von fortschrittlichen Bonding-Techniken kann die hohe Wärme- und Druckbeständigkeit von Kristallfasern nun auf Kupferrohre unter Verwendung von Kunststoffkugeln angewendet werden, da ihre einzigartige Molekülstruktur als Bindemittel wirkt. Der Bonding-Prozess nimmt 300 Leistung mit einer Geschwindigkeit von 50 pps, um eine gleichmäßige Beschichtung zu gewährleisten.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Heat Conducting Pipe</Material>
+					</Target>
+					<Text>Heat Conducting Pipe</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Geothermal Generator comp_</Material>
+					</Target>
+					<Text>Geothermal Generator comp_</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

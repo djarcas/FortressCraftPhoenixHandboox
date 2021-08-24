@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>NickelHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Nickelgehäuse</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein einfaches Nickelgehäuse aus Nickelplatten.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

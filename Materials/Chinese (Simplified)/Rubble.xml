@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Rubble</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>碎石</Text>
+				</Title>
+				<Icon>
+					<Name>Rubble</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>在人工矿石开采过程中发现的副产品。可以在粉碎机中被压碎，以提取有用的矿石，可以放置。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

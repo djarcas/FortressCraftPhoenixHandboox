@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>BasicMissile</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>基本款导弹</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Missile</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>导弹发射器弹药。 组装自 基础导弹装配机。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>伤害：</Left>
+					<Right>70,000</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

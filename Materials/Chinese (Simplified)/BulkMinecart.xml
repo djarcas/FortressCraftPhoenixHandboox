@@ -1,0 +1,140 @@
+﻿<MaterialEntry>
+	<Key>BulkMinecart</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>大容量矿车</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart_T4</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;矿车用于快速批量转移物品。
+
+  该矿车是一个冰封工厂扩展包的项目。
+ &quot;</Text>
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<URL>https://www.patreon.com/Fortresscraft</URL>
+<!-- Full screen, auto-playing URL-->
+					</Target>
+					<Text>Click here for details on becoming a Patreon for early access to all future expansion packs_</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>产品参数</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;最大速度：
+  最大存储空间
+ 加速度：
+ &quot;</Left>
+					<Right>&quot;2m/s
+ 50
+ 1.0m/s^2
+ &quot;</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>矿车的使用是直截了当的，只是简单的对现有的料斗-&gt;传送带模式的扩展。矿车通过矿车仓库（Minecart Depot）加入你的矿车网络。</Text>
+&gt;
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Minecart Depot</Material>
+					</Target>
+					<Text>Minecart Depot</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>矿车资源处理</Text>
+				</Title>
+
+				<Paragraph>
+					<Text>一旦进入您的矿车网络，矿车将会在车站（Load and Unload stations）载货卸货。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Icon>
+					<Name>Minecart Load</Name>
+					<Target><Material>MinecartLoadStation</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>MinecartLoadStation</Material>
+					</Target>
+					<Text>Minecart Load</Text>
+				</Link>
+				<Icon>
+					<Name>Minecart Unload</Name>
+					<Target><Material>MinecartUnloadStation</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>MinecartUnloadStation</Material>
+					</Target>
+					<Text>Minecart Unload</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+			<Page>
+			<Paragraphs>
+				<Title>
+					<Text>高级矿车控制</Text>
+				</Title>
+				<Spacer/>
+				<Paragraph>
+					<Text>为了更好地控制您的矿车和矿石，您有几样工具可用于改变矿车的行为和决策。</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Minecart Turbo Rail</Name>
+					<Target><Material>Minecart Turbo Rail</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Turbo Rail</Material>
+					</Target>
+					<Text>Minecart Turbo Rail</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>MinecartBufferFull</Name>
+					<Target><Material>MinecartBufferFull</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Full Gate</Material>
+					</Target>
+					<Text>Minecart Full Gate</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>MinecartBufferEmpty</Name>
+					<Target><Material>MinecartBufferEmpty</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Empty Gate</Material>
+					</Target>
+					<Text>Minecart Empty Gate</Text>
+				</Link>
+				<Spacer/>
+
+		
+			</Paragraphs>
+		</Page>
+	
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,48 @@
+<MaterialEntry>
+	<Key>DeployedExplosive</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Установленная Взрывчатка</Text>
+				</Title>
+				<Icon>
+					<Name>Deployed Explosive</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Это бомба, которую можно заряжать энергией для увеличения радиуса взрыва.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Советы и Хитрости!</Text>
+				</Header>
+				<Paragraph><Text>- Это устройство может потреблять резко возрастающие объемы энергии!</Text>
+</Paragraph>
+				<Paragraph><Text>- Уровень 1 заряда = 100 Энергии.</Text>
+</Paragraph>
+				<Paragraph><Text>- Уровень 2 заряда = 1000 Энергии.</Text>
+</Paragraph>
+				<Paragraph><Text>- Уровень 3 заряда = 10000 Энергии.</Text>
+</Paragraph>
+				<Paragraph><Text>- Уровень 4 заряда = 100 000 Энергии.</Text>
+</Paragraph>
+				<Paragraph><Text>- Уровень 5 заряда = 1 000 000 Энергии.</Text>
+</Paragraph>
+				<Paragraph><Text>- Уровень 6 заряда = 10 000 000 Энергии.</Text>
+</Paragraph>
+				<Paragraph><Text>- И так далее!</Text>
+</Paragraph>
+				<Paragraph><Text>- Промежуточные уровни энергии не дают дополнительного радиуса взрыва!</Text>
+</Paragraph>
+				<Paragraph><Text>- Достижение 6-го уровня с существующим производством энергии уже будет проблемой!</Text>
+</Paragraph>
+				<Header>
+					<Text>Внимание!</Text>
+				</Header>
+				<Paragraph><Text>&#34; Имеет очень короткий \&#34;запал\&#34;! Случайно взорвать свою базу - как два пальца!&#34;</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

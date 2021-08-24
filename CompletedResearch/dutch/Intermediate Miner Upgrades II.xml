@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 4</Handle>
+	<Title>Tussenliggende Mijnbouwverbeteringen II</Title>
+	<Icon>Enhanced Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tussenliggende Mijnbouwverbeteringen II</Text>
+				</Title>
+				<Icon>
+					<Name>Enhanced Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Verdere upgrades van de ertsonttrekker zijn nu beschikbaar. We hebben ook een nieuwe Geologische Landmeter onderzocht die kan worden gebruikt om locaties te identificeren die rijk zijn aan ertsafzettingen. We zouden een aantal toplocaties moeten identificeren terwijl we doorgaan met onderzoek naar een nieuw Steengroevesysteem.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

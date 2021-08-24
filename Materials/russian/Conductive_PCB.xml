@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>ConductivePCB</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Проводящая ПП</Text>
+				</Title>
+				<Icon>
+					<Name>Conductive PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Золотая ПП, созданная из Золотых Катушек на Сборщике Печатных Плат (ПП).</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

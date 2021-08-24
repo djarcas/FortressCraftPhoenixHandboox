@@ -1,0 +1,39 @@
+<MaterialEntry>
+	<Key>BlastFurnacePlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Blast Furnace</Text>
+				</Title>
+				<Icon>
+					<Name>Blast Furnace component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+        <Paragraph>
+          <Text>Half of the means to efficiently smelt Chromium and Molybdenum. Must be built in a 3x7x3. Requires pipes connected to a Casting Basin to create bars.</Text>
+        </Paragraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>Whilst this technically will work anywhere, for maximum efficiency, it should be placed in as cold an area as possible. A cooled room will not suffice.</Text>
+        </Paragraph>
+
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Manufacturing Time:
+					Power Required:
+					Power Capacity:
+					Max. Power Recharge Rate:</Left>
+					<Right>3 seconds
+					2500 per second
+					15000
+					7500 per second</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

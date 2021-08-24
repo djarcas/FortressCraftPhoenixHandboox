@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>SandNonFluid</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Песок</Text>
+				</Title>
+				<Icon>
+					<Name>Sand</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Песок часто можно найти на этой планете. Песок, похоже, ведет себя подобно жидкости, то есть окружающий песок займёт место удаленного песка, если удаленный песок находится на более низком уровне, чем окружающий его песок.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

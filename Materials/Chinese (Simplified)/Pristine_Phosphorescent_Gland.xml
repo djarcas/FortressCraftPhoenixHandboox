@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>PristinePhosphorescentGland</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>原生磷脂腺</Text>
+				</Title>
+				<Icon>
+					<Name>WaspGlandPristine</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>来自当地生物的这些腺体似乎具有适合蓄电的特性。 这一个质量就足够用。 如果我们可以设置一些陷阱来杀死这个星球上的史莱姆，同时我们可以养殖它们。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

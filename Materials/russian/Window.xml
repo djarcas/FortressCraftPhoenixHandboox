@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Window</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Окно</Text>
+				</Title>
+				<Icon>
+					<Name>Window</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Строительный блок, который можно создать в любое время без использования Завода. Откройте интерфейс производства вручную (по умолчанию «C») для изготовления. Окно прозрачно для лазерного излучения.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

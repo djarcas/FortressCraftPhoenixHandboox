@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>PerfectFacetedEye</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>完美复眼</Text>
+				</Title>
+				<Icon>
+					<Name>WaspEyePerfect</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>来自当地飞行生命体的眼睛，是出色的光学元件。 这一个来自一个较大的标本，并且足以用来使用。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

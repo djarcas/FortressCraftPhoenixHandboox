@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>ConveyorTurntable</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>传送带转向台</Text>
+				</Title>
+				<Icon>
+					<Name>Conveyor Turntable</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>传送带转盘可用于将一条传送带分成两条或三条，在每一条线之间均匀分配物品。 为了确保物流正确请避免将转盘直接放置在储存料斗或其他转盘附近。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

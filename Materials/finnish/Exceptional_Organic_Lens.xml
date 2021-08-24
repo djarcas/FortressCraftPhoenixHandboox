@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>ExceptionalOrganicLens</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Poikkeuksellinen orgaaninen linssi</Text>
+				</Title>
+				<Icon>
+					<Name>Exceptional Organic Lens</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Aseta laaserenergialähettimeen parantaaksesi energianlähetystahtia.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Energialähetystahti:</Left>
+					<Right>350%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

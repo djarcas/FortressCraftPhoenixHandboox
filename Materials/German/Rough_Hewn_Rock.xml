@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>RoughHewnRock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Grobe gehauene Felsen</Text>
+				</Title>
+				<Icon>
+					<Name>Rough Hewn Rock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Gesteinsfund knapp unter der Oberfläche. Kann im Zerkleinerer zerkleinert werden, um möglicherweise nützliches Erz zu extrahieren.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

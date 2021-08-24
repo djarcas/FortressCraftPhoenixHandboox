@@ -1,0 +1,33 @@
+﻿<MaterialEntry>
+	<Key>Macerator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>粉碎机</Text>
+				</Title>
+				<Icon>
+					<Name>Macerator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>能够雾化一些人类已知的具有弹性的材料。 有时，雾化过程返回一种矿物含量丰富的化合物，主要由估算物品所含的元素之一组成。 输出的物品与正常矿石无法区分，可以这样处理。</Text>
+				</Paragraph>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>能量需求：</Left>
+					<Right>是</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Header>
+					<Text>提示与技巧！</Text>
+				</Header>
+				<Paragraph><Text>- 该机器由传送带进料，并将任何产出的矿石输出到相邻的储存料斗。</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

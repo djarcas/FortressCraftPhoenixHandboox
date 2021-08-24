@@ -1,0 +1,248 @@
+﻿<Chapter>
+	<Handle>welcome</Handle>
+	<Title>初始指南</Title>
+	<Icon>Solar Panel-old</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>欢迎来到要塞进化</Text>
+				</Title>
+				<Header>
+					<Text>生存模式</Text>
+				</Header>
+				<Paragraph>
+					<Text>你刚刚乘坐一个受损的逃生船从一个轨道空间站逃离。它没能在再入过程中幸免于难，但是幸运的是，你设法安全弹射。现在你不得不在这个可怕的外星球上生存下去！</Text>
+				</Paragraph>
+				<Header>
+					<Text>开始</Text>
+				</Header>
+				<Paragraph>
+					<Text>你的最先进防护服能在这寒冷的环境里保护你的安全，但是它需要能量补充。飞船的坠毁现场也许会给你一些短期内的资源，所以您应该尽快出发。</Text>
+				</Paragraph>
+				<Header>
+					<Text>控制</Text>
+				</Header>
+				<Paragraph>
+					<Text>游戏控制在以下链接的单独指南中列出。</Text>
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<Chapter>controls</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Controls Guide</Text>
+				</Link>
+
+				<Link>
+					<Target>
+						<URL>www.youtube.com/tv#/watch?v=KT_eI01IKDE</URL>
+<!-- Full screen, auto-playing URL-->
+					</Target>
+					<Text>Prefer a video? Click here for the FortressCraft Tutorial</Text>
+				</Link>
+				<Link>
+					<Target>
+						<URL>www.youtube.com/tv#/watch?v=1MLHgXDFczo</URL>
+<!-- Full screen, auto-playing URL-->
+					</Target>
+					<Text>Click here to watch a tutorial on the Crystal Scanner</Text>
+				</Link>
+
+			</Paragraphs>
+		</Page>
+			<Page>
+			<Paragraphs>
+				<Header>
+					<Text>生存提示</Text>
+				</Header>
+
+			
+
+				<Paragraph>
+					<Text>对于那些不想阅读整个指南的人，这些是一些快速的游戏提示。以下页面将详细介绍如何开始。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>- 白天，您的防护服靠太阳能充电。
+- 您的起始区域有一个中央电力枢纽，使用它来将收获的资源转化为相邻机械的电力。
+- 您可以从中央电源中心上获取能量，或对着储能块按下“Q”。
+- 与制造工厂互动（\&apos;E\&apos;），看看你能做什么。
+- 使用手工制作窗口（\&apos;C\&apos;）制作火炬来取暖。
+- 使用扫描工具（\&apos;M\&apos;）扫描方块，并在研究站处理新的工序。
+- 扫描工具还可以进行环境扫描，例如“未知材料”扫描脉冲以找到新的矿石。
+- 请注意您的防护服上的电池放电速率，蓝色文字表示极度寒冷影响您的防护服，红色文字表示极度炎热。
+- 头灯是要电的。用于探索极佳，但不要总开着！
+- 煤是开始时最好的燃料，但是如果你在危机关头，你可以把当地的植物群落当柴火烧。
+- 你可能需要挖得很深才能找到你要找的矿石。
+- 你有一个很大的建造范围，所以可以用它横跨大型洞穴放置火炬。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>坠机现场设备</Text>
+				</Header>
+				<Icon>
+					<Name>Central Power Hub</Name>
+				</Icon>
+				<Paragraph>
+					<Text>中央电力枢纽（CPH）是您的第一台发电机。 它有太阳能电池板，可燃烧燃料发电。 它一次只能容纳一个燃烧单位，因此自动化燃料的输送是至关重要的。 内部能量存储容量较大。</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Central Power Hub</Material>
+					</Target>
+					<Text>Central Power Hub</Text>
+				</Link>
+				<Spacer/>
+<Spacer/>
+<Spacer/>
+				<Icon>
+					<Name>PowerStorageBlock</Name>
+				</Icon>
+				<Paragraph>
+					<Text>能量块可以存储250个单位的能量，并将其分配到相邻的机器。</Text>
+				</Paragraph>
+					<Link>
+					<Target>
+						<Material>PowerStorageBlock</Material>
+					</Target>
+					<Text>PowerStorageBlock</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Icon>
+					<Name>Ore Smelter</Name>
+				</Icon>
+				<Paragraph>
+					<Text>为了获取用于制作新机器的金属锭，您需要在矿石熔炼炉处理矿石。 您可以手动与其进行交互，或自动提供材料。 只有收到足够的材料来熔炼金属锭，它才会开始冶炼。</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Ore Smelter</Material>
+					</Target>
+					<Text>Ore Smelter</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Icon>
+					<Name>Manufacturing Plant</Name>
+				</Icon>
+				<Paragraph>
+					<Text>您可以使用“c”打开工艺窗口自己制作简单的东西，但对于更复杂的机器和组件，您将不得不使用制造工厂。 工序分为几类，您可以通过点击彩色方块找到。 在这个时候，工厂只能使用库存中的物品，并且制作的东西将直接放在那里。</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Manufacturing Plant</Material>
+					</Target>
+					<Text>Manufacturing Plant</Text>
+				</Link>
+				<Icon>
+					<Name>Research Station</Name>
+				</Icon>
+				<Paragraph>
+					<Text>当你开始时，你的扫描仪不知道在这个星球上发现的任何材料。 您所做的任何扫描都可以在研究站进行处理，并将为您提供研究点。 您还可以在这里进行各种研究项目，并通过研究点开发制造工厂的新工序。 研究站需要电力供应。</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Research Station</Material>
+					</Target>
+					<Text>Research Station</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>找到你的第一批矿石</Text>
+				</Header>
+				<Paragraph>
+					<Text>您的扫描仪能够扫描已知的矿石类型，但要做到这一点，首先必须了解它们。 寻找新矿石的关键是在扫描仪上使用“未知材料扫描脉冲”。 如果您第一次使用该功能，它将返回您周围的所有块，因为一个方块都不了解。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>所以你的第一个任务是扫描你的周围环境，并在研究站处理这些扫描结果。一旦你扫描了所有常见的泥土和雪，未知矿石扫描将把周围的有用的东西反馈给你。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>一旦你在地下附近找到一条矿脉，你可以扫描这些矿石并处理它们来教会你的扫描仪。从那一刻起，用扫描仪使用矿石扫描将返回指定矿石类型的矿脉。</Text>
+				</Paragraph>
+				<Header>
+					<Text>采矿</Text>
+				</Header>
+				<Paragraph>
+					<Text>现在你已经找到了你的第一个矿脉，你需要提取矿石才能使用它。您可以使用右键点击挖掘它，但这会在一段时间内每次只掉落一个矿石，其余部分将产生瓦砾。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>更好的选择是使用您的超级挖掘模式，您可以通过在挖掘时按住CTRL来激活。这样会很快挖掘大量的矿石，但会高速耗尽你的动力储备。</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>在超级挖掘矿脉的时候小心用尽你的全部能量，你的衣服也需要能量来保持体温！尝试设置一个安全的路线回到你的发电机，一路上备好火把加热。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>自动化开采</Text>
+				</Header>
+				<Icon>
+					<Name>Ore Extractor</Name>
+				</Icon>
+				<Paragraph>
+					<Text>开采矿石更可持续的方式是使用矿物分离器。 你一开始带了几个，你可以把其中一个放在矿脉旁，充满电力，它便开始挖掘。 它有的内部存储空间很小，所以直到你可以把矿石卸载到别处，你不得不一会就来一趟收集成果。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>矿物分离器在接触到一个矿石块时可以挖出整个矿脉。因此，不必移动它，直到整个矿脉采空。</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Ore Extractor</Material>
+					</Target>
+					<Text>Ore Extractor</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>StorageHopper</Name>
+				</Icon>
+				<Paragraph>
+					<Text>存储箱将接受机器的矿石和物料，并将其提供给其他机器。这使得它们在自动化采矿和冶炼过程的任何方面都至关重要。</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Storage Hopper</Material>
+					</Target>
+					<Text>Storage Hopper</Text>
+				</Link>
+			</Paragraphs>
+			</Page>
+			<Page>
+			<Paragraphs>
+				<Icon>
+					<Name>Conveyor Belt</Name>
+				</Icon>
+				<Paragraph>
+					<Text>一旦获得了资源，传送带可以自动将矿石从您的开采设备运到您的矿石熔炼炉。 它们很便宜，但是您需要大量传送带来将您的采矿作业连接到您的主基地。 他们不需要能源就能运（永）转（动）。</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Conveyor Belt</Material>
+					</Target>
+					<Text>Conveyor Belt</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</Chapter>
+
+		

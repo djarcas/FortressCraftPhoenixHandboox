@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>ToxicCavernStone</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Giftiger Höhlenstein</Text>
+				</Title>
+				<Icon>
+					<Name>Toxic Cavern Flora 4</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Dieses Material befindet sich etwa 400 bis 700 Meter unter der Oberfläche. Der Block verursacht selbst keinen Giftschaden, obwohl die Kavernen, in denen Sie sie finden, mit giftigen Partikeln gefüllt sind. Kann im Zerkleinerer zerkleinert werden, um möglicherweise nützliches Erz zu extrahieren. Der Block kann platziert werden.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,135 @@
+﻿<MaterialEntry>
+	<Key>MinecartDepot</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Minenzug Bahnhof</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart Depot</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Minenkartdepots sind die Methode, um Minenkarts auf dein Minenkartnetz zu setzen. Platzieren Sie einfach eine Lagercontainer neben dem Depot und stellen Sie sicher, dass das Depot ein beliebiges Stück Gleis berührt. Jedes Depot ist auf eine einzige Minenwagen-Platzierung pro 30 Sekunden begrenzt, um den Innenräumen Zeit zum Abkühlen zu geben.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Paragraph>
+					<Text>Der Einsatz von Minecarts ist geradlinig und erweitert einfach das bisherige Lagerkontainer -&gt; Förderband-/Transportröhren-transportieren. Minikarren werden über ein Minenkartdepot in Ihr Minenkartellnetzwerk geladen.</Text>
+&gt;
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Basic Minecart</Material>
+					</Target>
+					<Text>Basic Minecart</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Fast Minecart</Material>
+					</Target>
+					<Text>Fast Minecart</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Large Minecart</Material>
+					</Target>
+					<Text>Large Minecart</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>Bulk Minecart</Material>
+					</Target>
+					<Text>Bulk Minecart</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Minecart Ressourcenhandling</Text>
+				</Title>
+				<Spacer/>
+				<Paragraph>
+					<Text>Sobald Sie in Ihr Minenkarren-Netzwerk eingetreten sind, werden Minenkarts an den Stationen zum Laden und Entladen anhalten und ihre transportierten Ressourcen einsammeln und abgeben.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Icon>
+					<Name>Minecart Load</Name>
+					<Target><Material>MinecartLoadStation</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>MinecartLoadStation</Material>
+					</Target>
+					<Text>Minecart Load</Text>
+				</Link>
+				<Icon>
+					<Name>Minecart Unload</Name>
+					<Target><Material>MinecartUnloadStation</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>MinecartUnloadStation</Material>
+					</Target>
+					<Text>Minecart Unload</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+			<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Erweiterte Minecart-Steuerung</Text>
+				</Title>
+				<Spacer/>
+				<Paragraph>
+					<Text>Für eine feinere Kontrolle über die Bewegung und den Erztransport Ihrer Minencart stehen Ihnen eine Reihe von Werkzeugen zur Verfügung, um Verhalten und Entscheidungen zu ändern.</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Minecart Turbo Rail</Name>
+					<Target><Material>Minecart Turbo Rail</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Turbo Rail</Material>
+					</Target>
+					<Text>Minecart Turbo Rail</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>MinecartBufferFull</Name>
+					<Target><Material>MinecartBufferFull</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Full Gate</Material>
+					</Target>
+					<Text>Minecart Full Gate</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>MinecartBufferEmpty</Name>
+					<Target><Material>MinecartBufferEmpty</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Empty Gate</Material>
+					</Target>
+					<Text>Minecart Empty Gate</Text>
+				</Link>
+				<Spacer/>
+
+		
+			</Paragraphs>
+		</Page>
+	
+	</Pages>
+</MaterialEntry>

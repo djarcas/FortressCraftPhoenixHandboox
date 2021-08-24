@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>BlueCanvas</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Синий Холст</Text>
+				</Title>
+				<Icon>
+					<Name>Blue Canvas</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Полностью синий декоративный блок.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

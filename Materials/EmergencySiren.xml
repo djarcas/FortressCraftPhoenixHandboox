@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>EmergencySiren</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Emergency Siren</Text>
+				</Title>
+				<Icon>
+					<Name>Emergency Siren</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Attach to a machine to monitor it.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

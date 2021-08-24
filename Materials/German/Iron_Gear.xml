@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>IronGear</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Eisenzahnrad</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Gear</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein abgeschrägtes Zahnrad, benutzt in Motoren und Wellen.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>ForcedInductionMK4</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>T4 erzwungene Induktion</Text>
+				</Title>
+				<Icon>
+					<Name>Forced InductionT4</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Erzwungene Induktions-Module sind ein Upgrade für den Erzschmelzer, der die Schmelzgeschwindigkeit auf Kosten eines stark erhöhten Energieverbrauchs erhöht. Um das Modul zu benutzen, legen Sie es auf den Erzschmelzer.
+
+ T4-Erzwungene Induktions-Upgrades verdoppeln auch die Rate, mit der Erz vom angeschlossenen Lagercontainer gesammelt werden kann.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Basis Erzschmelzer unterstützen keine erzwungene Induktion Upgrades.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Schmelzgeschwindigkeit:
+ Energiebedarf:</Left>
+					<Right>400%
+ 3200%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

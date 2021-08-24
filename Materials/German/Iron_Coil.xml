@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>IronCoil</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Eisenspule</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Eine einfache Eisenspule, die durch Eisenkabel in einer Wickelmaschine hergestellt werden kann.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

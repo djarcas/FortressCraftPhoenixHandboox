@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>RubyCrystal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>红宝石晶体</Text>
+				</Title>
+				<Icon>
+					<Name>Ruby Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>红宝石水晶是一种稀有的材料，用作升级的基础材料。它可以在深度- 150到- 225之间的洞穴中找到。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

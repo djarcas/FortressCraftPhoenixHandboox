@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 3</Handle>
+	<Title>Mellanliggande Gruv Uppgraderingar I</Title>
+	<Icon>Ore Smelter</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mellanliggande Gruv Uppgraderingar I</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Det är dags att börja forskning om hur man replikerar de avancerade egenskaperna hos smältugnen levererad med vår Centrala El Hub. Dem grundläggande smältugnarna vi har kunnat konstruera är för långsamma och slösar bort värdefulla resurser.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

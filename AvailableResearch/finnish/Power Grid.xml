@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T1 Power</Handle>
+	<Title>Voimaverkko</Title>
+	<Icon>Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Voimaverkko</Text>
+				</Title>
+				<Icon>
+					<Name>Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Emme voi sinnitellä päävirtakeskuksella pitkään. Tukikohtamme laajentuessa tarvitsemme uusia tapoja tuottaa voimaa ja siirtää sitä kaukaisille luohintatoiminnoille, jotta meidän ei tarvitse juosta ylläpitämässä niitä käsin.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

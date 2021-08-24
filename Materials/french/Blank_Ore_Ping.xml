@@ -1,0 +1,34 @@
+﻿<MaterialEntry>
+	<Key>BlankOrePing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ping de Minerai Vierge</Text>
+				</Title>
+				<Icon>
+					<Name>Blank Ore Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Le Ping de Minerai Vierge est utilisé en conjonction d\&apos;échantillons de minerai pour fabriquer un ping de minerai spécifique. Ce ping est prévu pour permettre de trouver plus de veines de minerai de l\&apos;échantillon utilisé si la précédente est presque épuisée ou trop petite pour être utile.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Utilisation</Text>
+</Header>
+				<Paragraph>
+					<Text>1. Fabriquez un nombre approprié de Pings de Minerai Vierge à l\&apos;usine d\&apos;assemblage.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>2. Quand un ping spécifique devient nécessaire combinez le Ping de Minerai Vierge avec un échantillon de votre minerai en utilisant les capacités de production de votre combinaison (défaut \&apos;C\&apos;).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>3. Placez le ping spécifique dans votre hotbar et sélectionnez-le. Activez-le en appuyant sur le bouton \&apos;Construction\&apos; (défaut \&apos;Clic Gauche\&apos;). Cela le chargera dans votre scanner à minerai et un ping spécifique sera envoyé depuis votre scanner et affiché dans votre Holobase. Le ping spécifique est consommé dans l\&apos;opération.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

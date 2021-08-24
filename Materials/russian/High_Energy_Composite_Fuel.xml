@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>HighEnergyCompositeFuel</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Высокоэнергетическое Композитное Топливо (ВЭКТ)</Text>
+				</Title>
+				<Icon>
+					<Name>High Energy Composite Fuel</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Высокоэнергетическое Композитное Топливо (ВЭКТ) производится в Биореакторе Очистителя из Биомассы. Оно используется в газотрубинных генераторах и в производстве систем ракетной обороны. Топливные Канистры могут быть переработаны после использования.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Refinery Controller</Material>
+					</Target>
+					<Text>Refinery Controller</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

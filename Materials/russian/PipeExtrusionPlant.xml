@@ -1,0 +1,29 @@
+<MaterialEntry>
+	<Key>PipeExtrusionPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Экструдер Труб</Text>
+				</Title>
+				<Icon>
+					<Name>Pipe Extrusion Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Экструдер Труб - обычный конвейер, совмещенный с машиной экструдирующей трубы из слитков.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Использование</Text>
+				</Header>
+				<Paragraph>
+					<Text>Загружайте Слитки в Экструдер Труб с конвейера, конвейерной машины или Поворотного Стола. Экструдер Труб изготавливает Трубы из Слитков. Трубы потом используются в производстве других предметов.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Экструдер Труб необходим для автоматизации производства ракет.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

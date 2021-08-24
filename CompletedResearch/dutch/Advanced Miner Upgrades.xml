@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>mining upgrade 5</Handle>
+	<Title>Geavanceerde Mijnwerkersverbeteringen</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Geavanceerde Mijnwerkersverbeteringen</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Verdere verbeteringen voor de ertsonttrekker en smeltoven zijn nu beschikbaar. In toevoeging hebben we eindelijk het Steengroevesysteem geperfectioneerd. Gebruik de Geologische Landmeter om een toplocatie te identificeren, plaats dan de steengroeve om de mijnbouw te starten.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

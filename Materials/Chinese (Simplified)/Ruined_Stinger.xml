@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>RuinedStinger</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>破碎的尖刺</Text>
+				</Title>
+				<Icon>
+					<Name>WaspStingerRuined</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>这个刺非常尖锐但是坏得不能用了。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

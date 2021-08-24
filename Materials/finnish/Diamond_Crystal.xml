@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>DiamondCrystal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Timanttikide</Text>
+				</Title>
+				<Icon>
+					<Name>Diamond Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Timanttikide on harvinainen materiaali jota käytetään päivityksien perusaineena. Voidaan löytää syvyyksien 0 ja -75 välisistä luolista.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Temppuja ja vinkkejä.</Text>
+				</Header>
+				<Paragraph><Text>Näitä puoliavoimia luolia lähestyy helpoiten pinnalta.</Text>
+</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

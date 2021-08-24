@@ -1,0 +1,32 @@
+﻿<Chapter>
+	<Handle>ore pings</Handle>
+	<Title>Улучшенное обнаружение руды</Title>
+	<Icon>Improved Ore Scanning</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Улучшенное обнаружение руды</Text>
+				</Title>
+				<Icon>
+					<Name>Improved Ore Scanning</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Успешно обновлён рудный сканер для поддержки фильтрации. Для этого создайте Пустой Пробник на Заводе, а затем преобразуйте его в Пробник необходимой руды, изготовив его вручную (C).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Разместите Пробник в панели быстрого доступа, выберите его и активируйте (ЛКМ). Этим вы загрузите Пробник в Сканер, и Сканер сможет обнаружить соответствующую руду. Пробник будет уничтожен.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<URL>www_youtube_com/tv#/watch?v=1MLHgXDFczo</URL>
+<!-- Full screen, auto-playing URL-->
+					</Target>
+					<Text>Click here to watch a tutorial on the Crystal Scanner</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

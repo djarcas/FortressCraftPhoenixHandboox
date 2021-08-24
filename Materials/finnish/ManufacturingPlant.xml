@@ -1,0 +1,62 @@
+<MaterialEntry>
+	<Key>ManufacturingPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Valmistusasema</Text>
+				</Title>
+				<Icon>
+					<Name>Manufacturing Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Valmistusasemalla voi tehdä useimmat koneet ja esineet joita tällä planeetalla selviytyminen vaatii. Jotkut esineet vaativat erityisiä kokoamiskoneita ja tämä kerrotaan esineen apusivulla. Avataksesi valmistuskäyttöliittymän paina \&#39;vuorovaikuta\&#39; näppäintä (oletus \&#39;E\&#39;). Voit myös itsevalmistaa rajoitetun määrän esineitä puvustasi ja rakennuspyssystäsi avaamalla itsevalmistuskäyttöliittymän (oletus \&#39;C\&#39;).</Text>
+				</Paragraph>
+				<Header>
+					<Text>Valmistuskäyttöliittymä</Text>
+				</Header>
+			
+				<Paragraph>
+					<Text>Valmistuskäyttöliittymä on jaettu neljään osaan. Vasemmalta oikealle nämä ovat: Lista käytettävistä sinikopioista, valitun esineen tiedot, resurssivaatimukset ja näiden alla automaatio.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Sinikopioikkunan yläosassa olevilla välilehdillä voi suodattaa tyypin kuten esim. virta, automaatio tai puvun päivitykset. Ikkunan alaosassa voit suodattaa vain ne joihin sinulla on materiaalit ja sen alla tekstihaku.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+					
+			</Paragraphs>
+		</Page>
+	
+		<Page>
+			<Paragraphs>		
+				<Paragraph>
+					<Text>Kun sinikopio on valittuna sen tiedot ja osat näkyvät. Jos sinulla on materiaalit voit tehdä yhden esineen painamalla \&#39;tuota\&#39; nappia tai 25 kerralaan pitämällä CTRL pohjassa kun painat. Kontekstuaalinen apu on saatavilla valitulle esineelle painamalla apunäppäintä (oletus \&#39;H\&#39;).</Text>
+				</Paragraph>
+			
+				<Header>
+					<Text>Automaatio</Text>
+				</Header>
+				<Paragraph>
+					<Text>Esineiden tekeminen käsin valmistusasemalla ei vaadi virtaa ja on melkein välitöntä koska pukusi ja rakennuspyssysi tekevät työn. Jos haluat jatkuvasti tuottaa esinettä kun ole poissa tämän voi tehdä valmistusaseman toiminnoilla mutta maksaa sekä energiaa että aikaa. Valitse valmistettava esine anna tuotettava esineiden määrä tai valitse &#39;toista&#39; jatkaaksesi loputtomiin ja paina &#39;automatisoi&#39; nappia. Tarvittavat materiaalit täytyy olla liitetyssä varastohypyttimessä ja lupien asetettuna joko &#39;Lisää/poista&#39; tai &#39;Vain poisto&#39; (suositellaan). Tuotetut esineet myös asetetaan varastohypyttimeen jonka lupa tulisi olla &#39;Vain lisäys&#39;.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Automaation voi vaihtaa toiseen esineeseen tai peruuttaa kokonaan painamalla edistymiskuvaa. Molemmissa tapauksissa asema tekee työstämänsä esineen ensin valmiiksi.</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>Yksiköt</Text>
+				</Header>
+				<Paragraph>
+					<Text>Jotkin sinikopiot voivat vaatia lisäosan kiinnittämistä valmistusasemaan (kuten vesisuihkuleikkuri). Tämä mainitaan esineen apusivulla.</Text>
+				</Paragraph>
+					
+			</Paragraphs>
+		</Page>
+	
+	</Pages>
+</MaterialEntry>
+

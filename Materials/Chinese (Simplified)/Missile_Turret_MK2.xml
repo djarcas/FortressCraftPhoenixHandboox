@@ -1,0 +1,43 @@
+﻿<MaterialEntry>
+	<Key>MissileTurretMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>导弹炮塔 MK2</Text>
+				</Title>
+				<Icon>
+					<Name>Missile Turret MK2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				<Paragraph>
+					<Text>向大型目标发射单一用途的导弹。备用弹药应该贮存在相连的存储料斗中。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>最小范围：
+  最大范围：
+  伤害（每导弹）：
+  每次齐射数目：
+  装填时间：</Left>
+					<Right>64m
+ 512m
+ 50,000 (基于导弹)
+ 2
+ 15 s</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,43 @@
+﻿<MaterialEntry>
+	<Key>PowerBoosterMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Энергоячейка АРЧЕРа МК1</Text>
+				</Title>
+				<Icon>
+					<Name>MK1 Power Booster</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					<Text>Использование данного предмета позволит мгновенно подзарядить батарею АРЧЕРа. Запаситесь ими заранее, это позволит вам дольше путешествовать под землей и подзаряжать оборудование. Создаётся в Заряднике Энергоячеек.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Хранимая Энергия:</Left>
+<Right>100</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK2</Material>
+					</Target>
+					<Text>ARTHER Power Booster MK2</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>MK1PowerBoosterCharger</Material>
+					</Target>
+					<Text>Crafted by MK1 Power Booster Charger</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

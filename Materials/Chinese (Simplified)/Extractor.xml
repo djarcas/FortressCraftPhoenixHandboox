@@ -1,0 +1,80 @@
+﻿<MaterialEntry>
+	<Key>OreExtractor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>矿物分离器</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Extractor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>矿物分离器是您去采集资源的机器。 当您使用建造枪挖掘时，每次挖掘一块矿石的尝试都会从该矿石块中的总可用资源量中减去。 偶尔会产生矿石，但会产生大量的碎石。 你也可以通过按住Ctrl来超级挖掘。 这将以高能耗和高效率快速生产少量的矿石。 尽可能避免以这种方式浪费矿石。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>要自动采掘矿石，请使用矿物分离器。 您可以将提取器放置在矿石块上，并将自动消耗能量来提取资源。 您可以通过按“交互”键（默认为“E”）打开矿物分离器控制面板。 这允许您从防护服中将能量添加到机器，从其内部存储中收集矿石并升级机器。 初始矿物提取设备相比于超级挖掘明显资源效率更高，并且可以无人值守。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>提取器具有500单位能量的内部电量，这差不多是你防护服电量的两倍多一点点，所以你需要跑几趟来为它充能。 如果其内部储存空间已满，提取器将停止采矿，直到其被清空。 您可以在提取器旁边放置一个储存料斗，以提供更多的存储空间，并使用物流设备将矿石运输回你的基地。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Paragraph>
+					<Text>矿石每分钟的矿物分离器速度和效率显示在与机器相互作用时显示的控制面板中。 效率为10％意味着每个收集1单位将损耗9单位可开采矿石。</Text>
+				</Paragraph>
+				<Header>
+					<Text>为提取器升级</Text>
+				</Header>
+				<Paragraph>
+					<Text>基础矿物分离器是一种有用的机械设备，但远远没能达到其最大功率。 提取器可以升级两部分：新电机和新钻头。 打开控制面板后，单击相应的升级插槽，并从物品栏中插入升级模块。 您还可以将升级模块拖向你的物品栏。</Text>
+				</Paragraph>
+				<Header>
+					<Text>电机</Text>
+				</Header>
+				<Paragraph>
+					<Text>一台新的电机会增加挖掘机钻头开采的速度，这意味着您每分钟将获得更多的矿石。 增加的速度带来更高的电力成本，所以确保您的供电。</Text>
+				</Paragraph>
+				<Header>
+					<Text>钻头</Text>
+				</Header>
+				<Paragraph>
+					<Text>升级钻头增大了挖掘机矿石提取的效率。 这意味着它将能够在其一生中从矿脉中获取更多的矿石。 除了效率提升之外，新的钻头还可以让挖掘机挖掘较硬的材料，基础钻头根本无法切割。</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>切割头将随着时间的推移而磨损，剩余的耐久度显示在矿物分离器控制面板中。</Text>
+				</Paragraph>
+					
+			</Paragraphs>
+		</Page>
+			<Page>
+			<Paragraphs>
+				<Header><Text>全系激光器读数</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>能量分组大小：
+  黄色：
+  红/蓝闪光：
+  红/青色闪光：
+  红/黑闪光：
+  红/绿闪光：</Left>
+					<Right>工作中
+  断电
+  无剩余存储空间
+  闲置
+  钻头卡住</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

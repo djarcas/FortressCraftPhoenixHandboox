@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERUpgradePack</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pack d’améliorations d\&apos;ARTHER</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Upgrade Pack</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Combine les effets du panneau solaire, du cœur d’énergie et des batteries. Utilisez le pour gagner de la place dans l\&apos;inventaire. Vous n\&apos;en n\&apos;avez besoin que de un et vous devez le garder dans votre inventaire pour qu\&apos;il fonctionne.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

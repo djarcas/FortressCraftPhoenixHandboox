@@ -1,0 +1,40 @@
+﻿<MaterialEntry>
+	<Key>ThreatScanner</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Сканер Угроз</Text>
+				</Title>
+				<Icon>
+					<Name>Threat Scanner</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>У Сканера Угроз есть два режима: режим сканирования и режим боя. В режиме сканирования сканер отображает величину Угрозы, которую создает база, и расчетное время до следующего нападения. Режим боя активируется при атаке на базу, при этом сканер угроз отображает состав атакующих и приблизительное время до появления следующей волны врагов. Угрозу можно изменить с помощью Успокоителя или Усилителя Угрозы.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Threat Reducer</Material>
+					</Target>
+					<Text>Threat Reducer</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Threat Agitator</Material>
+					</Target>
+					<Text>Threat Agitator</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Требует энергии:</Left>
+					<Right>Да</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

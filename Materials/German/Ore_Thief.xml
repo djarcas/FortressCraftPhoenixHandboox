@@ -1,0 +1,37 @@
+﻿<MaterialEntry>
+	<Key>AutoOreRemover</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Cyberdyne Erzdieb 3000 (tm)</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Thief</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die neueste Maschine, die Ihnen bei Ihrem Bergbau hilft, ist der Erzdieb 3000! (Patent angemeldet). Für nur 9 Kupferbarren können Sie auch die Plackerei und das langweilige Einbringen von Erz in Lagercontainern vermeiden und uns stattdessen erlauben, die harte Arbeit von ihnen erledigen zu lassen!
+
+ Mit einem massiven internen Speicher von 100 Einheiten kann der Erzdieb 3000 bis zu 3.300 Blöcke/pro Minute auf einen angrenzenden Lagercontainer abladen!
+
+ Baue einfach unseren brandneuen Erzdieb 3000 (tm) in einem 3x3 Layout und versorge ihn mit nur 5 Power pro Erz, dann steh einfach drauf und lass ihn die harte Arbeit für dich erledigen!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>&quot;Erz-Sammlungsgeschwindigkeit:
+ Interne Speicher:
+ Stromverbrauch:
+ &quot;</Left>
+					<Right>&quot;Bis zu 3.300 / Minute!
+ 100 Einheiten Erz!
+ Nur 5 Power pro Erz!
+ &quot;</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

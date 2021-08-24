@@ -1,0 +1,29 @@
+﻿<MaterialEntry>
+	<Key>RobotArmMK2_Bulk</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Bulk Robotic Arm</Text>
+				</Title>
+				<Icon>
+					<Name>mk1 robot arm</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Robot Arms are an excellent way of moving items off of a passing Conveyor Belt without slowing down or interrupting the material flow.</Text>
+				</Paragraph>
+        <Paragraph>
+					<Text>Robot Arms need to be built inside a room - this will provide a 400% boost in their speed, making them far more useful.</Text>
+				</Paragraph>
+        <Paragraph>
+					<Text>As with many other item-sorting machines, you can highlight an entry in your hotbar, and press T whilst looking at the arm to assign the collected item, or you can use the Interact (E) menu to select items you don't currently have in your inventory.</Text>
+				</Paragraph>
+       <Paragraph>
+					<Text>The Bulk Arm can move 1 item per second, or about 60 per minute. You can build as many as you like next to eachother to hit the performance targets you need.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

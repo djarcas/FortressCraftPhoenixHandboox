@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>GoldHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>金质外壳</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>一个由金板制造的简单的金质外壳。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

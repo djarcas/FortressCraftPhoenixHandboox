@@ -1,0 +1,29 @@
+﻿<MaterialEntry>
+	<Key>HiveBrainMatter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Schwarmintelligenz-Gehirn</Text>
+				</Title>
+				<Icon>
+					<Name>Brain Matter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der größte Teil des Kerns der Schwarmintelligenz wurde bei der Explosion zerstört. Das Schwarmintelligenz-Gehirn ist allerdings noch intakt genug um es weiter untersuchen zu können. Das Labor sollte in der Lage sein das Wissen in Forschungspunkte zu wandeln.</Text>
+				</Paragraph>
+				<Spacer/>
+rte
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

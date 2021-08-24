@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Key>ForcedInductionMK3</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 3 ahdin</Text>
+				</Title>
+				<Icon>
+					<Name>Forced InductionT3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ahdinyksiköt ovat päivityksiä malmisulattamoon jotka lisäävät sulatusnopeutta virrankäytön suuren lisäyksen hinnalla. Käyttääksesi yksikköä aseta malmisulattamon päälle.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Perusmalmisulattamot eivät tue ahdinpäivityksiä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Sulatusnopeus:
+					Virrankäyttö:</Left>
+					<Right>400%
+					3200%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>SurfaceHiveSpawn</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>OverMind</Text>
+				</Title>
+				<Icon>
+					<Name></Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The more you build the more this thing wants you dead. Sends waves of bugs to wipe you from the surface.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>PlasticPellet</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>塑料颗粒</Text>
+				</Title>
+				<Icon>
+					<Name>Plastic Pellet</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>塑料可以在生物质的精炼厂反应釜中制造。 它们用于喷气涡轮机的建造。</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Refinery Controller</Material>
+					</Target>
+					<Text>Refinery Controller</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

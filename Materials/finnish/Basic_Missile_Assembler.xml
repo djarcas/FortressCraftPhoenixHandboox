@@ -1,0 +1,38 @@
+﻿<MaterialEntry>
+	<Key>BasicMissileAssembler</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Perusohjuskokoaja</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Missile Assembler</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Perusohjuskokaja on valmistuskone jota käytetään perusohjusten automatisoinnissa.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Käyttö</Text>
+				</Header>
+				<Paragraph>
+					<Text>Niinkuin kaikki itsenäiset tuotantokoneet sinun pitäisi asentaa yksi varastohypytin per raakaine ja asettaa se \&apos;vain poisto\&apos; ja yksi varastohypytin vastaanottamaan valmis esine asetettuna \&apos;vain lisäys\&apos;. Tämä varmistaa että tuotanto ei tule lopullisesti tukittua tietyn raakaaineen puutoksen takia.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Jokainen tehty ohjus vaatii 1 kupariputken, 1 kultalangan ja korkeanenergisen yhdistelmäpolttoaineen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Kone vaatii myös virtaa, jota voi saada liitetystä voimalasta tai epäsuorasti voimavarastolohkolta tai laaserenergialähettimeltä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Virran ja varastohypyttimet voi asettaa sekä alle että päälle sivujen lisäksi.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

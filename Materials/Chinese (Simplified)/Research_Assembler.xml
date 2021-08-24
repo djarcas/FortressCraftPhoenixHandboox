@@ -1,0 +1,44 @@
+﻿<MaterialEntry>
+	<Key>ResearchAssembler</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>研究汇编器</Text>
+				</Title>
+				<Icon>
+					<Name>Research Assembler</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;由金属板和PCB自动化生产实验舱。它应该直接连接到你的实验室来提供自动化研究。
+由于其耗时的性质，建议通过过滤器进行高效生产。
+ &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>制造时间：
+  需要电力（峰值）：
+  能量容量：
+  最大充电率：</Left>
+					<Right>15 s 
+ 128 /s
+ 100
+ 100 /s</Right>
+				</TwoColumnParagraph>
+		
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+			
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

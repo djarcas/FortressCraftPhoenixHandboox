@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>SuitHeaterMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 1 pukulämmitin</Text>
+				</Title>
+				<Icon>
+					<Name>Suit Heater MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Paljon voimakkaampi lämpöydin mahdollistaa päivitetyn pukulämmittimen pitää käyttäjänsä turvassa lähes absoluuttisessa nollalämpötilassa. Virrankäyttö on myös kasvanut. Tarvitset vain yhden ja täytyy pitää tavaraluettelossa toimiakseen.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

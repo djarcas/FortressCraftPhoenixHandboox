@@ -1,0 +1,45 @@
+﻿<MaterialEntry>
+	<Key>AutoExcavator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Excavateur Auto</Text>
+				</Title>
+				<Icon>
+					<Name>Auto Excavator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>L\&apos;excavateur Auto est une machine pour creuser de grands puits verticaux par en dessous, les matériaux extraits tomberont au sol. N\&apos;est pas capable de creuser les veines de minerai.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Utilisation</Text>
+				</Header>
+				<Paragraph>
+					<Text>Creusez un petit tunnel jusqu\&apos;au fond du puits désiré et placez l\&apos;Excavateur Auto. Il devra être approvisionné en énergie depuis un Transmetteur d’Énergie Laser ou d\&apos;une autre source d\&apos;énergie.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Taille du puits:
+ Hauteur maximale du puits:
+ Énergie requise:
+ Capacité énergétique maximum:
+ Taux maximal de recharge d\&apos;énergie:
+ Taux maximal d\&apos;excavation :</Left>
+					<Right>3m x 3m
+ 512m
+ 20 par 1m cube excavé
+ 160
+ Aucun
+ 40 blocs par seconde</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

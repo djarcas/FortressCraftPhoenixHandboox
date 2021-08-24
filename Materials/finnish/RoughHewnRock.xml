@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>RoughHewnRock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Karkealouhittu Kivi</Text>
+				</Title>
+				<Icon>
+					<Name>Rough Hewn Rock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kiveä jota löytyy heti pinnan alta. Voidaan murskata murskaimessa hyödyllisen malmin löytämiseksi.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

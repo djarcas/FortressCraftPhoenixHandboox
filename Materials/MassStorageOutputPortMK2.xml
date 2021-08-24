@@ -1,0 +1,39 @@
+<MaterialEntry>
+	<Key>MassStorageOutputPortMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mass Storage Output Port</Text>
+				</Title>
+				<Icon>
+					<Name>Mass Storage Output PortMK2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+          <Text>Place this block next to a Mass Storage block to output items from the Mass Storage to a Conveyor Belt. You need to manually specify the item you want extracted from the Mass Storage. If the specified item is available in the Mass Storage the robot will fetch them one by one and place the item onto the built-in conveyor. This version can carry 12 items in each trip.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Tips and Tricks!</Text>
+				</Header>
+				<Paragraph>
+          <Text>Be aware of the orientation of this block! Just like a regular conveyor, it will attempt to offload the stored item in the appropriate direction</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>To assign a item to be output, select the desired item in your Hotbar, look at the output port and press &#34;T&#34;. More advanced configuration options are available under the usual &#34;E&#34; menu.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Further information:</Text>
+				</Header>
+        <Link>
+          <Target>
+            <Material>MassStorageBlock</Material>
+          </Target>
+          <Text>Mass Storage</Text>
+        </Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

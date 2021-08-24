@@ -1,0 +1,29 @@
+<MaterialEntry>
+	<Key>PCBAssemblingPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Сборщик Печатных Плат</Text>
+				</Title>
+				<Icon>
+					<Name>PCB Assembling Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Сборщик Печатных Плат - обычный конвейер, совмещенный с машиной для производства печатных плат из катушек и проводов.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Использование</Text>
+				</Header>
+				<Paragraph>
+					<Text>Обеспечьте подачу Катушек в Сборщик ПП с конвейера, поворотного стола или от соответствующей машины. Сборщик ПП изготовит Печатные Платы из Катушек, которые потом будут использованы в производстве.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Сборщик ПП необходим для автоматизации исследований в Лаборатории.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

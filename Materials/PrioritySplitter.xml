@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>PrioritySplitter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Priority Splitter</Text>
+				</Title>
+				<Icon>
+					<Name>Priority Splitter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Sends all incoming items Right, unless blocked, then Left.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

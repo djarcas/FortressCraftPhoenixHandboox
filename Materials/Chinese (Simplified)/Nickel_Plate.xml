@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>NickelPlate</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>镍板</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>由镍锭在冲压机制造的一个简单的镍质板材。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

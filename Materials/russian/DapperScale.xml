@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>DapperScale</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Щегольская Чешуя</Text>
+				</Title>
+				<Icon>
+					<Name>DapperScale</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Декоративный блок из DLC DAPPER Indie Support\&apos;s Pack. Спасибо за вашу поддержку разработки FortressCraft!</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>TitaniumPlate</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Титановая Пластина</Text>
+				</Title>
+				<Icon>
+					<Name>Titanium Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Простая титановая пластина, изготовленная в Штампе из титановых слитков.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

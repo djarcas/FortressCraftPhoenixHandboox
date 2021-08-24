@@ -1,0 +1,32 @@
+﻿<MaterialEntry>
+	<Key>PipeCoater</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Putkenpinnoitin</Text>
+				</Title>
+				<Icon>
+					<Name>Pipe Coater</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Käyttämällä kehittynyttä yhdistämistekniikkaa lämmön ja paineen kestävä kristallikuituverkko voidaan nyt kiinnittää kupariputkiin käyttämällä muoviryynejä niiden uniikin molekyylirakenteen toimiessa sidosaineena. Sidostusprosessi vaatii 300 energiaa 50 e/s tahdilla varmistaakseen tasaisen pinnoitteen.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Heat Conducting Pipe</Material>
+					</Target>
+					<Text>Heat Conducting Pipe</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Geothermal Generator comp_</Material>
+					</Target>
+					<Text>Geothermal Generator comp_</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

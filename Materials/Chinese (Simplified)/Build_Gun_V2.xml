@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>BuildGunV2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>建造枪 V2</Text>
+				</Title>
+				<Icon>
+					<Name>Build Gun V2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;建造枪 V2是更适合在外星环境中使用的建造枪的升级版本。 升级到基地建造枪允许它挖掘更坚硬的材料和拆卸更先进的机械。 尽管技术升级，抓握功能的冷却系统仍然不足，为了在极寒洞穴和其他空气质量差的地区频繁使用，你需要质量更好的导热体。 需要一份来改进基本工具的功能， additional Build Gun V2 upgrades have shown to provide no additional benefits at this time without extreme loss. &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V1</Material>
+					</Target>
+					<Text>Build Gun V1</Text>
+				</Link>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V3</Material>
+					</Target>
+					<Text>Build Gun V3</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

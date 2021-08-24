@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Name>Organic Coal Enricher</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Обогатитель Угля</Text>
+				</Title>
+				<Icon>
+					<Name>Coal Enricher</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Обогатитель Угля используется для увеличения выхода энергии Угля при сжигании. Процесс обогащения Угля требует 0,1 Э/с в течение 15 секунд. На выходе получается Обогащённый Уголь. Существует возможность и дальнейшего совершенствования процесса.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Crystal Coal Infuser</Material>
+					</Target>
+					<Text>Crystal Coal Infuser</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

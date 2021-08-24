@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>GoldHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kultakotelo</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen kultakotelo on tehty kultalaatoista.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

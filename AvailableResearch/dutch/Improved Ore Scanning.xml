@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>ore pings</Handle>
+	<Title>Verbeterde Ertsscanning</Title>
+	<Icon>Improved Ore Scanning</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Verbeterde Ertsscanning</Text>
+				</Title>
+				<Icon>
+					<Name>Improved Ore Scanning</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>We hebben een probleem ontdekt in onze zoektocht naar materialen om onze basis uit te breiden!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Onze Ertsscanner is ingesteld om onbekende materialen te vinden en classificeren. De mogelijkheid om nieuwe bronnen van specifieke bekende materialen vinden is beperkt. Het zou mogelijk moeten zijn om een kleine hoeveelheid reserve-erts als geavanceerd filter te gebruiken om alleen de benodigde grondstoffen te vinden.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

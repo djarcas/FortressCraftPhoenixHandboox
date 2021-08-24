@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>suit upgrades</Handle>
+	<Title>Verbetering Ruimtepak</Title>
+	<Icon>Suit Upgrading</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Verbetering Ruimtepak</Text>
+				</Title>
+				<Icon>
+					<Name>SuitUpgrades</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Met een paar kleine aanpassingen zou het mogelijk moeten zijn om upgrades voor uw ruimtepak te maken vanuit de ontwerpen van de basismachines, geminiaturiseerd om draagbaar te zijn. De meest voor de hand liggende upgrades zijn een betere zonnecel en koude-isolatie om met hogere efficiëntie op deze vijandige planeet te werken. Hiervoor moet je een Waterstraal Snijmachine-upgrade op je Fabricage-Installatie gebruiken!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Als u een upgrade wilt gebruiken, maakt u er eenvoudig een en bewaart u deze in uw inventaris.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>OverclockedCrystalClock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Разогнанный Кристалл</Text>
+				</Title>
+				<Icon>
+					<Name>Overclocked Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Разогнанные Кристаллы - это, в сущности, продвинутая версия Кристаллических Тактовых Генераторов, созданная разгоном обычных Кристаллических ТТ с привлечением огромного количества энергии. Как правило используются в оборудовании не ниже 4 уровня. &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>OverClocker</Material>
+					</Target>
+					<Text>OverClocker</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

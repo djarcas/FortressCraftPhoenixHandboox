@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Leaves</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Blätter</Text>
+				</Title>
+				<Icon>
+					<Name>Leaves</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Wächst an Bäumen. Welken nicht und können zerkleinert werden.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

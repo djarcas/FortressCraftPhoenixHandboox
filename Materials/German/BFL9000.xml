@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Key>BFL9000</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>BFL-9000</Text>
+				</Title>
+				<Icon>
+					<Name>BFL-9000</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Dieser massive horizontale Tunnelbohrer schneidet einen 5x5 großen Tunnel entlang seiner Ausrichtung. Benötigt riesige Mengen an Energie. Gibt keine nützlichen Ressourcen zurück.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Tunnelgröße:
+ Max. Tunnellänge:
+ Energiebedarf:
+ Energiekapazität:
+ Max. Aufladerate:
+ Max. Ausgraberate:</Left>
+					<Right>5x5 Meter
+ Unbegrenzt
+ 1280 pro Meter
+ 2560
+ 2560 pro Sekunde
+ 0,2 Meter pro Sekunde</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

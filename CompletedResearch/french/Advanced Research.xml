@@ -1,0 +1,37 @@
+﻿<Chapter>
+	<Handle>advanced research</Handle>
+	<Title>Recherche Avancée</Title>
+	<Icon>Laboratory Component</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Recherche Avancée</Text>
+				</Title>
+				<Icon>
+					<Name>Laboratory Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nous avons maintenant un design pour un laboratoire de recherche et des machines d\&apos;assemblage nécessaires pour lui fournir des Capsules Expérimentales.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Le laboratoire est nécessaire pour la recherche de projets avancés qui améliorent votre niveau de technologie pour débloquer de nouveaux projets et recettes. Un total de 27 composants de laboratoire sont nécessaires (fabriqués dans 3 piles de 9 composants chacun) et doivent être construits dans une configuration de 3 par 3 par 3.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Pour plus d\&apos;informations sur l\&apos;utilisation du laboratoire, veuillez consulter le guide suivant :</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research Guide</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

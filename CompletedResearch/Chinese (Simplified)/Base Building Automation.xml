@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>T1 assist machines</Handle>
+	<Title>基地建筑自动化</Title>
+	<Icon>Base Building Automation</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>基地建筑自动化</Text>
+				</Title>
+				<Icon>
+					<Name>Base Building Automation</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>我们现在有各种各样的新机器可用于提升我们基地的自动化程度。 使用粉碎机（Macerator）研磨无用的岩石，以偶尔换取有用的矿石。 自动挖掘机可以挖出向上的竖井，而自动建造机可以为我们建造长长的传送带。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>使用电梯可以让你在地表和深层矿脉间安全往返。 使用爆炸物清场或摧毁敌对目标。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

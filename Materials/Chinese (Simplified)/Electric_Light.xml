@@ -1,0 +1,24 @@
+﻿<MaterialEntry>
+	<Key>ElectricLight</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>电灯</Text>
+				</Title>
+				<Icon>
+					<Name>Electric Light</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>电灯必须连接电源才能操作，并提供远比标准火炬覆盖区域大得多的冷蓝光。</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>有三种投影方式：聚光灯（Spotlight），点光源（Pointlight）和阴影点光源（Shadowed Pointlight）。</Text>
+				</Paragraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

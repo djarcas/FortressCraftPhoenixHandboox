@@ -1,0 +1,36 @@
+<MaterialEntry>
+	<Key>T5_OrbitalRailGunRing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Orbital Railgun Ring</Text>
+				</Title>
+				<Icon>
+					<Name>Orbital Power Transmission</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+        <Paragraph>
+          <Text>These magnetically-charged rings are coated with Liquid Resin and cooled using Freezon.</Text>
+        </Paragraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>See the main entry on the Orbital Railgun for more information.</Text>
+        </Paragraph>
+        <Spacer/>
+        <Header>
+          <Text>>Orbital Railgun</Text>
+        </Header>
+        <Icon>
+          <Name>OrbitalRailGunController</Name>
+          <Target>
+            <Material>T5_OrbitalRailGunControllerPlacement</Material>
+          </Target>
+        </Icon>
+        <Spacer/>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

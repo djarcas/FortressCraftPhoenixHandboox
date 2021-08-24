@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>FluidMagma</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fluid Magma</Text>
+				</Title>
+				<Icon>
+					<Name>Fluid Magma</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Extremely hot and deadly to the touch.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,57 @@
+﻿<Chapter>
+	<Handle>mining upgrade 1</Handle>
+	<Title>Perusluohintapäivitykset I</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Peruslouhintapäivitykset I</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Olemme onnistuneesti kehittäneet lukuisia parannuksia resurssinkeräyskykyymme.</Text>
+				</Paragraph>
+				<Header><Text>Perusmalmisulattamo</Text>
+</Header>
+				<Icon>
+					<Name>Basic Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Voimme nyt rakentaa perusmalmisulattamon. Se ei tue mitään päivityksiä ja on hitaampi ja tehottomampi kuin tavallinen sulattamo joka tuli tukikohdan mukana, mutta sen pitäisi auttaa poistamaan pullonkauloja väliaikaisesti.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Useimmat resurssit jotka olemme löytäneet läheltä pintaa eivät sovellu hyvin malmisulattamojen rakentamiseen. Kuitenkin luotaukset näyttävät että joillakin pienillä kivimuodostelmilla voi olla tarvittavat ominaisuudet.</Text>
+				</Paragraph>
+				<Header><Text>Ahdin</Text>
+</Header>
+				<Icon>
+					<Name>Forced Induction</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ahdinyksikköjä voi asettaa tavallisten malmisulattamojen päälle malminsuolatusnopeutta nostamaan lisävirran kustannuksella. Perussulattamot eivät tue näitä.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header><Text>Poramoottorit</Text>
+</Header>
+				<Icon>
+					<Name>Basic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Poramoottorit voidaan asettaa malmilouhimeen nostaamaan niiden luohintanopeutta lisävirran kustannuksella.</Text>
+				</Paragraph>
+					
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

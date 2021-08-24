@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>FusionDrillMotor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fuusioporamoottori</Text>
+				</Title>
+				<Icon>
+					<Name>Fusion Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Parantaa nopeutta jolla malminlouhija louhii lisääntyneen virrankulutuksen hinnalla.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Louhintanopeus:</Left>
+					<Right>1600%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

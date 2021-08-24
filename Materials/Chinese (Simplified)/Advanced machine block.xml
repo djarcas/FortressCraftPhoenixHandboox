@@ -1,0 +1,24 @@
+﻿<MaterialEntry>
+	<Name>Advanced machine block</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>高级机床</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced machine block</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>先进机械的主要建筑方块。</Text>
+				</Paragraph>
+				<Header>
+					<Text>这些方块是某些特定多方块机器的主要组件。</Text>
+				</Header>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

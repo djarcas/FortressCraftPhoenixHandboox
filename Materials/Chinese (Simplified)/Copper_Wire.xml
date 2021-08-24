@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>CopperWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>铜线</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Wiring</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>用于具有电气部件的机器的简单铜线。 可以通过挤出机生产。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

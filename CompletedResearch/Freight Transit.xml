@@ -1,0 +1,24 @@
+﻿<Chapter>
+	<Handle>minecarts0</Handle>
+	<Title>Freight Transit</Title>
+	<Icon>Minecart</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Freight Transit</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>At the moment we only have scrap material to work with so we can't move very much at a time nor very quickly but at least we won't need to do the heavy lifting by hand.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>A rudimentary web of track and Freight Cart Stations will enable distribution of our components to numerous manufacturing centers to expand production more easily and rapidly.  We could also better utilize the wide open land available around the crash site by moving facilities to uncluttered space.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

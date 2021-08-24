@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>CopperPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kupariputki</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen kupariputki on tehty putkenvenytysasemalla. Käytetään perusohjusten tekemisessä.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

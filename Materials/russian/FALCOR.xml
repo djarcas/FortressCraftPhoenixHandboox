@@ -1,0 +1,45 @@
+﻿<MaterialEntry>
+	<Key>FALCOR</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ФАЛКОРы</Text>
+				</Title>
+		
+						
+				<Icon>
+					<Name>FALCOR MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+				<Paragraph>
+					<Text>&quot;ФАЛКОР – Феноменально Автономный Летающий КОллекторский Робот, который собирает всё, что плохо лежит.
+Существует два типа ФАЛКОРов.
+
+ФАЛКОРы МК1 в радиусе 128 метров обслуживают ФАЛКОР-Маяки, расположенные на любом блоке кроме Бункера. При получении сигнала от маяка, ФАЛКОР летит к нему, забирает предмет и везет его на свою базу. База должна быть подсоединена к Бункеру, в который будут поступать доставляемые предметы.
+Логистический ФАЛКОР работает аналогично, но взаимодействует только с Маяками расположенными на Бункерах.
+Базы ФАЛКОРов не требуют энергии, но Маякам питание нужно.
+
+Скоро! Ожидаются ФАЛКОРы способные фильтровать предметы!
+ &quot;</Text>
+				</Paragraph>
+				<Icon>
+					<Name>FALCOR Beacon</Name>
+					<Target><Material>FALCOR Beacon</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>FALCOR Beacon</Material>
+					</Target>
+					<Text>FALCOR Beacon</Text>
+				</Link>
+	
+				 
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>TitaniumHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>钛质外壳</Text>
+				</Title>
+				<Icon>
+					<Name>Titanium Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>一个由钛板制造的简单的钛质外壳。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

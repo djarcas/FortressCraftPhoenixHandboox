@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>LithiumPlate</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lithiumplatte</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Eine einfache Lithiumplatte hergestellt aus Lithiumbarren mit Hilfe einer Stanze.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,37 @@
+﻿<MaterialEntry>
+	<Key>PowerBoosterMK5</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 5 AVUTIN-virtavahvistin</Text>
+				</Title>
+				<Icon>
+					<Name>MK5 Power Booster</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					<Text>Tämän esineen käyttö palauttaa heti AVUTIN:lle virtaa. Suunnittele ja voit laajentaa maanalaisia retkiäsi ja virroittaa koneita.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Virtaa palautettu:</Left>
+<Right>2500</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+					<Link>
+					<Target>
+						<Material>MK5PowerBoosterCharger</Material>
+					</Target>
+					<Text>Crafted by MK5 Power Booster Charger</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

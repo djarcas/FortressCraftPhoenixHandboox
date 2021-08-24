@@ -1,0 +1,52 @@
+<MaterialEntry>
+	<Key>CentralPowerHub</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Päävirtakeskus</Text>
+				</Title>
+				<Icon>
+					<Name>Central Power Hub</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Päävirtakeskus on tukikohtasi tärkein kone. Se on liian kehittynyt toistettavaksi ja et voit selvitä ilman sitä tässä maailmassa joten sinun täytyy suojella sitä hinnalla millä hyvänsä.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Energiantuotanto</Text>
+				</Header>
+			
+				<Paragraph>
+					<Text>Päävirtakeskus sisältää suuren sisäisen akun joka voi varastoida energiaa sen aurinkopaneeleista ja pienestä fossiilivoimalasta sen sisällä. Tilaa on vain yhdelle yksikölle polttoainetta kerrallaan joten polttoaineen kuljetuksen automatisointia varastohypytintä tai pienhypytintä käyttäen pitäisi selvitellä mahdollisimman pian.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Päävirtakeskus puskee energiaa automaattisesti ympäröiviin koneisiin jotka tarvitsevat sitä. Voit myös lisätä tai ottaa energiaa siitä suoraan vuorovaikuttamalla sen kanssa (oletus \&#39;E\&#39;). Tämä ohjauspaneeli mahdollistaa polttoaineen asettamisen voimalaan.</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>Kiertoratalaaser</Text>
+				</Header>
+				<Paragraph>
+					<Text>Päävirtakeskuksen päällä olevaa laseria voi käyttää maamerkkinä tukikohdan löytämisessä. Ole kuitenkin varovainen ettet asettele palikoita sen lähelle tai ne voivat tuhoutua.</Text>
+				</Paragraph>
+
+			</Paragraphs>
+		</Page>
+	
+		<Page>
+			<Paragraphs>	
+			<Header>
+					<Text>Tietokonejärjestelmät</Text>
+				</Header>
+				<Paragraph>
+					<Text>Päävirtakeskus sisältää useimmat tietojärjestelmä jotka ohjaavat tukikohtaasi. Ohjaussignaaleja voidaan lähettä langattomasti, koodattuina voima- ja ainesiirto säteisiin sekä kuljetinlinjoja pitkin. Pukusi vahvistaa langatonta yhteyttä. Jos kuitenkin löydät eristetyn kaukaisen koneen joka sammuu harkitse peruslaaserlähetinlinjan rakentamista.</Text>
+				</Paragraph>
+	
+			</Paragraphs>
+		</Page>
+	
+	</Pages>
+</MaterialEntry>
+

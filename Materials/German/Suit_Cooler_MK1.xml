@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SuitCoolerMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Anzugskühler MK1</Text>
+				</Title>
+				<Icon>
+					<Name>Suit Cooler MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein viel stärkerer thermischer Kern ermöglicht es dem verbesserten Anzugsheizgerät, den Benutzer bei Temperaturen weit über dem Siedepunkt sicher zu halten. Der Stromverbrauch ist ebenfalls erhöht. Du brauchst nur einen davon und er muss in deinem Inventar aufbewahrt werden, damit er funktioniert.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

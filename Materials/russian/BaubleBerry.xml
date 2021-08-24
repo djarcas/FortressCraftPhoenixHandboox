@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>BaubleBerry</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Бездельягода</Text>
+				</Title>
+				<Icon>
+					<Name>BaubleBerry</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Невзрачное растение, обнаруживаемое на поверхности и в пещерах этой планеты.</Text>
+				</Paragraph>
+		
+				<Spacer/>
+				<Paragraph>
+					<Text>Это растение можно сжечь для выработки энергии.</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

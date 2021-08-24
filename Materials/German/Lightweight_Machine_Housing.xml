@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>LightweightMachineHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Leichtes Maschinengehäuse</Text>
+				</Title>
+				<Icon>
+					<Name>Lightweight Machine Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Eine kleine Zinnkiste, welche in leichten Maschinen verbaut wird.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

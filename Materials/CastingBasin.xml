@@ -1,0 +1,35 @@
+<MaterialEntry>
+	<Key>CastingBasinPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Casting Basin component</Text>
+				</Title>
+				<Icon>
+					<Name>Casting Basin component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The other half of the means to efficiently smelt Chromium and Molybdenum. Requires pipes connected to a Blast Furnace for liquid metals. Can be connected to up to 4 Blast furnaces at a time. Requires no power to function. Must be built in a 5x3x5.</Text>
+				</Paragraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>Whilst this technically will work anywhere, for maximum efficiency, it should be placed in as cold an area as possible. A cooled room will not suffice.</Text>
+        </Paragraph>
+
+        <Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Manufacturing Time:
+					</Left>
+					<Right>2.85 seconds
+					</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

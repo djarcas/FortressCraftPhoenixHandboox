@@ -1,0 +1,49 @@
+﻿<MaterialEntry>
+	<Key>T4_Grinder_Placement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hartgestein Schleifer</Text>
+				</Title>
+				<Icon>
+					<Name>T4_Grinder</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Wir werden unsere Maschinen umbauen müssen. Zu diesem Zweck haben wir einen Schleifer für den einmaligen Gebrauch - ein paar davon sollten uns gerade genug Erz liefern, um eine viel größere, zähere Bohrmaschine zu konstruieren.</Text>
+				</Paragraph>
+	
+				<Spacer/>
+			
+				<Paragraph>
+					<Text>Die Verwendung sollte ziemlich einfach sein. Finde oder mache eine 3x3 horizontale Ebene des gewünschten Erzes (Chrom oder Molybdän), lege den Schleifer ab, gib ihm Energie, warte bis zur Fertigstellung und gib ihm viele Lagercontainer, um das endgültige Material hinein zu laden.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Wenn Sie Probleme haben, eine 3x3 horizontale Fläche zu finden, dann sind der Nano Sprengsatz oder die geladenen Sprengstoffe Ihre Freunde!</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Diese Maschinen sind furchtbar ineffizient und teuer und benötigen eine große Menge des raffinierten Harzes aus den Hiveminds, die uns umgeben. Wir sollten so schnell wie möglich zu besseren Minenarbeitern übergehen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>NanoDisintegrator</Material>
+					</Target>
+					<Text>NanoDisintegrator</Text>
+				</Link>
+
+				<Icon>
+					<Name>Trencher Drill component</Name>
+					<Target><Material>TrencherDrillPlacement</Material>
+</Target>
+				</Icon>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

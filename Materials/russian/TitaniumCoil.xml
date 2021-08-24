@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>TitaniumCoil</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Титановая Катушка</Text>
+				</Title>
+				<Icon>
+					<Name>Titanium Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Обычная Титановая Катушка, изготовленная из Титановых Проводов в Намотчике.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

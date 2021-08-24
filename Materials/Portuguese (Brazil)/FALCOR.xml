@@ -1,0 +1,37 @@
+﻿<MaterialEntry>
+	<Key>FALCOR</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text></Text>
+				</Title>
+		
+						
+				<Icon>
+					<Name>FALCOR MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+				<Paragraph>
+					<Text></Text>
+				</Paragraph>
+				<Icon>
+					<Name>FALCOR Beacon</Name>
+					<Target><Material>FALCOR Beacon</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>FALCOR Beacon</Material>
+					</Target>
+					<Text>FALCOR Beacon</Text>
+				</Link>
+	
+				 
+				<Spacer/>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

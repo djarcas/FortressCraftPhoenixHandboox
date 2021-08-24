@@ -1,0 +1,25 @@
+﻿<MaterialEntry>
+	<Key>TitaniumBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Titanbarren</Text>
+				</Title>
+				<Icon>
+					<Name>Titanium Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Titanium Ore</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Titanbarren werden im Allgemeinen in modernen Maschinen verwendet, die eine starke Leichtbauweise erfordern. Sie werden aus Titanerz hergestellt, das sich mindestens 350 m unter der Oberfläche befindet.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

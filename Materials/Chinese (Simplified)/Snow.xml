@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Snow</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>雪</Text>
+				</Title>
+				<Icon>
+					<Name>Snow</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>一种泥土和雪的混合物，它在这个世界上无处不在。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

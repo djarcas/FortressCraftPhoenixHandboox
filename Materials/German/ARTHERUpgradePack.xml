@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ARTHERUpgradePack</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Aufwertungs-Paket</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Upgrade Pack</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Vereint die Effekte von Solarzelle, Energiekern und Batterie. Verwende dies um Platz in deinem Inventar einzusparen. Muss im Inventar aufbewahrt werden.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

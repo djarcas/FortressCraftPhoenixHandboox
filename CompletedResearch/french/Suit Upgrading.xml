@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>suit upgrades</Handle>
+	<Title>Amélioration de Combinaison</Title>
+	<Icon>Suit Upgrading</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Amélioration de Combinaison</Text>
+				</Title>
+				<Icon>
+					<Name>SuitUpgrades</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Avec quelques ajustements mineurs, il devrait être possible de produire des mises à niveau de la conception des machines de base, miniaturisées pour être portables. Les améliorations les plus évidentes sont; une meilleure cellule solaire et une isolation au froid pour fonctionner à plus haut rendement sur cette planète hostile. Vous devrez utiliser une mise à niveau Coupeur Hydrojet sur votre usine de fabrication pour y arriver !</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Pour utiliser l\&apos;amélioration de Combinaison, n\&apos;hésitez pas à en créer un et à le garder dans votre inventaire.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

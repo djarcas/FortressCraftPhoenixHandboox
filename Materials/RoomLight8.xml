@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>RoomLight_8</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>RoomLight #8</Text>
+				</Title>
+				<Icon>
+					<Name>RoomLight #8</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A smaller version of RoomLight #7, still 3 blocks long. Fits well in spots where it touches 2 blocks. Paintable and rotatable.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

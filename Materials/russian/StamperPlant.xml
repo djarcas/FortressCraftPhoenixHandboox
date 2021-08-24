@@ -1,0 +1,29 @@
+<MaterialEntry>
+	<Key>StamperPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Штамп</Text>
+				</Title>
+				<Icon>
+					<Name>Stamper Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Штамп – это обычная лента конвейера совмещенная со штампующей машиной для превращения Слитков в Пластины.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Использование</Text>
+				</Header>
+				<Paragraph>
+					<Text>Загружайте Слитки в Штамп с конвейера, конвейерной машины или Поворотного Стола. Штамп изготавливает Пластины из Слитков. Пластины потом используются в производстве других предметов.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Штамп необходим для автоматизации лабораторных исследований.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

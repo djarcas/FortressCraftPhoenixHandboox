@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>CoalOrePing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kohleping</Text>
+				</Title>
+				<Icon>
+					<Name>Coal Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Kohleping wird verwendet, um neue oder zusätzliche Vorkommen zu finden. Weitere Informationen findest du in der Anleitung zum Erzping.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Blank Ore Ping</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

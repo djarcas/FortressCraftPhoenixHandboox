@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>AirLock_Inner_Placement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>AirLock Inner</Text>
+				</Title>
+				<Icon>
+					<Name>AirLock_Inner_Placement</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Connects Rooms to Airlocks</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

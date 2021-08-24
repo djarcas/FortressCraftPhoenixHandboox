@@ -1,0 +1,36 @@
+﻿<MaterialEntry>
+	<Key>BatteryMK5Placement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>能量块 MK 5</Text>
+				</Title>
+				<Icon>
+					<Name>PowerStorageBlockT4</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>能量块 MK 5 可以储存高达450万单位的能量。 它将从连接的发电机中获取能量，并将其提供给任何连接的机器或激光输电器。 多个电力存储模块将共享能量，但是对于几个模块以外的能量传输效率不高，因此应该使用激光功率发射器。</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>该电池的密度是MK3电源块的四倍，强烈建议您尽快升级。 它们的构造形式为5x9x5，总共225个块。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>可以通过按“提取”键（默认值“Q”）从能量块中提取能量，并使用交互键（默认值“E”）进行充能。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>能量容量： 
+最大传输功率：</Left>
+					<Right>450万
+ 10,000 /台</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

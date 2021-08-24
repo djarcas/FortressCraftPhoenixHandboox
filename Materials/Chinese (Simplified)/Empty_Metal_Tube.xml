@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>EmptyMetalTube</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>空金属管</Text>
+				</Title>
+				<Icon>
+					<Name>Empty Metal Tube</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>由铁构成的一个简单但坚固的金属管。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

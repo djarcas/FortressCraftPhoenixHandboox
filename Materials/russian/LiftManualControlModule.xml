@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>LiftManualControlModule</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Модуль Ручного Управления Лифтом</Text>
+				</Title>
+				<Icon>
+					<Name>Lift Manual Control Module</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Подсоедините к боковой стороне поршня Лифта, чтобы дать вам возможность вручную управлять скоростью Лифта, с применением беспроводных технологий вашего костюма. Клавиши Home и End соответственно увеличивают и уменьшают скорость.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

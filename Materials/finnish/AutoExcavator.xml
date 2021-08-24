@@ -1,0 +1,45 @@
+<MaterialEntry>
+	<Key>AutoExcavator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Automatisoitu kaivuri</Text>
+				</Title>
+				<Icon>
+					<Name>Auto Excavator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Automatisoitu kaivuri on kone suurten pystysuorien kuilujen kaivamiseen alhaalta. Kaivettu materiaali tippuu lattialle. Ei pysty kaivamaan malmisuonia.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Käyttö</Text>
+				</Header>
+				<Paragraph>
+					<Text>Kaiva pieni tunneli alas tarkoitetun kuilun pohjalle ja aseta automatisoitu kaivuri. Tarvitsee virtaa joko laaserenergialähettimeltä tai muulta voimalähteeltä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Kuilun koko:
+					Maksimi kuilun korkeus:
+					Virtaa vaaditaan:
+					Virtakapasiteetti:
+					Maksimi virranlatausnopeus:
+					Maksimi kaivuutahti:</Left>
+					<Right>3m x 3m
+					512m
+					20 per 1m kuutiota kaivettu
+					160
+					ei rajoitusta
+					40 palikkaa sekunnissa</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

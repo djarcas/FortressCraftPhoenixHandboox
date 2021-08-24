@@ -1,0 +1,53 @@
+﻿<MaterialEntry>
+	<Key>CargoLiftBasic</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Perusrahtihissi</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Cargo Lift</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Pienin saatavilla oleva rahtihissi. Tämä on ihanteellinen sellaisten materiaalien kuin rauta ja litium massatoimitukseen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>&quot;Maksimi kantama:
+ Maksimivauhti:
+ Kiihdytys:
+ Maksimikapasiteetti
+ Virrankäyttö (kulkiessa):
+ &quot;</Left>
+					<Right>&quot;Rajoittamaton
+ 5 metriä sekunnissa
+ 0.5 metriä neliösekunnisa
+ 300
+ 35 e/s
+ &quot;</Right>
+				</TwoColumnParagraph>
+
+				<Icon>
+					<Name>Cargo Lift Controller</Name>
+					<Target><Material>Cargo Lift Controller</Material>
+</Target>
+				</Icon>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Cargo Lift Controller</Material>
+					</Target>
+					<Text>CargoLift Controller</Text>
+				</Link>
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

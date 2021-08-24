@@ -1,0 +1,49 @@
+﻿<MaterialEntry>
+	<Key>Teleporter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Teleporter</Text>
+				</Title>
+				<Icon>
+					<Name>Teleporter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The teleporter allows a user to instantly teleport to a pre-determined location. Supply the teleporter with sufficient power, stand on it, and press Jump (&apos;Space&apos;). Power is dependant upon distance teleported.</Text>
+				</Paragraph>
+				<Spacer/>
+			 
+				<Icon>
+					<Name>Location Marker</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+	
+				<Paragraph>
+					<Text>The teleporter requires a location marker referencing the destination. Insert the location marker into the teleporter by pressing the Interact key (default &apos;E&apos;).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Location Marker</Material>
+					</Target>
+					<Text>Location Marker</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Specifications</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Maximum Teleport Distance:
+					Power Required:
+					Power Capacity:</Left>
+					<Right>Unlimited
+					40 per meter
+					Double Total Teleport Cost</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

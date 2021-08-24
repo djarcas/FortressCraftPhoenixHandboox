@@ -1,0 +1,216 @@
+<Chapter>
+	<Handle>tools</Handle>
+	<Title>Your Tools</Title>
+	<Icon>Improved Ore Scanning</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>The Build Gun</Text>
+				</Title>
+				<Icon>
+					<Name>Build Gun V2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+				<Paragraph>
+					<Text>The Build Gun (Equipped by pressing X) is a device capable creating, storing and transmitting matter, allowing you to build things with a Left Click and removing things with a Right Click. It also features some useful shortcuts. 
+					
+					The Build Gun is capable of quickly building rows of idential blocks by holding CTRL and clicking. The axis that the build happens along depends on the face of the block that was selected.
+					
+					It is able to rapidly cut through blocks and ore at the expense of a lot of power by holding CTRL and the Right Moust Button - this can be used to mine ores at very low power and ore efficiency.</Text>
+				
+					It is also capable of dissasembling most multiblock structures by holding SHIFT and then right clicking the multiblock placements.
+          
+          And finally you can 'copy' a block to place or build using the Middle Mouse button. 
+				</Paragraph>
+				
+				<Link>
+					<Target>
+						<URL>www.youtube.com/tv#/watch?v=t8l_UFXOyZM</URL>
+						<!-- Full screen, auto-playing URL-->
+					</Target>
+					<Text>Click here to watch the SuperBuild in action!</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>The Paint Gun</Text>
+				</Title>
+     
+				<Paragraph>
+					<Text>The Paint Gun (Equipped by pressing N) is able to paint blocks and lights a multitude of colours. You can select a colour by Right-Clicking, and you can copy an existing colour using Middle Click.
+
+Once a colour is chosen, use the LMB to paint blocks. All Decorative blocks support painting, as well as Electric Lights, Torches and all Room lights.
+
+					Some paintable items will require the Dapper DLC Pack.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>The Scanner</Text>
+				</Title>
+				<Icon>
+					<Name>Improved Ore Scanning</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Scanner (Equipped by pressing M) allows you to scan for unknown objects in the world. These scans can be turned into research points at a Research Station. Whenever you hover over something that has not yet been scanned, a ? will pop out of the block.
+
+After any scan completes, nearby Crystals will appear on your heads up display. The number and minimum distance for these are related to the level of the Ore Scanner upgrades you have fitted.
+
+					The Scanner will a constant signal after a ping which is amplified the closer to a crystal it is. This is heard by the noise the scanner emits and the glow of the gem icon at the top of the scanner. The colour of the icon denotes what type of crystal is closest.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<URL>www.youtube.com/tv#/watch?v=1MLHgXDFczo</URL>
+						<!-- Full screen, auto-playing URL-->
+					</Target>
+					<Text>Click here to see the crystal finding feature in action</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>The Energy Rifle</Text>
+				</Title>
+        <Icon>
+          <Name>Ray Gun V1</Name>
+          <Alignment>Center</Alignment>
+        </Icon>
+				<Paragraph>
+					<Text>The Energy Rifle (Equipped by pressing V) fires off bursts of energy can kill various things.
+					
+					Although its not especially powerful, it is strong enough to fight off enemies that would attack you directly.
+					
+					The Energy Rifle can be charged by holding the Right Mouse Button, and then released to fire a more powerful shot.
+					
+					This item will need to be researched and crafted before use.
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Glowsticks</Text>
+				</Title>
+        <Icon>
+          <Name>Suit Heater MK1</Name>
+          <Alignment>Center</Alignment>
+        </Icon>
+				<Paragraph>
+					<Text>Glowsticks can be thrown using the G key to light up an area for a short while.
+					
+					Glowsticks require some suit energy to be thrown.
+					
+					Remember not to over-do it in tight areas; use the Headlight (L) instead.
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>The Suit Headlight</Text>
+				</Title>
+        <Icon>
+          <Name>Suit Headlight MK1</Name>
+          <Alignment>Center</Alignment>
+        </Icon>
+				<Paragraph>
+					<Text>The Suit Headlight (Default key : L) is able to light up the area in front of you.
+					
+					You can adjust its brightness can be adjusted by pressing L again.
+					
+					Be aware that the Suit Headlight takes more power the brighter it is and takes a lot of power if you do not have the appropriate suit upgrade for it.
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>The Grappling Hook</Text>
+				</Title>
+        <Icon>
+          <Name>Build Gun V3</Name>
+          <Alignment>Center</Alignment>
+        </Icon>
+        
+
+        <Paragraph>
+					<Text>The Grappling Hook (F to use) is used to climb up high vertical distances or to travel fast over horizontal distances.
+					
+					The default Grappling Hook does not work well with very cold areas or ones with a high particulate count - attempting to use the hook in these areas can result in a very long reload time. Researching upgrades can resolve this.
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>The Self-Crafter</Text>
+				</Title>
+        <Icon>
+          <Name>Torch</Name>
+          <Alignment>Center</Alignment>
+        </Icon>
+				<Paragraph>
+					<Text>The Self Crafter (C to open) is able to produce a number of blocks and items from the currently held items and has some alternate recipes for some items.
+					
+					This will also automatically craft blocks and machines that you have the materials for. For example, Torches do not require pre-crafting. As long as you have Coal available in your inventory, attempting to place a Torch will auto-craft.
+					
+					Be aware that alternate crafting recipes are more expensive than using machines, and upcrafting is rarely efficient; it's just a good way to get rid of obsolete low-tier items.
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>The HoloBase</Text>
+				</Title>
+				<Paragraph>
+					<Text>The Holo Base View (K to enable) shows your base in wire-frame, allowing you locate parts of your base no matter where you placed them.
+					
+					The HoloBase View uses colour coding to show the status of some machines; flashing red generally meaning it has stopped working.
+					
+					The HoloBase View is also able to enter Map View (U to toggle this) which lets you control the camera to view all of your base.
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Other Utilities</Text>
+				</Title>
+        <Icon>
+          <Name>Jet Pack</Name>
+          <Alignment>Center</Alignment>
+        </Icon>        
+        <Paragraph>
+					<Text> The suit has built-in binoculars (Hold Z to use).
+					
+					For screenshots and viewing your base, press B to switch to the SteadyCam. This will also turn the draw distance up, and is excellent for showing off your base.
+					
+					The suit has a large internal storage for items and blocks (Press I to open), and then S to access the Suit upgrade panel.
+					
+					The suit's integrated help system will always attempt to give you the most-logical help, where possible. Simply select, highlight or target the thing you wish to know more about, and press H.
+					
+					The suit has a jet pack (J to enable) that requires high-energy fuel to run, but you'll need to research this
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>
+
+		

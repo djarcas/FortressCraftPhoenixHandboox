@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>TinWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tinalanka</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Wire</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen tinalanka tehdään tinaharkoista venytysasemalla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

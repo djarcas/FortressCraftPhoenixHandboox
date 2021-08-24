@@ -1,0 +1,27 @@
+﻿<Chapter>
+	<Handle>Base Defence</Handle>
+	<Title>基地防御</Title>
+	<Icon>&gt;ARTHER Turret</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>基地防御</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>现在我们将解放这个星球！！</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>我们的基地防务研究取得了成功，现在我们有三座可供制造的炮塔。 ARTHER炮塔能量效率高，射程远，但必须由ARTHER操作，所以我们应该仔细定位，以保护我们的资源基础设施，同时收集建造独立炮塔所需的能源与材料。</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

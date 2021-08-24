@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Key>MinecartBufferFull</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Minecart Full Gate</Text>
+				</Title>
+				<Icon>
+					<Name>MinecartBufferFull</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Minecarts heading in the same direction as the RED arrow will turn around if they are NOT FULL. GREEN is freely passable.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Key>CoalOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hiili</Text>
+				</Title>
+				<Icon>
+					<Name>Coal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Energiatiivis materiaali jota voidaan polttaa päävirtakeskuksessa ja polttovoimalassa.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>Hiiltä voidaan louhia malmilouhimilla.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

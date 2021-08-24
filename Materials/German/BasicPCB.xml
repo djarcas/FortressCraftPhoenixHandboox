@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>BasicPCB</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Einfache Leiterplatte</Text>
+				</Title>
+				<Icon>
+					<Name>Basic PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Eine auf Kupfer basierende Leiterplatte, hergestellt aus Kupferspulen in der Leiterplatten-Montage.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>GoldPipe</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Золотая Труба</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Золотая труба, изготовляемая из золотых слитков в Экструдере Труб.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

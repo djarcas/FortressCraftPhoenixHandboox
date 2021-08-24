@@ -1,0 +1,47 @@
+﻿<MaterialEntry>
+	<Key>LaserResinAblator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Laserharzabtrager</Text>
+				</Title>
+				<Icon>
+					<Name>Laser Resin Ablator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+				<Paragraph>
+					<Text>Dies ist der erste von drei benötigten Schritten um gehärtetes Harz nutzbar zu machen, welches vom Schwarmstock abgesondert wird.
+Der Laserharzabtrager benutzt die gebündelte Kraft des Lichts um die gehärtete Hülle des Harzes zu zerstören..
+Ist dies geschehen kann das weiche Harz mit dem Laserharzverflüssiger das Harz verflüssigt und abtransportiert werden.
+Das Flüssige Harz kann anschließend in einer Flüssigharzraffinierie weiter verarbeitet werden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>&quot;Harzabtragung bezeichnet den Verlust von Oberflächenmaterial durch Hitze und Reibung &quot;</Text>
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<Material>Laser Resin Liquifier</Material>
+					</Target>
+					<Text>Laser Resin Liquifier</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Liquid Resin Refiner</Material>
+					</Target>
+					<Text>Liquid Resin Refiner</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>Refined Liquid Resin</Material>
+					</Target>
+					<Text>Refined Liquid Resin</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,37 @@
+﻿<MaterialEntry>
+	<Key>MatterMover</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Materialbeweger</Text>
+				</Title>
+				<Icon>
+					<Name>Matter Mover</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Stoffbeweger sind eine schnelle und energiereiche Methode, um Ressourcen in Ihrem Mining-Betrieb zu bewegen. Sie sind einfach in der Anwendung; versorgen Sie sie mit Energie, wie Sie es mit jeder anderen Maschine tun würden, und platzieren sie ihn neben dem Lagercontainer und in Richtung des ZielContainers. Die Kosten für das Teleportieren hängen nicht von der Entfernung ab. Sichtlinie zum Zielbehälter ist erforderlich.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Maximale Transportgeschwindigkeit:
+ Benötigte Leistung:
+ Maximale Leistungsübertragungsrate:
+ Leistungskapazität:
+ Maximale Reichweite:</Left>
+					<Right>300 Einzelteile pro Minute
+ 64 pro Stück
+ 256 / s (pro Gesicht)
+ 512
+ 64m</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

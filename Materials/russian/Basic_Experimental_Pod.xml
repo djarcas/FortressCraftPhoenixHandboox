@@ -1,0 +1,40 @@
+﻿<MaterialEntry>
+	<Key>BasicExperimentalPod</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Базовая Экспериментальная Ячейка</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Basic</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Базовая Экспериментальная Ячейка применяется в Лаборатории для проведения экспериментов и завершения исследовательских проектов. Эти ячейки делаются из Меди. Для более подробной информации обратитесь к следующему руководству.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+				<Spacer/>
+				<Paragraph>
+					<Text>Для более подробной информации по производству Экспериментальных Ячеек см. следующее руководство.</Text>
+				</Paragraph>
+				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Experimental Pods</Text>
+				</Link>
+		
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

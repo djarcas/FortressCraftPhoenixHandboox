@@ -1,0 +1,37 @@
+﻿<MaterialEntry>
+	<Key>BasicOreSmelter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Perusmalmisulattamo</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Sulattamo muuntaa raakamalmin harkoiksi joita voi käyttää valmistusasemalla ja muualla uusien koneiden ja esineiden tekemiseen. Perussulattamo on puolet tehosta ja puolet nopeudesta verrattuna tavalliseen sulattamoon ja sitä ei voi päivittää ahtimilla.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Aluksi sulattamoa täytyy ruokkia käsin. Tämän voi tehdä painamalla \&apos;vuorovaikuta\&apos; nappia (oletus \&apos;E\&apos;) avataksesi sulattamon ohjainpaneelin. Voit sitten lisätä malmia painamalla \&apos;Syötä malmia\&apos; nappia tai raahaamalla tietyn tyyppinen malmi sulattamoon. Ohjainpaneeli näyttää kuinka monta malmia tarvitaan harkkoa kohden kun se on tyhjänä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Kun sulattamolla on tarpeeksi malmia se alkaa lämmitä. Tämä vaatii virtaa kiinnitetystä virtavarastolohkosta tai voimalasta. Kun se saavuttaa oikean lämpötilan se alkaa sulattaa malmia harkoiksi jotka voidaan kerätä klikkaamalla ulostulo koloa ohjainpaneelin pohjalla.</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>Automaatio</Text>
+				</Header>
+			
+				<Paragraph>
+					<Text>Sulattamo pitäisi automatisoida heti kun mahdollista sisäänsyöttö- ja ulostulovarastohypyttimillä. Sisäänsyöttö hypytin tulisi asettaa \&apos;vain poisto\&apos;-tilaan. Sisäänsyöttöhypyttimen tulee olla tarpeeksi iso täyttääkseen minimimalmivaatimuksen.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+					
+	</Pages>
+</MaterialEntry>
+

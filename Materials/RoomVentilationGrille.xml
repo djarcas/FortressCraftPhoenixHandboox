@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>BlackGrill</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Room Ventilation Grille</Text>
+				</Title>
+				<Icon>
+					<Name>Room Ventilation Grille</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A Room Ventilation Grille improves the Clean rating of your room, required to hit Clean Room designation.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

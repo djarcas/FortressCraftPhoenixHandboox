@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ChevronSign</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Шеврон</Text>
+				</Title>
+				<Icon>
+					<Name>Chevron Sign</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Блок с красно-белыми стрелками, который можно сделать в любое время. Откройте интерфейс изготовления вручную (по умолчанию «C») для изготовления этих блоков.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>AblatedResin</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ablated Resin</Text>
+				</Title>
+				<Icon>
+					<Name>Ablated Resin</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The tough outer coating has been ablated; we should now be able to liquidise the soft inner core.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

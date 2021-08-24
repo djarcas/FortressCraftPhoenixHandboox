@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>EmptyMetalTube</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Stahlrohr</Text>
+				</Title>
+				<Icon>
+					<Name>Empty Metal Tube</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein simples aber robustes Stahlrohr, hergestellt aus Eisenbarren.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

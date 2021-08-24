@@ -1,0 +1,29 @@
+﻿<Chapter>
+	<Handle>T1 assist machines</Handle>
+	<Title>Автоматизация строительства</Title>
+	<Icon>Base Building Automation</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Автоматизация строительства</Text>
+				</Title>
+				<Icon>
+					<Name>Base Building Automation</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Масштабная добыча природных ресурсов — работа машины, а не человека!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Разнонаправленный проект позволит разработать оборудование для автоматических раскопок и строительства в дополнение к расширенным способам перемещения по базе.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>В дополнение к автоматизации раскопок этот проект нацелен на производство взрывчатки, применимой для расчистки больших пространств.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

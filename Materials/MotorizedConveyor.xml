@@ -1,0 +1,36 @@
+<MaterialEntry>
+	<Key>MotorisedConveyor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Motorised Conveyor</Text>
+				</Title>
+				<Icon>
+					<Name>Motorised Conveyor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Extracts items from a hopper at up to 150 per minute!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>
+					Power Capacity:
+					Max. Power Recharge Rate:
+					Power Per Item:
+					</Left>
+					<Right>
+					1500
+					500 per second
+					10
+					</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

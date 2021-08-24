@@ -1,0 +1,37 @@
+<MaterialEntry>
+	<Key>OrbitalEnergyTransmitterPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Orbital Energy Transmitter Component</Text>
+				</Title>
+				<Icon>
+					<Name>Orbital Energy Transmitter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The culmination of our work on this planet. The Orbital Energy Transmitter (OET) will be able send enough energy into the Low-Orbit Ion Cannon (LOIC). This accumulated energy can then be redirected down onto the surface in a non-nuclear but massively destructive way, capable of vapourising anything for a huge distance around it. We must protect our base while we power the OET, for if our Central Power Hub is badly damaged the OET will quickly discharge.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Construction</Text>
+</Header>
+				<Spacer/>
+				<Paragraph>
+					<Text>The Orbital Energy Transmitter is a massive construction requiring 1053 components in total. It must be built 13m tall on a 9m by 9m base with a clear view of the sky.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Total Power Required:
+					Max. Power Transfer Rate:</Left>
+					<Right>100,000,000
+					100,000 per second</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

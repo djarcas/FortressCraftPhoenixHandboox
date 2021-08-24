@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>GoldPlate</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Goldplatte</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Goldplatten werden in der Stanze aus Goldbarren hergestellt.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

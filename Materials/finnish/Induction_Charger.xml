@@ -1,0 +1,38 @@
+﻿<MaterialEntry>
+	<Key>InductionCharger</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Induktiolataaja</Text>
+				</Title>
+				<Icon>
+					<Name>Induction Charger</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Induktiolataaja on pieni 5x5 kone jolla on erittäin suuri siirtonopeus mutta pieni varaaja. Se on erinomainen ehdokas alueen virroittamiseksi ilman laasereihin ja akkuihin hukuttamista ja sen pitäisi välttää tarve maanalaisille voimalinjoille ja jakelupalikoille.
+
+ Käyttö on helppoa; Rakenna tämä 5x1x5 neliöksi, anna virtaa mistä tahansa suunnasta ja aseta koneet sen päälle tai sivuille. Ole tietoinen että laasereregialähettimen osoittaminen lataajaan JA sen koskeminen siihen johtaa silmukkaan ja tätä pitäisi välttää.
+
+ Tämä kone asetettuna tutkimuslaboratotion tai muun suuren virtasyöpön koneen alle on erinomainen tapa järjestää siisti nopea virtatoimitus.
+ &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Sisäinen varasto:
+					Virran sisäänottotahti: 
+					Virran ulostulotahti: 
+					</Left>
+					<Right>1500
+					7500/tahko/sekuntti
+					1250/kone/sekuntti
+					</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

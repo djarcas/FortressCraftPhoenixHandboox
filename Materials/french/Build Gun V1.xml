@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Name>Build Gun V1</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fusil de Construction V1</Text>
+				</Title>
+				<Icon>
+					<Name>Build Gun V1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ce Fusil de Construction est un outil fait à partir de morceaux recyclés de l\&apos;épave du vaisseau. Le fusil de construction permet la construction et destruction rapide de matériaux dans l\&apos;environnement. Le fusil de construction basique n\&apos;a pas été assemblé pour le nouvel environnement étranger et donc ces fonctions sont extrêmement limitées. Du au refroidissement sommaire de la fonction grappin du fusil de construction, n\&apos;importe quel changement dans la pression ou la qualité de l\&apos;air peut causer une petite période de récupération pendant laquelle l\&apos;activation est impossible pendant un court moment suite à l\&apos;utilisation du grappin.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V2</Material>
+					</Target>
+					<Text>Build Gun V2</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,53 @@
+<MaterialEntry>
+	<Key>RackRailer</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rack Railer</Text>
+				</Title>
+				<Spacer/>
+				<Icon>
+					<Name>Pipe Extrusion Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Rack Railer is a machine capable of molding a pair of Iron Gears into a usable rail for the cargo lift system.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Rack Rail</Material>
+					</Target>
+					<Text>Rack Rail</Text>
+				</Link>
+				<Spacer/>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Manufacturing Time:
+					Power Required:
+					Power Capacity:
+					Max. Power Recharge Rate:</Left>
+					<Right>1 second
+					100 per second
+					128
+					1024 per second</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Paragraph>
+					<Text>Refer to Cargo Lift Controller for more information.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target><Material>Cargo Lift Controller</Material>
+</Target>
+					<Text>Cargo Lift Controller</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

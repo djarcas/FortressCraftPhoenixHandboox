@@ -1,0 +1,33 @@
+﻿<MaterialEntry>
+	<Key>LiftCompressor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>升降机压缩器</Text>
+				</Title>
+				<Icon>
+					<Name>Lift Compressor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>连接到电梯活塞的底部，以提高气体再生的速率，来保证高强度使用时升降机的性能。 该压缩器必须由外部供电。 在一个电梯上安装两台压缩器，使升降机范围最大可达 256m。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>气体回复率：
+  能源使用：
+  能源容量：
+  传输功率：</Left>
+					<Right>0.15 L/s
+ 1 /s
+ 150
+ 5 /s</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

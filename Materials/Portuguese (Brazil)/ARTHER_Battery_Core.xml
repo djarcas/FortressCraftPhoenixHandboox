@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ARTHERBatteryCore</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Núcleo de Bateria do ARTHER</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Battery Core</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Permite que a ARTHER segure 8 vezes mais carga, a qual ele pode transferir para você quando você está com pouca carga. Construa isso o mais rápido possível! Você só precisa de um desses e deve ser mantido em seu inventário para funcionar.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

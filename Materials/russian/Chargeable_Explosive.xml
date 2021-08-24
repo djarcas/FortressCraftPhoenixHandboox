@@ -1,0 +1,54 @@
+﻿<MaterialEntry>
+	<Key>ChargeableExplosive</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Заряжаемая Взрывчатка</Text>
+				</Title>
+				<Icon>
+					<Name>Chargeable Explosive</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Заряжаемая Взрывчатка обладает свойством увеличения радиуса взрыва в зависимости от уровня заряда. Это взрывчатое вещество может заряжаться с использованием присоединенного Энергохранилища, Генератора энергии или Лазерного Энергопередатчика. Эта взрывчатка сохраняет свой заряд, пока её переносят к месту взрыва. После чего её можно взорвать с помощью клавиши альтернативного взаимодействия (по умолчанию «SHIFT»+«E»).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>&quot;Каждый раз, когда запас энергии умножается на 10, уровень заряда увеличивается на 1! &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Советы и Хитрости!</Text>
+				</Header>
+				<Paragraph><Text>- Требуемая энергия увеличивается в геометрической прогрессии!</Text>
+</Paragraph>
+				<Paragraph><Text>- Уровень 1 заряда = 100 Энергии.</Text>
+</Paragraph>
+				<Paragraph><Text>- Уровень 2 заряда = 1000 Энергии.</Text>
+</Paragraph>
+				<Paragraph><Text>- Уровень 3 заряда = 10000 Энергии.</Text>
+</Paragraph>
+				<Paragraph><Text>- Уровень 4 заряда = 100 000 Энергии.</Text>
+</Paragraph>
+				<Paragraph><Text>- Уровень 5 заряда = 1 000 000 Энергии.</Text>
+</Paragraph>
+				<Paragraph><Text>- Уровень 6 заряда = 10 000 000 Энергии.</Text>
+</Paragraph>
+				<Paragraph><Text>- И так далее!</Text>
+</Paragraph>
+				<Paragraph><Text>- Промежуточные уровни энергии не дают дополнительного радиуса взрыва!</Text>
+</Paragraph>
+				<Paragraph><Text>- Достичь 6-го уровня даже с доступными в игре источниками энергии будет не так просто!</Text>
+</Paragraph>
+				<Header>
+					<Text>Осторожно!</Text>
+				</Header>
+				<Paragraph><Text>&quot; Имеет очень короткий запал! Случайно взорвать свою базу - как два пальца!&quot;</Text>
+</Paragraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>CoalOrePing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hiilisysäys</Text>
+				</Title>
+				<Icon>
+					<Name>Coal Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Hiilisysäystä käytetään lisähiilisuonien löytämniseen jos edellinen löydetty on loppumasssa tai on liian pieni käytettäväksi. Lisätietoja tyhjän malmisysäyksen apusivulla.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Blank Ore Ping</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

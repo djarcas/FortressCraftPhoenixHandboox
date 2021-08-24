@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>CastingPipeStraight</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Casting Pipe (Straight)</Text>
+				</Title>
+				<Icon>
+					<Name>Straight Casting Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Allows molten metal to flow from Blast Furnace to Continuous Casting Basin</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

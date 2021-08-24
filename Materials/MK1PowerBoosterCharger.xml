@@ -1,0 +1,71 @@
+<MaterialEntry>
+	<Key>MK1PowerBoosterCharger</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Power Booster Charger MK1</Text>
+				</Title>
+				<Icon>
+					<Name>MK1PowerBoosterCharger</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					<Text>This machine will auto-craft and charge up the MK1 Power Boosters. Uses Copper Coils and some power.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Manufacturing Time:
+					Power Required:
+					Power Capacity:
+					Max. Power Recharge Rate:
+					Power Restored:</Left>
+					
+					<Right>5 seconds
+					100 per second
+					1000
+					1000 per second
+					100</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK1</Material>
+					</Target>
+					<Text>ARTHER Power Booster MK1</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK2</Material>
+					</Target>
+					<Text>ARTHER Power Booster MK2</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK3</Material>
+					</Target>
+					<Text>ARTHER Power Booster MK3</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK4</Material>
+					</Target>
+					<Text>ARTHER Power Booster MK4</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK5</Material>
+					</Target>
+					<Text>ARTHER Power Booster MK5</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

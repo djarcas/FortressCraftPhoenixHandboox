@@ -1,0 +1,48 @@
+<MaterialEntry>
+	<Key>CargoLiftImproved</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Improved Cargo Lift</Text>
+				</Title>
+				<Icon>
+					<Name>Improved Cargo Lift</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The second available Cargo Lift is much faster and much larger than the Basic one. This is ideal for en-masse delivery of deeper materials such as Nickel, Crystal and Biomass.</Text>
+					<Text>If you're in Rapid Game Mode, the Improved Cargo Lift will Carry double the Cargo</Text>
+				</Paragraph>
+
+				<Spacer/>
+				<Header><Text>Specifications</Text>
+</Header>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>Maximum Range:
+					Maximum Speed:
+					Acceleration:
+					Maximum Capacity
+					Power Usage (Travelling):
+					</Left>
+					<Right>Unlimited
+					10 metres/sec (20 on rapid)
+					0.5 metres/sec/sec
+					1000 (2000 on Rapid)
+					250 PPS
+					</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Cargo Lift Controller</Material>
+					</Target>
+					<Text>CargoLift Controller</Text>
+				</Link>
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

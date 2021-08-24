@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>suit upgrades</Handle>
+	<Title>Pukupäivitykset</Title>
+	<Icon>Suit Upgrading</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pukupäivitykset</Text>
+				</Title>
+				<Icon>
+					<Name>SuitUpgrades</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Pienillä säädöillä pitäisi olla mahdollita tuottaa pukupävityksiä peruskonesuunnitelmista jotka on pienennetty puettaviksi. Ilmiselvimmät päivitykset ovat parempi aurinkokenno ja kylmäeriste tehokkaampaan työskentelyyn tällä vihamielisellä planeetalla. Tarvitset vesisuihkuleikkuripäivitystä valmiostusasemaan tätä varten!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Käyttääksesi pukupäivitystä valmista sellainen ja pidä sitä tavaraluettelossasi.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

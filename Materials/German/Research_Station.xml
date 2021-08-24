@@ -1,0 +1,84 @@
+﻿<MaterialEntry>
+	<Key>ResearchStation</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Forschungsstation</Text>
+				</Title>
+				<Icon>
+					<Name>Research Station</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die Forschungsstation bietet die notwendigen Einrichtungen, um mehr über diesen Planeten zu erfahren; seine Mineralien, Fauna und Flora. Es ermöglicht Ihnen, die von Ihrem Scan-Tool aufgezeichneten Informationen zu verarbeiten und die neuen Technologien zu erforschen, um Ihnen beim Überleben zu helfen. Viele der fortgeschritteneren Forschungsthemen gehen über die Fähigkeiten der Forschungsstation hinaus und erfordern Unterstützung von einem Laboratorium.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Um die Forschungsstation zu verwenden, drücken Sie Ihre Interaktionstaste (Standard \&apos;E\&apos;). Dies öffnet das Forschungsmenü, das drei Registerkarten für die Bearbeitung von Scans, Rezepten und Projekten enthält.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Verarbeitungsscans</Text>
+				</Header>
+				<Paragraph>
+					<Text>Ihr Anzug ist mit einem Scan-Werkzeug ausgestattet (Standard \&quot;M\&quot;), die sekundäre Aktion dieses Werkzeugs ermöglicht es Ihnen, ein unbekanntes Material auf der Welt zu scannen. Das Werkzeug scannt automatisch auch unbekannte Materialien, die von Ihrem Bauwerkzeug aufgenommen wurden. Diese Information ist mit der Forschungsstation verknüpft.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Die erste Registerkarte in der Forschungsstation listet alle noch unbekannten Materialien auf und ermöglicht es Ihnen, diese Scans zu verarbeiten, um mehr über sie zu erfahren. Die Bearbeitung des Scans kostet Energie und gewährt die Anzahl der angezeigten Forschungspunkte, die zur Erforschung zusätzlicher Rezepte oder Projekte verwendet werden können.</Text>
+				</Paragraph>
+
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Rezepte recherchieren</Text>
+				</Header>
+				<Paragraph>
+					<Text>Durch das Verarbeiten von Scans und das Abschließen von Forschungsprojekten können neue zu recherchierende Rezepte freigeschaltet werden. Dies sind in der Regel neue Maschinen, die Ihnen helfen können, zu überleben und Ihre Reise fortzusetzen. Jeder hat seine Kosten in Forschungspunkten und Energie, Sie sollten Ihre Forschungspunkte sorgfältig ausgeben, wenn Sie ausgehen, müssen Sie weiter nach neuen Materialien suchen und scannen.</Text>
+				</Paragraph>
+	
+				<Paragraph>
+					<Text>Die meisten der recherchierten Rezepte können dann in der Produktionsstätte hergestellt werden, einige erfordern spezialisierte Konstruktionseinrichtungen. Weitere Informationen finden Sie im Handbuch zum Überlebenshandbuch auf der Maschine.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Die Forschungsstation kann direkt vom Zentralen Energie Verterteiler (ZEV) betrieben werden, die Leistungsübertragungsrate ist jedoch begrenzt, wenn die ZEV niedrig ist.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Projekte recherchieren</Text>
+				</Header>
+				<Paragraph>
+					<Text>Projekte verbessern in der Regel Ihr Technologie-Level in einem bestimmten Bereich, indem Sie neue Rezepte entweder direkt oder über den Tab \&quot;Rezepte\&quot; in der Forschungsstation freischalten. Einfache Projekte können von der Forschungsstation allein auf Kosten von Strom- und Forschungspunkten durchgeführt werden. Kompliziertere Projekte erfordern die Unterstützung des Labors. Das Labor ist selbst ein Forschungsprojekt, das freigeschaltet werden muss.</Text>
+				</Paragraph>
+				<Paragraph>
+					<ResearchRequirements>&quot;\t
+
+ &quot;<Research>Advanced Research</Research>
+					</ResearchRequirements>
+					<Text>For more information on Laboratory research projects please visit the following guide_</Text>
+				</Paragraph>
+					
+				<Link>
+					<ResearchRequirements>
+						<Research>Advanced Research</Research>
+					</ResearchRequirements>
+				
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research Guide</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Chapter>unknown materials</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Unknown Materials</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>
+

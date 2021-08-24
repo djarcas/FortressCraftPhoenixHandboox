@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>TinCoil</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>锌线圈</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>一个简单的锌线圈，由锌线在绕线机制造。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Key>ConstructionPaste</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>建筑糊</Text>
+				</Title>
+				<Icon>
+					<Name>Construction Paste</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>建筑浆料是通过重新配置无机重组装置制成的材料。 防护服的无机重组装置用于自动修补衣服的严重损伤部分，以避免在真空中快速减压。 通过研究这些系统，通常在这些修复过程中使用的物质与这种行星石头中发现的微生物融合。 新的物质已经被命名，因为它可以用于制作各种装饰和加固方块。 已经设计了一个系统，应该能够模仿防护服的无机重组装置，以明确制造这种新物质。 携带该浆料似乎也提供了增加可用库存空间的好处。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Construction Paste Grinder</Material>
+					</Target>
+					<Text>Construction Paste Grinder</Text>
+				</Link>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

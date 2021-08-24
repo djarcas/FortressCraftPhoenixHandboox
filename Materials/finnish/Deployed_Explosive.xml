@@ -1,0 +1,48 @@
+﻿<MaterialEntry>
+	<Key>DeployedExplosive</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Asennettu räjähde</Text>
+				</Title>
+				<Icon>
+					<Name>Deployed Explosive</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ladattava pommi lataustason mukaan laajenevalla räjähdyssäteellä.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Vinkkejä ja temppuja!</Text>
+				</Header>
+				<Paragraph><Text>- Tämä kone vaatii enenevässä määrin virtaa!</Text>
+</Paragraph>
+				<Paragraph><Text>- Taso 1 = 100 energiaa.</Text>
+</Paragraph>
+				<Paragraph><Text>- Taso 2 = 1000 energiaa.</Text>
+</Paragraph>
+				<Paragraph><Text>- Taso 3 = 10 000 energiaa.</Text>
+</Paragraph>
+				<Paragraph><Text>- Taso 4 = 100 000 energiaa.</Text>
+</Paragraph>
+				<Paragraph><Text>- Taso 5 = 1 000 000 energiaa.</Text>
+</Paragraph>
+				<Paragraph><Text>- Taso 6 = 10 000 000 energy.</Text>
+</Paragraph>
+				<Paragraph><Text>- ja niin edelleen!</Text>
+</Paragraph>
+				<Paragraph><Text>- Välitason energia ei anna lisäräjähdyssädettä!</Text>
+</Paragraph>
+				<Paragraph><Text>- Tason 6 saavuttaminen nykyisillä toteutetuilla energiatuotannolla on jo haaste!</Text>
+</Paragraph>
+				<Header>
+					<Text>Varoitus!</Text>
+				</Header>
+				<Paragraph><Text>Sytytyslanka on lyhyt! Tukikohdan räjäyttäminen vahingossa on juttu!</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

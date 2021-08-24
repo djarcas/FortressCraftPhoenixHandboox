@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>AmpuleMK5</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>MK5 Ampule</Text>
+				</Title>
+				<Icon>
+					<Name>MK5 Ampule</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+        <Paragraph>
+          <Text>Ampules allow your suit to inject healing nanites into your bloodstream, utilising extra power, but allowing your health to regenerate faster than normal.</Text>
+        </Paragraph>
+        <Paragraph>
+          <Text>Power usage is directly related to the boost rate. Be aware of this under high-power usage conditions.</Text>
+        </Paragraph>
+        <Paragraph>
+          <Text>You can either place these on your hotbar, then use them as you would any other item, or you can place them into your Suit Inventory. When placed here, they will automatically trigger when your health is low.</Text>
+        </Paragraph>
+        <Spacer/>
+
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Heal Boost Timer:
+					Heal Boost Rate:
+					</Left>
+					<Right>45 seconds
+					x8
+					</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+				
+
+				
+	</Pages>
+</MaterialEntry>
+

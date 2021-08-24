@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>TopazCrystal</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>黄玉水晶</Text>
+				</Title>
+				<Icon>
+					<Name>Topaz Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>黄玉水晶（托帕石/Topaz [梵]）是用作升级的基础材料的稀有材料。 它可以在深度-300到-375之间的洞穴中找到。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

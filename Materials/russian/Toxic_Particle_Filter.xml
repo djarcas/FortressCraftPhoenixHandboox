@@ -1,0 +1,22 @@
+﻿<MaterialEntry>
+	<Key>ToxicParticleFilter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Фильтр Токсичных Примесей</Text>
+				</Title>
+				<Icon>
+					<Name>Toxic Particle Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Усовершенствованные фильтры вашего костюма позволяют удалять из воздуха токсичные вещества. 
+Создайте одно такое устройство и храните его в инвентаре, чтобы улучшить костюм.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

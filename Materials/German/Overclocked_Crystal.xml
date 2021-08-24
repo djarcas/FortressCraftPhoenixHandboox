@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>OverclockedCrystalClock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Übertakteter Kristall</Text>
+				</Title>
+				<Icon>
+					<Name>Overclocked Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Übertacktete Kristalluhr ist eine fortschrittlichere Kristalluhr, die durch Übertakten einer normalen Kristalluhr mit enormer Kraft erzeugt wird. Übertacktete Kristalluhren werden in einer Vielzahl von fortgeschrittenen Maschinen verwendet, die häufiger der Tier-4-Variante angehören. &quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>OverClocker</Material>
+					</Target>
+					<Text>OverClocker</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

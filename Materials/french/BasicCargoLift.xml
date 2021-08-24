@@ -1,0 +1,53 @@
+﻿<MaterialEntry>
+	<Key>CargoLiftBasic</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ascenseur de Fret Basique</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Cargo Lift</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Le plus petit des Ascenseurs de Fret disponible, il est idéal pour fournir en masse des minerais tels que le Fer ou le Lithium.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>&quot;Portée Maximale:
+ Vitesse Maximale:
+ Accélération:
+ Capacité Maximale:
+ Utilisation Énergétique (en Déplacement) :
+ &quot;</Left>
+					<Right>&quot;Illimitée
+ 5 mètres/sec
+ 0.5 mètres/sec/sec
+ 300
+ 35 EPS
+ &quot;</Right>
+				</TwoColumnParagraph>
+
+				<Icon>
+					<Name>Cargo Lift Controller</Name>
+					<Target><Material>Cargo Lift Controller</Material>
+</Target>
+				</Icon>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Cargo Lift Controller</Material>
+					</Target>
+					<Text>CargoLift Controller</Text>
+				</Link>
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

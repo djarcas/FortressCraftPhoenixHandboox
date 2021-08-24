@@ -1,0 +1,30 @@
+<MaterialEntry>
+	<Key>CoxComb</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>CoxComb</Text>
+				</Title>
+				<Icon>
+					<Name>CoxComb</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A nondescript plant found on the surface and within the caverns of this planet.</Text>
+				</Paragraph>
+		
+				<Spacer/>
+				<Paragraph>
+					<Text>This plant can be burned for power.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Seeds of this can be used in the Ampule Crafter.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

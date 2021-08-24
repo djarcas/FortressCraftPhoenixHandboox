@@ -1,0 +1,155 @@
+﻿<Chapter>
+	<Handle>first night</Handle>
+	<Title>Ensimmäisestä illasta selviytyminen</Title>
+	<Icon>Torch</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ensimmäisestä illasta selviytyminen</Text>
+				</Title>
+				<Paragraph>
+					<Text>Tämä on askelittainen opas ensimmäisestä illasta selviytymiseen. Jos et halua paljastuksia lopeta lukeminen nyt!</Text>
+				</Paragraph>
+				<Header>
+					<Text>Opastuksen suorittaminen</Text>
+				</Header>
+				<Paragraph>
+					<Text>Heräät aluksesi törmäyksestä syntyneen kraaterin ja perusaseman vierestä. Ensimmäinen tehtäväsi on suorittaa lyhyt opastus. Seuraa jokaista ohjetta kerallaan. Kun opastus on suoritettu voimakenttä poistetaan.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Kerää kamppeesi ja pysy lämpimänä</Text>
+				</Header>
+				<Paragraph>
+					<Text>Avaa tavaraluettelosi painamalla \&apos;i\&apos;. Aloitat 5 soihdulla ja 3 malminluohimella. Viimeksi mainitut ovat arvokkaita koneita malmisuonien louhimiseen mutta eivät hyödytä välitöntä selvitymistä. Ensin mainitut ovat oleellisen tärkeitä.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Valitse pikapalkin kolo, jossa soihtujen ikoni on, ja aseta sellainen muutaman palikan päähän koneista. Lähellä seisominen antaa sekä valoa että myös lämpöä. Pukuilmaisin yläoikeassa ruudunnurkassa ilmaisee ulkoisen lämpötilan ja puvun sisäisen lämpötilan. Pukusi pitää sinut automattisesti lämpimänä mutta tämä maksaa energiaa. Jos seisot soihdun lähellä voit huomata ulkoisen lämpötilan nousevan mikä tarkoittaa että pukusi käyttää vähemmän virtaa pitääkseen sinut lämpimänä. Varo kuumenemasta liikaa sillä pukusi rupeaa viilentämään sinua!</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Kerää polttoainetta</Text>
+				</Header>
+				<Paragraph>
+					<Text>Kone jossa on iso laaser on päävirtakeskuksesi. Se on voimala, joka kerää aurinkoenergiaa ja pitää sisällään pienen aggregaatin joka polttaa materiaaleja tehdäkseen virtaa. Se syöttää virtaa lähikoneille ja voimavarastolohkoille.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Voit ottaa virtaa suoraan keskuksesta vuorovaikuttamalla sen kanssa painamlla (\&apos;e\&apos;) ja sitten painamlla \&apos;Ota virtaa\&apos;. Pelin alussa polttoainevarasi ovat rajattu siihen mitä opastuksesta saa ja eivät kestä kauaa. Siksi uusi tehtäväsi on kerätä polttoainetta.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Jos olet valinnnut helpon vaikeusasteen saat hiilisuonen ja malmiluohimen. Muutoin sinun tarvitsee löytää polttoainetta. Jos olet erittäin onnekas iskeytymiskraateri on paljastanut hiilisuonen. Mutta luotettavampi lähde polttoaineelle on läheiset puut kraaterin ympärillä. Kaiva rungot ja kerää ne. Nyt mene keskukselle, vuorovaikuta (\&apos;e\&apos;):llä ja paina \&apos;Lisää resursseja\&apos;. Tämä aloittaa yhden tukin polttamisen. Polttoainetta pitää lisätä käsin kunnes sinulla on resursseja automatisoida tämä prosessi.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Tukkeja polttamalla sinun pitäisi nopeasti huomata että voimavarastolohkon grafiikka alkaa pyöriä, mikä tarkoittaa että se kerää virtaa. Voit vetää virtaa sieltä tai odottaa että se on täysi joilloin virtaa säilötään keskukseen.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Tutki ympäristöäsi</Text>
+				</Header>
+				<Paragraph>
+					<Text>Nyt kun sinulla on tasainen virtalähde voit alkaa tutkia ympäristöäsi. Virran jonka kulutat pukusi lämpimänä pitämiseen voit täydentää keskuksesta. Tarkkaile virtatasoja ylävasemmassa kulmassa. Jos palkki on tyhjä, alat nopeasti viiletä siihen pisteeseen että voit pyörtyä hypotermiasta.</Text>
+				</Paragraph>
+	
+			</Paragraphs>
+				
+		</Page>
+		<Page>				
+			<Paragraphs>
+				<Paragraph>
+					<Text>&quot;Varmista että sinulla on tarpeeksi virtaa päästä takaisin törmäyspaikkalle ja ladata keskuksesta.
+ &quot;</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Puvussasi on luotain joka on korvaamaton selviytymiseen. Voit valita työkalun painamalla M. Voit nyt luodata painamalla oikeaa hiirenpainiketta tai lähettää materiaalisysäyksen vasemmalla painikkeella. Varo käyttämästä sysäyksiä tarpeettomasti, ne käyttävät suuren määrän pukusi virtaa.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Seuraava tutkimustehtäväsi on luodata ympäristösi. Tähtää palikkaa jota et ole luodannut vielä, ota luotain esille ja pidä oikea hiirenpainike painettuna kunnes ponnahdusikkuna vasemmalla-alhaalla kertoo luotauksen valmistuneen. Yritä luodata kaikki palikat ympäristöstäsi mukaanlukien lumi, multa, tukit ja lehdet!</Text>
+				</Paragraph>
+				<Header>
+					<Text>Tutki ympäristöäsi</Text>
+				</Header>
+				<Paragraph>
+					<Text>Nyt kun olet luodannut nämä palikat on aika prosessoida luotaukset tutkimusasemassa törmäysalueella. Avaa liittymä painammalla \&apos;e\&apos;. Ikkuna näyttää sinulle listan käsittelemättömistä luotauksista joiden perässä ilmenee kuinka monta tutkimuspistettä ne antavat tullessaan käsitellyiksi. Tutkimuspisteet eivät ole tärkeitä nyt joten älä kiinnitä niihin huomiota. Käsittele kaikki luotaukset joita sinulla on listassa. Jokainen vaatii virtaa käsittelyyn, mutta jos olet pitänyt keskuksesi täytettynä tukeilla tai hiilellä sen virtapalkki pitäisi olla enimmäkseen täynnä ja riittää kaikkien luotausten käsittelyyn.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Luotauksien käsittely voi avata joitakin tutkimusprojekteja mutta nyt sinun ei tarvitse huolehtia siitä, ympäristösi luotauksella oli tärkeämpi päämäärä.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Sysäyksetä ympäristösi</Text>
+				</Header>
+				<Paragraph>
+					<Text>Pukusi tietää palikat jotka olet luodannut ja käsitellyt ja niiden ominaisuudet. Tämä mahdollistaa materiaalien käytön materiaalisysäyksissä merkittävin vaikutuksin.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Erityisesti \&apos;tuntematon materiaali\&apos;-sysäystä käytämme löytääksemme seuraavan suonen. Vaihda luotaimeen ja \&apos;tuntematon materiaali\&apos; sysäys valittuna, paina vasenta hiiirenpainiketta. Tämä korostaa palikat joiden ominaisuuksia pukusi ei vielä tiedä kantamalla.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>&quot;Jos et luodannut kaikkea ympäristöäsi tämä sysäys palauttaa kaiken törmäysalueella kuten mullan ja kiven. Jos näin tapahtuu, luotaa ja käsittele nämä palikat ja sitten yritä uudestaan. &quot;</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Jos onnistuit sinun pitäisi nähdä rykelmä tuntemattomia lukemia jossain maan alla tai läheisillä kukkuloilla. Seuraa virtatasoja kuitenkin, ei ole tarvetta jäätyä!</Text>
+				</Paragraph>
+				<Header>
+					<Text>Kaiva suonille</Text>
+				</Header>
+				<Paragraph>
+					<Text>Nyt sinun täytyy kaivaa reitti noille lukemille ja katsoa mitä ne ovat. Luotaa malmisuoni ja käsittele se. Huomaat että ne antavat enemmän tutkimuspisteitä kuin tavalliset materiaalit. Kun tiedät malmipalikan voit mennä takaisin suonelle ja luodata sen uudestaan ja työkalu kertoo tietoa tästä nimenomaisesta suonesta; kuinka suuri se on ja kuinka paljon malmia se sisältää (tämä ei ole sama).</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Käytä tartuntakoukkuasi (\&apos;F\&apos;) päästäksesi nopeasti pois rei\&apos;istä joihin tiput.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Paragraph>
+					<Text>Jos et pelaa helpolla vaikeustasolla ensimmäinen malmi jonka haluat löytää on hiili. Jos löydät kuparin, tinan tai raudan, tämä on mahtavaa myöhemmin mutta ei välittömästi käytettävissä. Yritä muistaa paikka jos voit, palaamme niihin myöhemmin. Jos et muista, ei sen niin väliä, voimme käyttää malmisysäystä myöhemmin.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Louhi hiiltä</Text>
+				</Header>
+				<Paragraph>
+					<Text>Malmisuonet FortressCraft Evolved:ssa voivat olla massivisia, sisältäen jopa miljoonia yksiköitä malmia. Niiden kaivaminen ei ole muutaman naksautuksen tapaus; sinun täytyy käyttää virtaa ja luultavasti käyttää koneita.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Ensimmäinen hiilisuoni käsilläsi vietä hieman aikaa tehdäksesi turvallisen polun suonelta takaisin törmäysalueelle. Sinun täytyy kävellä tätä polkua paljon, joten tämä on hyvin käytettyä aikaa.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Seuraavaksi sinun tulisi ladata virtasi keskuksesta ja mennä hiilisuonelle. Aseta soihtu säästääksesi lämpimänä pysyttelemisen virtakulua. Sitten tyhjennä virtasi Superkaivaaksesi hiilisuonta. Tee se pitämällä CTRL nappi pohjassa kun klikkaat oikealla hiiren näppäimellä. Tämä on tehoton tapa louhia mutta saat siitä pienen määrän hiiltä millä toimia.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Tässä vaiheessa virtasi on kulunut joten palaa nopeasti keskukselle ja lataa akkusi. Mutta nyt sinulla on parempi polttoaine pistää keskukseen: Hiili! Seuraavan kerran kun painat \&apos;Lisää resursseja\&apos; tukin sijasta pitäisi hiilimalmin ilmestyä pesään. Tämä tuottaa enemmän virtaa, joten sinun tarvitsee tehdä vähän vähemmän pikkusäätöä ylläpitääksesi voimatasot.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Työstä</Text>
+				</Header>
+				<Paragraph>
+					<Text>Hiilimalmi mahdollistaa itsevalmistusikkunan käytön uusien soihtujen tekemiseen. Paina &apos;C&apos; näyttääksesi tämän ikkunan. Tämä näyttää kaikki reseptit jotka voit tehdä ja niiden muassa ovat soihdut. Valitse soihdut ja oikealla puolella kerrotaan sen vaativan 5 hiiltä yhteen soihtuun. Paina &apos;Valmista&apos; ja soihtu lisätään tavaraluetteloosi.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Soihtuja voi myös automaattisesti valmistaa kunhan sinulla on vähintään 5 hiiltä tavaraluettelossasi. Yritä vain asettaa sellainen ja jos ne ovat loppuneet sellainen valmistetaan.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Päämäärä saavutettu!</Text>
+				</Header>
+				<Paragraph>
+					<Text>Hiilimalmi käsilläsi päävirtakeskuksen ruokkimiseen ja soihtujen hankkimiseen sinun pitäisi pystyä selviämään pinnalla loputtomasti. Tästä eteenpäin voit aloittaa toisten löydettyjen suonien luohimisen tai lähteä etsimään niitä joita et ole löytänyt. Sitten voit aloittaa metallimalmien syöttämisen sulattamolle saadaksesi harkkoja valmistusasemalle.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Voit myös ajatella käyttäväsi malmiluohijoitasi automatisoidaksesi kaivuun. Tai voit käyttää tutkimuspisteesi projekteihin selvittääksesi mitä tapahtui että päädyit planeetalle. Tai voit vastata syvännön haasteisiin ja tutkia mitä mielenkiintoisuuksia sieltä löytyy. Kaikki on sinun käsissäsi!</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</Chapter>

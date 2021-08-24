@@ -1,0 +1,41 @@
+<MaterialEntry>
+	<Key>TurretMK3</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Turret MK3</Text>
+				</Title>
+				<Icon>
+					<Name>Pop Up Turret MK3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Long range energy-based defence. Must be powered by an adjacent Power Generator, Power Storage Block or via a Laser Power Transmitter.</Text>
+				</Paragraph>
+				<Spacer/>
+        <Paragraph>
+          <Text>The MK3 turret is substantially more power-efficient than previous tiers of turrets, and the usual limiting factor in a successful defence is placement and then power usage - not generally 'number of turrets'</Text>
+        </Paragraph>
+        <Spacer/>
+				<Header><Text>Specifications</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Range:
+					Damage Per Shot:
+					Power Per Shot:
+					Max. Power Capacity:
+					Max. Power Recharge Rate:
+					Reload Time:</Left>
+					<Right>72m
+					3600
+					800
+					900
+					512 per second
+					4 seconds</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

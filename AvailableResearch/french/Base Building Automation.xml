@@ -1,0 +1,29 @@
+﻿<Chapter>
+	<Handle>T1 assist machines</Handle>
+	<Title>Automatisation de la construction de la Base</Title>
+	<Icon>Base Building Automation</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Automatisation de la construction de la Base</Text>
+				</Title>
+				<Icon>
+					<Name>Base Building Automation</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>La construction d\&apos;une vaste exploitation minière est un travail pour les machines, pas pour l\&apos;homme !</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Ce vaste projet aboutira à des machines automatisées pour l\&apos;excavation et la construction en plus d\&apos;améliorer les options disponibles pour les déplacement sur votre base.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>En plus d\&apos;ajouter une excavation automatique, ce projet va produire des explosifs qui permettrons de nettoyer une grande zone.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

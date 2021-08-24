@@ -1,0 +1,24 @@
+﻿<MaterialEntry>
+	<Name>Advanced machine block</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Avansert maskin blokk</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced machine block</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>hovud bygning blokk for avansert maskiner.</Text>
+				</Paragraph>
+				<Header>
+					<Text></Text>
+				</Header>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

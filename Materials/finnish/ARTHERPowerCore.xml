@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ARTHERPowerCore</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>AVUTIN-virtaydin</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Power Core</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Korjaa AVUTIN:n vaurion antaen hänen liikkua luotettavasti. Tarvitset vain yhden ja täytyy pitää tavaraluettelossa toimiakseen.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

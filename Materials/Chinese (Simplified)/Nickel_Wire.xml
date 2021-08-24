@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>NickelWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>镍线</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Wire</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>由挤压机中的镍锭制成的简单镍线。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

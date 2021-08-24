@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>OrganicRock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>有机岩</Text>
+				</Title>
+				<Icon>
+					<Name>Organic Rock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>有机岩石是由当地动物群自然创造的岩石。 有机岩可以被分布在世界各地，更常见于Overminds四周和洞穴系统。 有机岩也可以从Camobots掉落获得。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

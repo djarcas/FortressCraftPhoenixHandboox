@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>RuinedFacetedEye</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pilattu verkkosilmä</Text>
+				</Title>
+				<Icon>
+					<Name>WaspEyeRuined</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Paikallisten lentävien eliöiden silmät ovat hyviä optisia osia. Tämä on liian vahingoittunut käyttöön.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

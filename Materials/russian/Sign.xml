@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Sign</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Знак</Text>
+				</Title>
+				<Icon>
+					<Name>Sign</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Применение космических технологий, адаптированных к текущим условиям, позволили усовершенствовать Знак «Кибердайн». Новый Знак можно крепить на поверхности и редактировать. Знак позволяет воспроизводить любые печатаемые символы.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,25 @@
+﻿<MaterialEntry>
+	<Key>IronBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Eisenbarren</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Iron Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Eisenbarren werden generell in Maschinen verwendet, die einen robusten Aufbau benötigen. Sie werden aus Eisenerz hergestellt, welches sich in einer Tiefe von mindestens 65 Metern unter der Oberfläche befindet.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

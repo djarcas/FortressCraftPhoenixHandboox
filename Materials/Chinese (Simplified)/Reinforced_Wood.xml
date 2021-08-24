@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>ReinforcedWood</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>强化木材</Text>
+				</Title>
+				<Icon>
+					<Name>Reinforced Wood</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>一种基本的建筑材料，可以在任何地方进行加工而不需要制造工厂的服务。 打开手工制作界面（默认\&apos;C\&apos;）生产。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>ForcedInductionMK4</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 4 ahdin</Text>
+				</Title>
+				<Icon>
+					<Name>Forced InductionT4</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ahdinyksiköt ovat päivityksiä malmisulattamoon jotka lisäävät sulatusnopeutta suuresti lisääntyneen virrankulutuksen hinnalla. Käyttääksesi yksikköä aseta malmisulattamon pääälle. 
+
+ Mallin 4 ahdinpäivitykset myös tuplaavat nopeuden jolla malmia kerätään liitetyistä varastohypyttimistä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Perusmalmisulattamot eivät tue ahdinpävityksiä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Sulatusnopeus:
+					Virrankäyttö:</Left>
+					<Right>400%
+					3200%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

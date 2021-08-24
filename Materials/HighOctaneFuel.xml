@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>HighOctaneFuel</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>High Octane Fuel</Text>
+				</Title>
+				<Icon>
+					<Name>HighOctanelCanister</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Fuel for use in the orbital railgun.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

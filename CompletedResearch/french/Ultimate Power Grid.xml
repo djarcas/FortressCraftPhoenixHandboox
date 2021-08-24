@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>T5 Power</Handle>
+	<Title>Réseau d\&apos;Énergie Ultime</Title>
+	<Icon>Ultimate Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Réseau d\&apos;Énergie Ultime</Text>
+				</Title>
+				<Icon>
+					<Name>Ultimate Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Succès! Le plus grand appareil de stockage d\&apos;énergie que nous puissions avoir besoin est maintenant dans nos capacités de fabrication. En prime, nous avons également conçu un meilleur panneau solaire que nous pouvons placer directement sur nos grandes structures telles que le laboratoire, le MK4 et les nouvelles batteries MK5.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

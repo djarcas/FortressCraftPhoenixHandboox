@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>SpaceHatch</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Logistics Grommet</Text>
+				</Title>
+				<Icon>
+					<Name>Space Hatch</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Lets you transfer items through the walls of rooms to the outside and vice versa. Requires conveyors on opposite sides.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

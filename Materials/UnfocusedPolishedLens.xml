@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>UnfocusedPolishedLens</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Unfocused Polished Lens</Text>
+				</Title>
+				<Icon>
+					<Name>UnfocusedPolishedLens</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A lens that is capable of focussing a lot of energy once it goes through chroming.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

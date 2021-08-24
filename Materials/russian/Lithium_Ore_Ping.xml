@@ -1,0 +1,27 @@
+﻿<MaterialEntry>
+	<Key>LithiumOrePing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Пробник Литиевой Руды</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Ore Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Пробник Литиевой Руды используется для поиска дополнительных литиевых жил, когда известные вам жилы исчерпаны или недостаточны по объёму. Дополнительную информацию см. в справочном руководстве по Пустым Рудным Пробникам.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Blank Ore Ping</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,42 @@
+﻿<MaterialEntry>
+	<Key>ARTHERTurret</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER 炮塔</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>一个长距高效炮塔，缺点是它必须由ARTHER操作。 要使用它，高亮显示炮塔并按下交互键（默认为\&apos;E\&apos;）将ARTHER停靠在炮塔上。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>炮塔可以采用外部供电，也可以使用ARTHER的能量储备。 如果炮塔外部供电，ARTHER将供能充足，无限期地运行。 如果ARTHER断电，他将会停用炮塔并返回用户。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>范围：
+  伤害（每次射击）：
+  电源要求（每次拍摄）：
+  最大功率容量：
+  装填时间：
+  成员：</Left>
+					<Right>64m
+ 33
+ 5
+ 150
+ 10秒
+ 1 (ARTHER)</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

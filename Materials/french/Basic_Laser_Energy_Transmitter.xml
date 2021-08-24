@@ -1,0 +1,44 @@
+﻿<MaterialEntry>
+	<Key>BasicLaserEnergyTransmitter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Transmetteur d’Énergie Laser Basique</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Laser Energy Transmitter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Étant le moins cher et le plus basique des dispositifs de transmission d\&apos;énergie ce transmetteur est inadapté à toute tâche et ne devrait être utilisé qu\&apos;en derniers recours.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Le Transmetteur d’Énergie Laser Basique peut seulement transmettre assez d\&apos;énergie pour faire fonctionner deux extracteurs de minerai non améliorés. A cause de sa vitesse de transmission extraordinairement basse, améliorer vers une option de transmission plus avancée est recommandé une fois découverte.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Pour ouvrir le panneau de contrôle du TÉL pressez la touche \&apos;Interagir\&apos; (défaut \&apos;E\&apos;). Cela permet d\&apos;améliorer la lentille qui augmente le transfert d\&apos;énergie. Vous pouvez aussi basculer le mode de transmission pour qu\&apos;il attende que la batterie soit pleine avant de transmettre. Les TÉL ne possédants qu\&apos;un petit stockage interne considérez l\&apos;ajout d\&apos;un Bloc de Stockage d’Énergie pour assurer un approvisionnement fiable en énergie en fonction de l\&apos;offre et la demande.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Taille du paquet d\&apos;énergie:↵
+ Débit paquets maximal:↵
+ Taux maximal de transfert d\&apos;énergie:↵
+ Stockage Interne d\&apos;Energie:↵
+ Portée Maximale :</Left>
+					<Right>0.9↵
+ 1 par seconde↵
+ 0.9 par seconde↵
+ 18↵
+ 32m</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

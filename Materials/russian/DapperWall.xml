@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>DapperWall</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Щегольская Стена</Text>
+				</Title>
+				<Icon>
+					<Name>DapperWall</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Декоративный блок из DLC DAPPER Indie Support\&apos;s Pack. Спасибо за вашу поддержку разработки FortressCraft!</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

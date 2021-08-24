@@ -1,0 +1,44 @@
+﻿<Chapter>
+	<Handle>findingSurvival</Handle>
+	<Title>如何玩生存模式</Title>
+	<Icon>Unknown</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>如何玩生存模式</Text>
+				</Title>
+				<Paragraph>
+					<Text>这是一个创造模式的游戏。开始生存世界：</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>回到主菜单。 进入世界选择室，选择一个空的插槽（向右箭头或单击表格）。 在游戏模式旁边有箭头，您可以点击将游戏模式更改为“生存”。 按“创造世界”开始游戏</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Spacer/>
+				<Header>
+					<Text>我没法选择游戏模式？</Text>
+				</Header>
+				<Paragraph>
+					<Text>您不能更改现有世界的游戏模式。 选择一个空槽位。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>我的世界槽位都满了！</Text>
+				</Header>
+				<Paragraph>
+					<Text>您可以从世界选择界面重置一个世界，所有与这个世界相关的数据将被删除。 如果要备份您的世界，则在最新版本的Windows上，可以在以下文件夹中找到：％AppData％.local/LowrojectorGamesortressCraftorlds。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>这是行不通的！</Text>
+				</Header>
+				<Paragraph>
+					<Text>如果您仍然无法启动生存模式，请在Steam讨论板上发帖。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

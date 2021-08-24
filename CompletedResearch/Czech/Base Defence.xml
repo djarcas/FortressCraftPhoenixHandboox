@@ -1,0 +1,27 @@
+﻿<Chapter>
+	<Handle>Base Defence</Handle>
+	<Title>Obrana Základny</Title>
+	<Icon>&gt;ARTHER Turret</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Obrana Základny</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nyní můžeme přinést SVOBODU této planetě!</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Náš základní výzkum v oblasti obrany byl úspěšný, nyní máme k dispozici tři věže dostupné pro výrobu. ARTHERova věž je efektivní a má dlouhý dosah, ale musí být ovládána ARTHERem, proto je jí pečlivě umístit, abychom ochránili naši základní infrastrukturu, zatímco jsme shromažďovali materiály potřebné pro vybudování a napájení samostatných věží.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>SpacePanel</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Room Wall Panel</Text>
+				</Title>
+				<Icon>
+					<Name>Space Panel</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Paintable, reinforced wall, specifically designed for Rooms.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

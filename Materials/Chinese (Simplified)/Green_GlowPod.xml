@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>GreenGlowPod</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>绿色发光器</Text>
+				</Title>
+				<Icon>
+					<Name>Green GlowPod</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>由于表面下发生的化学反应，该原生植物品种会发出稳定的绿色光芒。</Text>
+				</Paragraph>
+		
+				<Spacer/>
+				<Paragraph>
+					<Text>这种植物可以用来当柴烧。</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

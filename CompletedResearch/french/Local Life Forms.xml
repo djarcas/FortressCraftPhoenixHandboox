@@ -1,0 +1,27 @@
+﻿<Chapter>
+	<Handle>Local Life Forms</Handle>
+	<Title>Formes de Vies locales</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Formes de Vies Locales</Text>
+				</Title>
+				<Icon>
+					<Name>Local Life Forms</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Cette planète semble contenir une grande variété de vie végétale et animale, tous ne sont pas amicaux.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Les scanners détectent un certain nombre de formes de vie proches qui présentent un risque potentiel. Le design pour un Scanner de Menaces est disponible pour surveiller leurs progrès. Nous devrions également enquêter sur la mise en place de certaines défenses de base. Potentiellement plus préoccupant, nous avons détecté un certain nombre de grandes structures organiques souterraines qui pourraient interférer avec nos efforts pour sécuriser un approvisionnement fiable en ressources.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

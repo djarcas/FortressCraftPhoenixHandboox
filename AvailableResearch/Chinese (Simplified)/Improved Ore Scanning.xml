@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>ore pings</Handle>
+	<Title>提升矿物扫描</Title>
+	<Icon>Improved Ore Scanning</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>提升矿物扫描</Text>
+				</Title>
+				<Icon>
+					<Name>Improved Ore Scanning</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>我们在寻找资源扩展基地时遇到了问题！</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>我们的矿石扫描仪拥有定位未知材料并进行研究和分类的功能。但它在寻找已知材料的新来源方面的能力有限。也许可以使用少量的备用矿石作为过滤器，使我们能够找到我们所需要的资源。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>suit upgrades</Handle>
+	<Title>Dräkt Uppgradering</Title>
+	<Icon>Suit Upgrading</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Dräkt Uppgradering</Text>
+				</Title>
+				<Icon>
+					<Name>SuitUpgrades</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Din omgivningsdräkt är den mest avancerade tekniken som människan känner till. Tyvärr beror dess användbarhet på ett modulärt uppgraderingssystem som för närvarande ligger utanför våra tillverkningskapaciteter. Det är dags att titta på hur man kan skapa egna uppgraderingar borta från fabrikerna hemma. Du kan behöva lite hjälp för överlevnad i denna stränga miljö.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

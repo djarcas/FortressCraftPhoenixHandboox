@@ -1,0 +1,28 @@
+﻿<MaterialEntry>
+	<Key>ZipperMerge</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kombinator</Text>
+				</Title>
+				<Icon>
+					<Name>Zipper Merge</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>&quot;Der Einfach-Kombinator führt zwei Förderbandlinien im Reißverschlussverfahren 1:1 zusammen. Der Einfach-Kombinator kann 100 Gegenstände pro Minute verarbeiten.  Der Einfach-Kombinator ist am sinnvollsten um eine Produktion, die von zwei Gegenständen die selbe Menge braucht wie z.B. \&quot;Low-Grade Steel Alloy\&quot;, zu automatisieren.&quot;</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Conveyor Belt</Material>
+					</Target>
+					<Text>Conveyor Belt</Text>
+				</Link>
+			
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

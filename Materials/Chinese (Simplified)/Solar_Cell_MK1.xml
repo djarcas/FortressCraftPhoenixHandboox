@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>SolarCellMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>太阳能单元 MK1</Text>
+				</Title>
+				<Icon>
+					<Name>Solar Cell MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>一个你应该第一个研究，生产和安装的防护服升级，MK1太阳能电池提供明显更多的地表能量来源。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

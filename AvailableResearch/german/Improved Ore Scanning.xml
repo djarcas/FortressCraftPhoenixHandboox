@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>ore pings</Handle>
+	<Title>Verbesserter Rohstoffscanner</Title>
+	<Icon>Improved Ore Scanning</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Verbesserter Rohstoffscanner</Text>
+				</Title>
+				<Icon>
+					<Name>Improved Ore Scanning</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Wir sind auf ein Problem bei der Suche nach Rohstoffen gestoßen, die wir benötigen um unsere Basis zu erweitern!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Der Scanner ist in der Lage unbekannte Erze aufzuspüren. Seine Fähigkeiten ein spezifisches Erz zu finden sind hingegen limitiert. Es sollte möglich sein mit einer kleinen Erzprobe im Scanner, welche als Filter fungiert, ein spezifisches Erz zu lokalisieren.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>CopperHousing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Медный Корпус</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Простой медный корпус, созданный из медных пластин.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

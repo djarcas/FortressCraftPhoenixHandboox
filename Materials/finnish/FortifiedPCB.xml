@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>FortifiedPCB</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Linnoitettu piirilevy</Text>
+				</Title>
+				<Icon>
+					<Name>Fortified PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nikkelipohjainen piirilevy joka on tehty nikkelikeloista piirilevykokoajassa.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

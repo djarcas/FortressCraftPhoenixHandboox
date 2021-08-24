@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>SoftResin</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Мягкая Смола</Text>
+				</Title>
+				<Icon>
+					<Name>Soft Resin</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Мягкая Смола - судя по всему, это продукт деятельности Сверхразумов, пытающихся достать ЦЭ-Концентратор. Сверхразумы поселились, ориентировочно, по диагональным направлениям от нашей базы. В тех местах много Органического Камня.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

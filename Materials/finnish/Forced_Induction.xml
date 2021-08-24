@@ -1,0 +1,33 @@
+﻿<MaterialEntry>
+	<Key>ForcedInductionMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ahdin</Text>
+				</Title>
+				<Icon>
+					<Name>Forced Induction</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ahtimet ovat päivityksiä malmisulattamoon jotka lisäävät sulatusnopeutta lisääntyneen virrankulutuksen hinnalla. Käytä asettamalla malmisulattamon päälle.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Perusmalmisulattamot eivät tue ahdinpäivityksiä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Sulatusnopeus:
+					Virrankäyttö:</Left>
+					<Right>200%
+					800%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

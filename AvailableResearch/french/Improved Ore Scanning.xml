@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>ore pings</Handle>
+	<Title>Scanneur de minerai amélioré</Title>
+	<Icon>Improved Ore Scanning</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Amélioration du Scanner de Minerai</Text>
+				</Title>
+				<Icon>
+					<Name>Improved Ore Scanning</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nous avons rencontré un problème dans notre recherche de ressources pour agrandir notre base !</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Notre scanner de minerai est configuré pour trouver les matériaux inconnus pour recherche et classification. Sa capacité à trouver de nouvelles sources de matériaux connus spécifiques est limitée. Il devrait être possible d\&apos;utiliser une petite quantité de minerai en tant que filtre avancé, ce qui nous permettrait de localiser les ressources dont nous avons besoin.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

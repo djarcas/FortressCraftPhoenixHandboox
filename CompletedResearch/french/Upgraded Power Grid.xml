@@ -1,0 +1,25 @@
+﻿<Chapter>
+	<Handle>T2 Power</Handle>
+	<Title>Réseau d\&apos;Énergie Amélioré</Title>
+	<Icon>Upgraded Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Réseau d\&apos;Énergie Amélioré</Text>
+				</Title>
+				<Icon>
+					<Name>Upgraded Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nous avons développé une nouvelle batterie capable de supporter une charge beaucoup plus importante. Nous avons également un design pour un Laser Transmetteur d\&apos;Énergie plus puissant, mais cela nécessite des matériaux avec des propriétés plus avancées que celles trouvées près de la surface.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Il est possible que nous puissions apporter d\&apos;autres améliorations à notre stockage et à notre transmission d\&apos;énergie, mais nous devrons effectuer des recherches sur des matériaux plus avancés avant de pouvoir le faire.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

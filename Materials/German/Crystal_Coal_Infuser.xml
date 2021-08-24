@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>CoalInfuser</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kristallkohleneinflöser</Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Coal Infuser</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Kristallkohleneinflöser nutzt eine geringe Menge Energie um Kristallkohle herzustellen. Kristallkohle erzeugt im Generator mehr Energie als angereicherte Kohle. Die Maschine benötigt 0.4 Energie pro Minute.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>suit upgrades</Handle>
+	<Title>Atualização da Armadura</Title>
+	<Icon>Suit Upgrading</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Atualização da Armadura</Text>
+				</Title>
+				<Icon>
+					<Name>SuitUpgrades</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Sua armadura ambiental é a peça mais avançada de engenharia conhecida pelo homem. Infelizmente ela depende de melhoramentos de sistemas modulares que estão além da nossa capacidade de fabricação. É hora de pesquisar como você pode criar melhoramentos sem depender das fabricas que tínhamos em casa. Eles serão uma ajuda a sobreviver neste ambiente hostil.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

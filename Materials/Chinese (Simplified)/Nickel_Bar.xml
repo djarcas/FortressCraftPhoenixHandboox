@@ -1,0 +1,25 @@
+﻿<MaterialEntry>
+	<Key>NickelBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>镍锭</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Nickel Ore</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>镍锭通常用于先进的机器。 它们由镍矿制成，可以在表面以下至少400米处找到。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

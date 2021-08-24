@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>ConveyorTurntable</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Конвейерный Поворотный Стол</Text>
+				</Title>
+				<Icon>
+					<Name>Conveyor Turntable</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Конвейерный Поворотный Стол используется для равномерного распределения предметов в двух или трёх направлениях. Чтобы убедиться, что предметы подаются корректно избегайте непосредственного присоединения Бункеров или других Поворотных Столов.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

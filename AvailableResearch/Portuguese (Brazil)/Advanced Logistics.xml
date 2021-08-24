@@ -1,0 +1,26 @@
+﻿<Chapter>
+	<Handle>T2 assist machines</Handle>
+	<Title>Logísticas Avançadas</Title>
+	<Icon>mk1 robot arm</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Logísticas Avançadas</Text>
+				</Title>
+				<Icon>
+					<Name>mk1 robot arm</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Otimizar nossa operação de mineração requer bisturi, não um martelo. (Martelos disponíveis como uma atualização separada).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Esta pesquisa vai focar nas melhorias de armazenamento, classificação e ferramentas adicionais de construção de base.</Text>
+				</Paragraph>
+			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

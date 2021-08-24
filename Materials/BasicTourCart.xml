@@ -1,0 +1,40 @@
+<MaterialEntry>
+	<Key>BasicTourCart</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Basic Tour Cart</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart_T10</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Basic Tour carts are for riding between tour cart stations.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Max Speed:
+					Max Storage:
+					Acceleration:
+					</Left>
+					<Right>2m/s
+					0
+					1.0m/s/s</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Tour Cart Station</Material>
+					</Target>
+					<Text>Tour Cart Station</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

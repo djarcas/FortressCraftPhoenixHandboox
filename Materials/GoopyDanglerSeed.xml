@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>Seed_GoopyDangler</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>GoopyDangler Seed</Text>
+				</Title>
+				<Icon>
+					<Name>GoopyDangler</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Used to plant GoopyDanglers or for use in the Ampule Crafter</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,45 @@
+﻿<MaterialEntry>
+	<Key>LaserResinLiquifier</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>激光树脂液化器</Text>
+				</Title>
+				<Icon>
+					<Name>Laser Resin Liquifier</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+				<Paragraph>
+					<Text>这是使用和清除Hiveminds在其周围排出的硬化树脂的三步走的第二步。
+
+液化器使用高温等离子体流液化并提取液化硬质树脂的柔软内部。 
+
+然后，您可以使用液体树脂精炼机将其转换为精制液体树脂。 
+
+要将硬树脂转化为烧结硬树脂，请使用硬树脂烧蚀器</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Laser Resin Ablator</Material>
+					</Target>
+					<Text>Laser Resin Ablator</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Liquid Resin Refiner</Material>
+					</Target>
+					<Text>Liquid Resin Refiner</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>Refined Liquid Resin</Material>
+					</Target>
+					<Text>Refined Liquid Resin</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

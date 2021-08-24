@@ -1,0 +1,62 @@
+﻿<MaterialEntry>
+	<Key>ManufacturingPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Produktionsanlage</Text>
+				</Title>
+				<Icon>
+					<Name>Manufacturing Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die Produktionsanlage kann die meisten Maschinen und Gegenstände herstellen, die du zum überleben auf diesem Planeten brauchst. Einige Gegenstände benötigen spezielle Montagemaschinen, welche im Handbucheintrag für den jeweiligen Gegenstand aufgeführt werden. Um die Bedienoberfläche zu öffnen, drücke die \&apos;Benutzen\&apos; Taste (Standard \&apos;E\&apos;). Manche Gegenstände können jeder Zeit in der Anzug-Montage (Standard \&apos;C\&apos;) herstellt werden.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Fertigungs-Bedienoberfläche</Text>
+				</Header>
+			
+				<Paragraph>
+					<Text>Die Bedienoberfläche besteht aus vier Teilen. Diese sind von links nach rechts: Die Liste von verfügbaren Blaupausen, Informationen zu ausgewähltem Gegenstand, benötigte Ressourcen und unterhalb davon die Einstellungen zur Automatisierung.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Die Reiter entlang der Oberseite des Schablonen-Fensters erlauben es ihnen nach Typ zu filtern, z. B. Energie, Automatisierung und Anzug-Erweiterungen. Am unteren Rand können sie auswählen, ob sie nur die sehen möchten für die sie auch die Materialien haben. Darunter haben sie noch einen Wortfilter.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+					
+			</Paragraphs>
+		</Page>
+	
+		<Page>
+			<Paragraphs>		
+				<Paragraph>
+					<Text>Wenn eine Blaupause ausgewählt wurde, werden Informationen und die nötigen Materialien angezeigt. Sind die benötigten Materialien vorhanden, kann der Gegenstand durch drücken der \&apos;Herstellen\&apos;-Taste hergestellt werden, oder direkt 25 Stück indem [STRG] gedrückt und dann die Herstellen-Taste gedrückt werden. Auf den Gegenstand bezogene Hilfe wird bereitgestellt, wenn die Hilfe-Taste (Standard \&apos;H\&apos;) gedrückt wird.</Text>
+				</Paragraph>
+			
+				<Header>
+					<Text>Automatisierung</Text>
+				</Header>
+				<Paragraph>
+					<Text>Die manuelle Herstellung an der Produktionsanlage kostet keine Energie und ist nahezu verzögerungsfrei da Anzug und Bauwerkzeug mithelfen. Um Sachen dauernd herzustellen wärend du weg bist, kannst du die Produktionsanlage defür verwenden, was jedoch mit Energie und Zeit aufwand verbunden ist. Wähle den Gegenstand, gib die gweünschte Anzahl an oder wähle \&quot;Wiederholen\&quot; um unbegrenzt zu produzieren und drücke den Automatisieren Knopf. Die benötigen Materialien müssen in einem angrenzenden Container mit E/A- Berechtigungen zu \&quot;Hinzufügen/ Entfernen\&quot; oder \&quot;Nur Entfernen\&quot; (empfohlen), die hergestellten Gegenstände werden ebenfalls in einen Container welcher \&quot;Nur Hinzufügen\&quot; Berechtigungen aktiv hat.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Automation kann zu einem anderen Gegenstand gewechselt oder abgebrochen werden indem auf das Vorschrittssybol geklickt wird. In beide Fällen, die Produktion wird zuerst abgeschlossen.</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>Module</Text>
+				</Header>
+				<Paragraph>
+					<Text>Einige Blaupausen erfordern dass ein zusätzliches Modul an die Prodktionsanlage angebaut ist (Als Bspl. der Wasserstrahlschneider) Dies wird jedoch im dazugehörigen Handbuch eintrage erwähnt.</Text>
+				</Paragraph>
+					
+			</Paragraphs>
+		</Page>
+	
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,32 @@
+<MaterialEntry>
+	<Key>PipeCoater</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Установка Покрытия Труб</Text>
+				</Title>
+				<Icon>
+					<Name>Pipe Coater</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Передовые технологии нанесения покрытий позволяют объединить, Кристаллическую Сетку, стойкую к высоким температурам и давлениям, с Медной Трубой. Для этого используются Пластиковые Гранулы, обладающие феноменальной адгезией благодаря их уникальной молекулярной структуре. Для обеспечения качественного покрытия процессу требуется 300 ед. энергии, подаваемой с интенсивностью 50 Э/с.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Heat Conducting Pipe</Material>
+					</Target>
+					<Text>Heat Conducting Pipe</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Geothermal Generator comp.</Material>
+					</Target>
+					<Text>Geothermal Generator comp.</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

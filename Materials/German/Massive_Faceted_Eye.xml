@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>MassiveFacetedEye</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Massives facettiertes Auge</Text>
+				</Title>
+				<Icon>
+					<Name>WaspEyeMassive</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die Augen der lokalen fliegenden Lebensformen bilden eine hervorragende optische Komponente. Dieser stammt aus dem größten Exemplar und ist in einem guten Zustand, um verwendet zu werden.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

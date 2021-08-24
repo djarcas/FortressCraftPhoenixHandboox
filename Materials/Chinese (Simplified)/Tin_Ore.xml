@@ -1,0 +1,31 @@
+﻿<MaterialEntry>
+	<Key>TinOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>锌矿</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>可在地表附近发现，锌矿可以使用熔炼炉炼成锌锭。 锌锭通常用于各种需要轻量化的结构的基础机器。</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Paragraph>
+					<Text>锌矿应该使用矿石分离器来开采。</Text>
+				</Paragraph>
+        <Icon>
+          <Name>Ore Extractor</Name>
+          <Target>
+            <Material>OreExtractor</Material>
+          </Target>
+        </Icon>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

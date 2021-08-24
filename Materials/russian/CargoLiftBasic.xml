@@ -1,0 +1,53 @@
+<MaterialEntry>
+	<Key>CargoLiftBasic</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Базовый Грузовой Лифт</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Cargo Lift</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Самый маленький из имеющихся грузовых лифтов, это идеальный вариант для массовой поставки таких материалов, как железо и литий.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>&#34;Максимальное расстояние:
+  Максимальная скорость:
+  Ускорение:
+  Вместительность:
+  Потребляемая энергия (в движении):
+ &#34;</Left>
+					<Right>&#34;Неограниченно
+  5 м/с
+  0,5 м/с^2
+  300
+  35 Э/с
+ &#34;</Right>
+				</TwoColumnParagraph>
+
+				<Icon>
+					<Name>Cargo Lift Controller</Name>
+					<Target><Material>Cargo Lift Controller</Material>
+</Target>
+				</Icon>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Cargo Lift Controller</Material>
+					</Target>
+					<Text>CargoLift Controller</Text>
+				</Link>
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

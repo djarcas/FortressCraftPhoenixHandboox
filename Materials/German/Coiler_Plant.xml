@@ -1,0 +1,29 @@
+﻿<MaterialEntry>
+	<Key>CoilerPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Wickelmaschine</Text>
+				</Title>
+				<Icon>
+					<Name>Coiler Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die Wickelmaschine ist ein normales Förderband das mit einem Aufbau zum wickeln von Spulen versehen wurde.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Verwendung</Text>
+				</Header>
+				<Paragraph>
+					<Text>Nutze ein Förderband um Drähte einzuspeisen, oder gleich einen Extruder. Die Wickelmaschine macht daraus Spulen die in der weiteren Produktion benötigt werden.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Die Wickelmaschine ist für die Automatisierung unserer Forschung unerlässlich.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,22 @@
+﻿<Chapter>
+	<Handle>T4_Particles</Handle>
+	<Title>Hiukkassuodatus</Title>
+	<Icon>Particulate Filtration</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hiukkassuodatus</Text>
+				</Title>
+				<Icon>
+					<Name>Particulate Filtration</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					<Text>Tutkimalla puvun suodatinjärjestelmiä pystymme nyt suodattamaan erilaisia aineita ilmasta. Rakentamalla näitä järjestemiä erilaisiin luoliin pitäisi olla mahdollistaa ottaa, tiivistää ja pullottaa erilaisia ilmasta löytyviä aineita. Luolien keskiimääräisen koon ja hiukkasten tiheyden takia tällä ei pitäisi olla huomattavia pitkän aikavälin vaikutuksia ilmanlaatuun. Nämä järjestelmät voivat vähentää paikallisen eliöstön vihamielisyyttä. Tämän vaikutuksen pitäisi olla pieni koska ei ole tunnettuja pääosin vihamielisiä eliöitä. Kylmäluolasta saa freezonia, myrkkyluolista klooria ja magmaluolista rikkiä.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

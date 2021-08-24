@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>CopperWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kupferdraht</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Wiring</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein einfacher Kupferdraht für elektrische Komponenten. Wird im Extruder hergestellt.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

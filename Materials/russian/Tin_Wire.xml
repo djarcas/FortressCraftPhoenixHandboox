@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>TinWire</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Оловянный Провод</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Wire</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Простой оловянный провод, изготовляемый из оловянных слитков в Экструдере.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

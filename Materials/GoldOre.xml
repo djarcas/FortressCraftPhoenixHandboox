@@ -1,0 +1,44 @@
+<MaterialEntry>
+	<Key>GoldOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Gold Ore</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Gold Ore will most likely be found below the Cold Caverns, Veins are found deeper too. Statistics show, with greater depth the richness will rise. It can be Dug-up with a Build Gun MK1, Ore Extractors and by Trencher-Extractors.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>The first Stages of Ore smelting can be done with Standard Ore Smelters. Later, when Throughput is valued over Efficiency, a Blast Furnace Setup is strongly recommended.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Short Facts</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Occurrence:
+					Ping Color:
+					1st Stage of Extraction:
+					2nd Stage of Extraction:
+					3rd Stage of Extraction:
+					
+					1st Stage of Smelting:
+					2nd Stage of Smelting:</Left>
+					<Right>-300 to -1500m
+					Bright Yellow, Wireframe
+					Build Gun MK1
+					Ore Extractor
+					Trencher Extractor MK1-MK3
+					
+					Ore Smelter
+					Blast Furnace Setup</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

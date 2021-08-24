@@ -1,0 +1,35 @@
+﻿<MaterialEntry>
+	<Key>BuildGunV3</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fusil de Construction V3</Text>
+				</Title>
+				<Icon>
+					<Name>Build Gun V3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Le Fusil de Construction V3 est une amélioration avancée fusil de construction amélioré. Cette amélioration fournit le refroidissement suffisant pour permettre l\&apos;activation continue de la fonction grappin. En plus de l\&apos;amélioration du refroidissement, le Fusil de Construction V3 permet la destruction de matériaux très résistants et la désactivation de machines encore plus avancées. Une seule de ces améliorations est nécessaire pour améliorer les fonctionnalités de l\&apos;outil, des améliorations supplémentaires de Fusil de Construction V3 ont montré n\&apos;apporter aucun bénéfice sans pertes extrêmes.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V1</Material>
+					</Target>
+					<Text>Build Gun V1</Text>
+				</Link>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V2</Material>
+					</Target>
+					<Text>Build Gun V2</Text>
+				</Link>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

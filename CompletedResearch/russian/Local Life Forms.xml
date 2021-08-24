@@ -1,0 +1,27 @@
+﻿<Chapter>
+	<Handle>Local Life Forms</Handle>
+	<Title>Местные формы жизни</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Местные формы жизни</Text>
+				</Title>
+				<Icon>
+					<Name>Local Life Forms</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Похоже, что на этой планете есть разнообразная растительная и животная жизнь, и она не вся дружественна.</Text>
+  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Сканеры обнаружили ряд летающих форм жизни, представляющих потенциальную опасность. Для их отслеживания создан Сканер Угроз. Надо рассмотреть возможность создания первоначальной защиты. И что вызывает большие опасения - под землей обнаружен ряд крупных органических структур, которые могут помешать нашим усилиям обеспечить надежную поставку ресурсов.</Text>
+  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,25 @@
+﻿<MaterialEntry>
+	<Key>TitaniumBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Titaaniharkko</Text>
+				</Title>
+				<Icon>
+					<Name>Titanium Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Titanium Ore</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Titaaniharkkoja käytetään yleensä kehittyneissä koneissa jotka vaativat vahvaaa kevyttä rakennetta. Niitä tehdään titaanimalmista jota voi löytää 350m pinnan alta.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

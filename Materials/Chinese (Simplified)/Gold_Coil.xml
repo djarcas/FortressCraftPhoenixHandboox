@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>GoldCoil</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>金线圈</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>一个简单的金线圈，由金线在绕线机制造。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

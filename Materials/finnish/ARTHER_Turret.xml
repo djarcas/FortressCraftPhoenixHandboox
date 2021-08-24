@@ -1,0 +1,42 @@
+﻿<MaterialEntry>
+	<Key>ARTHERTurret</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>AVUTIN-tykkitorni</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Pitkään kantaman tehokas tykkitorni, sillä huonolla puolella että AVUTIN:n pitää käyttää sitä. Käyttääksesi korosta tykkitorni ja paina vuorovaikutusnappia (oletuksena \&apos;E\&apos;) telakoidaksesi AVUTIN:n tykkitorniin.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Tykkitornia voi virroittaa joko ulkoisesti tai AVUTIN:n virtavarannoista. Jos tykkitornia virroitetaan ulkoisesti AVUTIN vastaanottaa virtaa pysyäkseen siellä loputtomiin. Jos AVUTIN:lta loppuu virta hän irrottautuu ja palaa käyttäjän luokse.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Kantama:
+ Vahinko (laukausta kohden):
+ Virtavaatimukset (laukausta kohden):
+ Maksimivirtakapasiteetti:
+ Latausaika:
+ Miehistö:</Left>
+					<Right>64 metriä
+					33
+					5
+					150
+					10 sekunttia
+					1 (AVUTIN)</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

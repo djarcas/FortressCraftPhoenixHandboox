@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Rock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kivi</Text>
+				</Title>
+				<Icon>
+					<Name>Rock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kivityyppi jota yleensä löytyy korkeiden huippujen ylätasanteilta. Voidaan murskata murskaimessa hyödyllisen malmin löytämiseksi.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+﻿<MaterialEntry>
+	<Key>Truss</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fachwerk</Text>
+				</Title>
+				<Icon>
+					<Name>Truss</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ein grundlegendes Konstruktionsmaterial, das überall bearbeitet werden kann, ohne die Dienstleistungen der Produktionsanlage in Anspruch nehmen zu müssen. Öffnen Sie die Self-Crafting-Schnittstelle (Standard \&quot;C\&quot;), um diese herzustellen.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

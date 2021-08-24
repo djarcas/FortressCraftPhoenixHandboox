@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>ServoMotor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>伺服电机</Text>
+				</Title>
+				<Icon>
+					<Name>Servo Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>精确而快速的电机。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

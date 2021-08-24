@@ -1,0 +1,24 @@
+<MaterialEntry>
+	<Key>ElectricLight</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Electric Light</Text>
+				</Title>
+				<Icon>
+					<Name>Electric Light</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Electric Light must be connected to power to operate and provides a cool blue light across a far wider area than a standard Torch. These are expressely designed to light up cavernous areas. You can use the Paintgun (B) to tint or darken the lights as necessary.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Three styles of projection are available: Spotlight, Pointlight and Shadowed Pointlight. Do not enable Shadows unless you're on a powerful computer.</Text>
+				</Paragraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

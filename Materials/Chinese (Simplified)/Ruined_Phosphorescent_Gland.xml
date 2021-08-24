@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>RuinedPhosphorescentGland</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>破碎的磷脂腺</Text>
+				</Title>
+				<Icon>
+					<Name>WaspGlandRuined</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>这些来自当地飞行生物的腺体似乎具有适合储存能量的特性。 这个太糟糕了，没有任何用处。</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Key>SpiderBotParticleRifle</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>SpiderBot-hiukkaskivääri</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot Defences 1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tämä pari olkaliitettyjä hiukkaskiväärejä pystyy tuottamaa raskasta vahinoa suurimpiin kohteisiin. Ne tähtäävät itsenäisesti ja älykkästi ohittavat pienet kohteet keskittyen pomo-luokan kohteisiin.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Vain yksi tarvitaan - ne tulevat kokonaisuutena!</Text>
+				</Header>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SpiderBot Base Component</Material>
+					</Target>
+					<Text>More information regarding SpiderBot!</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

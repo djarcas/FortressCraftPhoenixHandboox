@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>SpaceWarzSiding2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Reinforced Plated Room Floor</Text>
+				</Title>
+				<Icon>
+					<Name>Space Warz Siding2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Paintable, reinforced flooring, specifically designed for Rooms.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

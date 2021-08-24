@@ -1,0 +1,42 @@
+﻿<MaterialEntry>
+	<Key>BasicQuarry</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>基础采石场</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Quarry</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>采石场挖掘下方的泥土，返回找到的所有资源。 必须建在海拔-25米以上。 资源将被放置在附加的存储漏斗中。</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>产品规格</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>采石场尺寸：
+  采石场深度：
+  需要能量：
+  电池容量：
+  最大充电率：
+  最大挖掘硬度：
+  最大挖掘速度：
+  矿石提取效率：</Left>
+					<Right>&quot;9m x 9m
+ 3950
+ 150 /1m 方块
+ 4096
+ 1024 /s
+ 250
+ 5  m/s
+ 10%&quot;</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

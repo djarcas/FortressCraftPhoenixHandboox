@@ -1,0 +1,25 @@
+﻿<MaterialEntry>
+	<Key>TinBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>锌锭</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Tin Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>锡锭通常用于需要轻型结构的基本机器中。 它们由锡矿制成，可在地表附近找到。</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

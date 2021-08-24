@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>suit upgrades</Handle>
+	<Title>Aggiornamento della tuta</Title>
+	<Icon>Suit Upgrading</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Aggiornamento della tuta</Text>
+				</Title>
+				<Icon>
+					<Name>SuitUpgrades</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>La tua tuta ambientale è il sistema di ingegneria dell\&apos;esplorazione più avanzato noto all\&apos;uomo. Sfortunatamente la sua utilità dipende da un sistema di aggiornamenti modulari che attualmente sono oltre le nostre capacità. E\&apos; tempo di capire come possiamo creare i nostri aggiornamenti personalizzati ora che siamo lontani dalle fabbrice di casa. Potrebbe farti comodo un pò di aiuto in questo ambiente ostile.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

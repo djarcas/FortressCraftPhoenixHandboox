@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>CryoMine</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>CryoMine</Text>
+				</Title>
+				<Icon>
+					<Name>CryoMine</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Explodes with noxious gas when touched by CryoPlasm.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

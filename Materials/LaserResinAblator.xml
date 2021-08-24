@@ -1,0 +1,72 @@
+<MaterialEntry>
+	<Key>LaserResinAblator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Laser Resin Ablator</Text>
+				</Title>
+				<Icon>
+					<Name>Laser Resin Ablator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+				<Paragraph>
+					<Text>This is the first part in a 3-step method to utilise and clear the Hardened Resin that the Hiveminds excrete around them.
+
+					The Ablator uses focussed laser energy to heat up and strip the hard surface from the resin. 
+
+					Once done, a Liquifier can be used to boil and extract the inside. 
+
+					You can then use a Liquid Resin Refiner to convert this to Refined Liquid Resin.
+					
+					The rate at which it uses power and Ablates is sped up substantially when properly cooled with Freezon.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Ablation.(n) The loss of surface material caused by heat.</Text>
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<Material>Laser Resin Liquifier</Material>
+					</Target>
+					<Text>Laser Resin Liquifier</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Liquid Resin Refiner</Material>
+					</Target>
+					<Text>Liquid Resin Refiner</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>Refined Liquid Resin</Material>
+					</Target>
+					<Text>Refined Liquid Resin</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Range:
+					Ablation Time(Rapid):
+					Ablation Time:
+					Power Required:
+					Power Capacity:
+					Max. Power Recharge Rate:</Left>
+					<Right> 16 blocks
+					2.5 seconds
+					5 seconds
+					250 per second
+					10000
+					Unlimited</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>	
+	</Pages>
+</MaterialEntry>

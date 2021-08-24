@@ -1,0 +1,26 @@
+﻿<MaterialEntry>
+	<Key>PurpleGlowPod</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Purppura hohtopalko</Text>
+				</Title>
+				<Icon>
+					<Name>Purple GlowPod</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tämä paikallinen laji hohtaa tasaista purppuraa sen pinnan alla tapahtuvan kemikaalireaktion ansiosta.</Text>
+				</Paragraph>
+		
+				<Spacer/>
+				<Paragraph>
+					<Text>Tämä kasvi voidaan polttaa virrantuotannossa.</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

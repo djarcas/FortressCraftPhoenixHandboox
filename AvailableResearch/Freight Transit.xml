@@ -1,0 +1,21 @@
+﻿<Chapter>
+	<Handle>minecarts0</Handle>
+	<Title>Freight Transit</Title>
+	<Icon>Minecart</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Freight Transit</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>We'll need a way to distribute components to additional manufacturing lines.  With a simplistic AI it would be possible to construct a simple cart system to move goods autonomously to where they are needed.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

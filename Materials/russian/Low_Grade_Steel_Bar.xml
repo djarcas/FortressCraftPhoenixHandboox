@@ -1,0 +1,20 @@
+﻿<MaterialEntry>
+	<Key>LowGradeSteelBar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Слиток Стали Низкого Качества</Text>
+				</Title>
+				<Icon>
+					<Name>Steel Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Слиток Стали Низкого Качества изготавливается из комбинации Железа и Никеля на Заводе. Он является необходимым компонентом для создания высокотехнологичных изделий.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

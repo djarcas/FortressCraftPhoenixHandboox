@@ -1,0 +1,33 @@
+﻿<MaterialEntry>
+	<Key>MassStorageOutputPortMK2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Massenspeicherausgang</Text>
+				</Title>
+				<Icon>
+					<Name>Mass Storage Output Port</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Platziere diesen Block neben einem Hochregallager um Gegenstände daraus aus eine Förderband zu entladen. Es muss festgelgt werden welcher spezifische Gegenstand entnommen werden soll. Ist er verfügbar im Lager wird der Roboter sie holen und auf dem eingebauten Förderband ablegen.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Tipps und Tricks!</Text>
+				</Header>
+				<Paragraph><Text>Achte auf die Ausrichtung des Blocks, wie normale Förderbänder wird der Gegenstand in eine bestimmte Richtung abgegeben.</Text>
+</Paragraph>
+				<Paragraph><Text>Um ein Gegenstand zu bestimmen, wähle ihn in der Schnellzugriffsleiste aus, schau auf den Hochregallagerausgang und drücke [E].</Text>
+</Paragraph>
+				<Header>
+					<Text>Vorsicht!</Text>
+				</Header>
+				<Paragraph><Text>Hat nichts mit der Lagerkiste gemeinsam!</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

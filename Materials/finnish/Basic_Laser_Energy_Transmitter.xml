@@ -1,0 +1,44 @@
+﻿<MaterialEntry>
+	<Key>BasicLaserEnergyTransmitter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Peruslaaserenergialähetin</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Laser Energy Transmitter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Halvimpana ja yksinkertaisempana laitteena tämä lähetin ei sovellu mihinkään tehtävään ja sitä pitäisi käyttää vain kun ei ole muuta vaihtoehtoa.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Peruslaaserenergialähetin voi lähettää tarpeeksi energiaa pyörittääkseen kahta päivittämätöntä malmilouhijaa. Sen erityisen vaatimattoman lähetysnopeuden takia kehittyneempään lähettimeen päivittämistä suositellaan heti kun sellainen on kehitetty.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Avataksesi LEL:n ohjainpaneelin paina \&apos;vuorovaikuta\&apos; nappia (oletus \&apos;E\&apos;). Tämä mahdollistaa linssin päivityksen mikä nostaa siirtonopeutta. Siirtomuotoa voi myös vaihtaa sellaiseksi jossa akun odotetaan täyttyvän ennen energian lähettämistä. LEL:illä on pieni sisäinenvaranto, harkitse niiden tukemista virtavarastolohkoilla varmistaaksesi luetettavan virtajakelun kysynnän ja tarjonnan vaihdellessa.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Voimapaketin koko:
+					Maksimi pakettitahti:
+					Maksimi voimansiirtotahti:
+					Voimakapasiteetti:
+					Maksimikantama:</Left>
+					<Right>0.9
+					1 sekunnissa
+					0.9 sekunnissa
+					18
+					32m</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

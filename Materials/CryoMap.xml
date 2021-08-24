@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>CryoMapPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>CryoMap</Text>
+				</Title>
+				<Icon>
+					<Name>Basic CryoPlasm Defence</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Provides a useful real-time map for analysing and planning our defence. Build in a 3x3 layout.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

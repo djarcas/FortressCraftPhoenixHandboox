@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>Plating</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Reinforced Plating</Text>
+				</Title>
+				<Icon>
+					<Name>Plating</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Paintable, reinforced wall, specifically designed for Rooms.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,34 @@
+<MaterialEntry>
+	<Key>CoalOre</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Coal</Text>
+				</Title>
+				<Icon>
+					<Name>Coal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>An energy dense material which can be burnt in the Central Power Hub and Pyrothermic Generator.</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Header><Text>Short Facts</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Occurrence:
+					Ping Color:
+					1st Stage of Extraction:
+					2nd Stage of Extraction:</Left>
+					<Right>65 to -250m
+					Pink-Purple
+					Build Gun MK1
+					Ore Extractor</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

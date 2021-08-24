@@ -1,0 +1,52 @@
+﻿<MaterialEntry>
+	<Key>Teleporter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Телепорт</Text>
+				</Title>
+				<Icon>
+					<Name>Teleporter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Телепорт мгновенно телепортирует пользователя в предварительно заданное место. Для использования подведите энергию, встаньте на него и нажмите «Прыжок» (по умолчанию - «Пробел»). Количество затраченной энергии зависит от дальности телепортации.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Координатные Метки</Text>
+</Header>
+				<Icon>
+					<Name>Location Marker</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+	
+				<Paragraph>
+					<Text>Телепорту нужна Координатная Метка для указания места назначения. Вставьте метку в телепорт в меню взаимодействия (клавиша «E»). Для более подробной информации по Меткам проследуйте по следующей ссылке.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Location Marker</Material>
+					</Target>
+					<Text>Location Marker</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Характеристики</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Дальность телепортации:
+Требуемая энергия:
+Энергоёмкость:
+Скорость перезарядки:</Left>
+					<Right>Неограниченно
+40 Э/м
+Удвоенная требуемая Эн-я
+Мгновенно</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

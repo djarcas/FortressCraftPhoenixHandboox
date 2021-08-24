@@ -1,0 +1,29 @@
+<MaterialEntry>
+	<Key>CoilerPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Coiler Plant</Text>
+				</Title>
+				<Icon>
+					<Name>Coiler Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Coiler is a regular Conveyor fitted with a machine for winding extruded wires into coils, and behaves like a Conveyor in all circumstances.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Usage</Text>
+				</Header>
+				<Paragraph>
+					<Text>Feed metal wires into the Coiler plant, ideally directly from an Extrusion Plant. The Coiler will convert the wires into Coils which can be used in additional recipes.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>The Coiler Plant is essential for the automation of Laboratory Research.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

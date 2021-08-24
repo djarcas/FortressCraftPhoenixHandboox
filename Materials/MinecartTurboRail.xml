@@ -1,0 +1,19 @@
+﻿<MaterialEntry>
+	<Key>MinecartTurboRail</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Minecart Turbo Rail</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart Turbo Rail</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Temporarily speeds up Minecarts when they move through.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
